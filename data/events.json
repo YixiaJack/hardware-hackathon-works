@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T13:48:09+00:00",
+ "generated": "2026-11-19T18:32:05+00:00",
  "series": [
   {
    "id": "hackaday-prize",
@@ -12,7 +12,7 @@
    "url": "https://hackaday.io/prize",
    "blurb_zh": "全球开源硬件『奥斯卡』，校准『解决真实问题 + 可复现』",
    "blurb_en": "The open-hardware 'Oscars' — real problems, reproducible builds.",
-   "projects": 627,
+   "projects": 639,
    "winners": 0,
    "editions": [
     {
@@ -22,7 +22,7 @@
      "year": 2026,
      "url": "https://hackaday.io/submissions/retro-computing-contest/list",
      "state": "ended",
-     "projects": 58,
+     "projects": 55,
      "winners": 0
     },
     {
@@ -42,7 +42,7 @@
      "year": 2026,
      "url": "https://hackaday.io/submissions/green-powered-challenge/list",
      "state": "ended",
-     "projects": 21,
+     "projects": 22,
      "winners": 0
     },
     {
@@ -52,7 +52,7 @@
      "year": 2025,
      "url": "https://hackaday.io/submissions/component-abuse-challenge/list",
      "state": "ended",
-     "projects": 33,
+     "projects": 32,
      "winners": 0
     },
     {
@@ -62,7 +62,7 @@
      "year": 2025,
      "url": "https://hackaday.io/submissions/one-hertz-challenge/list",
      "state": "ended",
-     "projects": 33,
+     "projects": 34,
      "winners": 0
     },
     {
@@ -72,7 +72,7 @@
      "year": 2024,
      "url": "https://hackaday.io/submissions/supercon-8-sao-contest/list",
      "state": "ended",
-     "projects": 40,
+     "projects": 39,
      "winners": 0
     },
     {
@@ -82,7 +82,7 @@
      "year": 2024,
      "url": "https://hackaday.io/submissions/2024-sweet-home-automation/list",
      "state": "ended",
-     "projects": 37,
+     "projects": 34,
      "winners": 0
     },
     {
@@ -92,7 +92,7 @@
      "year": 2024,
      "url": "https://hackaday.io/submissions/tiny-games-challenge/list",
      "state": "ended",
-     "projects": 29,
+     "projects": 28,
      "winners": 0
     },
     {
@@ -102,7 +102,7 @@
      "year": 2024,
      "url": "https://hackaday.io/submissions/2024-business-card-contest/list",
      "state": "ended",
-     "projects": 50,
+     "projects": 48,
      "winners": 0
     },
     {
@@ -112,7 +112,7 @@
      "year": 2023,
      "url": "https://hackaday.io/submissions/prize2023/list",
      "state": "ended",
-     "projects": 107,
+     "projects": 110,
      "winners": 0
     },
     {
@@ -132,7 +132,7 @@
      "year": 2022,
      "url": "https://hackaday.io/submissions/prize2022/list",
      "state": "ended",
-     "projects": 64,
+     "projects": 94,
      "winners": 0
     },
     {
@@ -142,7 +142,7 @@
      "year": 2021,
      "url": "https://hackaday.io/submissions/prize2021/list",
      "state": "ended",
-     "projects": 110,
+     "projects": 98,
      "winners": 0
     }
    ]
@@ -158,7 +158,7 @@
    "url": "https://makeuoft.ca/",
    "blurb_zh": "加拿大最大的硬件 makeathon，24h 现货元件 + 3D 打印冲刺",
    "blurb_en": "Canada's largest makeathon — 24h of parts-bin prototyping.",
-   "projects": 525,
+   "projects": 521,
    "winners": 81,
    "editions": [
     {
@@ -2412,8 +2412,8 @@
    "url": "https://www.hackprinceton.com/",
    "blurb_zh": "普林斯顿黑客松（仅收录硬件作品）",
    "blurb_en": "Princeton's hackathon (hardware entries only).",
-   "projects": 63,
-   "winners": 21,
+   "projects": 64,
+   "winners": 22,
    "editions": [
     {
      "id": "hackprinceton-2026",
@@ -2428,8 +2428,8 @@
      "winners_announced": true,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/789/397/datas/medium_square.png",
      "devpost_id": 31990,
-     "projects": 16,
-     "winners": 3
+     "projects": 17,
+     "winners": 4
     },
     {
      "id": "hackprinceton-2026-29615",
@@ -5175,7 +5175,7 @@
      "url": "https://hack-western-13.devpost.com/",
      "gallery_url": "https://hack-western-13.devpost.com/project-gallery",
      "dates": "Nov 20 - 22, 2026",
-     "registrations": 81,
+     "registrations": 84,
      "state": "upcoming",
      "winners_announced": false,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/421/169/datas/medium_square.png",

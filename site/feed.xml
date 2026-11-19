@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Hardware Hackathon Works · 硬件黑客松作品雷达</title>
 <link href="https://hardware-hackathon-works.vercel.app/"/>
-<updated>2026-11-19T13:48:10+00:00</updated>
+<updated>2026-11-19T18:32:05+00:00</updated>
 <id>https://hardware-hackathon-works.vercel.app/</id>
 <entry>
 <title>Unsynthesizer · MakeMIT 2020</title>
@@ -75,6 +75,13 @@
 <summary>Lost? Panicking? Heart racing?Twin’s got your back—and your head. Built into a hard hat, Twin sees what you see, detects what you don’t, and guides you through it all. · 🏆 1st Place: Meta Glasses</summary>
 </entry>
 <entry>
+<title>Fear No Age · MakeUofT 2023</title>
+<link href="https://devpost.com/software/fear-no-age"/>
+<id>devpost:fear-no-age</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>A new wearable health device has been developed to provide a more user-friendly option for those living with Alzheimer&#x27;s. Main Functions Rreal-time heart rate ECG detection · 🏆 1st Place Overall</summary>
+</entry>
+<entry>
 <title>MoonLine by TachyAstroach · Robotech 2026</title>
 <link href="https://devpost.com/software/moonline"/>
 <id>devpost:moonline</id>
@@ -110,6 +117,13 @@
 <summary>Save the 5 minute pause at the trash cans trying to figure out if you&#x27;re cup is recyclable! The Quicker Picker Upper will save the day · 🏆 2nd Place Overall</summary>
 </entry>
 <entry>
+<title>Autonomous Ping-Pong Ball Recovery Robot · MakeMIT 2023</title>
+<link href="https://devpost.com/software/autonomous-ping-pong-ball-recovery-robot"/>
+<id>devpost:autonomous-ping-pong-ball-recovery-robot</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Face it! We all hate chasing after ping pong balls. Our solution uses an autonomous robot that druses computer vision to find and collect fallen balls and vacuum launches the balls right back at you. · 🏆 1st Place General Category, Best use of software in hardware-based project</summary>
+</entry>
+<entry>
 <title>Alfred Robot Butler · Robotic Agents Hackathon</title>
 <link href="https://devpost.com/software/alfred-robot-butler"/>
 <id>devpost:alfred-robot-butler</id>
@@ -136,6 +150,13 @@
 <id>devpost:healthbox</id>
 <updated>2026-11-19T00:00:00Z</updated>
 <summary>Healthbox helps users take medication on time with ongoing reminders, camera-assisted recipient and pill checks, dose tracking, and AI guidance to support accountability. · 🏆 Hacker&#x27;s Choice Winning Team</summary>
+</entry>
+<entry>
+<title>ShakeSafe · MakeUofT 2023</title>
+<link href="https://devpost.com/software/i-can-t-breathe"/>
+<id>devpost:i-can-t-breathe</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Our app aids disaster survivors by sending a distress signal with location &amp; photo, chatbot updates on rescue efforts &amp; triggering actuators on an Arduino, which helps rescuers find survivors. · 🏆 Health</summary>
 </entry>
 <entry>
 <title>TrusToken &amp; Autonomous Vehicle (Seperate) · UTRA Hacks 2026</title>
@@ -171,6 +192,13 @@
 <id>devpost:forget-me-not-674kto</id>
 <updated>2026-11-19T00:00:00Z</updated>
 <summary>Keeping Watch. · 🏆 Open Challenge</summary>
+</entry>
+<entry>
+<title>HappyPlant · UTRA Hacks</title>
+<link href="https://devpost.com/software/happyplant"/>
+<id>devpost:happyplant</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>HappyPlant monitors your plant&#x27;s soil moisture and light exposure; using an AI model to make decisions on whether to water them automatically, or advise you to provide them with better conditions. · 🏆 Best .Tech Domain Name</summary>
 </entry>
 <entry>
 <title>Human Operator · HARD MODE: Hardware x AI Hackathon</title>
@@ -299,6 +327,13 @@
 <summary>The only smart home device you will ever need. · 🏆 1st Open Prototype</summary>
 </entry>
 <entry>
+<title>Ecobins · MakeMIT 2023</title>
+<link href="https://devpost.com/software/ecobins"/>
+<id>devpost:ecobins</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Enabling a sustainable future by harnessing deep learning for waste classification and allowing users to sort through recyclables using a smart trash-can. · 🏆 In-Person Division: 2nd Place General Category, 1517 Medici Grants</summary>
+</entry>
+<entry>
 <title>Hear-O Squad · MakeUofT 2025</title>
 <link href="https://devpost.com/software/hear-o-squad"/>
 <id>devpost:hear-o-squad</id>
@@ -318,6 +353,13 @@
 <id>devpost:robot-as-a-verifier</id>
 <updated>2026-11-19T00:00:00Z</updated>
 <summary>Verification is an integral part of autonomous research—we adapt a robotic arm to vet and qualify hardware design and downstream use. · 🏆 Creativity Track Winning Team</summary>
+</entry>
+<entry>
+<title>Strum it Up · MakeUofT 2023</title>
+<link href="https://devpost.com/software/strum-it-up"/>
+<id>devpost:strum-it-up</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Unleash your inner rockstar with effortless automated guitar playing. · 🏆 2nd Place Overall</summary>
 </entry>
 <entry>
 <title>TofuPresto · MakeMIT 2019</title>
@@ -346,6 +388,13 @@
 <id>devpost:productivity-tracker-1nvc36</id>
 <updated>2026-11-19T00:00:00Z</updated>
 <summary>Track your productivity, and receive feedback on how to optimize your daily routine. · 🏆 2nd Place</summary>
+</entry>
+<entry>
+<title>Tune Turn · MakeUofT 2023</title>
+<link href="https://devpost.com/software/makeuoft"/>
+<id>devpost:makeuoft</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Play your music carefree as we help you turn your music sheets · 🏆 Music</summary>
 </entry>
 <entry>
 <title>Wearable CPR Guide (No One Bites The Dust) · MakeUofT 2026</title>
@@ -446,6 +495,13 @@
 <summary>Relief for your family, make sure get there in time. A lagless response, immediate action, fall detection, for rapid extraction. Get yourself a LIFE-line. · 🏆 $500 cash divided amongst team from Patient Safety</summary>
 </entry>
 <entry>
+<title>P.A.B.L.O (pong assistant beats losers only) · MakeUofT 2023</title>
+<link href="https://devpost.com/software/p-a-b-l-o-pong-assistant-beats-losers-only"/>
+<id>devpost:p-a-b-l-o-pong-assistant-beats-losers-only</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Hand me another!!!! Ever wanted a machine to throw you ping pong balls when playing beer pong? No? well we made one! Got balls?? · 🏆 3rd Place Overall</summary>
+</entry>
+<entry>
 <title>PillBoy · MakeMIT 2019</title>
 <link href="https://devpost.com/software/pillboy"/>
 <id>devpost:pillboy</id>
@@ -507,61 +563,5 @@
 <id>devpost:wannabe-wall-e</id>
 <updated>2026-11-19T00:00:00Z</updated>
 <summary>Arduino-powered robot with various sensors that can play capture the flag and solve mazes · 🏆 Closed Challenge</summary>
-</entry>
-<entry>
-<title>Braille-iant · TAMUmake 2020</title>
-<link href="https://devpost.com/software/braille-iant-o1gcya"/>
-<id>devpost:braille-iant-o1gcya</id>
-<updated>2026-11-19T00:00:00Z</updated>
-<summary>Let&#x27;s make something Braille-iant. · 🏆 1st Place Winner, Accessibility Challenge</summary>
-</entry>
-<entry>
-<title>DeepTrash · MakeHarvard 2019</title>
-<link href="https://devpost.com/software/deeptrash"/>
-<id>devpost:deeptrash</id>
-<updated>2026-11-19T00:00:00Z</updated>
-<summary>Reinventing the trash can. We use machine learning to filter out disposed items automatically into the proper bins! · 🏆 Best Overall (1st, 2nd, 3rd prizes)</summary>
-</entry>
-<entry>
-<title>DumbleDoor · MakeHarvard 2018</title>
-<link href="https://devpost.com/software/dumbledoor"/>
-<id>devpost:dumbledoor</id>
-<updated>2026-11-19T00:00:00Z</updated>
-<summary>A magical door that opens with facial recognition with a 2 way confirmation. · 🏆 Best Overall</summary>
-</entry>
-<entry>
-<title>JamDeck · MakeUofT 2026</title>
-<link href="https://devpost.com/software/jamdeck"/>
-<id>devpost:jamdeck</id>
-<updated>2026-11-19T00:00:00Z</updated>
-<summary>Turn motion into music with a real-time, sensor-driven jam controller · 🏆 (Audio Theme) JBL Go4</summary>
-</entry>
-<entry>
-<title>Napkn · IDEA Hacks 2020</title>
-<link href="https://devpost.com/software/napkn-kavgmw"/>
-<id>devpost:napkn-kavgmw</id>
-<updated>2026-11-19T00:00:00Z</updated>
-<summary>Easily reserve tables, analyze dining/study hall traffic, and optimize your eating and studying experience using this realtime database-enabled tabletop IoT device. · 🏆 IDEA Hacks 1st Place Grand Prize</summary>
-</entry>
-<entry>
-<title>PhysioT · MakeUofT 2020</title>
-<link href="https://devpost.com/software/physiot"/>
-<id>devpost:physiot</id>
-<updated>2026-11-19T00:00:00Z</updated>
-<summary>A device that replaces a physiotherapist for arm injuries · 🏆 1st Place Overall</summary>
-</entry>
-<entry>
-<title>SmartTrash · MakeCU</title>
-<link href="https://devpost.com/software/smarttrash-jo30fd"/>
-<id>devpost:smarttrash-jo30fd</id>
-<updated>2026-11-19T00:00:00Z</updated>
-<summary>We&#x27;re the next generation of cutting-edge trash cans. Introducing SmartTrash, the platform that helps you view analytics for your waste management system and efficiently sort recycle and waste. · 🏆 Best Pitch, Best use of Vultr [MLH]</summary>
-</entry>
-<entry>
-<title>Spicio · MakeMIT 2016</title>
-<link href="https://devpost.com/software/spicio"/>
-<id>devpost:spicio</id>
-<updated>2026-11-19T00:00:00Z</updated>
-<summary>A hands free kitchen assistant for the modern world. Spice it up. · 🏆 3rd Place</summary>
 </entry>
 </feed>
