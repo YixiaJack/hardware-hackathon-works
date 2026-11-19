@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Hardware Hackathon Works · 硬件黑客松作品雷达</title>
 <link href="https://hardware-hackathon-works.vercel.app/"/>
-<updated>2026-11-19T13:19:49+00:00</updated>
+<updated>2026-11-19T13:48:10+00:00</updated>
 <id>https://hardware-hackathon-works.vercel.app/</id>
 <entry>
 <title>Unsynthesizer · MakeMIT 2020</title>
@@ -52,6 +52,13 @@
 <id>devpost:braillebridge-41nacb</id>
 <updated>2026-11-19T00:00:00Z</updated>
 <summary>Words in, Braille out! · 🏆 N+1 Institute Prize Track - 1st place</summary>
+</entry>
+<entry>
+<title>flatline · HackUMass XIV</title>
+<link href="https://devpost.com/software/flatline-wryife"/>
+<id>devpost:flatline-wryife</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>play your heart out &amp;lt;3 · 🏆 [HACKUMASS] Grand Prize</summary>
 </entry>
 <entry>
 <title>LABKickstart · IDEA Hacks 2026</title>
@@ -187,6 +194,13 @@
 <summary>Educate the public with an accessible CPR trainer that eliminates the need for expensive facilities, using low-cost ESP32 hardware to provide real-time feedback and training to anyone, anywhere. · 🏆 2nd Place Prize</summary>
 </entry>
 <entry>
+<title>RobTop · HackUMass XIV</title>
+<link href="https://devpost.com/software/robtop"/>
+<id>devpost:robtop</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>A robot arm for your desk that takes on whatever you put in front of it: it draws, feeds you food, plays you at tic-tac-toe, and beats video game levels. · 🏆 [HACKUMASS] [HARDWARE] Best Mechanical Hack</summary>
+</entry>
+<entry>
 <title>Silent Night · MakeUofT 2024</title>
 <link href="https://devpost.com/software/pillowburgerking"/>
 <id>devpost:pillowburgerking</id>
@@ -262,6 +276,13 @@
 <id>devpost:sentez</id>
 <updated>2026-11-19T00:00:00Z</updated>
 <summary>Sentez! Let the wine do the talking… we handle the swirling Drop the glass, press Start: Sentez! tunes the swirl to the sweet spot where fluid mechanics boosts aroma + taste, ideal for wine amateurs · 🏆 Infosys Overall Grand Prize</summary>
+</entry>
+<entry>
+<title>Let&#x27;s Dig In · MadHacks 2026</title>
+<link href="https://devpost.com/software/let-s-dig-in"/>
+<id>devpost:let-s-dig-in</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Every Meal is a Checkup: a wrist sensor and camera that track tremors while you eat, running entirely on an Arduino. · 🏆 N+1 Institute Prize Track - 3rd place</summary>
 </entry>
 <entry>
 <title>Magnus Force Nerf Gun · MakeMIT 2019</title>
@@ -542,26 +563,5 @@
 <id>devpost:spicio</id>
 <updated>2026-11-19T00:00:00Z</updated>
 <summary>A hands free kitchen assistant for the modern world. Spice it up. · 🏆 3rd Place</summary>
-</entry>
-<entry>
-<title>SpreadRo · MakeMIT 2021</title>
-<link href="https://devpost.com/software/spreadro-6zds3h"/>
-<id>devpost:spreadro-6zds3h</id>
-<updated>2026-11-19T00:00:00Z</updated>
-<summary>SpreadRo:A Multipurpose Rover For The Future, It is basically a rover that can seed your grass autonomously during the summer and can spread ice melt on your driveway during winters. · 🏆 1st Place Sustainability Category, iRobot Best Home Robot Category</summary>
-</entry>
-<entry>
-<title>Vibrace · MakeHarvard 2019</title>
-<link href="https://devpost.com/software/ergonomic-arm-brace"/>
-<id>devpost:ergonomic-arm-brace</id>
-<updated>2026-11-19T00:00:00Z</updated>
-<summary>An astronomical solution to physical therapy. · 🏆 Best Overall (1st, 2nd, 3rd prizes)</summary>
-</entry>
-<entry>
-<title>Bicyclight · MakeMIT 2016</title>
-<link href="https://devpost.com/software/bicyclight"/>
-<id>devpost:bicyclight</id>
-<updated>2026-11-19T00:00:00Z</updated>
-<summary>A gesture-controlled bike light, making the roads safer for cyclists everywhere. · 🏆 2nd Place</summary>
 </entry>
 </feed>
