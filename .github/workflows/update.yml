@@ -1,0 +1,69 @@
+name: Update works
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"        # every 6 hours
+  workflow_dispatch:
+    inputs:
+      max_detail:
+        description: "New Devpost detail pages to fetch this run"
+        default: "400"
+  push:
+    branches: [main]
+    paths: ["config/**", "pipeline/**", "site/index.html", "site/app.js"]
+
+# The site is hosted on Vercel (Git integration): every data commit below triggers a redeploy.
+permissions:
+  contents: write
+
+concurrency:
+  group: update-works
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    env:
+      HAS_KEY: ${{ secrets.ANTHROPIC_API_KEY != '' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Per-project caches (Devpost detail pages, galleries, READMEs) make runs incremental.
+      - name: Restore scrape cache
+        uses: actions/cache@v4
+        with:
+          path: data/cache
+          key: scrape-cache-${{ github.run_id }}
+          restore-keys: scrape-cache-
+
+      - name: Install optional LLM enrichment
+        if: ${{ env.HAS_KEY == 'true' }}
+        run: pip install anthropic
+
+      - name: Collect, classify, render
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SITE_URL: ${{ vars.SITE_URL || format('https://{0}.vercel.app/', github.event.repository.name) }}
+          REPO_URL: ${{ github.server_url }}/${{ github.repository }}
+        run: |
+          ARGS="--max-detail ${{ github.event.inputs.max_detail || '400' }}"
+          if [ "${{ github.event_name }}" = "push" ]; then ARGS="--reclassify"; fi
+          if [ -n "$ANTHROPIC_API_KEY" ]; then ARGS="$ARGS --enrich --enrich-limit 120"; fi
+          python -m pipeline.run $ARGS
+          python scripts/validate.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/projects.json data/events.json site/data.json site/feed.xml README.md
+          if git diff --cached --quiet; then echo "no changes"; else
+            git commit -m "data: refresh $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi

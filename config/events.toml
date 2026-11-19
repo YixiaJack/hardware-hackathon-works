@@ -1,0 +1,645 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# 赛事系列 Competition series
+#
+# hardware_focus:
+#   "dedicated" → 纯硬件/造物赛事：全部作品收录
+#   "track"     → 综合黑客松（有硬件赛道）：只收录被判定为硬件的作品（见 taxonomy.toml [hardware]）
+# kind: makeathon | hackathon | xr-hack | online-contest | prize | build-fest
+#
+# Devpost 版本自动发现：devpost_search 搜索词 + devpost_title_regex 标题过滤
+#   → 新一届一上 Devpost 就会被下一次定时任务自动收录，无需改配置
+# ─────────────────────────────────────────────────────────────────────────────
+
+# 全 Devpost 硬件新作流：按时间倒序抓取（search.json 默认最新优先），
+# 只保留 获奖 或 点赞 ≥ min_likes 的作品，并经硬件判定过滤
+[devpost_stream]
+queries = ["arduino", "raspberry pi", "esp32", "robot", "wearable", "3d printing", "jetson", "microcontroller", "servo", "pcb"]
+pages = 6
+min_likes = 3
+
+# GitHub 额外检索式（系列专属检索式写在各 series 的 github_queries 里）
+[[github_extra_queries]]
+q = "topic:hardware-hackathon"
+
+[[github_extra_queries]]
+q = "makeathon in:name,description stars:>=1"
+
+
+# ───────────────────────────── 纯硬件 / 造物赛 ─────────────────────────────
+
+[[series]]
+id = "makemit"
+name = "MakeMIT"
+name_zh = "MakeMIT"
+org = "MIT"
+region = "North America"
+kind = "makeathon"
+hardware_focus = "dedicated"
+url = "https://makemit.org/"
+blurb_zh = "MIT 一年一度的纯硬件黑客松，『物理强制力 × 幽默感』的典范"
+blurb_en = "MIT's annual hardware-only hackathon — physical comedy meets real engineering."
+devpost_search = "makemit"
+devpost_title_regex = "makemit"
+github_queries = ["makemit in:name,description,topics"]
+
+[[series]]
+id = "makeharvard"
+name = "MakeHarvard"
+name_zh = "MakeHarvard"
+org = "Harvard"
+region = "North America"
+kind = "makeathon"
+hardware_focus = "dedicated"
+url = "https://makeharvard.io/"
+blurb_zh = "哈佛的硬件造物赛，重视产品叙事与 Best Pitch"
+blurb_en = "Harvard's makeathon with a strong product-pitch culture."
+devpost_search = "makeharvard"
+devpost_title_regex = "^Make ?Harvard"
+github_queries = ["makeharvard in:name,description,topics"]
+
+[[series]]
+id = "makeuoft"
+name = "MakeUofT"
+name_zh = "MakeUofT"
+org = "University of Toronto"
+region = "North America"
+kind = "makeathon"
+hardware_focus = "dedicated"
+url = "https://makeuoft.ca/"
+blurb_zh = "加拿大最大的硬件 makeathon，24h 现货元件 + 3D 打印冲刺"
+blurb_en = "Canada's largest makeathon — 24h of parts-bin prototyping."
+devpost_search = "makeuoft"
+devpost_title_regex = "^MakeUofT"
+github_queries = ["makeuoft in:name,description,topics"]
+
+[[series]]
+id = "build18"
+name = "Build18"
+name_zh = "Build18（CMU）"
+org = "Carnegie Mellon ECE"
+region = "North America"
+kind = "build-fest"
+hardware_focus = "dedicated"
+url = "https://www.build18.org/garage"
+blurb_zh = "CMU ECE 一周造物节，『认真地用工程能力做荒诞装置』"
+blurb_en = "CMU's week-long build festival — absurd ideas, serious engineering."
+github_queries = ["build18 in:name,description,topics"]
+
+[[series]]
+id = "reality-hack"
+name = "MIT Reality Hack"
+name_zh = "MIT Reality Hack"
+org = "MIT"
+region = "North America"
+kind = "xr-hack"
+hardware_focus = "track"
+url = "https://www.realityhackatmit.com/"
+blurb_zh = "XR / 穿戴硬件 / 空间交互的天花板（仅收录含硬件的作品）"
+blurb_en = "The flagship XR + spatial hardware hackathon (hardware entries only)."
+devpost_search = ["realityhack", "reality", "virtually"]
+devpost_title_regex = "(mit reality hack|^reality hack|reality virtually|^rh x snap)"
+github_queries = ["realityhack in:name,description,topics", "\"reality hack\" in:description"]
+
+[[series]]
+id = "hackaday-prize"
+name = "Hackaday Prize & Contests"
+name_zh = "Hackaday 大奖与主题赛"
+org = "Supplyframe / Hackaday"
+region = "Global"
+kind = "prize"
+hardware_focus = "dedicated"
+url = "https://hackaday.io/prize"
+blurb_zh = "全球开源硬件『奥斯卡』，校准『解决真实问题 + 可复现』"
+blurb_en = "The open-hardware 'Oscars' — real problems, reproducible builds."
+
+[[series]]
+id = "hackster"
+name = "Hackster Contests"
+name_zh = "Hackster 线上硬件挑战"
+org = "Hackster.io / Avnet"
+region = "Global"
+kind = "online-contest"
+hardware_focus = "dedicated"
+url = "https://www.hackster.io/contests"
+blurb_zh = "厂商赞助的长周期线上硬件赛，送板卡，作品文档详尽"
+blurb_en = "Vendor-sponsored online hardware challenges with free dev kits."
+
+[[series]]
+id = "oshwhub"
+name = "OSHWHub Contests"
+name_zh = "立创开源硬件赛"
+org = "立创开源硬件平台 / JLC"
+region = "China"
+kind = "online-contest"
+hardware_focus = "dedicated"
+url = "https://oshwhub.com/activities"
+blurb_zh = "国内最大开源硬件社区的主题赛，原理图/PCB/外壳全开源"
+blurb_en = "China's largest open-hardware community contests — full schematics & PCBs."
+
+[[series]]
+id = "adventurex"
+name = "AdventureX"
+name_zh = "AdventureX"
+org = "AdventureX"
+region = "China"
+kind = "hackathon"
+hardware_focus = "track"
+url = "https://www.adventure-x.cn/"
+blurb_zh = "杭州 72h 青年黑客松，国内自由创造者氛围标杆"
+blurb_en = "Hangzhou's 72-hour youth hackathon — China's indie-builder flagship."
+
+[[series]]
+id = "d-robotics"
+name = "D-Robotics Hackathon"
+name_zh = "地瓜机器人黑客松"
+org = "D-Robotics 地瓜机器人"
+region = "China"
+kind = "hackathon"
+hardware_focus = "dedicated"
+url = "https://hackathon.d-robotics.cc/"
+blurb_zh = "RDK 端侧算力 + 真机（机器狗/机械臂）的具身交互赛"
+blurb_en = "Embodied-AI hackathon on D-Robotics RDK boards with real robots."
+github_queries = ["d-robotics hackathon in:description", "rdk x5 hackathon in:description,readme"]
+
+# ───────────────────────────── 综合黑客松（硬件赛道） ─────────────────────────────
+
+[[series]]
+id = "treehacks"
+min_year = 2016
+name = "TreeHacks"
+name_zh = "TreeHacks（斯坦福）"
+org = "Stanford"
+region = "North America"
+kind = "hackathon"
+hardware_focus = "track"
+url = "https://www.treehacks.com/"
+blurb_zh = "斯坦福千人旗舰黑客松，硬件赛道含金量高"
+blurb_en = "Stanford's flagship hackathon with a strong hardware track."
+devpost_search = "treehacks"
+devpost_title_regex = "^TreeHacks"
+github_queries = ["treehacks hardware in:name,description,readme"]
+
+[[series]]
+id = "hackmit"
+min_year = 2016
+name = "HackMIT"
+name_zh = "HackMIT"
+org = "MIT"
+region = "North America"
+kind = "hackathon"
+hardware_focus = "track"
+url = "https://hackmit.org/"
+blurb_zh = "MIT 秋季综合黑客松（仅收录硬件作品）"
+blurb_en = "MIT's fall hackathon (hardware entries only)."
+devpost_search = "hackmit"
+devpost_title_regex = "^HackMIT"
+
+[[series]]
+id = "pennapps"
+min_year = 2016
+name = "PennApps"
+name_zh = "PennApps"
+org = "UPenn"
+region = "North America"
+kind = "hackathon"
+hardware_focus = "track"
+url = "https://pennapps.com/"
+blurb_zh = "最早的大学黑客松之一，硬件作品传统深厚"
+blurb_en = "One of the original college hackathons, rich hardware tradition."
+devpost_search = "pennapps"
+devpost_title_regex = "^PennApps"
+
+[[series]]
+id = "hackthenorth"
+min_year = 2016
+name = "Hack the North"
+name_zh = "Hack the North"
+org = "University of Waterloo"
+region = "North America"
+kind = "hackathon"
+hardware_focus = "track"
+url = "https://hackthenorth.com/"
+blurb_zh = "加拿大最大黑客松，硬件库极其丰富"
+blurb_en = "Canada's biggest hackathon with a huge hardware library."
+devpost_search = ["hackthenorth", "north"]
+devpost_title_regex = "^hack the north(?!east)"
+
+[[series]]
+id = "calhacks"
+min_year = 2016
+name = "Cal Hacks"
+name_zh = "Cal Hacks"
+org = "UC Berkeley"
+region = "North America"
+kind = "hackathon"
+hardware_focus = "track"
+url = "https://calhacks.io/"
+blurb_zh = "伯克利大型黑客松（仅收录硬件作品）"
+blurb_en = "Berkeley's large hackathon (hardware entries only)."
+devpost_search = ["calhacks", "cal"]
+devpost_title_regex = "^cal ?hacks"
+
+[[series]]
+id = "hackprinceton"
+min_year = 2016
+name = "HackPrinceton"
+name_zh = "HackPrinceton"
+org = "Princeton"
+region = "North America"
+kind = "hackathon"
+hardware_focus = "track"
+url = "https://www.hackprinceton.com/"
+blurb_zh = "普林斯顿黑客松（仅收录硬件作品）"
+blurb_en = "Princeton's hackathon (hardware entries only)."
+devpost_search = "hackprinceton"
+devpost_title_regex = "^HackPrinceton"
+
+[[series]]
+id = "mhacks"
+min_year = 2016
+name = "MHacks"
+name_zh = "MHacks"
+org = "University of Michigan"
+region = "North America"
+kind = "hackathon"
+hardware_focus = "track"
+url = "https://mhacks.org/"
+blurb_zh = "密歇根大学黑客松（仅收录硬件作品）"
+blurb_en = "Michigan's hackathon (hardware entries only)."
+devpost_search = "mhacks"
+devpost_title_regex = "^MHacks"
+
+
+# ───────────────────────────── 更多纯硬件赛（Devpost 种子表）─────────────────────────────
+
+[[series]]
+id = "idea-hacks"
+name = "IDEA Hacks"
+name_zh = "IDEA Hacks（UCLA）"
+org = "UCLA IEEE"
+region = "North America"
+kind = "makeathon"
+hardware_focus = "dedicated"
+url = "https://ideahacks.la/"
+blurb_zh = "UCLA IEEE 的纯硬件黑客松，主题式造物"
+blurb_en = "UCLA IEEE's hardware-only hackathon."
+devpost_search = ["ideahacks", "idea"]
+devpost_title_regex = '''^idea ?hacks'''
+
+[[series]]
+id = "makecu"
+name = "MakeCU"
+name_zh = "MakeCU（哥伦比亚）"
+org = "Columbia"
+region = "North America"
+kind = "makeathon"
+hardware_focus = "dedicated"
+url = "https://makecu.org/"
+blurb_zh = "哥伦比亚大学硬件 makeathon"
+blurb_en = "Columbia's hardware makeathon."
+devpost_search = ["makecu"]
+devpost_title_regex = '''^makecu'''
+
+[[series]]
+id = "makenjit"
+name = "MakeNJIT"
+name_zh = "MakeNJIT"
+org = "NJIT"
+region = "North America"
+kind = "makeathon"
+hardware_focus = "dedicated"
+url = "https://makenjit.org/"
+blurb_zh = "新泽西理工硬件黑客松"
+blurb_en = "NJIT's hardware hackathon."
+devpost_search = ["makenjit", "hardware"]
+devpost_title_regex = '''makenjit|ieee njit byte into hardware'''
+
+[[series]]
+id = "tamumake"
+name = "TAMUmake"
+name_zh = "TAMUmake（德州农工）"
+org = "Texas A&M"
+region = "North America"
+kind = "makeathon"
+hardware_focus = "dedicated"
+url = "https://tamumake.com/"
+blurb_zh = "德州农工硬件 makeathon"
+blurb_en = "Texas A&M's hardware makeathon."
+devpost_search = ["tamumake"]
+devpost_title_regex = '''^tamumake'''
+
+[[series]]
+id = "makeohio"
+name = "MakeOHI/O"
+name_zh = "MakeOHI/O（俄亥俄州立）"
+org = "Ohio State"
+region = "North America"
+kind = "makeathon"
+hardware_focus = "dedicated"
+url = "https://makeohio.org/"
+blurb_zh = "俄亥俄州立大学硬件黑客松"
+blurb_en = "Ohio State's hardware hackathon."
+devpost_search = ["makeohio"]
+devpost_title_regex = '''^makeohi/?o'''
+
+[[series]]
+id = "utra-hacks"
+name = "UTRA Hacks"
+name_zh = "UTRA Hacks（多伦多机器人）"
+org = "UofT Robotics Association"
+region = "North America"
+kind = "makeathon"
+hardware_focus = "dedicated"
+url = "https://utrahacks.ca/"
+blurb_zh = "多伦多大学机器人协会的机器人黑客松"
+blurb_en = "UofT Robotics Association's robotics hackathon."
+devpost_search = ["utrahacks", "utra"]
+devpost_title_regex = '''^utra ?hacks'''
+
+[[series]]
+id = "robotech"
+name = "RoboTech"
+name_zh = "RoboTech"
+org = "RoboTech"
+region = "North America"
+kind = "makeathon"
+hardware_focus = "dedicated"
+url = "https://robotech.devpost.com/"
+blurb_zh = "机器人主题黑客松"
+blurb_en = "Robotics-themed hackathon."
+devpost_search = ["robotech"]
+devpost_title_regex = '''^robotech'''
+
+[[series]]
+id = "buildgt"
+name = "BuildGT"
+name_zh = "BuildGT（佐治亚理工）"
+org = "HackGT"
+region = "North America"
+kind = "makeathon"
+hardware_focus = "dedicated"
+url = "https://hack.gt/"
+blurb_zh = "HackGT 旗下的硬件造物赛"
+blurb_en = "HackGT's hardware build event."
+devpost_search = ["buildgt", "hackgt"]
+devpost_title_regex = '''buildgt'''
+
+[[series]]
+id = "ugahacks-make"
+name = "UGAHacks Makeathon"
+name_zh = "UGAHacks Makeathon"
+org = "University of Georgia"
+region = "North America"
+kind = "makeathon"
+hardware_focus = "dedicated"
+url = "https://ugahacks.com/"
+blurb_zh = "佐治亚大学 makeathon"
+blurb_en = "UGA's makeathon."
+devpost_search = ["makeathon"]
+devpost_title_regex = '''ugahacks makeathon'''
+
+[[series]]
+id = "uoft-hardware-hack"
+name = "IEEE UofT Hardware Hack"
+name_zh = "IEEE UofT Hardware Hack"
+org = "IEEE UofT"
+region = "North America"
+kind = "makeathon"
+hardware_focus = "dedicated"
+url = "https://hardwarehack.ca/"
+blurb_zh = "多伦多大学 IEEE 硬件黑客松"
+blurb_en = "IEEE UofT's hardware hackathon."
+devpost_search = ["hardware"]
+devpost_title_regex = '''uoft hardware hack'''
+
+[[series]]
+id = "hw-misc"
+name = "Other Hardware Hackathons"
+name_zh = "其他硬件/机器人黑客松"
+org = "various"
+region = "Global"
+kind = "makeathon"
+hardware_focus = "dedicated"
+url = "https://devpost.com/hackathons"
+blurb_zh = "Devpost 上的其他硬件 / 机器人 / IoT 专题黑客松（含 LeRobot 全球黑客松）"
+blurb_en = "Other hardware, robotics & IoT hackathons on Devpost (incl. LeRobot global hackathon)."
+devpost_search = ["hardware", "robotics", "makeathon", "iot"]
+devpost_title_regex = '''^(hardware hackfest|pch .*hardware hackathon|hard mode: hardware|hackhardware$|makerhacks|hardware hackathon 3\.0|hard-war|robotic agents hackathon$|.*lerobot global hackathon|longhorn robotics|automatica makeathon|iot ?hack ?day|mother.s day iot makeathon|break to make)'''
+
+# ───────────────────────────── 更多综合黑客松（仅收录硬件作品）─────────────────────────────
+
+[[series]]
+id = "hackgt"
+name = "HackGT"
+name_zh = "HackGT"
+org = "Georgia Tech"
+region = "North America"
+kind = "hackathon"
+hardware_focus = "track"
+url = "https://hack.gt/"
+blurb_zh = "Georgia Tech 综合黑客松（仅收录硬件作品）"
+blurb_en = "Georgia Tech's hackathon (hardware entries only)."
+devpost_search = ["hackgt"]
+devpost_title_regex = '''^hackgt'''
+min_year = 2016
+
+[[series]]
+id = "nwhacks"
+name = "nwHacks"
+name_zh = "nwHacks"
+org = "UBC"
+region = "North America"
+kind = "hackathon"
+hardware_focus = "track"
+url = "https://nwhacks.io/"
+blurb_zh = "UBC 综合黑客松（仅收录硬件作品）"
+blurb_en = "UBC's hackathon (hardware entries only)."
+devpost_search = ["nwhacks"]
+devpost_title_regex = '''^nwhacks'''
+min_year = 2016
+
+[[series]]
+id = "uottahack"
+name = "uOttaHack"
+name_zh = "uOttaHack"
+org = "University of Ottawa"
+region = "North America"
+kind = "hackathon"
+hardware_focus = "track"
+url = "https://uottahack.ca/"
+blurb_zh = "University of Ottawa 综合黑客松（仅收录硬件作品）"
+blurb_en = "University of Ottawa's hackathon (hardware entries only)."
+devpost_search = ["uottahacks", "uottahack"]
+devpost_title_regex = '''^uottahack'''
+min_year = 2016
+
+[[series]]
+id = "hackharvard"
+name = "HackHarvard"
+name_zh = "HackHarvard"
+org = "Harvard"
+region = "North America"
+kind = "hackathon"
+hardware_focus = "track"
+url = "https://hackharvard.io/"
+blurb_zh = "Harvard 综合黑客松（仅收录硬件作品）"
+blurb_en = "Harvard's hackathon (hardware entries only)."
+devpost_search = ["hackharvard"]
+devpost_title_regex = '''^hackharvard'''
+min_year = 2016
+
+[[series]]
+id = "hackillinois"
+name = "HackIllinois"
+name_zh = "HackIllinois"
+org = "UIUC"
+region = "North America"
+kind = "hackathon"
+hardware_focus = "track"
+url = "https://hackillinois.org/"
+blurb_zh = "UIUC 综合黑客松（仅收录硬件作品）"
+blurb_en = "UIUC's hackathon (hardware entries only)."
+devpost_search = ["hackillinois"]
+devpost_title_regex = '''^hackillinois'''
+min_year = 2016
+
+[[series]]
+id = "lahacks"
+name = "LA Hacks"
+name_zh = "LA Hacks"
+org = "UCLA"
+region = "North America"
+kind = "hackathon"
+hardware_focus = "track"
+url = "https://lahacks.com/"
+blurb_zh = "UCLA 综合黑客松（仅收录硬件作品）"
+blurb_en = "UCLA's hackathon (hardware entries only)."
+devpost_search = ["lahacks"]
+devpost_title_regex = '''^la ?hacks'''
+min_year = 2016
+
+[[series]]
+id = "deltahacks"
+name = "DeltaHacks"
+name_zh = "DeltaHacks"
+org = "McMaster"
+region = "North America"
+kind = "hackathon"
+hardware_focus = "track"
+url = "https://deltahacks.com/"
+blurb_zh = "McMaster 综合黑客松（仅收录硬件作品）"
+blurb_en = "McMaster's hackathon (hardware entries only)."
+devpost_search = ["deltahacks"]
+devpost_title_regex = '''^deltahacks'''
+min_year = 2016
+
+[[series]]
+id = "hackwestern"
+name = "Hack Western"
+name_zh = "Hack Western"
+org = "Western University"
+region = "North America"
+kind = "hackathon"
+hardware_focus = "track"
+url = "https://hackwestern.com/"
+blurb_zh = "Western University 综合黑客松（仅收录硬件作品）"
+blurb_en = "Western University's hackathon (hardware entries only)."
+devpost_search = ["hackwestern", "western"]
+devpost_title_regex = '''^hack ?western'''
+min_year = 2016
+
+[[series]]
+id = "boilermake"
+name = "BoilerMake"
+name_zh = "BoilerMake"
+org = "Purdue"
+region = "North America"
+kind = "hackathon"
+hardware_focus = "track"
+url = "https://boilermake.org/"
+blurb_zh = "Purdue 综合黑客松（仅收录硬件作品）"
+blurb_en = "Purdue's hackathon (hardware entries only)."
+devpost_search = ["boilermake"]
+devpost_title_regex = '''^boilermake'''
+min_year = 2016
+
+[[series]]
+id = "hacktech"
+name = "Hacktech"
+name_zh = "Hacktech（加州理工）"
+org = "Caltech"
+region = "North America"
+kind = "hackathon"
+hardware_focus = "track"
+url = "https://hacktech.io/"
+blurb_zh = "Caltech 综合黑客松（仅收录硬件作品）"
+blurb_en = "Caltech's hackathon (hardware entries only)."
+devpost_search = ["hacktech"]
+devpost_title_regex = '''^hacktech'''
+min_year = 2016
+
+[[series]]
+id = "makeuc"
+name = "MakeUC"
+name_zh = "MakeUC（辛辛那提）"
+org = "University of Cincinnati"
+region = "North America"
+kind = "hackathon"
+hardware_focus = "track"
+url = "https://makeuc.io/"
+blurb_zh = "University of Cincinnati 综合黑客松（仅收录硬件作品）"
+blurb_en = "University of Cincinnati's hackathon (hardware entries only)."
+devpost_search = ["makeuc"]
+devpost_title_regex = '''^makeuc'''
+min_year = 2016
+
+# ───────────────────────────── Hackaday.io 竞赛 ─────────────────────────────
+# auto_discover: 自动收录 /contests 首页上比 min_contest_id 更新的竞赛（新比赛无需改配置）
+# min_likes: Hackaday 列表不标注获奖，用点赞数过滤低完成度作品
+[hackaday]
+auto_discover = true
+min_contest_id = 203000
+min_likes = 8
+
+[[hackaday_contests]]
+slug = "prize2023"
+name = "Hackaday Prize 2023"
+year = 2023
+min_likes = 12
+
+[[hackaday_contests]]
+slug = "prize2022"
+name = "Hackaday Prize 2022"
+year = 2022
+min_likes = 15
+
+[[hackaday_contests]]
+slug = "prize2021"
+name = "Hackaday Prize 2021"
+year = 2021
+min_likes = 20
+
+[[hackaday_contests]]
+slug = "supercon-8-sao-contest"
+name = "Supercon 8 Add-On Contest"
+year = 2024
+
+[[hackaday_contests]]
+slug = "2024-sweet-home-automation"
+name = "Home Sweet Home Automation 2024"
+year = 2024
+
+[[hackaday_contests]]
+slug = "tiny-games-challenge"
+name = "Tiny Games Challenge"
+year = 2024
+
+[[hackaday_contests]]
+slug = "2024-business-card-contest"
+name = "Business Card Contest 2024"
+year = 2024
+
+[[hackaday_contests]]
+slug = "cyberdeck-2023"
+name = "Cyberdeck Contest 2023"
+year = 2023

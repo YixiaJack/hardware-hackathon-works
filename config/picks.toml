@@ -1,0 +1,92 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# 编辑精选 Editor's picks
+#
+# match = 作品的 Devpost 链接 或 GitHub 仓库链接（用来和自动抓取到的作品对齐）
+# 若自动抓取没有覆盖到该作品，curated 数据源会用这里的字段直接建档。
+# zh       = 一句话中文简介（卡片上展示）
+# note_zh  = 编辑点评：为什么值得看
+# vibe     = 亮点标签，取值：humor 脑洞幽默 | warmth 情感温度 | hardcore 硬核工程 | practical 实用落地 | impact 社会价值
+# facets   = 可选，手动指定分类，覆盖自动结果，如 { domain = ["health"], form = ["wearable"] }
+#
+# 前 6 条来自 AlexDrives/hardware-hackathon-radar 的 docs/makemit-and-benchmarks.md
+# ─────────────────────────────────────────────────────────────────────────────
+
+[[pick]]
+match = "https://github.com/Vishvenugopal/Locky-MakeMIT"
+title = "Locky"
+tagline = "A phone-jail robot car that hides from you using LiDAR room scans."
+series_id = "makemit"
+event_name = "MakeMIT x Harvard 2026"
+year = 2026
+built_with = ["raspberry-pi", "viam", "lidar", "iphone"]
+zh = "把手机锁进会自己躲到你视线死角的小车，戒手机的『躲猫猫』"
+note_zh = "所有自律 App 都能被顺手删掉——Locky 用物理世界的不便利和空间感解决软件解决不了的问题。"
+vibe = ["humor", "practical"]
+
+[[pick]]
+match = "https://github.com/Yd025/Scribblr"
+title = "Scribblr"
+tagline = "Listens to a lecture, summarizes it with Gemini, and writes the key points on a real chalkboard."
+series_id = "makemit"
+event_name = "MakeMIT x Harvard 2026"
+year = 2026
+built_with = ["gemini", "g-code", "python", "stepper-motor"]
+zh = "听课 → Gemini 提炼重点 → 单笔画 G-code → 机械手拿真粉笔写在黑板上"
+note_zh = "把烂大街的『AI 总结笔记』拉回黑板这个物理媒介，执行层本质是确定性的 G-code 绘图机。"
+vibe = ["hardcore", "humor"]
+
+[[pick]]
+match = "https://github.com/laoeked1111/plase-read-instructions"
+title = "Auto-Focus Glasses"
+tagline = "Hands-free, voice-controlled glasses that physically move their lenses to zoom."
+series_id = "makemit"
+event_name = "MakeMIT x Harvard 2026"
+year = 2026
+built_with = ["raspberry-pi", "raspberry-pi-pico", "stepper-motor", "gemini", "oled"]
+zh = "双手占满时用语音让眼镜用丝杆物理变焦，给外科医生和电工的『放大镜』"
+note_zh = "需求极其具体，执行机构（步进丝杆调焦）简单可靠，Pi Zero 2 + Pico 分工清晰。"
+vibe = ["practical", "hardcore"]
+
+[[pick]]
+match = "https://github.com/NaemBi-Bap-MAKE-MIT-2026-Team"
+title = "Bless You Polar Bear"
+tagline = "A plush polar bear that hears your sneeze and says 'bless you'."
+series_id = "makemit"
+event_name = "MakeMIT x Harvard 2026"
+year = 2026
+awards = ["Sustainability — 3rd Place"]
+built_with = ["raspberry-pi", "lcd", "tinyml", "speaker"]
+zh = "独居异乡打喷嚏没人说『Bless you』？北极熊玩偶用本地小模型听到喷嚏并回应关怀"
+note_zh = "极小的情感切口 + 端侧实时触发，不需要机械臂也能打动评委。"
+vibe = ["warmth"]
+
+[[pick]]
+match = "https://github.com/antaramazumdar/makemit"
+title = "Whackathon"
+tagline = "A chair that physically punishes you for slouching like a shrimp."
+series_id = "makemit"
+event_name = "MakeMIT x Harvard 2026"
+year = 2026
+built_with = ["distance-sensor", "arduino", "servo"]
+zh = "检测到你驼背成『虾』就立刻物理惩罚的椅子"
+note_zh = "弹窗提醒毫无威慑力——用多路测距 + 物理负反馈，把『纠正坐姿』做成了一个笑点。"
+vibe = ["humor"]
+
+[[pick]]
+match = "https://github.com/preespp/MakeMIT_2026_Team7"
+title = "A.L.I.C.E. MedDispenser"
+tagline = "A face-verified smart pill dispenser with a 10-state FSM UI and local fallbacks."
+series_id = "makemit"
+event_name = "MakeMIT x Harvard 2026"
+year = 2026
+built_with = ["jetson", "intel-realsense", "insightface", "esp32", "gemini"]
+zh = "Jetson 本地人脸识别 + ESP32 出药的分药终端，LLM 只做可选建议并带本地降级"
+note_zh = "工程架构典范：端侧鉴权、串口校验帧、10 态 FSM 驱动 UI、LLM 输出严格 JSON 解析 + 规则引擎兜底。"
+vibe = ["hardcore", "practical"]
+
+[[pick]]
+match = "https://devpost.com/software/unsynthesizer-2jxeoy"
+zh = "不用电子元件、只靠声音的无线键盘：每个键敲出不同频率，电脑靠滤波识别按键"
+note_zh = "MakeMIT 2020 一等奖。用最朴素的物理原理（声学频率）完成通信，惊喜感极强。"
+facets = { domain = ["tools-industry", "games-fun"], form = ["gadget"], interaction = ["tangible"] }
+vibe = ["hardcore", "humor"]

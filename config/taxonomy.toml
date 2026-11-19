@@ -1,0 +1,644 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# 分类体系 Taxonomy — 多维正交分面 (faceted, multi-label)
+#
+#   场景 domain       → 为谁/解决什么问题      (WHY)
+#   形态 form         → 做出来是个什么东西      (WHAT)
+#   交互 interaction  → 人怎么和它打交道        (HOW · HMI)
+#   平台 platform     → 用了什么硬件平台        (WITH)
+#   智能 ai           → 用了什么 AI 能力        (BRAIN)
+#   工艺 fab          → 用了什么制造工艺        (BUILD)
+#
+# 每个 term:
+#   kw   = 文本关键词（标题/标语权重 ×3，正文 ×1）；英文按词边界匹配（自动兼容复数），中文按子串匹配
+#   tags = Devpost "Built With" / GitHub topics 精确匹配（权重 ×3）
+#   某个 term 得分 ≥ facet.threshold 即打上该标签；每个 facet 最多保留 facet.max 个
+# 修改本文件后运行 `python -m pipeline.run --reclassify` 即可全量重分（无需重新抓取）
+# ─────────────────────────────────────────────────────────────────────────────
+
+[hardware]
+# 判定"是不是硬件作品"：得分 ≥ threshold 视为硬件项目（专门的硬件赛事全部收录，不受此限制）
+threshold = 3
+tags = [
+  "arduino", "arduino-uno", "arduino-ide", "arduino-nano", "esp32", "esp8266", "esp-idf", "raspberry-pi", "raspberrypi",
+  "raspberry-pi-pico", "pi-pico", "microcontroller", "microcontrollers", "jetson", "nvidia-jetson", "jetson-nano",
+  "jetson-orin", "stm32", "teensy", "particle", "particle-photon", "micro:bit", "microbit", "adafruit", "circuitpython",
+  "micropython", "platformio", "sensors", "sensor", "servo", "servos", "stepper-motor", "motors", "dc-motor", "3d-printing",
+  "3d-printed", "3d-printer", "laser-cutting", "laser-cutter", "solidworks", "fusion-360", "autodesk-fusion-360", "onshape",
+  "pcb", "kicad", "eagle", "altium", "easyeda", "soldering", "breadboard", "oled", "neopixel", "led", "leds", "lidar", "imu",
+  "accelerometer", "gyroscope", "lora", "realsense", "intel-realsense", "leap-motion", "myo", "openbci", "emg", "eeg",
+  "ros", "ros2", "arduino-uno-q", "seeed", "xiao", "nrf52", "bluetooth-low-energy", "hardware", "robotics", "robot",
+  "electronics", "embedded", "firmware", "fpga", "verilog", "qualcomm", "snapdragon", "hololens", "magic-leap", "rdk",
+  "orbbec", "feetech", "dynamixel", "viam", "edge-impulse", "tinyml", "gpio", "i2c", "uart", "can-bus", "3d-printing-software",
+]
+kw = [
+  "arduino", "esp32", "esp8266", "raspberry pi", "microcontroller", "jetson", "stm32", "teensy", "servo", "stepper",
+  "motor", "actuator", "sensor", "3d print", "3d-print", "laser cut", "pcb", "circuit", "breadboard", "solder", "lidar",
+  "accelerometer", "gyroscope", "imu", "robot", "robotic", "hardware", "wearable", "gimbal", "chassis", "linear rail",
+  "lead screw", "g-code", "gcode", "firmware", "embedded", "electromagnet", "solenoid", "load cell", "ultrasonic",
+  "infrared", "thermistor", "photoresistor", "neopixel", "led strip", "battery", "drone", "quadcopter", "exoskeleton",
+  "prosthetic", "animatronic", "plotter", "cnc", "pneumatic", "hydraulic", "gripper", "end effector",
+  "单片机", "开发板", "传感器", "舵机", "电机", "步进", "机器人", "机械臂", "硬件", "电路", "焊接", "3d打印", "激光切割", "嵌入式", "固件",
+]
+
+# ─────────────────────────── 场景 Domain ───────────────────────────
+[facets.domain]
+label = "场景"
+label_en = "Domain"
+threshold = 2
+max = 2
+order = 1
+
+[[facets.domain.terms]]
+id = "health"
+label = "健康医疗"
+label_en = "Health & Medical"
+icon = "🩺"
+kw = ["health", "healthcare", "medical", "medicine", "patient", "doctor", "nurse", "hospital", "clinic", "surgery",
+      "surgeon", "rehab", "rehabilitation", "physical therapy", "physiotherapy", "therapy", "diagnosis", "diagnostic",
+      "disease", "diabetes", "asthma", "heart rate", "blood pressure", "pulse oximeter", "ecg", "ekg", "medication",
+      "pill", "pills", "dispenser", "insulin", "glucose", "injury", "posture", "fitness", "workout", "exercise", "sleep",
+      "mental health", "stress", "anxiety", "depression", "wellness", "hydration", "cpr", "first aid", "stroke",
+      "parkinson", "tremor", "dementia", "alzheimer", "sanitize", "sanitization", "covid", "mask",
+      "健康", "医疗", "医院", "康复", "病人", "患者", "药", "心率", "血压", "睡眠", "健身", "运动", "坐姿", "驼背", "理疗"]
+tags = ["healthcare", "health", "medical", "fitness"]
+
+[[facets.domain.terms]]
+id = "accessibility"
+label = "无障碍辅助"
+label_en = "Accessibility"
+icon = "♿"
+kw = ["accessibility", "accessible", "disability", "disabilities", "disabled", "blind", "visually impaired",
+      "visual impairment", "low vision", "deaf", "hard of hearing", "hearing impaired", "sign language", "asl", "braille",
+      "wheelchair", "mobility impaired", "paralysis", "paralyzed", "amputee", "prosthetic", "prosthesis", "elderly",
+      "seniors", "aging", "assistive", "caregiver", "als", "autism", "autistic", "adhd", "dyslexia", "cane",
+      "无障碍", "盲人", "视障", "听障", "聋", "手语", "盲文", "轮椅", "残障", "老人", "老年", "助老", "义肢", "辅助"]
+tags = ["accessibility", "assistive-technology"]
+
+[[facets.domain.terms]]
+id = "sustainability"
+label = "环境可持续"
+label_en = "Sustainability"
+icon = "🌱"
+kw = ["sustainability", "sustainable", "environment", "environmental", "climate", "carbon", "emission", "emissions",
+      "recycle", "recycling", "recyclable", "compost", "waste", "trash", "garbage", "litter", "pollution", "air quality",
+      "water quality", "energy", "solar", "renewable", "wind turbine", "electricity usage", "power consumption", "green",
+      "eco", "wildfire", "ocean", "plastic", "biodegradable", "conservation", "wildlife",
+      "环保", "可持续", "碳", "回收", "垃圾", "污染", "空气质量", "水质", "能源", "太阳能", "节能", "野生动物"]
+tags = ["sustainability", "solar"]
+
+[[facets.domain.terms]]
+id = "food-agri"
+label = "农业食物"
+label_en = "Food & Agriculture"
+icon = "🌾"
+kw = ["plant", "plants", "garden", "gardening", "farm", "farming", "farmer", "agriculture", "agricultural", "crop",
+      "crops", "soil", "irrigation", "watering", "greenhouse", "hydroponic", "hydroponics", "food", "cooking", "cook",
+      "kitchen", "recipe", "chef", "coffee", "tea", "drink", "drinks", "cocktail", "bartender", "beverage", "fridge",
+      "grocery", "nutrition", "diet", "calorie", "pancake", "waffle", "waffles", "pizza", "candy", "cake", "baking", "ice cream", "burger", "sandwich", "popcorn", "juice", "smoothie", "boba", "fruit", "harvest", "beehive",
+      "植物", "浇水", "花园", "种植", "农业", "农场", "土壤", "灌溉", "食物", "烹饪", "厨房", "咖啡", "奶茶", "饮料", "营养"]
+tags = ["agriculture"]
+
+[[facets.domain.terms]]
+id = "home"
+threshold = 3
+label = "家居生活"
+label_en = "Home & Everyday"
+icon = "🏠"
+kw = ["smart home", "home automation", "household", "home", "house", "room", "bedroom", "dorm", "apartment",
+      "roommate", "furniture", "door", "lock", "window", "curtain", "blinds", "light switch", "lamp", "mirror", "closet",
+      "laundry", "cleaning", "vacuum", "mop", "dishes", "pet", "pets", "dog", "cat", "feeder", "alarm clock", "trash can",
+      "umbrella", "shower", "toilet", "bathroom", "daily life", "everyday",
+      "家居", "智能家", "家庭", "宿舍", "门锁", "窗帘", "台灯", "镜子", "衣柜", "洗衣", "清洁", "扫地", "宠物", "猫", "狗", "喂食"]
+tags = ["home-automation", "smart-home", "homekit", "home-assistant"]
+
+[[facets.domain.terms]]
+id = "productivity"
+label = "效率与自律"
+label_en = "Productivity & Habits"
+icon = "⏱️"
+kw = ["productivity", "productive", "focus", "procrastination", "procrastinate", "distraction", "distracted",
+      "phone addiction", "screen time", "doomscrolling", "habit", "habits", "discipline", "accountability", "pomodoro",
+      "study", "studying", "deadline", "todo", "to-do", "reminder", "reminders", "workspace", "desk", "office",
+      "meeting", "calendar", "wake up", "alarm", "punish", "punishment",
+      "效率", "专注", "拖延", "自律", "手机成瘾", "习惯", "番茄钟", "学习", "提醒", "办公", "桌面"]
+tags = ["productivity"]
+
+[[facets.domain.terms]]
+id = "education"
+label = "教育学习"
+label_en = "Education"
+icon = "🎓"
+kw = ["education", "educational", "learn", "learning", "learners", "teach", "teaching", "teacher", "classroom",
+      "lecture", "student", "students", "kids", "children", "child", "school", "stem", "tutor", "tutoring", "homework",
+      "language learning", "chalkboard", "whiteboard", "blackboard", "notes", "flashcard", "museum",
+      "教育", "教学", "课堂", "老师", "学生", "儿童", "孩子", "学校", "黑板", "科普", "编程教育"]
+tags = ["education", "edtech"]
+
+[[facets.domain.terms]]
+id = "safety"
+label = "安全应急"
+label_en = "Safety & Security"
+icon = "🛡️"
+kw = ["safety", "security", "emergency", "disaster", "earthquake", "flood", "smoke detector",
+      "rescue", "search and rescue", "first responder", "firefighter", "fire detection", "fire alarm", "police", "crime", "theft", "anti-theft",
+      "surveillance", "intruder", "fall detection", "drowning", "collision", "hazard", "gas leak", "carbon monoxide",
+      "self-defense", "personal safety", "harassment", "landmine", "bomb", "construction site",
+      "安全", "应急", "救援", "灾害", "地震", "火灾", "防盗", "监控", "跌倒", "溺水", "危险"]
+tags = ["security"]
+
+[[facets.domain.terms]]
+id = "mobility"
+label = "出行交通"
+label_en = "Mobility & Transport"
+icon = "🚲"
+kw = ["bike", "bicycle", "cycling", "cyclist", "scooter", "skateboard", "car", "cars", "vehicle", "driving",
+      "driver", "drowsy", "traffic", "parking", "road", "pedestrian", "crosswalk", "commute", "navigation", "transit",
+      "bus", "train", "helmet", "e-bike", "electric vehicle", "ev", "go-kart", "kart", "autonomous driving",
+      "自行车", "单车", "滑板", "电动车", "汽车", "驾驶", "疲劳驾驶", "交通", "停车", "导航", "头盔", "出行"]
+tags = ["automotive"]
+
+[[facets.domain.terms]]
+id = "art-music"
+label = "艺术音乐"
+label_en = "Art & Music"
+icon = "🎨"
+kw = ["music", "musical", "instrument", "instruments", "guitar", "piano", "drum", "drums", "synth", "synthesizer",
+      "midi", "song", "songs", "melody", "dj", "audio visual", "art", "artist", "artistic", "painting", "paint",
+      "drawing", "draw", "sketch", "sketching", "calligraphy", "sculpture", "installation", "kinetic", "light show",
+      "dance", "dancing", "theater", "performance", "photography", "camera art", "generative art", "fashion",
+      "音乐", "乐器", "吉他", "钢琴", "鼓", "合成器", "艺术", "绘画", "画画", "书法", "雕塑", "装置", "舞蹈", "灯光秀", "时尚"]
+tags = ["midi", "music", "art"]
+
+[[facets.domain.terms]]
+id = "games-fun"
+label = "游戏娱乐"
+label_en = "Games & Fun"
+icon = "🎮"
+kw = ["game", "games", "gaming", "gamer", "gamify", "gamified", "arcade", "pinball", "toy", "toys", "play",
+      "playful", "fun", "prank", "joke", "silly", "absurd", "useless", "party", "beer pong", "pong", "chess", "puzzle",
+      "escape room", "lego", "nerf", "rubik", "claw machine", "boxing", "sports", "basketball", "soccer", "ping pong",
+      "table tennis", "golf", "fishing", "pinata", "piñata",
+      "游戏", "娱乐", "玩具", "街机", "整蛊", "恶搞", "无用", "沙雕", "棋", "拼图", "乐高", "体育", "篮球", "足球", "乒乓"]
+tags = ["game", "gaming", "unity"]
+
+[[facets.domain.terms]]
+id = "social-emotion"
+label = "社交情感"
+label_en = "Social & Emotional"
+icon = "💞"
+kw = ["companion", "companionship", "loneliness", "lonely", "emotion", "emotional", "emotions", "feelings", "mood",
+      "empathy", "comfort", "hug", "hugs", "friend", "friends", "friendship", "relationship", "couple", "long distance",
+      "long-distance", "family", "grandparents", "connect people", "social", "memories", "nostalgia", "affection", "cute", "plush", "plushie", "teddy", "pet robot",
+      "bless you",
+      "陪伴", "孤独", "情感", "情绪", "心情", "拥抱", "朋友", "异地", "家人", "社交", "沟通", "回忆", "治愈", "可爱", "玩偶", "毛绒"]
+tags = []
+
+[[facets.domain.terms]]
+id = "tools-industry"
+threshold = 3
+label = "工具与制造"
+label_en = "Tools & Industry"
+icon = "🛠️"
+kw = ["tool", "tools", "toolkit", "lab", "laboratory", "scientist", "experiment", "measurement", "measure",
+      "oscilloscope", "multimeter", "test equipment", "manufacturing", "factory", "industrial", "warehouse", "inventory",
+      "logistics", "delivery", "package", "assembly", "inspection", "quality control", "maker", "makerspace",
+      "fabrication", "workshop", "construction", "mining", "underwater", "space", "satellite", "rocket", "telescope",
+      "工具", "实验室", "测量", "仪器", "制造", "工厂", "工业", "仓储", "物流", "快递", "检测", "创客", "航天", "卫星", "水下"]
+tags = []
+
+# ─────────────────────────── 形态 Form ───────────────────────────
+[facets.form]
+label = "形态"
+label_en = "Form factor"
+threshold = 2
+max = 2
+order = 2
+
+[[facets.form.terms]]
+id = "wearable"
+label = "可穿戴"
+label_en = "Wearable"
+icon = "⌚"
+kw = ["wearable", "wearables", "wrist", "wristband", "bracelet", "watch", "smartwatch", "glove", "gloves",
+      "glasses", "goggles", "eyewear", "hat", "cap", "helmet", "headband", "headset", "necklace", "ring", "vest",
+      "jacket", "shirt", "clothing", "garment", "e-textile", "shoe", "shoes", "insole", "sock", "backpack", "belt",
+      "exoskeleton", "armband", "earring", "badge", "on-body",
+      "可穿戴", "穿戴", "手环", "手表", "手套", "眼镜", "帽子", "头盔", "项链", "戒指", "衣服", "背心", "鞋", "外骨骼"]
+tags = ["wearable", "wearables"]
+
+[[facets.form.terms]]
+id = "mobile-robot"
+label = "移动机器人"
+label_en = "Mobile robot"
+icon = "🤖"
+kw = ["rover", "robot car", "rc car", "mobile robot", "autonomous robot", "self-driving", "line follower",
+      "line-following", "wheeled", "omni wheel", "mecanum", "tank", "quadruped", "robot dog", "robotic dog", "legged",
+      "hexapod", "crawler", "roomba", "agv", "turtlebot", "biped", "humanoid", "boat", "submarine", "underwater robot",
+      "小车", "移动机器人", "机器狗", "四足", "人形", "履带", "巡线", "自动驾驶", "船"]
+tags = ["turtlebot", "ros", "ros2", "viam"]
+
+[[facets.form.terms]]
+id = "arm-manipulator"
+label = "机械臂/手"
+label_en = "Arm & manipulator"
+icon = "🦾"
+kw = ["robotic arm", "robot arm", "arm", "manipulator", "gripper", "claw", "end effector", "robotic hand",
+      "robot hand", "prosthetic hand", "bionic hand", "pick and place", "6-dof", "6dof", "5-dof", "inverse kinematics",
+      "scara", "so-100", "so-101", "lerobot", "teleoperation", "teleoperated",
+      "机械臂", "机械手", "夹爪", "灵巧手", "抓取", "遥操作"]
+tags = ["lerobot", "inverse-kinematics"]
+
+[[facets.form.terms]]
+id = "drone"
+label = "飞行器"
+label_en = "Drone & aerial"
+icon = "🚁"
+kw = ["drone", "drones", "quadcopter", "uav", "multirotor", "blimp", "aerial", "flying", "glider", "rocket",
+      "无人机", "飞行器", "四旋翼", "飞艇"]
+tags = ["drone", "dji", "ardupilot", "px4"]
+
+[[facets.form.terms]]
+id = "gadget"
+threshold = 3
+label = "桌面小装置"
+label_en = "Desktop gadget"
+icon = "📟"
+kw = ["gadget", "device", "desktop", "desk toy", "box", "button", "clock", "display", "screen", "e-ink", "eink",
+      "speaker", "camera", "console", "handheld", "remote", "controller", "keyboard", "macropad", "dashboard",
+      "小装置", "桌面", "盒子", "按钮", "时钟", "屏幕", "墨水屏", "音箱", "键盘", "遥控"]
+tags = ["e-ink", "keyboard"]
+
+[[facets.form.terms]]
+id = "smart-object"
+threshold = 3
+label = "智能物件/家具"
+label_en = "Smart object & furniture"
+icon = "🪑"
+kw = ["chair", "desk", "table", "bed", "pillow", "mirror", "lamp", "bottle", "cup", "mug", "plate", "bowl",
+      "trash can", "bin", "fridge", "door", "lock", "cane", "umbrella", "wallet", "pen", "notebook", "shelf", "cabinet",
+      "planter", "pot", "jar", "mailbox", "doorbell", "smart bin",
+      "椅子", "桌子", "床", "枕头", "镜子", "台灯", "水杯", "杯子", "垃圾桶", "冰箱", "门", "锁", "雨伞", "钱包", "笔", "书架", "花盆"]
+tags = []
+
+[[facets.form.terms]]
+id = "companion-toy"
+label = "陪伴体/玩偶"
+label_en = "Companion & plush"
+icon = "🧸"
+kw = ["plush", "plushie", "stuffed animal", "teddy", "doll", "pet robot", "desk pet", "companion robot",
+      "social robot", "tamagotchi", "animatronic", "puppet", "creature", "mascot", "polar bear", "bear",
+      "玩偶", "毛绒", "公仔", "桌宠", "电子宠物", "陪伴机器人"]
+tags = []
+
+[[facets.form.terms]]
+id = "machine"
+label = "制造机器/机构"
+label_en = "Machine & mechanism"
+icon = "⚙️"
+kw = ["plotter", "pen plotter", "cnc", "3d printer", "printer", "laser engraver", "g-code", "gcode", "gantry",
+      "xy table", "linear rail", "lead screw", "conveyor", "sorter", "sorting machine", "vending", "dispenser",
+      "machine", "mechanism", "rube goldberg", "catapult", "launcher", "turret", "pan-tilt", "pan tilt", "gimbal",
+      "绘图机", "雕刻机", "打印机", "龙门", "滑台", "丝杆", "传送带", "分拣", "售货", "分发", "机构", "云台", "发射"]
+tags = ["g-code", "grbl", "marlin"]
+
+[[facets.form.terms]]
+id = "vehicle"
+threshold = 3
+label = "载具"
+label_en = "Vehicle"
+icon = "🛴"
+kw = ["go-kart", "kart", "electric skateboard", "e-skateboard", "scooter", "bike", "bicycle", "wheelchair",
+      "vehicle", "car", "cart", "trike", "hoverboard", "ride-on",
+      "卡丁车", "滑板车", "电动滑板", "自行车", "轮椅", "载具"]
+tags = []
+
+[[facets.form.terms]]
+id = "installation"
+label = "互动装置"
+label_en = "Installation"
+icon = "🏛️"
+kw = ["installation", "interactive installation", "art installation", "exhibit", "exhibition", "sculpture",
+      "kinetic sculpture", "light installation", "led wall", "led matrix", "projection mapping", "large-scale",
+      "装置", "互动装置", "展览", "雕塑", "灯墙", "投影"]
+tags = []
+
+[[facets.form.terms]]
+id = "xr"
+label = "XR/空间计算"
+label_en = "XR & spatial"
+icon = "🥽"
+kw = ["augmented reality", "virtual reality", "mixed reality", "ar", "vr", "xr", "hololens", "quest", "meta quest",
+      "oculus", "vision pro", "magic leap", "spatial computing", "passthrough", "headset", "smart glasses",
+      "增强现实", "虚拟现实", "混合现实", "头显", "空间计算", "智能眼镜"]
+tags = ["augmented-reality", "virtual-reality", "mixed-reality", "unity", "oculus", "meta-quest", "hololens",
+        "magic-leap", "visionos", "arkit", "arcore", "openxr", "snap-spectacles", "lens-studio", "webxr"]
+
+[[facets.form.terms]]
+id = "board"
+label = "电路板/模块"
+label_en = "PCB & module"
+icon = "🔌"
+kw = ["pcb", "custom pcb", "circuit board", "dev board", "development board", "breakout", "shield", "badge",
+      "macropad", "mechanical keyboard", "module", "schematic", "kicad",
+      "电路板", "开发板", "模块", "扩展板", "原理图", "徽章", "键盘"]
+tags = ["kicad", "eagle", "altium", "easyeda", "pcb"]
+
+# ─────────────────────────── 交互 Interaction ───────────────────────────
+[facets.interaction]
+label = "交互"
+label_en = "Interaction"
+threshold = 2
+max = 2
+order = 3
+
+[[facets.interaction.terms]]
+id = "voice"
+label = "语音对话"
+label_en = "Voice & conversation"
+icon = "🗣️"
+kw = ["voice", "speech", "speak", "speaking", "talk", "talking", "conversation", "conversational", "voice assistant",
+      "speech recognition", "speech-to-text", "text-to-speech", "tts", "stt", "whisper", "microphone", "wake word",
+      "voice command", "voice-controlled", "alexa", "siri", "elevenlabs", "deepgram",
+      "语音", "说话", "对话", "麦克风", "唤醒词", "语音识别", "语音合成"]
+tags = ["whisper", "elevenlabs", "deepgram", "google-speech", "speech-recognition", "text-to-speech",
+        "alexa", "vapi", "openai-whisper", "speech-to-text"]
+
+[[facets.interaction.terms]]
+id = "vision-gesture"
+label = "视觉/手势"
+label_en = "Vision & gesture"
+icon = "👋"
+kw = ["gesture", "gestures", "hand tracking", "hand gesture", "pose", "pose estimation", "face", "facial",
+      "face recognition", "facial recognition", "eye tracking", "gaze", "body tracking", "motion tracking",
+      "computer vision", "camera", "webcam", "depth camera", "kinect", "leap motion", "mediapipe", "skeleton tracking",
+      "手势", "姿态", "人脸", "眼动", "视觉", "摄像头", "深度相机", "体感"]
+tags = ["mediapipe", "opencv", "leap-motion", "kinect", "realsense", "intel-realsense", "orbbec"]
+
+[[facets.interaction.terms]]
+id = "haptic"
+label = "触觉反馈"
+label_en = "Haptics & touch"
+icon = "🫳"
+kw = ["haptic", "haptics", "vibration", "vibrate", "vibrating", "vibration motor", "tactile", "force feedback",
+      "touch", "touch sensor", "capacitive", "pressure sensor", "squeeze", "texture", "electrical muscle stimulation",
+      "ems", "tens",
+      "触觉", "震动", "振动", "触摸", "力反馈", "压力"]
+tags = ["haptics"]
+
+[[facets.interaction.terms]]
+id = "tangible"
+label = "实体操控"
+label_en = "Tangible & physical"
+icon = "🎛️"
+kw = ["tangible", "physical interface", "knob", "knobs", "slider", "button", "buttons", "joystick", "lever",
+      "pedal", "dial", "switch", "toggle", "physical controls", "block", "blocks", "puzzle", "magnetic", "nfc", "rfid",
+      "实体", "旋钮", "按键", "摇杆", "踏板", "积木", "磁吸"]
+tags = ["nfc", "rfid"]
+
+[[facets.interaction.terms]]
+id = "biosignal"
+label = "生理信号"
+label_en = "Biosignals & BCI"
+icon = "🧠"
+kw = ["eeg", "emg", "ecg", "ekg", "brain", "brainwave", "brain-computer", "bci", "neural", "muscle signal",
+      "muscle", "biometric", "biometrics", "biofeedback", "heart rate", "galvanic", "gsr", "electrodermal",
+      "pulse", "respiration", "muse headband", "openbci",
+      "脑电", "肌电", "心电", "脑机", "生物信号", "生理", "呼吸", "脉搏"]
+tags = ["openbci", "emg", "eeg", "muse", "myo", "myoware", "neurosity"]
+
+[[facets.interaction.terms]]
+id = "ambient"
+threshold = 3
+label = "环境感知/自主"
+label_en = "Ambient & autonomous"
+icon = "📡"
+kw = ["autonomous", "autonomously", "automatic", "automatically", "automated", "ambient", "monitor", "monitoring",
+      "detects", "detect", "detection", "sensing", "environmental sensor", "temperature", "humidity", "motion sensor",
+      "pir", "ultrasonic", "lidar", "distance sensor", "proximity", "occupancy", "tracking", "slam", "iot",
+      "internet of things",
+      "自主", "自动", "环境感知", "监测", "检测", "温湿度", "人体感应", "测距", "物联网"]
+tags = ["iot", "internet-of-things", "mqtt", "lidar", "slam"]
+
+[[facets.interaction.terms]]
+id = "light-display"
+label = "光与显示"
+label_en = "Light & display"
+icon = "💡"
+kw = ["led", "leds", "rgb", "neopixel", "light", "lights", "lighting", "glow", "projection", "projector",
+      "display", "oled", "lcd", "e-ink", "screen", "led matrix", "hologram",
+      "灯", "灯光", "发光", "投影", "显示屏", "点阵"]
+tags = ["neopixel", "oled", "lcd", "ws2812b", "led", "leds"]
+
+# ─────────────────────────── 平台 Platform ───────────────────────────
+[facets.platform]
+label = "平台"
+label_en = "Platform"
+threshold = 1
+max = 3
+order = 4
+
+[[facets.platform.terms]]
+id = "arduino"
+label = "Arduino"
+label_en = "Arduino"
+icon = "♾️"
+kw = ["arduino"]
+tags = ["arduino", "arduino-uno", "arduino-nano", "arduino-ide", "arduino-mega", "arduino-uno-q", "arduino-nicla",
+        "arduino-r4", "arduino-uno-r4"]
+
+[[facets.platform.terms]]
+id = "esp32"
+label = "ESP32/ESP8266"
+label_en = "ESP32/ESP8266"
+icon = "📶"
+kw = ["esp32", "esp8266", "esp-32", "esp32-s3", "esp32-cam", "esp-idf", "nodemcu", "xiao esp32"]
+tags = ["esp32", "esp8266", "esp-idf", "nodemcu", "esp32-cam", "esp32-s3", "espressif"]
+
+[[facets.platform.terms]]
+id = "raspberry-pi"
+label = "Raspberry Pi"
+label_en = "Raspberry Pi"
+icon = "🍓"
+kw = ["raspberry pi", "raspberrypi", "rpi", "pi zero", "pi 4", "pi 5", "pi pico", "raspberry pi pico"]
+tags = ["raspberry-pi", "raspberrypi", "raspberry-pi-pico", "pi-pico", "raspberry-pi-4", "raspberry-pi-5",
+        "raspberry-pi-zero", "rp2040"]
+
+[[facets.platform.terms]]
+id = "jetson"
+label = "NVIDIA Jetson"
+label_en = "NVIDIA Jetson"
+icon = "🟩"
+kw = ["jetson", "jetson nano", "jetson orin", "orin nano", "xavier"]
+tags = ["jetson", "nvidia-jetson", "jetson-nano", "jetson-orin", "jetson-orin-nano", "nvidia-jetson-nano"]
+
+[[facets.platform.terms]]
+id = "mcu-other"
+label = "其他 MCU"
+label_en = "Other MCU"
+icon = "🔧"
+kw = ["stm32", "teensy", "micro:bit", "microbit", "nrf52", "particle photon", "particle argon", "atmega", "attiny",
+      "pic microcontroller", "msp430", "seeed xiao", "bk7258", "ch32", "gd32", "psoc", "ti launchpad"]
+tags = ["stm32", "teensy", "micro:bit", "microbit", "particle", "particle-photon", "nrf52", "atmega328p",
+        "attiny85", "seeed-studio", "xiao", "psoc", "ti", "msp430", "adafruit-feather", "circuit-playground"]
+
+[[facets.platform.terms]]
+id = "fpga"
+label = "FPGA"
+label_en = "FPGA"
+icon = "🧮"
+kw = ["fpga", "verilog", "vhdl", "systemverilog"]
+tags = ["fpga", "verilog", "vhdl", "systemverilog", "xilinx", "lattice"]
+
+[[facets.platform.terms]]
+id = "ros"
+label = "ROS"
+label_en = "ROS"
+icon = "🛰️"
+kw = ["ros", "ros2", "ros 2", "gazebo", "moveit", "rviz"]
+tags = ["ros", "ros2", "gazebo", "moveit", "rviz"]
+
+[[facets.platform.terms]]
+id = "edge-soc"
+threshold = 2
+label = "边缘 AI 芯片"
+label_en = "Edge AI SoC"
+icon = "🧩"
+kw = ["rdk x5", "rdk", "d-robotics", "horizon robotics", "qualcomm", "snapdragon", "rubik pi", "coral",
+      "edge tpu", "hailo", "rockchip", "rk3588", "k230", "kendryte", "luckfox", "orange pi", "radxa", "unihiker",
+      "地瓜", "旭日", "瑞芯微", "嘉楠", "香橙派"]
+tags = ["qualcomm", "snapdragon", "google-coral", "coral", "hailo", "rockchip", "orange-pi", "rdk", "d-robotics"]
+
+# ─────────────────────────── 智能 AI ───────────────────────────
+[facets.ai]
+label = "智能"
+label_en = "AI capability"
+threshold = 2
+max = 3
+order = 5
+
+[[facets.ai.terms]]
+id = "llm"
+threshold = 1
+label = "大模型/生成式"
+label_en = "LLM & GenAI"
+icon = "✨"
+kw = ["llm", "llms", "large language model", "gpt", "gpt-4", "gpt-4o", "gpt-5", "chatgpt", "openai", "gemini",
+      "claude", "anthropic", "llama", "mistral", "deepseek", "qwen", "generative ai", "genai", "gen ai",
+      "language model", "vlm", "vision language model", "ai agent", "ai agents", "agentic", "groq",
+      "大模型", "生成式", "智能体", "多模态"]
+tags = ["openai", "gpt", "gpt-4", "gpt-4o", "chatgpt", "gemini", "google-gemini", "gemini-api", "claude",
+        "anthropic", "llama", "groq", "langchain", "ollama", "hugging-face", "huggingface", "mistral", "cohere",
+        "deepseek", "openai-api", "gpt-3", "llm", "vertex-ai", "perplexity", "openrouter", "llamaindex"]
+
+[[facets.ai.terms]]
+id = "cv"
+label = "计算机视觉"
+label_en = "Computer vision"
+icon = "👁️"
+kw = ["computer vision", "object detection", "image recognition", "image classification", "yolo", "yolov5",
+      "yolov8", "opencv", "segmentation", "ocr", "face recognition", "facial recognition", "pose estimation",
+      "mediapipe", "tracking", "depth estimation",
+      "计算机视觉", "目标检测", "图像识别", "人脸识别", "姿态估计"]
+tags = ["opencv", "yolo", "yolov5", "yolov8", "mediapipe", "computer-vision", "roboflow", "google-cloud-vision",
+        "tesseract", "ultralytics", "detectron2"]
+
+[[facets.ai.terms]]
+id = "edge-ml"
+label = "端侧 ML"
+label_en = "On-device ML"
+icon = "🔋"
+kw = ["tinyml", "tensorflow lite", "tflite", "edge impulse", "on-device", "on device", "edge ai", "edge computing",
+      "embedded ml", "quantized", "onnx", "tensorrt", "offline model", "runs locally", "local llm",
+      "端侧", "边缘计算", "本地模型", "离线"]
+tags = ["tensorflow-lite", "tflite", "edge-impulse", "tinyml", "onnx", "tensorrt", "coral", "openvino"]
+
+[[facets.ai.terms]]
+id = "classic-ml"
+label = "机器学习"
+label_en = "Machine learning"
+icon = "📈"
+kw = ["machine learning", "neural network", "deep learning", "classifier", "classification", "regression",
+      "random forest", "svm", "k-means", "trained a model", "model training", "reinforcement learning",
+      "机器学习", "神经网络", "深度学习", "强化学习"]
+tags = ["tensorflow", "pytorch", "scikit-learn", "keras", "machine-learning", "sklearn", "numpy", "pandas"]
+
+[[facets.ai.terms]]
+id = "speech-ai"
+threshold = 1
+label = "语音 AI"
+label_en = "Speech AI"
+icon = "🎙️"
+kw = ["speech recognition", "speech-to-text", "text-to-speech", "whisper", "voice cloning", "elevenlabs",
+      "deepgram", "wake word", "keyword spotting",
+      "语音识别", "语音合成"]
+tags = ["whisper", "elevenlabs", "deepgram", "google-speech", "speech-recognition", "text-to-speech",
+        "openai-whisper", "speech-to-text", "vapi", "assemblyai", "cartesia"]
+
+[[facets.ai.terms]]
+id = "robot-learning"
+label = "机器人学习"
+label_en = "Robot learning"
+icon = "🦿"
+kw = ["vla", "vision-language-action", "imitation learning", "behavior cloning", "policy", "lerobot", "act policy",
+      "diffusion policy", "sim2real", "isaac sim", "mujoco", "openvla", "teleoperation",
+      "具身智能", "模仿学习", "遥操作"]
+tags = ["lerobot", "isaac-sim", "mujoco", "pybullet", "nvidia-isaac"]
+
+# ─────────────────────────── 工艺 Fabrication ───────────────────────────
+[facets.fab]
+label = "工艺"
+label_en = "Fabrication"
+threshold = 2
+max = 3
+order = 6
+
+[[facets.fab.terms]]
+id = "3d-print"
+threshold = 1
+label = "3D 打印"
+label_en = "3D printing"
+icon = "🧱"
+kw = ["3d print", "3d-print", "3d printed", "3d-printed", "3d printing", "pla", "petg", "resin print", "fdm",
+      "3d打印", "打印外壳"]
+tags = ["3d-printing", "3d-printed", "3d-printer", "prusa", "bambu-lab", "cura", "3d-printing-software", "pla"]
+
+[[facets.fab.terms]]
+id = "laser"
+threshold = 1
+label = "激光切割"
+label_en = "Laser cutting"
+icon = "🔦"
+kw = ["laser cut", "laser-cut", "laser cutter", "laser cutting", "acrylic", "plywood", "mdf",
+      "激光切割", "亚克力"]
+tags = ["laser-cutting", "laser-cutter", "laser-cut", "acrylic"]
+
+[[facets.fab.terms]]
+id = "cad"
+label = "CAD 建模"
+label_en = "CAD"
+icon = "📐"
+kw = ["cad", "solidworks", "fusion 360", "fusion360", "onshape", "autocad", "blender", "tinkercad", "inventor",
+      "建模", "三维设计"]
+tags = ["solidworks", "fusion-360", "autodesk-fusion-360", "fusion360", "onshape", "autocad", "tinkercad",
+        "autodesk", "autodesk-inventor", "blender", "cad", "freecad", "rhino"]
+
+[[facets.fab.terms]]
+id = "pcb-design"
+threshold = 1
+label = "PCB 设计"
+label_en = "PCB design"
+icon = "🟢"
+kw = ["custom pcb", "pcb design", "designed a pcb", "kicad", "eagle", "altium", "easyeda", "jlcpcb", "pcbway",
+      "嘉立创", "立创eda", "pcb设计", "画板"]
+tags = ["kicad", "eagle", "altium", "easyeda", "jlcpcb", "pcbway", "pcb", "autodesk-eagle", "altium-designer"]
+
+[[facets.fab.terms]]
+id = "textile-craft"
+threshold = 3
+label = "织物/手工"
+label_en = "Textile & craft"
+icon = "🧵"
+kw = ["sewing", "sewn", "fabric", "textile", "e-textile", "conductive thread", "felt", "cardboard", "wood",
+      "woodworking", "foam", "clay", "origami", "paper",
+      "缝纫", "布料", "纺织", "纸板", "木工", "手工", "折纸"]
+tags = ["cardboard", "lilypad"]

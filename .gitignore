@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.tmp
+.DS_Store
+.env
+# scrape caches are restored by actions/cache in CI; not committed
+data/cache/

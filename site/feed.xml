@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>Hardware Hackathon Works · 硬件黑客松作品雷达</title>
+<link href="https://hardware-hackathon-works.vercel.app/"/>
+<updated>2026-11-19T12:07:48+00:00</updated>
+<id>https://hardware-hackathon-works.vercel.app/</id>
+<entry>
+<title>Unsynthesizer · MakeMIT 2020</title>
+<link href="https://devpost.com/software/unsynthesizer-2jxeoy"/>
+<id>devpost:unsynthesizer-2jxeoy</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>不用电子元件、只靠声音的无线键盘：每个键敲出不同频率，电脑靠滤波识别按键 · 🏆 First Place, Most Contemporary Idea by Paperspace</summary>
+</entry>
+<entry>
+<title>AutoDump: Autonomous Self-Emptying Trash Rover · MakeCU</title>
+<link href="https://devpost.com/software/autodump-autonomous-self-emptying-trash-rover"/>
+<id>devpost:autodump-autonomous-self-emptying-trash-rover</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>A Raspberry Pi rover that finds full bins, docks, and auto-dumps into a central can using computer vision and sensors for hands-free, efficient trash management. · 🏆 3rd Place Overall</summary>
+</entry>
+<entry>
+<title>Quakey · Robotech 2026</title>
+<link href="https://devpost.com/software/quakey"/>
+<id>devpost:quakey</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>A vision-first autonomous robot for where lidar fails. · 🏆 1st Place Autonomous Track, 1st Place Overall</summary>
+</entry>
+<entry>
+<title>RxID · MakeUofT 2025</title>
+<link href="https://devpost.com/software/rxid"/>
+<id>devpost:rxid</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Managing medication is as simple as a tap. Our RFID health bracelet securely stores medical data, eliminates missed doses, and ensures seamless healthcare integration. Your health, one tap away. · 🏆 1st Place Prize</summary>
+</entry>
+<entry>
+<title>PrimePong · MakeUofT 2025</title>
+<link href="https://devpost.com/software/primepong"/>
+<id>devpost:primepong</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>PrimePong fuses cutting-edge tech with table tennis! Our fully equipped paddle tracks every swing for real-time scoring &amp; analytics—play, analyze, and elevate your game! · 🏆 3rd Place Overall</summary>
+</entry>
+<entry>
+<title>Cadence · MakeMIT x Harvard 2026</title>
+<link href="https://devpost.com/software/cadence-l1axr5"/>
+<id>devpost:cadence-l1axr5</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>With Cadence, your hands are the only instrument you need. Wear the glove, move your fingers, and watch music come alive—hardware, computer vision, and LEDs fuse to turn gesture into sound and light. · 🏆 Infosys Overall Grand Prize, [MLH] Best Use of Vultr</summary>
+</entry>
+<entry>
+<title>BrailleBridge · MadHacks 2026</title>
+<link href="https://devpost.com/software/braillebridge-41nacb"/>
+<id>devpost:braillebridge-41nacb</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Words in, Braille out! · 🏆 N+1 Institute Prize Track - 1st place</summary>
+</entry>
+<entry>
+<title>LABKickstart · IDEA Hacks 2026</title>
+<link href="https://devpost.com/software/labkickstart"/>
+<id>devpost:labkickstart</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>It’s nobody’s fault that modern physics experimentation is broken · 🏆 1st Place Prize</summary>
+</entry>
+<entry>
+<title>Twin · MakeUofT 2026</title>
+<link href="https://devpost.com/software/twin-pywkb4"/>
+<id>devpost:twin-pywkb4</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Lost? Panicking? Heart racing?Twin’s got your back—and your head. Built into a hard hat, Twin sees what you see, detects what you don’t, and guides you through it all. · 🏆 1st Place: Meta Glasses</summary>
+</entry>
+<entry>
+<title>MoonLine by TachyAstroach · Robotech 2026</title>
+<link href="https://devpost.com/software/moonline"/>
+<id>devpost:moonline</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>A controller-driven parent-subunit rover system for routing crucial power/data/tether lines across lunar terrain and inside a moon base, with live OLED telemetry. · 🏆 1st Place Controller Track</summary>
+</entry>
+<entry>
+<title>Project Jeremy and DriveCode · UTRA Hacks 2026</title>
+<link href="https://devpost.com/software/project-just-coding-destructive-jam-kite-robot-j-c-d-j-k-r"/>
+<id>devpost:project-just-coding-destructive-jam-kite-robot-j-c-d-j-k-r</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Our magnificent 2 Wheeled Robot Jeremy will be able to tackle this obstacle course in several seconds! Paired with the captivating DriveCode that allows all coding ideas in the car to become reality! · 🏆 UTRA Hacks 2026: 1st Place  - ASUS ROG Zephyrus G16 (2025)</summary>
+</entry>
+<entry>
+<title>Scribblr · MakeMIT x Harvard 2026</title>
+<link href="https://devpost.com/software/scribblr-0bxzq4"/>
+<id>devpost:scribblr-0bxzq4</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>听课 → Gemini 提炼重点 → 单笔画 G-code → 机械手拿真粉笔写在黑板上 · 🏆 Seed Studio Interactive Signage</summary>
+</entry>
+<entry>
+<title>AvocadoBro · Longhorn Robotics 2nd Annual Hackathon</title>
+<link href="https://devpost.com/software/glycemic-index-tracker"/>
+<id>devpost:glycemic-index-tracker</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>An essential grocery shopping companion · 🏆 1st Place</summary>
+</entry>
+<entry>
+<title>The Quicker Picker Upper · MakeUofT 2025</title>
+<link href="https://devpost.com/software/the-quicker-picker-upper"/>
+<id>devpost:the-quicker-picker-upper</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Save the 5 minute pause at the trash cans trying to figure out if you&#x27;re cup is recyclable! The Quicker Picker Upper will save the day · 🏆 2nd Place Overall</summary>
+</entry>
+<entry>
+<title>Alfred Robot Butler · Robotic Agents Hackathon</title>
+<link href="https://devpost.com/software/alfred-robot-butler"/>
+<id>devpost:alfred-robot-butler</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Alfred Butler is a voice-powered personal care assistant to help users who lack fine motor skills or other disabilities. · 🏆 Grand Prize: Cyberwave Track, First Prize: Toolhouse Track</summary>
+</entry>
+<entry>
+<title>The Exercists · UTRA Hacks 2025</title>
+<link href="https://devpost.com/software/the-exercists"/>
+<id>devpost:the-exercists</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Expelling the laziness from our bodies; like Typeracer for your muscles. · 🏆 Best AI Project with Databricks Open Source - Assorted Lego Sets</summary>
+</entry>
+<entry>
+<title>Dreaming Objects · HARD MODE: Hardware x AI Hackathon</title>
+<link href="https://devpost.com/software/living-room-dreaming-objects"/>
+<id>devpost:living-room-dreaming-objects</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Everyday items that interact, empathize, and thrive together. · 🏆 Grand Prize (E14 Fund)</summary>
+</entry>
+<entry>
+<title>Healthbox · MakeCU</title>
+<link href="https://devpost.com/software/healthbox"/>
+<id>devpost:healthbox</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Healthbox helps users take medication on time with ongoing reminders, camera-assisted recipient and pill checks, dose tracking, and AI guidance to support accountability. · 🏆 Hacker&#x27;s Choice Winning Team</summary>
+</entry>
+<entry>
+<title>TrusToken &amp; Autonomous Vehicle (Seperate) · UTRA Hacks 2026</title>
+<link href="https://devpost.com/software/dontgotoneyet"/>
+<id>devpost:dontgotoneyet</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Transforming everyday sustainable actions into AI-verified, NFTs that people can trust, earn, and repeat. · 🏆 UTRA Hacks 2026: 3rd Place - MSI Radeon RX 6600 XT GAMING X 8G (graphics card)</summary>
+</entry>
+<entry>
+<title>Vinyl Vision · IDEA Hacks 2025</title>
+<link href="https://devpost.com/software/vivis"/>
+<id>devpost:vivis</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Display your music from your record player! · 🏆 1st Place Winner</summary>
+</entry>
+<entry>
+<title>Dormmate · MakeCU</title>
+<link href="https://devpost.com/software/dormmate-eqzk0n"/>
+<id>devpost:dormmate-eqzk0n</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Dormmate is a smart doorbell that sends push notifications to your phone when visitors arrive at your door, and lets you unlock the door remotely - even when you&#x27;re not home. · 🏆 1st Place Overall</summary>
+</entry>
+<entry>
+<title>DotSight · MakeCU</title>
+<link href="https://devpost.com/software/dotsight-cdelxi"/>
+<id>devpost:dotsight-cdelxi</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>DotSight helps deaf &amp; blind users identify everyday objects. Point the camera, press a button, and feel the object&#x27;s name in braille under your fingertip, one letter at a time. · 🏆 Healthcare Track Winning Team, Notability: Trust the Process, Best Use of Notability</summary>
+</entry>
+<entry>
+<title>Forget Me Not · UTRA Hacks 2025</title>
+<link href="https://devpost.com/software/forget-me-not-674kto"/>
+<id>devpost:forget-me-not-674kto</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Keeping Watch. · 🏆 Open Challenge</summary>
+</entry>
+<entry>
+<title>Human Operator · HARD MODE: Hardware x AI Hackathon</title>
+<link href="https://devpost.com/software/human-operator"/>
+<id>devpost:human-operator</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>A Human Augmentation Tool for On-Body Intelligence with EMS. · 🏆 LEARN - Track</summary>
+</entry>
+<entry>
+<title>Tactile - Perceived by Touch · MakeMIT 2016</title>
+<link href="https://devpost.com/software/tactile-par4yx"/>
+<id>devpost:tactile-par4yx</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Real Time Text to Braille Translator · 🏆 1st Place</summary>
+</entry>
+<entry>
+<title>CPR Trainer · IDEA Hacks 2026</title>
+<link href="https://devpost.com/software/cpr-trainer-a9olkm"/>
+<id>devpost:cpr-trainer-a9olkm</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Educate the public with an accessible CPR trainer that eliminates the need for expensive facilities, using low-cost ESP32 hardware to provide real-time feedback and training to anyone, anywhere. · 🏆 2nd Place Prize</summary>
+</entry>
+<entry>
+<title>Silent Night · MakeUofT 2024</title>
+<link href="https://devpost.com/software/pillowburgerking"/>
+<id>devpost:pillowburgerking</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>The Silent Night pillow fights snoring with adjustable height panels and sleep pattern tracking. · 🏆 Smart Home Tech - Theme Prize</summary>
+</entry>
+<entry>
+<title>TeddyTalk · MakeUofT 2026</title>
+<link href="https://devpost.com/software/teddytalk-eh5gjm"/>
+<id>devpost:teddytalk-eh5gjm</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Have you ever wanted an AI Build-A-Bear? · 🏆 Best Use of Arduino Uno Q (1st Place), [MLH] Best Use of ElevenLabs</summary>
+</entry>
+<entry>
+<title>Breacher · Robotic Agents Hackathon</title>
+<link href="https://devpost.com/software/breacher"/>
+<id>devpost:breacher</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>A robot goes in first. It scans the room and tells your team out loud, in plain English exactly who&#x27;s inside and where before a single soldier steps through the door. · 🏆 Grand Prize: Smallest.ai Track</summary>
+</entry>
+<entry>
+<title>MA-NO · Robotic Agents Hackathon</title>
+<link href="https://devpost.com/software/ma-no-092j5i"/>
+<id>devpost:ma-no-092j5i</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>MA-NO is an AI-powered recycling robot that uses computer vision and a robotic arm to identify and sort plastic, aluminum, and paper automatically, eliminating manual waste sorting. · 🏆 Best Manipulation Use Case: Cyberwave Track, Second Prize: Jade Hosting Track</summary>
+</entry>
+<entry>
+<title>PipeX · RoboTech 2025</title>
+<link href="https://devpost.com/software/pipex"/>
+<id>devpost:pipex</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>PipeX is a pipe crawling robot that automates risky pipe inspection and maintenance. PipeX detects cracks and corrosion with computer vision and AI, enabling proactive repairs before a costly failure. · 🏆 Advanced Track - Winner</summary>
+</entry>
+<entry>
+<title>PlantPartner · MakeNJIT Hardware Hackathon 2024</title>
+<link href="https://devpost.com/software/plantpartner"/>
+<id>devpost:plantpartner</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>An inexpensive robotic assistant that monitors plants and diagnoses issues using AI technology. Sensor measurements allow consumers to grow food without in-depth garden knowledge. · 🏆 First Place</summary>
+</entry>
+<entry>
+<title>RuffTerrain · Robotic Agents Hackathon</title>
+<link href="https://devpost.com/software/ruffterrain"/>
+<id>devpost:ruffterrain</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>RuffTerrain sends autonomous robots into active wildfires to find survivors using computer vision, streaming real-time data to a live dashboard so rescuers know where to go. · 🏆 First Prize: Scrapegraph AI Track, Grand Prize: Jade Hosting Track</summary>
+</entry>
+<entry>
+<title>RYZE Rover · Robotech 2026</title>
+<link href="https://devpost.com/software/ryze-space-exploration-rover"/>
+<id>devpost:ryze-space-exploration-rover</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Our project is a space-exploration rover designed to autonomously scan planetary surfaces and count potential shiny or metallic objects during exploration, using ultrasonic and IR sensing. · 🏆 1st Place Beginner Track</summary>
+</entry>
+<entry>
+<title>Sator · MakeCU</title>
+<link href="https://devpost.com/software/sator-hjvswp"/>
+<id>devpost:sator-hjvswp</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Turn fields into live dashboards. Sator translates ground truth from a compact rover into clear actions farmers can trust—starting small, built to scale. · 🏆 2nd Place Overall, Best use of DYNAMIXEL [ROBOTIS]</summary>
+</entry>
+<entry>
+<title>SenseWear · MakeCU</title>
+<link href="https://devpost.com/software/sensewear"/>
+<id>devpost:sensewear</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>SenseWear is a wearable device that gives you a sixth sense for your surroundings: using sensors, vibration, and sound to detect obstacles, enhancing awareness, and independence for everyone. · 🏆 Best Beginner Hack</summary>
+</entry>
+<entry>
+<title>Sentez! · MakeMIT x Harvard 2026</title>
+<link href="https://devpost.com/software/sentez"/>
+<id>devpost:sentez</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Sentez! Let the wine do the talking… we handle the swirling Drop the glass, press Start: Sentez! tunes the swirl to the sweet spot where fluid mechanics boosts aroma + taste, ideal for wine amateurs · 🏆 Infosys Overall Grand Prize</summary>
+</entry>
+<entry>
+<title>Magnus Force Nerf Gun · MakeMIT 2019</title>
+<link href="https://devpost.com/software/magnus_gun"/>
+<id>devpost:magnus_gun</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>This nerf gun curves its shots midair to hit targets detected with computer vision · 🏆 Second Place</summary>
+</entry>
+<entry>
+<title>EcoAware · MakerHacks II</title>
+<link href="https://devpost.com/software/ecoaware"/>
+<id>devpost:ecoaware</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>The only smart home device you will ever need. · 🏆 1st Open Prototype</summary>
+</entry>
+<entry>
+<title>Hear-O Squad · MakeUofT 2025</title>
+<link href="https://devpost.com/software/hear-o-squad"/>
+<id>devpost:hear-o-squad</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Silent No More: A Wearable Device That Lets You See and Feel Important Sounds · 🏆 Theme Prize: Wearable Tech</summary>
+</entry>
+<entry>
+<title>Procrastibot · IDEA Hacks 2025</title>
+<link href="https://devpost.com/software/procrastibot"/>
+<id>devpost:procrastibot</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Tired of mindlessly scrolling on your phone? Struggling to stay on task? The Procrastibot will get &quot;Jo&#x27; (you) off your phone&quot; by locking it for a set time and running from you when you try to grab it. · 🏆 Super Human Winner</summary>
+</entry>
+<entry>
+<title>Robot-As-A-Verifier · MakeCU</title>
+<link href="https://devpost.com/software/robot-as-a-verifier"/>
+<id>devpost:robot-as-a-verifier</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Verification is an integral part of autonomous research—we adapt a robotic arm to vet and qualify hardware design and downstream use. · 🏆 Creativity Track Winning Team</summary>
+</entry>
+<entry>
+<title>TofuPresto · MakeMIT 2019</title>
+<link href="https://devpost.com/software/tofupresto"/>
+<id>devpost:tofupresto</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Eating tofu is modernized by a hands-off IoT tofu press that gradually presses your tofu when initialized remotely. · 🏆 First Place, Infosys Most Innovative Hack</summary>
+</entry>
+<entry>
+<title>b2bmaas · MakeMIT x Harvard 2026</title>
+<link href="https://devpost.com/software/b2bmaas"/>
+<id>devpost:b2bmaas</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Block2Brick: Minecraft-as-a-slicer · 🏆 Seed Studio Interactive Signage</summary>
+</entry>
+<entry>
+<title>Cupid Glasses · MakeUofT 2026</title>
+<link href="https://devpost.com/software/cupid-glasses"/>
+<id>devpost:cupid-glasses</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Wearable smart glasses that recognize a saved profile (friend) and generates personalized icebreakers in real time, displayed on a 16×2 LCD with touch to skip suggestions. · 🏆 (Valentine&#x27;s Theme) Lego Cherry Blossoms, [MLH] Best Use of Gemini API</summary>
+</entry>
+<entry>
+<title>Progress Pal · Longhorn Robotics 2nd Annual Hackathon</title>
+<link href="https://devpost.com/software/productivity-tracker-1nvc36"/>
+<id>devpost:productivity-tracker-1nvc36</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Track your productivity, and receive feedback on how to optimize your daily routine. · 🏆 2nd Place</summary>
+</entry>
+<entry>
+<title>Wearable CPR Guide (No One Bites The Dust) · MakeUofT 2026</title>
+<link href="https://devpost.com/software/no-one-bites-the-dust"/>
+<id>devpost:no-one-bites-the-dust</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Tired of staring into training mannequins&#x27; soulless eyes? Try the wearable CPR guide, an armband that plays music to the ideal compression beat and flashes light when compression force exceeds range. · 🏆 (Survival Theme) North Face Fanny Pack</summary>
+</entry>
+<entry>
+<title>Battle Over Bins · MakeUofT 2025</title>
+<link href="https://devpost.com/software/battle-over-bins"/>
+<id>devpost:battle-over-bins</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>BOB uses gameification and the Internet of Things to encourage waste management! · 🏆 Theme Prize: Sustainability and Green Tech, .Tech</summary>
+</entry>
+<entry>
+<title>Helping Hand · MakeUofT 2021</title>
+<link href="https://devpost.com/software/helping-hand-y7z69j"/>
+<id>devpost:helping-hand-y7z69j</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>A smart glove that utilizes data from various sensors to accurately track a hand&#x27;s position and recognize gestures through a trained classifier model. · 🏆 3rd Place Overall</summary>
+</entry>
+<entry>
+<title>Isaac&#x27;s Basics - Team 48 · UTRA Hacks 2026</title>
+<link href="https://devpost.com/software/isaac-s-basics"/>
+<id>devpost:isaac-s-basics</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Isaac&#x27;s Basics is a revolutionary robot which mimics the skills of professional biathletes! - Colour detection! -Shooting accuracy! · 🏆 Best Beginner Hack - POCO X7 Pro</summary>
+</entry>
+<entry>
+<title>Keep Hacking and Nobody Codes · MakeUofT 2024</title>
+<link href="https://devpost.com/software/speak-continuously-to-prevent-detonation"/>
+<id>devpost:speak-continuously-to-prevent-detonation</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>An explosive-defusing simulation game of modular puzzles based on the hit game &quot;Keep Talking and Nobody Explodes&quot;. · 🏆 2nd Place Prize</summary>
+</entry>
+<entry>
+<title>Magic Bluetooth House · IoT Hack Day 2016</title>
+<link href="https://devpost.com/software/magic-bluetooth-house"/>
+<id>devpost:magic-bluetooth-house</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>A set of BLE sensors that operate a magical minime house · 🏆 Grand Prize</summary>
+</entry>
+<entry>
+<title>Resonant Evil · MakeUofT 2025</title>
+<link href="https://devpost.com/software/resonance-evil"/>
+<id>devpost:resonance-evil</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Sounds Scary: using only audio cues navigate a maze blind— but don&#x27;t forget a monster is chasing you. · 🏆 Theme Prize: Video Games</summary>
+</entry>
+<entry>
+<title>Waste Wizard · MakeUofT 2024</title>
+<link href="https://devpost.com/software/waste-wizard-6zn8jq"/>
+<id>devpost:waste-wizard-6zn8jq</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Have you ever stood infront of a recycling bin and couldn&#x27;t decide which bin to throw your garbage in so you just threw it in the general trash? With Waste Wizard, you don&#x27;t have to think about that! · 🏆 1st Place Prize</summary>
+</entry>
+<entry>
+<title>Whackathon · MakeMIT x Harvard 2026</title>
+<link href="https://devpost.com/software/whackathon-w0e27o"/>
+<id>devpost:whackathon-w0e27o</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>检测到你驼背成『虾』就立刻物理惩罚的椅子 · 🏆 [MLH] Best Use of ElevenLabs</summary>
+</entry>
+<entry>
+<title>AlexaGo · MakeHarvard 2018</title>
+<link href="https://devpost.com/software/alexago"/>
+<id>devpost:alexago</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Moving voice-assistive technology forward by putting it on wheels. · 🏆 Best Overall, Best IoT Hack Using a Qualcomm Device</summary>
+</entry>
+<entry>
+<title>Anti Anti-Masker Mask · MakeUofT 2022</title>
+<link href="https://devpost.com/software/anti-anti-masker-mask"/>
+<id>devpost:anti-anti-masker-mask</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Taking social distancing to the next level · 🏆 2nd Place Overall</summary>
+</entry>
+<entry>
+<title>BreadCrumb Trail · MakeUofT 2026</title>
+<link href="https://devpost.com/software/breadcrumb-trail"/>
+<id>devpost:breadcrumb-trail</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Lost in the wilderness. Phone dead. Trail gone. Breadcrumb Trail: Your lifeline home. · 🏆 Best Use of Arduino Uno Q (3rd Place)</summary>
+</entry>
+<entry>
+<title>CoMotion: shared motion, restored control · IDEA Hacks 2025</title>
+<link href="https://devpost.com/software/rc-human"/>
+<id>devpost:rc-human</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>CoMotion is a wearable, non-invasive system allowing remote guidance of a person’s movements using safe, targeted electrical stimulation, empowering caregivers to assist with rehab and daily tasks. · 🏆 2nd Place Winner</summary>
+</entry>
+<entry>
+<title>LIFE-line · IDEA Hacks 2024</title>
+<link href="https://devpost.com/software/lifeline-pcsmi2"/>
+<id>devpost:lifeline-pcsmi2</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Relief for your family, make sure get there in time. A lagless response, immediate action, fall detection, for rapid extraction. Get yourself a LIFE-line. · 🏆 $500 cash divided amongst team from Patient Safety</summary>
+</entry>
+<entry>
+<title>PillBoy · MakeMIT 2019</title>
+<link href="https://devpost.com/software/pillboy"/>
+<id>devpost:pillboy</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>An IOT prescription manager that seamlessly (and aesthetically) integrates into your day with touchscreen and SMS · 🏆 Infosys Most Innovative Hack, Best Twilio Hack</summary>
+</entry>
+<entry>
+<title>Plant Pal · MakeNJIT 2025</title>
+<link href="https://devpost.com/software/plant-pal-tpl7e4"/>
+<id>devpost:plant-pal-tpl7e4</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Plant Pal connects to sensors to monitor soil and light, giving real-time tips and alerts from a plant database—making plant care simple and stress-free. · 🏆 Second Place</summary>
+</entry>
+<entry>
+<title>POLL: Pong Over Laser Link · MAKECU</title>
+<link href="https://devpost.com/software/poll-pong-over-laser-link"/>
+<id>devpost:poll-pong-over-laser-link</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Wireless video gaming. · 🏆 Best Domain.com Name, 3rd Overall</summary>
+</entry>
+<entry>
+<title>Pulse Bot · 2026 MakeNJIT Hardware hackathon</title>
+<link href="https://devpost.com/software/pulse-bot-67cegz"/>
+<id>devpost:pulse-bot-67cegz</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>PulseBot the robot that enters collapsed buildings before humans do. It detects survivors via CO2, heat &amp; sound, then sends responders in with exact coordinates. Lives saved. Risks eliminated. · 🏆 First Place</summary>
+</entry>
+<entry>
+<title>Rockin&#x27; A Sweet Seat · IoTHackDay 2017</title>
+<link href="https://devpost.com/software/rockin-a-sweet-seat"/>
+<id>devpost:rockin-a-sweet-seat</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Car Seats need to be smarter. Data for parents, kids and the manufacturer is critical. Let&#x27;s make a better seat! · 🏆 Grand Prize Winner - Prize Weighted Towards Ideas with Startup Business Potential</summary>
+</entry>
+<entry>
+<title>RoombaV0.1 · UTRA Hacks 2026</title>
+<link href="https://devpost.com/software/tba-khcq2p"/>
+<id>devpost:tba-khcq2p</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Imagine this in your room...Terrifying...... · 🏆 Cleanest Code - ROG Xbox Ally</summary>
+</entry>
+<entry>
+<title>super amazing cool volumetric display! · MakeMIT x Harvard 2026</title>
+<link href="https://devpost.com/software/super-amazing-cool-volumetric-display"/>
+<id>devpost:super-amazing-cool-volumetric-display</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>horrors beyond your comprehension, brought to you in stunning 3D · 🏆 Entertainment</summary>
+</entry>
+<entry>
+<title>VisionSense · MakeUofT 2019</title>
+<link href="https://devpost.com/software/visionsense"/>
+<id>devpost:visionsense</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>An IoT outfit to haptically guide users with visual impairments/obstructions while monitoring their environment · 🏆 1st Place Overall</summary>
+</entry>
+<entry>
+<title>WALL-E · UTRA Hacks 2025</title>
+<link href="https://devpost.com/software/wannabe-wall-e"/>
+<id>devpost:wannabe-wall-e</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Arduino-powered robot with various sensors that can play capture the flag and solve mazes · 🏆 Closed Challenge</summary>
+</entry>
+<entry>
+<title>Braille-iant · TAMUmake 2020</title>
+<link href="https://devpost.com/software/braille-iant-o1gcya"/>
+<id>devpost:braille-iant-o1gcya</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Let&#x27;s make something Braille-iant. · 🏆 1st Place Winner, Accessibility Challenge</summary>
+</entry>
+<entry>
+<title>DeepTrash · MakeHarvard 2019</title>
+<link href="https://devpost.com/software/deeptrash"/>
+<id>devpost:deeptrash</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Reinventing the trash can. We use machine learning to filter out disposed items automatically into the proper bins! · 🏆 Best Overall (1st, 2nd, 3rd prizes)</summary>
+</entry>
+<entry>
+<title>DumbleDoor · MakeHarvard 2018</title>
+<link href="https://devpost.com/software/dumbledoor"/>
+<id>devpost:dumbledoor</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>A magical door that opens with facial recognition with a 2 way confirmation. · 🏆 Best Overall</summary>
+</entry>
+<entry>
+<title>JamDeck · MakeUofT 2026</title>
+<link href="https://devpost.com/software/jamdeck"/>
+<id>devpost:jamdeck</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Turn motion into music with a real-time, sensor-driven jam controller · 🏆 (Audio Theme) JBL Go4</summary>
+</entry>
+<entry>
+<title>Napkn · IDEA Hacks 2020</title>
+<link href="https://devpost.com/software/napkn-kavgmw"/>
+<id>devpost:napkn-kavgmw</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>Easily reserve tables, analyze dining/study hall traffic, and optimize your eating and studying experience using this realtime database-enabled tabletop IoT device. · 🏆 IDEA Hacks 1st Place Grand Prize</summary>
+</entry>
+<entry>
+<title>PhysioT · MakeUofT 2020</title>
+<link href="https://devpost.com/software/physiot"/>
+<id>devpost:physiot</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>A device that replaces a physiotherapist for arm injuries · 🏆 1st Place Overall</summary>
+</entry>
+<entry>
+<title>SmartTrash · MakeCU</title>
+<link href="https://devpost.com/software/smarttrash-jo30fd"/>
+<id>devpost:smarttrash-jo30fd</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>We&#x27;re the next generation of cutting-edge trash cans. Introducing SmartTrash, the platform that helps you view analytics for your waste management system and efficiently sort recycle and waste. · 🏆 Best Pitch, Best use of Vultr [MLH]</summary>
+</entry>
+<entry>
+<title>Spicio · MakeMIT 2016</title>
+<link href="https://devpost.com/software/spicio"/>
+<id>devpost:spicio</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>A hands free kitchen assistant for the modern world. Spice it up. · 🏆 3rd Place</summary>
+</entry>
+<entry>
+<title>SpreadRo · MakeMIT 2021</title>
+<link href="https://devpost.com/software/spreadro-6zds3h"/>
+<id>devpost:spreadro-6zds3h</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>SpreadRo:A Multipurpose Rover For The Future, It is basically a rover that can seed your grass autonomously during the summer and can spread ice melt on your driveway during winters. · 🏆 1st Place Sustainability Category, iRobot Best Home Robot Category</summary>
+</entry>
+<entry>
+<title>Vibrace · MakeHarvard 2019</title>
+<link href="https://devpost.com/software/ergonomic-arm-brace"/>
+<id>devpost:ergonomic-arm-brace</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>An astronomical solution to physical therapy. · 🏆 Best Overall (1st, 2nd, 3rd prizes)</summary>
+</entry>
+<entry>
+<title>Bicyclight · MakeMIT 2016</title>
+<link href="https://devpost.com/software/bicyclight"/>
+<id>devpost:bicyclight</id>
+<updated>2026-11-19T00:00:00Z</updated>
+<summary>A gesture-controlled bike light, making the roads safer for cyclists everywhere. · 🏆 2nd Place</summary>
+</entry>
+</feed>

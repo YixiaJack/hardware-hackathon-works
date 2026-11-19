@@ -1,0 +1,105 @@
+<div align="center">
+
+# 🛠️ Hardware Hackathon Works · 硬件黑客松作品雷达
+
+**自动收录全球硬件 / 机器人 / 具身交互赛事里最有意思的作品**
+MakeMIT · Build18 · MakeUofT · Reality Hack · TreeHacks · Hackaday · Hackster · 立创开源 · AdventureX …
+
+[![Works](https://img.shields.io/badge/作品-{{COUNT}}-38BDF8?style=flat-square)]({{SITE_URL}})
+[![Winners](https://img.shields.io/badge/获奖作品-{{WINNERS}}-F59E0B?style=flat-square)]({{SITE_URL}})
+[![Events](https://img.shields.io/badge/赛事系列-{{SERIES}}%20·%20{{EDITIONS}}%20届-10B981?style=flat-square)](#-赛事覆盖)
+[![New](https://img.shields.io/badge/本周新增-{{NEW_WEEK}}-EC4899?style=flat-square)](#-本周新增)
+[![Updated](https://img.shields.io/badge/自动更新-{{TODAY_BADGE}}-6366F1?style=flat-square)](.github/workflows/update.yml)
+
+### 👉 [打开可视化作品库]({{SITE_URL}}) · [RSS 订阅]({{SITE_URL}}feed.xml) · [JSON 数据](data/projects.json)
+
+</div>
+
+> [!TIP]
+> 本仓库是 [AlexDrives/hardware-hackathon-radar](https://github.com/AlexDrives/hardware-hackathon-radar)（追踪**赛事**）的姊妹项目，专注于**作品**：
+> 每 6 小时由 GitHub Actions 自动抓取 Devpost / GitHub / Build18 / Hackster / 立创开源 等来源，
+> 按 6 个正交维度自动分类、按「有意思指数」排序，并发布到可筛选的网页作品库。
+
+---
+
+## 🧭 分类方法：6 个正交维度
+
+一件作品同时回答 6 个问题，每个维度独立筛选、可自由组合（例如「**无障碍 × 可穿戴 × 触觉反馈 × ESP32**」）：
+
+| 维度 | 回答的问题 | 举例 |
+| :-- | :-- | :-- |
+| **场景** Domain | 为谁、解决什么问题？ | 健康医疗 · 无障碍 · 效率自律 · 社交情感 · 艺术音乐 … |
+| **形态** Form | 做出来是个什么东西？ | 可穿戴 · 移动机器人 · 机械臂 · 陪伴玩偶 · 制造机器 … |
+| **交互** Interaction | 人怎么和它打交道？ | 语音 · 视觉手势 · 触觉 · 实体操控 · 生理信号 … |
+| **平台** Platform | 用了什么硬件平台？ | Arduino · ESP32 · Raspberry Pi · Jetson · ROS … |
+| **智能** AI | 用了什么 AI 能力？ | 大模型 · 计算机视觉 · 端侧 ML · 机器人学习 … |
+| **工艺** Fabrication | 怎么造出来的？ | 3D 打印 · 激光切割 · PCB 设计 · CAD … |
+
+外加 **赛事 / 年份 / 获奖等级 / 编辑精选 / 亮点（脑洞·温度·硬核·实用·社会价值）** 五个辅助维度。
+分类规则全部写在 [`config/taxonomy.toml`](config/taxonomy.toml)，改关键词即可重新分类；可选的 LLM 精修见 [`pipeline/enrich.py`](pipeline/enrich.py)。
+
+**当前分布**
+
+{{FACET_TABLE}}
+
+### 「有意思指数」怎么算？（0–100）
+
+`获奖等级（一等奖 38 / 赛道奖 26 / 赞助奖 16）` + `点赞数（对数）` + `GitHub Star（对数）` + `有演示视频 / 开源仓库 / 实拍图` + `文档完整度` + `硬件深度` + `纯硬件赛事加成` + `编辑精选 22`。
+它不代表作品好坏，只用来把「最值得先看的」排在前面。公式见 [`pipeline/classify.py`](pipeline/classify.py)。
+
+---
+
+## ⭐ 编辑精选
+
+{{PICKS_TABLE}}
+
+> 想推荐作品？在 [`config/picks.toml`](config/picks.toml) 里加几行（链接 + 一句话 + 点评）提个 PR 即可。
+
+---
+
+## 🗂️ 按场景浏览（每类 Top 5）
+
+{{DOMAIN_BLOCKS}}
+
+---
+
+## 🏁 赛事覆盖
+
+{{EVENTS_TABLE}}
+
+新一届比赛只要上了 Devpost，就会被**自动发现并收录**；新增一个赛事系列只需在 [`config/events.toml`](config/events.toml) 里加一段。
+
+---
+
+## 🆕 本周新增
+
+{{NEW_LIST}}
+
+---
+
+## ⚙️ 它是怎么自动更新的
+
+```mermaid
+flowchart LR
+  A["⏰ GitHub Actions<br/>每 6 小时"] --> B["抓取<br/>Devpost · GitHub · Build18<br/>Hackster · 立创 · AdventureX"]
+  B --> C["合并去重<br/>(同一仓库只留一条)"]
+  C --> D["硬件判定 + 6 维分类<br/>taxonomy.toml"]
+  D --> E["有意思指数<br/>+ 编辑精选"]
+  E --> F["data/projects.json<br/>README · RSS"]
+  F --> G["🌐 Vercel<br/>可视化作品库"]
+```
+
+- **增量抓取**：详情页按作品缓存（`data/cache/`），每次只请求新作品；单个来源失败时保留上次的数据，不会清空。
+- **全站新作流**：除了固定赛事，还会按时间倒序扫描 Devpost 上所有含 Arduino / ESP32 / 树莓派 / 机器人 等标签的新作品，获奖或有点赞的会被收录。
+- **本地运行**：`python -m pipeline.run`（零依赖，Python ≥ 3.11）；只改了分类规则就跑 `python -m pipeline.run --reclassify`；打开网页：`python -m http.server -d site`。
+
+## 🤝 参与
+
+| 你想做什么 | 怎么做 |
+| :-- | :-- |
+| 推荐一个作品 | 编辑 [`config/picks.toml`](config/picks.toml) |
+| 新增一个赛事 / 数据源 | 编辑 [`config/events.toml`](config/events.toml)，或在 `pipeline/sources/` 加一个采集器 |
+| 改进分类 | 编辑 [`config/taxonomy.toml`](config/taxonomy.toml) 后 `--reclassify` 看效果 |
+| 让 AI Agent 接力维护 | 把 [`AGENTS.md`](AGENTS.md) 发给它 |
+
+<div align="center"><sub>本页面由 <code>pipeline/render.py</code> 自动生成 · 最后更新 {{TODAY}} · 作品版权归各自作者所有，本仓库仅做索引</sub></div>
