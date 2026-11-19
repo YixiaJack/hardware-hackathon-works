@@ -5,3 +5,5 @@ __pycache__/
 .env
 # scrape caches are restored by actions/cache in CI; not committed
 data/cache/
+.vercel
+.env*
