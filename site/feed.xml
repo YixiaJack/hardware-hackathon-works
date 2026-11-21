@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Hardware Hackathon Works · 硬件黑客松作品雷达</title>
 <link href="https://hardware-hackathon-works.vercel.app/"/>
-<updated>2026-11-21T12:32:20+00:00</updated>
+<updated>2026-11-21T18:29:01+00:00</updated>
 <id>https://hardware-hackathon-works.vercel.app/</id>
 <entry>
 <title>NeuroPilot: Brainwave Computer Control · TreeHacks 2025</title>
@@ -54,11 +54,25 @@
 <summary>Rapid Incident Intelligence System · 🏆 2nd Overall, Fetch.ai: Best Use of ASI:One</summary>
 </entry>
 <entry>
+<title>SurgeVue · PennApps XXV</title>
+<link href="https://devpost.com/software/surgikalai"/>
+<id>devpost:surgikalai</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>A multi-model solution specifically designed for professional surgeons and medical students to make their process of performing the nuerosurgical methods much more efficient and safe. · 🏆 Best Overall 3rd, Best AR/VR Hack</summary>
+</entry>
+<entry>
 <title>Dispatch · HackGT 12: Midnight at the Museum</title>
 <link href="https://devpost.com/software/dispatch-u7fwrv"/>
 <id>devpost:dispatch-u7fwrv</id>
 <updated>2026-11-21T00:00:00Z</updated>
 <summary>A novel VR locomotion solution to provide accessible immersive training experiences for first responders · 🏆 Hall of Illusions - 1st Place</summary>
+</entry>
+<entry>
+<title>ReVision · uOttaHack 6</title>
+<link href="https://devpost.com/software/revision-v9y65g"/>
+<id>devpost:revision-v9y65g</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>ReVision is a pair of smart glasses based on AI to help visually impaired individuals navigate the world and gain autonomy over their living spaces. · 🏆 1st Place Overall</summary>
 </entry>
 <entry>
 <title>S-KBD67 · Hack the North 2025</title>
@@ -87,6 +101,13 @@
 <id>devpost:terraglide-ai</id>
 <updated>2026-11-21T00:00:00Z</updated>
 <summary>TerraGlide is an autonomous leveler using dual-action parallel linkages for soil redistribution. It features AI human detection that auto-lifts the blade and triggers alerts for safety. · 🏆 Track: Best Hardware Hack (John Deere Mechathon) (1st Place), Track: Best Hardware Hack (John Deere Mechathon) (Easy Track Winner)</summary>
+</entry>
+<entry>
+<title>Diabeteasy · HackHarvard 2024</title>
+<link href="https://devpost.com/software/diabeteasy"/>
+<id>devpost:diabeteasy</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>A smart insole for diabetic patients that monitors foot pressure in real-time, corrects their gait to prevent ulcers, and reduces the risk of amputation. · 🏆 3rd Place Overall Hack</summary>
 </entry>
 <entry>
 <title>Ted.AI · Cal Hacks 12.0</title>
@@ -194,6 +215,20 @@
 <summary>With different classes, enemies, and even an option to bet on yourself, G.U.R.T is the future of mixed-reality games. Join our web queue, and watch the real-world tanks drive! · 🏆 Best Hardware Hack, [MLH] Best .Tech Domain Name</summary>
 </entry>
 <entry>
+<title>Noodle Doodle · nwHacks 2024</title>
+<link href="https://devpost.com/software/noodle-doodle"/>
+<id>devpost:noodle-doodle</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Tired and hungry – the first thing you want once you retreat back to your humble abode is a perfectly cooked bowl of noodles just the way YOU like it. Last thing you want to do... is make it yourself. · 🏆 Wild Card Track Prize</summary>
+</entry>
+<entry>
+<title>Rex · Hack the North 2024</title>
+<link href="https://devpost.com/software/rex-inywpb"/>
+<id>devpost:rex-inywpb</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>If you can dream it, Rex will find it! · 🏆 MappedIn: Lead the Way in Indoor Mapping: Transform Spaces with Mappedin SDK, Voiceflow: Best Non-Chatbot AI Agent Built on Voiceflow</summary>
+</entry>
+<entry>
 <title>CRASH OUT! · Hack the North 2025</title>
 <link href="https://devpost.com/software/crash-out-bte6q0"/>
 <id>devpost:crash-out-bte6q0</id>
@@ -215,6 +250,13 @@
 <summary>Cellular automaton that evolves into flame-like patterns. · 🏆 Ross Video: FPGA Challenge</summary>
 </entry>
 <entry>
+<title>LaaS · DeltaHacks X</title>
+<link href="https://devpost.com/software/laas"/>
+<id>devpost:laas</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Securely drop off and pickup food orders with Locker as a Service! · 🏆 3rd Place</summary>
+</entry>
+<entry>
 <title>Red Squid Dead Squid · nwHacks 2025</title>
 <link href="https://devpost.com/software/red-squid-dead-squid"/>
 <id>devpost:red-squid-dead-squid</id>
@@ -229,6 +271,13 @@
 <summary>Embers is an offline Mesh Network with Edge-AI sentry nodes that detect wildfires in real-time using Computer Vision and a self-healing mesh. · 🏆 Potential Community Impact</summary>
 </entry>
 <entry>
+<title>IntelliBin · DeltaHacks X</title>
+<link href="https://devpost.com/software/intellibin-4qu7co"/>
+<id>devpost:intellibin-4qu7co</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Never Worry About Sorting Your Trash Again – Start Smart Sorting With AI; the Green, Clean, and Smart Way! · 🏆 2nd Place</summary>
+</entry>
+<entry>
 <title>Miru · TreeHacks 2025</title>
 <link href="https://devpost.com/software/mapdash"/>
 <id>devpost:mapdash</id>
@@ -241,6 +290,13 @@
 <id>devpost:neuroscent</id>
 <updated>2026-11-21T00:00:00Z</updated>
 <summary>Mental well-being with scent, vision, and biofeedback · 🏆 Hardware: Smart Sensing</summary>
+</entry>
+<entry>
+<title>PERCEIV/IO · Hack the North 2024</title>
+<link href="https://devpost.com/software/perceiv-io"/>
+<id>devpost:perceiv-io</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>🪶 PERCEIV/IO leverages AI image recognition and various LLMs to assist persons with visual and/or auditory impairments perceive the world around them through an innovative tactile display solution. · 🏆 Convex: Best App and Startup Idea Built on Convex</summary>
 </entry>
 <entry>
 <title>PiGestures · HackIllinois 2025</title>
@@ -269,6 +325,20 @@
 <id>devpost:melanone</id>
 <updated>2026-11-21T00:00:00Z</updated>
 <summary>Portable melanoma tracker and detector. · 🏆 [Telus] The Edge of Innovation</summary>
+</entry>
+<entry>
+<title>SecureStep · Hack the North 2024</title>
+<link href="https://devpost.com/software/securestep"/>
+<id>devpost:securestep</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Helping you walk with confidence. · 🏆 MappedIn: Lead the Way in Indoor Mapping: Transform Spaces with Mappedin SDK</summary>
+</entry>
+<entry>
+<title>Talk Tuah · Cal Hacks 11.0</title>
+<link href="https://devpost.com/software/talk-tuah"/>
+<id>devpost:talk-tuah</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Ever struggled in social settings? Not knowing what to say next? Meet Talk Tuah, AR glasses with a built in AI chatbot trained in social etiquette, as long as a mobile app to review transcripts. · 🏆 Cal Hacks: Best Beginner Hack, Deepgram: Deepgram Voice Agent Quest</summary>
 </entry>
 <entry>
 <title>TempSense · MIT Reality Hack 2025</title>
@@ -313,6 +383,13 @@
 <summary>Synchronize brainwaves to treat mental disease and generate cymatic art · 🏆 Best Use of Qualcomm Technologies with AI, Presented by Qualcomm</summary>
 </entry>
 <entry>
+<title>StudyScout · nwHacks 2024</title>
+<link href="https://devpost.com/software/studyscout"/>
+<id>devpost:studyscout</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Studying is hard enough, why make it harder? Skip waiting in line with accessible solutions made simple by IoT integration. · 🏆 Best use of Mappedin&#x27;s SDK, CSE Sponsor Prize</summary>
+</entry>
+<entry>
 <title>Block Party · MIT Reality Hack 2024</title>
 <link href="https://devpost.com/software/block-party-ov0jmc"/>
 <id>devpost:block-party-ov0jmc</id>
@@ -341,6 +418,13 @@
 <summary>See your business’s footprint before you leave it. EcoSpirit finds the best neighborhood for your venture, balancing profit, people, and planet for truly sustainable growth. · 🏆 Coolant Climate Tech Challenge</summary>
 </entry>
 <entry>
+<title>Clean Sweep · HackHarvard 2024</title>
+<link href="https://devpost.com/software/cleansweep-tjq36w"/>
+<id>devpost:cleansweep-tjq36w</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Clean Sweep — Smart city waste management using real-time data · 🏆 Best Use of Terraform</summary>
+</entry>
+<entry>
 <title>Community Canvas · MIT Reality Hack 2024</title>
 <link href="https://devpost.com/software/community-canvas"/>
 <id>devpost:community-canvas</id>
@@ -360,6 +444,20 @@
 <id>devpost:dotwave</id>
 <updated>2026-11-21T00:00:00Z</updated>
 <summary>Two way tactile text, one glove. · 🏆 Hardware</summary>
+</entry>
+<entry>
+<title>EscapeMate · MHacks 2024</title>
+<link href="https://devpost.com/software/escapemate"/>
+<id>devpost:escapemate</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>The worst part of an escape room is that you can only solve it once. With EscapeMate, you can play through limitless new escape rooms without ever repeating a challenge! · 🏆 Interactive Media &amp; Gaming Track Winner</summary>
+</entry>
+<entry>
+<title>Vision Mama: LLMs + Vision Pro + Agents = Cooking Magic · TreeHacks 2024</title>
+<link href="https://devpost.com/software/vision-mama-llm-vision-pro-agents-fun-learning"/>
+<id>devpost:vision-mama-llm-vision-pro-agents-fun-learning</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Remember Cooking Mama? We turned it into a Conversational Agent for Vision Pro that teaches cooking! We pretrained &amp; fine-tuned recipe making LLMs, made a food ordering agent, semantic recipes,... · 🏆 Codegen: Best Use of AI Agents ($3k Cash), Best Use of Monster Generative AI APIs (4x XBox Series S [1st] &amp; 1 million Monster API credits [2nd] &amp; $400 Cash [3rd])</summary>
 </entry>
 <entry>
 <title>Edith · TreeHacks 2025</title>
@@ -383,6 +481,13 @@
 <summary>RECOVR is a tool and experience that allows amputees to reclaim control of a virtual arm. Paired with immersive storytelling we allow them to rediscover the joy, wonder, and magic of touch. · 🏆 Vitality Unleashed, Bronze Prize</summary>
 </entry>
 <entry>
+<title>Resililink · Cal Hacks 11.0</title>
+<link href="https://devpost.com/software/resilink"/>
+<id>devpost:resilink</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>A Lifeline When It Matters Most · 🏆 Cal Hacks: Hack for Impact, Skylo: Seamlessly Switch from Cellular to Satellite</summary>
+</entry>
+<entry>
 <title>Spine Guard · DeltaHacks XI</title>
 <link href="https://devpost.com/software/spine-guard"/>
 <id>devpost:spine-guard</id>
@@ -395,6 +500,13 @@
 <id>devpost:spinvision</id>
 <updated>2026-11-21T00:00:00Z</updated>
 <summary>SpinVision: An AI-powered 3D scanning system that transforms physical objects into editable digital models through automated multi-angle capture. · 🏆 MLH Best Use of Arm</summary>
+</entry>
+<entry>
+<title>Ted · Hack the North 2024</title>
+<link href="https://devpost.com/software/ted-twz9b1"/>
+<id>devpost:ted-twz9b1</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>A little AI cutie pie that serves as both a friend and a paramedic! · 🏆 Hack the North 2024 Finalists</summary>
 </entry>
 <entry>
 <title>VibeSense · nwHacks 2026</title>
@@ -425,6 +537,13 @@
 <summary>Smart glasses for the glasses you already own. · 🏆 Best Use of Neon Backend</summary>
 </entry>
 <entry>
+<title>Meshworks - NLP LoRa Mesh Network for Emergency Response · TreeHacks 2024</title>
+<link href="https://devpost.com/software/meshworks-nlp-lora-mesh-network-for-emergency-response"/>
+<id>devpost:meshworks-nlp-lora-mesh-network-for-emergency-response</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Imagine an earthquake disabling all telecommunication. We combine mesh-based radio technology with cutting-edge AI processing to build a resilient information network for emergency responders. · 🏆 Intel: Best Use of Intel Developer Cloud ($10k Credits + 4x Lenovo AI PC [1st] &amp; $4k Credits [2nd] &amp; $2k Credits [3rd])</summary>
+</entry>
+<entry>
 <title>Recall · HackPrinceton Fall 2025</title>
 <link href="https://devpost.com/software/recall-cf0dp9"/>
 <id>devpost:recall-cf0dp9</id>
@@ -432,136 +551,17 @@
 <summary>Imagine waking up surrounded by strangers - only they’re your family. For 55 million people with Dementia, this is reality. Recall is here to bring memories, faces, and your identity back to life. · 🏆 Best Use of Grok for Real-Time Data/Signal Analysis by xAI, Best Use of Arm by MLH</summary>
 </entry>
 <entry>
-<title>TedTime · HackGT 13: Seaside Market</title>
-<link href="https://devpost.com/software/teddy-42km8n"/>
-<id>devpost:teddy-42km8n</id>
+<title>SnapSecure · HackGT 11: Circus of Inventions</title>
+<link href="https://devpost.com/software/snapsecure"/>
+<id>devpost:snapsecure</id>
 <updated>2026-11-21T00:00:00Z</updated>
-<summary>A cozy bear that families can use to share stories with their loved ones. · 🏆 Meta: Bringing People Closer Together with AI - Winner</summary>
+<summary>Gesture-based authentication in augmented and virtual reality to access unique IoT-based physical environment configuration and medical data collection linked to the user. · 🏆 SnapAR Skullcandy Grind True Wireless Earbuds</summary>
 </entry>
 <entry>
-<title>HUDson · nwHacks 2026</title>
-<link href="https://devpost.com/software/hudson-uw5kn7"/>
-<id>devpost:hudson-uw5kn7</id>
+<title>Teddy.ai · DeltaHacks X</title>
+<link href="https://devpost.com/software/teddy-ai"/>
+<id>devpost:teddy-ai</id>
 <updated>2026-11-21T00:00:00Z</updated>
-<summary>Sound for all. HUDson visualizes sound for those with near or full deafness, giving visual and tactile cues for sounds outside of their field of vision. · 🏆 [MLH] Best Use of Elevenlabs</summary>
-</entry>
-<entry>
-<title>immi · DeltaHacks 12</title>
-<link href="https://devpost.com/software/immi-325jt0"/>
-<id>devpost:immi-325jt0</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>immi is an assistive technology and personal education platform to support non-native language speakers&#x27; adaption to their new environment and learn, powered by ElevenLabs and a facial API. · 🏆 [MLH] Best Use of ElevenLabs</summary>
-</entry>
-<entry>
-<title>Access Buddy · nwHacks 2025</title>
-<link href="https://devpost.com/software/access-buddy-pyw1hf"/>
-<id>devpost:access-buddy-pyw1hf</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>Access Buddy turns natural language into website actions like typing and scrolling. Designed for accessibility, it empowers users with physical and visual challenges to browse effortlessly. · 🏆 Potential Community Impact</summary>
-</entry>
-<entry>
-<title>ScreenWave · MHacks 2025</title>
-<link href="https://devpost.com/software/screenwave"/>
-<id>devpost:screenwave</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>Glove that allows user gestures to control the screen. Intended for collaborative use with a projector · 🏆 MHacks Portal Winner</summary>
-</entry>
-<entry>
-<title>+CropSCOUT · HackHarvard2026: Hack to the Moon</title>
-<link href="https://devpost.com/software/cropscout"/>
-<id>devpost:cropscout</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>Physical AI for low-pesticide agriculture to help farmers spray less and grow more crop. #1 RFS on YC S26. · 🏆 ASUS Sustainability: Save the Earth</summary>
-</entry>
-<entry>
-<title>Ender&#x27;s Bench · Cal Hacks 13.0</title>
-<link href="https://devpost.com/software/ender-s-bench"/>
-<id>devpost:ender-s-bench</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>Ender’s Bench puts AI agents to the test. Watch their choices, measure their results, and see whether they do the right thing when it matters. · 🏆 [Spacetime] Best Use of Spacetime</summary>
-</entry>
-<entry>
-<title>Waste2Taste · HackGT 12: Midnight at the Museum</title>
-<link href="https://devpost.com/software/waste2taste-etwp34"/>
-<id>devpost:waste2taste-etwp34</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>Measuring plate waste in dining halls so chefs serve what students enjoy. · 🏆 MLH - Best Use of Snowflake API</summary>
-</entry>
-<entry>
-<title>Wordhawk · MHacks 2025</title>
-<link href="https://devpost.com/software/wordhawk"/>
-<id>devpost:wordhawk</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>beat the game(pigeon) · 🏆 Best Use of MemryX Edge AI Accelerator</summary>
-</entry>
-<entry>
-<title>ESPN LIVE · uOttaHack 8</title>
-<link href="https://devpost.com/software/espn-live"/>
-<id>devpost:espn-live</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>A live broadcast of the Canadian soccer league final, presented by ESPN and powered by ROSS Video technology. · 🏆 Ross Video: FPGA Challenge</summary>
-</entry>
-<entry>
-<title>Fable · TreeHacks 2025</title>
-<link href="https://devpost.com/software/fable-br8e1d"/>
-<id>devpost:fable-br8e1d</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>Fable tells stories that adapt to your state of mind. As your brainwaves shift, we generate a story and create an immersive visual journey that mirrors your inner state in real time. · 🏆 OpenAI: Most Creative Use of OpenAI API (OpenAI SF HQ lunch + Swag)</summary>
-</entry>
-<entry>
-<title>BallAR · Cal Hacks 12.0</title>
-<link href="https://devpost.com/software/ballar"/>
-<id>devpost:ballar</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>Unite AR and electro-stimulation to perfect your beer pong game. · 🏆 Snap: Best Use of Snap Spectacles</summary>
-</entry>
-<entry>
-<title>Human Vestibular Aversion Conditioner. · MakeUC 2026 </title>
-<link href="https://devpost.com/software/wince"/>
-<id>devpost:wince</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>cognitive aversion therapy using network packets. · 🏆 Social Issues</summary>
-</entry>
-<entry>
-<title>:Peeki · MHacks 2026</title>
-<link href="https://devpost.com/software/peeki"/>
-<id>devpost:peeki</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>The wireless camera bear that watches, remembers, and answers when you ask. · 🏆 Relay Interactive Agents Track Winner</summary>
-</entry>
-<entry>
-<title>Bridge · LA Hacks 2026</title>
-<link href="https://devpost.com/software/bridge-4euwyt"/>
-<id>devpost:bridge-4euwyt</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>Making education accessible through real time braille · 🏆 Best Hardware Hack</summary>
-</entry>
-<entry>
-<title>ECGo · TreeHacks 2025</title>
-<link href="https://devpost.com/software/ecgo"/>
-<id>devpost:ecgo</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>Mobile ECG with Wi-Fi capabilities that makes AI-powered diagnoses and stores data on a remote server. · 🏆 Web3 Prize: Most Crazy Idea ($7k Cash + 7k EIGEN)</summary>
-</entry>
-<entry>
-<title>Otto: One Less Trip to the Mechanic · MHacks 2026</title>
-<link href="https://devpost.com/software/otto-one-less-trip-to-the-mechanic"/>
-<id>devpost:otto-one-less-trip-to-the-mechanic</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>Your car already knows what&#x27;s wrong. Otto uses a FREE-WILi and AI to turn its trouble codes and live data into plain English and safe DIY fixes, so you don&#x27;t get overcharged. · 🏆 Best Use of FREE-WILi</summary>
-</entry>
-<entry>
-<title>Rom-Com · HackPrinceton Spring &#x27;26</title>
-<link href="https://devpost.com/software/rom-com"/>
-<id>devpost:rom-com</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>Recovery that meets you where you are. · 🏆 AI &amp; Tech for Clinical Trials by Regeneron [Cash Prizes]</summary>
-</entry>
-<entry>
-<title>SoilTune · Hacktech by Caltech 2026</title>
-<link href="https://devpost.com/software/soilvue"/>
-<id>devpost:soilvue</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>Farmers lose up to 75% of their yield to guesswork. SoilTune reads your soil live and turns it into an strategic plan. · 🏆 Loveable x HackTech - Best use of Lovable</summary>
+<summary>Teddy.ai is the future of companionship, empowering children with the magic of blockchain through NFTs and FLOW, ensuring no child feels alone. · 🏆 [MLH] Best Use of Flow</summary>
 </entry>
 </feed>

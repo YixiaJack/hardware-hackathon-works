@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T12:32:19+00:00",
+ "generated": "2026-11-21T18:29:01+00:00",
  "series": [
   {
    "id": "hackaday-prize",
@@ -12,7 +12,7 @@
    "url": "https://hackaday.io/prize",
    "blurb_zh": "全球开源硬件『奥斯卡』，校准『解决真实问题 + 可复现』",
    "blurb_en": "The open-hardware 'Oscars' — real problems, reproducible builds.",
-   "projects": 669,
+   "projects": 629,
    "winners": 0,
    "editions": [
     {
@@ -22,7 +22,7 @@
      "year": 2026,
      "url": "https://hackaday.io/submissions/retro-computing-contest/list",
      "state": "ended",
-     "projects": 64,
+     "projects": 67,
      "winners": 0
     },
     {
@@ -42,7 +42,7 @@
      "year": 2026,
      "url": "https://hackaday.io/submissions/green-powered-challenge/list",
      "state": "ended",
-     "projects": 23,
+     "projects": 24,
      "winners": 0
     },
     {
@@ -52,7 +52,7 @@
      "year": 2025,
      "url": "https://hackaday.io/submissions/component-abuse-challenge/list",
      "state": "ended",
-     "projects": 34,
+     "projects": 28,
      "winners": 0
     },
     {
@@ -62,7 +62,7 @@
      "year": 2025,
      "url": "https://hackaday.io/submissions/one-hertz-challenge/list",
      "state": "ended",
-     "projects": 33,
+     "projects": 32,
      "winners": 0
     },
     {
@@ -72,7 +72,7 @@
      "year": 2024,
      "url": "https://hackaday.io/submissions/supercon-8-sao-contest/list",
      "state": "ended",
-     "projects": 38,
+     "projects": 40,
      "winners": 0
     },
     {
@@ -102,7 +102,7 @@
      "year": 2024,
      "url": "https://hackaday.io/submissions/2024-business-card-contest/list",
      "state": "ended",
-     "projects": 49,
+     "projects": 46,
      "winners": 0
     },
     {
@@ -112,7 +112,7 @@
      "year": 2023,
      "url": "https://hackaday.io/submissions/prize2023/list",
      "state": "ended",
-     "projects": 112,
+     "projects": 79,
      "winners": 0
     },
     {
@@ -122,7 +122,7 @@
      "year": 2023,
      "url": "https://hackaday.io/submissions/cyberdeck-2023/list",
      "state": "ended",
-     "projects": 35,
+     "projects": 38,
      "winners": 0
     },
     {
@@ -132,7 +132,7 @@
      "year": 2022,
      "url": "https://hackaday.io/submissions/prize2022/list",
      "state": "ended",
-     "projects": 101,
+     "projects": 92,
      "winners": 0
     },
     {
@@ -142,7 +142,7 @@
      "year": 2021,
      "url": "https://hackaday.io/submissions/prize2021/list",
      "state": "ended",
-     "projects": 106,
+     "projects": 109,
      "winners": 0
     }
    ]
@@ -1292,8 +1292,8 @@
    "url": "https://hackthenorth.com/",
    "blurb_zh": "加拿大最大黑客松，硬件库极其丰富",
    "blurb_en": "Canada's biggest hackathon with a huge hardware library.",
-   "projects": 144,
-   "winners": 53,
+   "projects": 150,
+   "winners": 57,
    "editions": [
     {
      "id": "hackthenorth-2026",
@@ -1340,8 +1340,8 @@
      "winners_announced": true,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/008/880/datas/medium_square.png",
      "devpost_id": 16114,
-     "projects": 11,
-     "winners": 5
+     "projects": 17,
+     "winners": 9
     },
     {
      "id": "hackthenorth-2023",
@@ -1484,8 +1484,8 @@
    "url": "https://www.treehacks.com/",
    "blurb_zh": "斯坦福千人旗舰黑客松，硬件赛道含金量高",
    "blurb_en": "Stanford's flagship hackathon with a strong hardware track.",
-   "projects": 142,
-   "winners": 54,
+   "projects": 143,
+   "winners": 57,
    "editions": [
     {
      "id": "treehacks-2026",
@@ -1532,8 +1532,8 @@
      "winners_announced": true,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/747/405/datas/medium_square.png",
      "devpost_id": 20399,
-     "projects": 16,
-     "winners": 7
+     "projects": 19,
+     "winners": 10
     },
     {
      "id": "treehacks-2023",
@@ -1676,8 +1676,8 @@
    "url": "https://calhacks.io/",
    "blurb_zh": "伯克利大型黑客松（仅收录硬件作品）",
    "blurb_en": "Berkeley's large hackathon (hardware entries only).",
-   "projects": 118,
-   "winners": 39,
+   "projects": 123,
+   "winners": 44,
    "editions": [
     {
      "id": "calhacks-2026",
@@ -1724,8 +1724,8 @@
      "winners_announced": true,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/083/836/datas/medium_square.png",
      "devpost_id": 22750,
-     "projects": 10,
-     "winners": 5
+     "projects": 15,
+     "winners": 10
     },
     {
      "id": "calhacks-2023",
@@ -2284,8 +2284,8 @@
    "url": "https://pennapps.com/",
    "blurb_zh": "最早的大学黑客松之一，硬件作品传统深厚",
    "blurb_en": "One of the original college hackathons, rich hardware tradition.",
-   "projects": 72,
-   "winners": 27,
+   "projects": 74,
+   "winners": 29,
    "editions": [
     {
      "id": "pennapps-2025",
@@ -2316,8 +2316,8 @@
      "winners_announced": true,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/000/040/datas/medium_square.png",
      "devpost_id": 22244,
-     "projects": 3,
-     "winners": 2
+     "projects": 5,
+     "winners": 4
     },
     {
      "id": "pennapps-2023",
@@ -2524,8 +2524,8 @@
    "url": "https://hack.gt/",
    "blurb_zh": "Georgia Tech 综合黑客松（仅收录硬件作品）",
    "blurb_en": "Georgia Tech's hackathon (hardware entries only).",
-   "projects": 72,
-   "winners": 14,
+   "projects": 74,
+   "winners": 16,
    "editions": [
     {
      "id": "hackgt-2026",
@@ -2572,8 +2572,8 @@
      "winners_announced": true,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/036/684/datas/medium_square.png",
      "devpost_id": 22455,
-     "projects": 2,
-     "winners": 0
+     "projects": 4,
+     "winners": 2
     },
     {
      "id": "hackgt-2023",
@@ -3052,8 +3052,8 @@
    "url": "https://mhacks.org/",
    "blurb_zh": "密歇根大学黑客松（仅收录硬件作品）",
    "blurb_en": "Michigan's hackathon (hardware entries only).",
-   "projects": 53,
-   "winners": 22,
+   "projects": 56,
+   "winners": 25,
    "editions": [
     {
      "id": "mhacks-2026",
@@ -3100,8 +3100,8 @@
      "winners_announced": true,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/042/531/datas/medium_square.png",
      "devpost_id": 22528,
-     "projects": 3,
-     "winners": 2
+     "projects": 6,
+     "winners": 5
     },
     {
      "id": "mhacks-2023",
@@ -3292,8 +3292,8 @@
    "url": "https://www.realityhackatmit.com/",
    "blurb_zh": "XR / 穿戴硬件 / 空间交互的天花板（仅收录含硬件的作品）",
    "blurb_en": "The flagship XR + spatial hardware hackathon (hardware entries only).",
-   "projects": 49,
-   "winners": 28,
+   "projects": 51,
+   "winners": 30,
    "editions": [
     {
      "id": "reality-hack-2026",
@@ -3372,8 +3372,8 @@
      "winners_announced": true,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/736/645/datas/medium_square.png",
      "devpost_id": 20344,
-     "projects": 4,
-     "winners": 3
+     "projects": 6,
+     "winners": 5
     },
     {
      "id": "reality-hack-2023",
@@ -3484,8 +3484,8 @@
    "url": "https://hackillinois.org/",
    "blurb_zh": "UIUC 综合黑客松（仅收录硬件作品）",
    "blurb_en": "UIUC's hackathon (hardware entries only).",
-   "projects": 43,
-   "winners": 9,
+   "projects": 44,
+   "winners": 10,
    "editions": [
     {
      "id": "hackillinois-2026",
@@ -3532,8 +3532,8 @@
      "winners_announced": true,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/780/647/datas/medium_square.png",
      "devpost_id": 20698,
-     "projects": 10,
-     "winners": 0
+     "projects": 11,
+     "winners": 1
     },
     {
      "id": "hackillinois-2023",
@@ -3660,8 +3660,8 @@
    "url": "https://hackharvard.io/",
    "blurb_zh": "Harvard 综合黑客松（仅收录硬件作品）",
    "blurb_en": "Harvard's hackathon (hardware entries only).",
-   "projects": 34,
-   "winners": 11,
+   "projects": 36,
+   "winners": 13,
    "editions": [
     {
      "id": "hackharvard-2026",
@@ -3740,8 +3740,8 @@
      "winners_announced": true,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/010/436/datas/medium_square.png",
      "devpost_id": 22316,
-     "projects": 2,
-     "winners": 0
+     "projects": 4,
+     "winners": 2
     },
     {
      "id": "hackharvard-2023",
@@ -3868,8 +3868,8 @@
    "url": "https://deltahacks.com/",
    "blurb_zh": "McMaster 综合黑客松（仅收录硬件作品）",
    "blurb_en": "McMaster's hackathon (hardware entries only).",
-   "projects": 31,
-   "winners": 10,
+   "projects": 34,
+   "winners": 13,
    "editions": [
     {
      "id": "deltahacks-2026",
@@ -3948,8 +3948,8 @@
      "winners_announced": true,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/714/649/datas/medium_square.png",
      "devpost_id": 20043,
-     "projects": 1,
-     "winners": 0
+     "projects": 4,
+     "winners": 3
     },
     {
      "id": "deltahacks-2023",
@@ -4060,8 +4060,8 @@
    "url": "https://nwhacks.io/",
    "blurb_zh": "UBC 综合黑客松（仅收录硬件作品）",
    "blurb_en": "UBC's hackathon (hardware entries only).",
-   "projects": 29,
-   "winners": 17,
+   "projects": 31,
+   "winners": 19,
    "editions": [
     {
      "id": "nwhacks-2026",
@@ -4108,8 +4108,8 @@
      "winners_announced": true,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/693/094/datas/medium_square.png",
      "devpost_id": 18676,
-     "projects": 1,
-     "winners": 0
+     "projects": 3,
+     "winners": 2
     },
     {
      "id": "nwhacks-2023",
@@ -4636,8 +4636,8 @@
    "url": "https://uottahack.ca/",
    "blurb_zh": "University of Ottawa 综合黑客松（仅收录硬件作品）",
    "blurb_en": "University of Ottawa's hackathon (hardware entries only).",
-   "projects": 20,
-   "winners": 10,
+   "projects": 21,
+   "winners": 11,
    "editions": [
     {
      "id": "uottahack-2026",
@@ -4668,8 +4668,8 @@
      "winners_announced": true,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/788/751/datas/medium_square.png",
      "devpost_id": 20749,
-     "projects": 7,
-     "winners": 2
+     "projects": 8,
+     "winners": 3
     },
     {
      "id": "uottahack-2023",
@@ -5175,7 +5175,7 @@
      "url": "https://hack-western-13.devpost.com/",
      "gallery_url": "https://hack-western-13.devpost.com/project-gallery",
      "dates": "Nov 20 - 22, 2026",
-     "registrations": 221,
+     "registrations": 229,
      "state": "open",
      "winners_announced": false,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/421/169/datas/medium_square.png",
