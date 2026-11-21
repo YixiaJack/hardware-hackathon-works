@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Hardware Hackathon Works · 硬件黑客松作品雷达</title>
 <link href="https://hardware-hackathon-works.vercel.app/"/>
-<updated>2026-11-21T06:35:49+00:00</updated>
+<updated>2026-11-21T12:32:20+00:00</updated>
 <id>https://hardware-hackathon-works.vercel.app/</id>
 <entry>
 <title>NeuroPilot: Brainwave Computer Control · TreeHacks 2025</title>
@@ -40,11 +40,25 @@
 <summary>Educational device that encourages young visually impaired people to learn and practice Braille in order to increase chances for future employment and expand general literacy level of the community. · 🏆 NVIDIA: Robo Prize (Jetson Dev kit per team member), TreeHacks Grand Prize | 3rd Place (iPhone 16 Pro per team member)</summary>
 </entry>
 <entry>
+<title>Dose · HackGT 12: Midnight at the Museum</title>
+<link href="https://devpost.com/software/dose-ebmo9z"/>
+<id>devpost:dose-ebmo9z</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Modern care in a bottle - IOT medication tracker + web dashboard · 🏆 Best Overall - 1st Place</summary>
+</entry>
+<entry>
 <title>RIIS · LA Hacks 2026</title>
 <link href="https://devpost.com/software/riis"/>
 <id>devpost:riis</id>
 <updated>2026-11-21T00:00:00Z</updated>
 <summary>Rapid Incident Intelligence System · 🏆 2nd Overall, Fetch.ai: Best Use of ASI:One</summary>
+</entry>
+<entry>
+<title>Dispatch · HackGT 12: Midnight at the Museum</title>
+<link href="https://devpost.com/software/dispatch-u7fwrv"/>
+<id>devpost:dispatch-u7fwrv</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>A novel VR locomotion solution to provide accessible immersive training experiences for first responders · 🏆 Hall of Illusions - 1st Place</summary>
 </entry>
 <entry>
 <title>S-KBD67 · Hack the North 2025</title>
@@ -82,6 +96,13 @@
 <summary>A multimodal AI companion that fuses emotion sensing, language understanding, and real-time biofeedback to support children’s mental wellness. · 🏆 LiveKit: Most Creative Project, Cal Hacks: 2nd Overall</summary>
 </entry>
 <entry>
+<title>Braillearn · nwHacks 2025</title>
+<link href="https://devpost.com/software/braillearn"/>
+<id>devpost:braillearn</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>A refreshable Braille display to help visually impaired users learn and practice the Braille language. · 🏆 nwHacks 2025 Finalists</summary>
+</entry>
+<entry>
 <title>ChessMate · Hack the North 2025</title>
 <link href="https://devpost.com/software/chessmate-nwygvq"/>
 <id>devpost:chessmate-nwygvq</id>
@@ -94,6 +115,13 @@
 <id>devpost:drip-6ao9m2</id>
 <updated>2026-11-21T00:00:00Z</updated>
 <summary>Every AI prompt wastes water. We engineered a system where every prompt generates it instead. · 🏆 Track: Sustain The Spark</summary>
+</entry>
+<entry>
+<title>Post Surgery Pillow (PSP) · HackHarvard 2025: Compile the Decade</title>
+<link href="https://devpost.com/software/post-surgery-pillow-psp"/>
+<id>devpost:post-surgery-pillow-psp</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>“Post-Surgery Pillow (PSP)—the AI-powered smart pillow that watches over patients when nurses can’t, combining smart comfort with quantum-secure, intelligent recovery monitoring.” · 🏆 1st Best Overall Hack</summary>
 </entry>
 <entry>
 <title>ROSS - Remote Operated Semantic Sketching · Hack the North 2025</title>
@@ -117,11 +145,25 @@
 <summary>An affordable AR device with real feedback. Use for sculpting, drawing, or other creative endeavors with tactile feedback. · 🏆 Augmented Design &amp; Engineering, Presented by Three Space Lab, Best of Hardware Hack</summary>
 </entry>
 <entry>
+<title>Doodle World · HackHarvard 2025: Compile the Decade</title>
+<link href="https://devpost.com/software/doodle-world"/>
+<id>devpost:doodle-world</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Doodling as easy as googling. Google indexed the known world. We let you rebuild its past and imagine its future. · 🏆 Living Culture Track Prize</summary>
+</entry>
+<entry>
 <title>MIRAGÉ · MIT Reality Hack 2025</title>
 <link href="https://devpost.com/software/mirag-e"/>
 <id>devpost:mirag-e</id>
 <updated>2026-11-21T00:00:00Z</updated>
 <summary>Transform your style one reflection at a time. · 🏆 Hardware: Works Like Magic, Founders Lab Moonshot Winner</summary>
+</entry>
+<entry>
+<title>BikeBuddy · HackGT 12: Midnight at the Museum</title>
+<link href="https://devpost.com/software/bikebuddy"/>
+<id>devpost:bikebuddy</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Biking smarter and safer with a rear view camera and turn signal modular attachment! · 🏆 The Gadget Gallery - 1st Place</summary>
 </entry>
 <entry>
 <title>LavaLock · DeltaHacks 12</title>
@@ -159,11 +201,25 @@
 <summary>lets you crash out, whenever, wherever, whatever (on the drums). · 🏆 Snap: Spectacles AR Hackathon: Game On!</summary>
 </entry>
 <entry>
+<title>Dotify · HackGT 12: Midnight at the Museum</title>
+<link href="https://devpost.com/software/dotify"/>
+<id>devpost:dotify</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Bringing the world to your fingertips. · 🏆 The Gadget Gallery - 2nd Place</summary>
+</entry>
+<entry>
 <title>Fire Automaton · uOttaHack 8</title>
 <link href="https://devpost.com/software/fire-automata"/>
 <id>devpost:fire-automata</id>
 <updated>2026-11-21T00:00:00Z</updated>
 <summary>Cellular automaton that evolves into flame-like patterns. · 🏆 Ross Video: FPGA Challenge</summary>
+</entry>
+<entry>
+<title>Red Squid Dead Squid · nwHacks 2025</title>
+<link href="https://devpost.com/software/red-squid-dead-squid"/>
+<id>devpost:red-squid-dead-squid</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Think you can survive in Squid Game? Try your luck with the real-life &#x27;Red Light Green Light&#x27; doll here... · 🏆 nwHacks 2025 Finalists</summary>
 </entry>
 <entry>
 <title>Embers · nwHacks 2026</title>
@@ -187,11 +243,25 @@
 <summary>Mental well-being with scent, vision, and biofeedback · 🏆 Hardware: Smart Sensing</summary>
 </entry>
 <entry>
+<title>PiGestures · HackIllinois 2025</title>
+<link href="https://devpost.com/software/hand-signal-interpreter"/>
+<id>devpost:hand-signal-interpreter</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Construction worksites are often loud and chaotic, placing emphasis on nonverbal communication like hand gestures. We utilizes computer vision and ML to recognize, interpret and execute these signals. · 🏆 Best HackOlympians Hack</summary>
+</entry>
+<entry>
 <title>ReelFriends · HackGT 13: Seaside Market</title>
 <link href="https://devpost.com/software/reelfriends"/>
 <id>devpost:reelfriends</id>
 <updated>2026-11-21T00:00:00Z</updated>
 <summary>The Reel Friends are the Fih we met along the way!!! · 🏆 Notability: Trust the Process</summary>
+</entry>
+<entry>
+<title>LEKeys · nwHacks 2025</title>
+<link href="https://devpost.com/software/lekeys"/>
+<id>devpost:lekeys</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Your piano journey made easy with LEKeys · 🏆 nwHacks 2025 Finalists</summary>
 </entry>
 <entry>
 <title>MelaNone · nwHacks 2026</title>
@@ -243,6 +313,13 @@
 <summary>Synchronize brainwaves to treat mental disease and generate cymatic art · 🏆 Best Use of Qualcomm Technologies with AI, Presented by Qualcomm</summary>
 </entry>
 <entry>
+<title>Block Party · MIT Reality Hack 2024</title>
+<link href="https://devpost.com/software/block-party-ov0jmc"/>
+<id>devpost:block-party-ov0jmc</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>A platform to connect the digital and physical realities so people in VR headsets can interact with people not in headsets. Stack cubes and work together. · 🏆 Best of Hardware Hack, Silver Prize</summary>
+</entry>
+<entry>
 <title>Byte · MakeUC 2026 </title>
 <link href="https://devpost.com/software/byte-cqlgpr"/>
 <id>devpost:byte-cqlgpr</id>
@@ -255,6 +332,27 @@
 <id>devpost:steadyscript</id>
 <updated>2026-11-21T00:00:00Z</updated>
 <summary>A smart biofeedback pen and web app that guides users through quick exercises to improve steadiness and control. · 🏆 Best Beginner Project, [PCCA] Best Wellness Related Hack</summary>
+</entry>
+<entry>
+<title>CarbonCompass · HackHarvard 2025: Compile the Decade</title>
+<link href="https://devpost.com/software/carboncompass-hyqob0"/>
+<id>devpost:carboncompass-hyqob0</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>See your business’s footprint before you leave it. EcoSpirit finds the best neighborhood for your venture, balancing profit, people, and planet for truly sustainable growth. · 🏆 Coolant Climate Tech Challenge</summary>
+</entry>
+<entry>
+<title>Community Canvas · MIT Reality Hack 2024</title>
+<link href="https://devpost.com/software/community-canvas"/>
+<id>devpost:community-canvas</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>By integrating AR technology and Snapdragon spaces, our application transforms community design through engaging experiences. · 🏆 Best LeiaSR Application, Best Use of Snapdragon Spaces</summary>
+</entry>
+<entry>
+<title>Croak Quest · nwHacks 2025</title>
+<link href="https://devpost.com/software/croak-quest"/>
+<id>devpost:croak-quest</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Learn sign language through an immersive Leap Motion-powered 2D platformer, combining education and fun in an interactive Unity experience! · 🏆 Best Beginner Project</summary>
 </entry>
 <entry>
 <title>DotWave · MakeUC 2026 </title>
@@ -278,6 +376,27 @@
 <summary>Bringing clarity to the chaos. · 🏆 Best Social Impact using Qualcomm Technologies, Presented by Qualcomm</summary>
 </entry>
 <entry>
+<title>RECOVR · MIT Reality Hack 2024</title>
+<link href="https://devpost.com/software/recovr-5ubkl0"/>
+<id>devpost:recovr-5ubkl0</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>RECOVR is a tool and experience that allows amputees to reclaim control of a virtual arm. Paired with immersive storytelling we allow them to rediscover the joy, wonder, and magic of touch. · 🏆 Vitality Unleashed, Bronze Prize</summary>
+</entry>
+<entry>
+<title>Spine Guard · DeltaHacks XI</title>
+<link href="https://devpost.com/software/spine-guard"/>
+<id>devpost:spine-guard</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>for all the comp sci and eng students · 🏆 Best Health Hack</summary>
+</entry>
+<entry>
+<title>SpinVision · MakeUC 2025</title>
+<link href="https://devpost.com/software/spinvision"/>
+<id>devpost:spinvision</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>SpinVision: An AI-powered 3D scanning system that transforms physical objects into editable digital models through automated multi-angle capture. · 🏆 MLH Best Use of Arm</summary>
+</entry>
+<entry>
 <title>VibeSense · nwHacks 2026</title>
 <link href="https://devpost.com/software/vibesense"/>
 <id>devpost:vibesense</id>
@@ -290,6 +409,13 @@
 <id>devpost:b-ai-max-m406t9</id>
 <updated>2026-11-21T00:00:00Z</updated>
 <summary>Biometric &amp; AI-Driven Medical Assistance eXchange. BAIMAX! · 🏆 Beasley Neighbourhood Association - Best Community Building Hack</summary>
+</entry>
+<entry>
+<title>HeartTalk · nwHacks 2025</title>
+<link href="https://devpost.com/software/hearttalk"/>
+<id>devpost:hearttalk</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>HeartTalk is your senior care companion, combining AI chat support with health monitoring. Keep loved ones engaged while tracking vital signs – ensuring peace of mind when caregivers can&#x27;t be there. · 🏆 Defang.io Sponsor Prize</summary>
 </entry>
 <entry>
 <title>Iris · MHacks 2026</title>
@@ -327,6 +453,20 @@
 <summary>immi is an assistive technology and personal education platform to support non-native language speakers&#x27; adaption to their new environment and learn, powered by ElevenLabs and a facial API. · 🏆 [MLH] Best Use of ElevenLabs</summary>
 </entry>
 <entry>
+<title>Access Buddy · nwHacks 2025</title>
+<link href="https://devpost.com/software/access-buddy-pyw1hf"/>
+<id>devpost:access-buddy-pyw1hf</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Access Buddy turns natural language into website actions like typing and scrolling. Designed for accessibility, it empowers users with physical and visual challenges to browse effortlessly. · 🏆 Potential Community Impact</summary>
+</entry>
+<entry>
+<title>ScreenWave · MHacks 2025</title>
+<link href="https://devpost.com/software/screenwave"/>
+<id>devpost:screenwave</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Glove that allows user gestures to control the screen. Intended for collaborative use with a projector · 🏆 MHacks Portal Winner</summary>
+</entry>
+<entry>
 <title>+CropSCOUT · HackHarvard2026: Hack to the Moon</title>
 <link href="https://devpost.com/software/cropscout"/>
 <id>devpost:cropscout</id>
@@ -341,6 +481,20 @@
 <summary>Ender’s Bench puts AI agents to the test. Watch their choices, measure their results, and see whether they do the right thing when it matters. · 🏆 [Spacetime] Best Use of Spacetime</summary>
 </entry>
 <entry>
+<title>Waste2Taste · HackGT 12: Midnight at the Museum</title>
+<link href="https://devpost.com/software/waste2taste-etwp34"/>
+<id>devpost:waste2taste-etwp34</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Measuring plate waste in dining halls so chefs serve what students enjoy. · 🏆 MLH - Best Use of Snowflake API</summary>
+</entry>
+<entry>
+<title>Wordhawk · MHacks 2025</title>
+<link href="https://devpost.com/software/wordhawk"/>
+<id>devpost:wordhawk</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>beat the game(pigeon) · 🏆 Best Use of MemryX Edge AI Accelerator</summary>
+</entry>
+<entry>
 <title>ESPN LIVE · uOttaHack 8</title>
 <link href="https://devpost.com/software/espn-live"/>
 <id>devpost:espn-live</id>
@@ -353,6 +507,13 @@
 <id>devpost:fable-br8e1d</id>
 <updated>2026-11-21T00:00:00Z</updated>
 <summary>Fable tells stories that adapt to your state of mind. As your brainwaves shift, we generate a story and create an immersive visual journey that mirrors your inner state in real time. · 🏆 OpenAI: Most Creative Use of OpenAI API (OpenAI SF HQ lunch + Swag)</summary>
+</entry>
+<entry>
+<title>BallAR · Cal Hacks 12.0</title>
+<link href="https://devpost.com/software/ballar"/>
+<id>devpost:ballar</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Unite AR and electro-stimulation to perfect your beer pong game. · 🏆 Snap: Best Use of Snap Spectacles</summary>
 </entry>
 <entry>
 <title>Human Vestibular Aversion Conditioner. · MakeUC 2026 </title>
@@ -402,166 +563,5 @@
 <id>devpost:soilvue</id>
 <updated>2026-11-21T00:00:00Z</updated>
 <summary>Farmers lose up to 75% of their yield to guesswork. SoilTune reads your soil live and turns it into an strategic plan. · 🏆 Loveable x HackTech - Best use of Lovable</summary>
-</entry>
-<entry>
-<title>SteadiStep · MHacks 2026</title>
-<link href="https://devpost.com/software/steadistep"/>
-<id>devpost:steadistep</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>An adjustable fall detection device that attaches to any walking guide, identifies potential risks, and automatically sends an alert for help. · 🏆 Beyond the Code Track Winner</summary>
-</entry>
-<entry>
-<title>RealityBridge - Copy Paste VR/AR Experience · MIT Reality Hack 2025</title>
-<link href="https://devpost.com/software/copy-paste-vr-ar-experience"/>
-<id>devpost:copy-paste-vr-ar-experience</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>Quickly prototype Virtual Reality scenes using AI Object Detection on the Qualcomm RB3 Gen 2 board. · 🏆 Best Use of Qualcomm Technologies in IoT, Presented by Qualcomm</summary>
-</entry>
-<entry>
-<title>TreeTrash · TreeHacks 2025</title>
-<link href="https://devpost.com/software/treetrash"/>
-<id>devpost:treetrash</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>Quantify, analyze, and improve sustainability with intelligent trash monitoring! · 🏆 OpenAI: Most Creative Use of OpenAI API (OpenAI SF HQ lunch + Swag)</summary>
-</entry>
-<entry>
-<title>OpenGalea · MIT Reality Hack 2025</title>
-<link href="https://devpost.com/software/opengalea"/>
-<id>devpost:opengalea</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>Democratizing neuroscience!Neuroscience 4 &gt;1M buyers of Quest 3&#x27;s15x cheaper than Galea (30k to 2k)Alt control in gaming; inter-dependencyMixed Reality Co-Location 4 deep cooperation</summary>
-</entry>
-<entry>
-<title>Puck Buddy · uOttaHack 8</title>
-<link href="https://devpost.com/software/air-hockey-with-yourself"/>
-<id>devpost:air-hockey-with-yourself</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>Meet Puck Buddy: the Al air hockey opponent that never tires. Custom 3D-printed with real-time tracking, it tests your reflexes with a genuine challenge, anytime. · 🏆 QNX: Hardware Project on the QNX OS</summary>
-</entry>
-<entry>
-<title>Show Before · Cal Hacks 13.0</title>
-<link href="https://devpost.com/software/show-before"/>
-<id>devpost:show-before</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>One iPhone walkthrough builds a complete listing. Renters speed-tour real homes in VR, say what they love or hate, and see if their own couch fits before they ever visit. · 🏆 [Bright Data] Best Agent/App Using Public Web Data sponsored by Bright Data</summary>
-</entry>
-<entry>
-<title>QNXMobility · Hack the North 2025</title>
-<link href="https://devpost.com/software/canqnx"/>
-<id>devpost:canqnx</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>In a world where productivity is everything, every second counts, time spent away from the desk is time wasted. With, QNXMobility move around your workspace with ease, speed and greater efficiency. · 🏆 QNX: Best Use of QNX: Hardware and Software Prizes</summary>
-</entry>
-<entry>
-<title>Delta Robot One · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/169861-delta-robot-one"/>
-<id>hackaday:169861</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>Smart open source robotics project for makers and students. Combines electronics, mechanics and informatics in one system.</summary>
-</entry>
-<entry>
-<title>PAROL6 - Desktop robotic arm · Hackaday Prize 2023</title>
-<link href="https://hackaday.io/project/191860-parol6-desktop-robotic-arm"/>
-<id>hackaday:191860</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>A robot that can be used as desktop tool for small automation and education!</summary>
-</entry>
-<entry>
-<title>Rosmo robot · Hackaday Prize 2022</title>
-<link href="https://hackaday.io/project/183129-rosmo-robot"/>
-<id>hackaday:183129</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>Modular open hardware robot for uROS2 &amp; Microblocks</summary>
-</entry>
-<entry>
-<title>Autonomous tracked robotic platform UGV · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/181500-autonomous-tracked-robotic-platform-ugv"/>
-<id>hackaday:181500</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>One of my most advanced projects to date. A tracked robotic development platform that [hopefully] raises the bar for hobby robotics.</summary>
-</entry>
-<entry>
-<title>DS-Pi | RP2040 Audio DSP Board · Hackaday Prize 2022</title>
-<link href="https://hackaday.io/project/184811-ds-pi-rp2040-audio-dsp-board"/>
-<id>hackaday:184811</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>An audio DSP platform based on the Raspberry Pi RP2040</summary>
-</entry>
-<entry>
-<title>Handheld Readout Device(HRD) for Sensors · Hackaday Prize 2022</title>
-<link href="https://hackaday.io/project/181706-handheld-readout-devicehrd-for-sensors"/>
-<id>hackaday:181706</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>Readout Device for all I2C Sensors</summary>
-</entry>
-<entry>
-<title>Kites for Future - Flying Wind Turbine · Hackaday Prize 2023</title>
-<link href="https://hackaday.io/project/188136-kites-for-future-flying-wind-turbine"/>
-<id>hackaday:188136</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>A flying wing drone that can periodically pull a tether + a generator on the ground that acts like a rowing machine = Flying Wind Turbine</summary>
-</entry>
-<entry>
-<title>Open Concentrating PV Solar Tracker Controller · Hackaday Prize 2022</title>
-<link href="https://hackaday.io/project/185130-open-concentrating-pv-solar-tracker-controller"/>
-<id>hackaday:185130</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>Achieve better than 0.1° sun tracking accuracy with a compass a tilt sensor and a shading beam sun sensor.</summary>
-</entry>
-<entry>
-<title>Ozirma - near infrared spectrometer · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/179969-ozirma-near-infrared-spectrometer"/>
-<id>hackaday:179969</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>A small infrared spectrometer to help plastic recycling. Dedicated to micro-factories around the world.</summary>
-</entry>
-<entry>
-<title>PCB Bussiness Card With 4*4 Tic Tac Toe Game · Business Card Contest 2024</title>
-<link href="https://hackaday.io/project/196299-pcb-bussiness-card-with-44-tic-tac-toe-game"/>
-<id>hackaday:196299</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>I have made a simple but feature-rich business card. it has a tic-tac-toe game. let&#x27;s see how I made this</summary>
-</entry>
-<entry>
-<title>PCB for HandWired Keyboards · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/180154-pcb-for-handwired-keyboards"/>
-<id>hackaday:180154</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>Ergonomic typing, back in style</summary>
-</entry>
-<entry>
-<title>pollutagNode2 -  Air Quality Monitor - LoRaWAN · Green Powered Challenge</title>
-<link href="https://hackaday.io/project/198348-pollutagnode2-air-quality-monitor-lorawan"/>
-<id>hackaday:198348</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>Solar powered LoraWAN node for continuous air quality monitoring based on Wio-E5  and SEN54 Sensirion sensor</summary>
-</entry>
-<entry>
-<title>Quad-ROS-bot · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/178361-quad-ros-bot"/>
-<id>hackaday:178361</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>Development platform for agricultural robots</summary>
-</entry>
-<entry>
-<title>Reverse Engineering The Weather STAR 4000 · Hackaday Prize 2022</title>
-<link href="https://hackaday.io/project/178144-reverse-engineering-the-weather-star-4000"/>
-<id>hackaday:178144</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>The Weather STAR 4000: A Journey of reverse engineering the hardware to an iconic machine of the 1980s/90s.</summary>
-</entry>
-<entry>
-<title>SDR dock 1.0 · Hackaday Prize 2023</title>
-<link href="https://hackaday.io/project/192534-sdr-dock-10"/>
-<id>hackaday:192534</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>Raspberry pi based open source device with SDR and easy to use controls for exploring RF signals and data.</summary>
-</entry>
-<entry>
-<title>Slot-In Record Player with Arduino rfid &amp; mp3 · Hackaday Prize 2022</title>
-<link href="https://hackaday.io/project/185939-slot-in-record-player-with-arduino-rfid-mp3"/>
-<id>hackaday:185939</id>
-<updated>2026-11-21T00:00:00Z</updated>
-<summary>Transform an old &quot;slot-in record player&quot;: make a magical mp3 player with the help of RFID reader and tags</summary>
 </entry>
 </feed>
