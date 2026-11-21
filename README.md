@@ -5,11 +5,11 @@
 **自动收录全球硬件 / 机器人 / 具身交互赛事里最有意思的作品**
 MakeMIT · Build18 · MakeUofT · Reality Hack · TreeHacks · Hackaday · Hackster · 立创开源 · AdventureX …
 
-[![Works](https://img.shields.io/badge/作品-3966-38BDF8?style=flat-square)](https://hardware-hackathon-works.vercel.app/)
-[![Winners](https://img.shields.io/badge/获奖作品-812-F59E0B?style=flat-square)](https://hardware-hackathon-works.vercel.app/)
+[![Works](https://img.shields.io/badge/作品-4022-38BDF8?style=flat-square)](https://hardware-hackathon-works.vercel.app/)
+[![Winners](https://img.shields.io/badge/获奖作品-842-F59E0B?style=flat-square)](https://hardware-hackathon-works.vercel.app/)
 [![Events](https://img.shields.io/badge/赛事系列-36%20·%20261%20届-10B981?style=flat-square)](#-赛事覆盖)
 [![New](https://img.shields.io/badge/本周新增-首轮-EC4899?style=flat-square)](#-本周新增)
-[![Updated](https://img.shields.io/badge/自动更新-2026--11--20-6366F1?style=flat-square)](.github/workflows/update.yml)
+[![Updated](https://img.shields.io/badge/自动更新-2026--11--21-6366F1?style=flat-square)](.github/workflows/update.yml)
 
 ### 👉 [打开可视化作品库](https://hardware-hackathon-works.vercel.app/) · [RSS 订阅](https://hardware-hackathon-works.vercel.app/feed.xml) · [JSON 数据](data/projects.json)
 
@@ -42,12 +42,12 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · TreeHacks · Hackaday · Hacks
 
 | 维度 | 分布 Top |
 | :-- | :-- |
-| **场景** Domain | 🌱环境可持续 456 · 🩺健康医疗 453 · 🎮游戏娱乐 419 · 🏠家居生活 377 · 🚲出行交通 299 · 🎓教育学习 283 |
-| **形态** Form factor | 📟桌面小装置 755 · ⌚可穿戴 362 · 🪑智能物件/家具 246 · ⚙️制造机器/机构 234 · 🤖移动机器人 157 · 🦾机械臂/手 141 |
-| **交互** Interaction | 📡环境感知/自主 917 · 💡光与显示 568 · 👋视觉/手势 543 · 🗣️语音对话 283 · 🎛️实体操控 188 · 🧠生理信号 128 |
-| **平台** Platform | ♾️Arduino 1452 · 🍓Raspberry Pi 492 · 📶ESP32/ESP8266 433 · 🔧其他 MCU 78 · 🟩NVIDIA Jetson 49 · 🛰️ROS 35 |
-| **智能** AI capability | 👁️计算机视觉 426 · ✨大模型/生成式 334 · 📈机器学习 245 · 🎙️语音 AI 119 · 🦿机器人学习 35 · 🔋端侧 ML 24 |
-| **工艺** Fabrication | 🧱3D 打印 381 · 📐CAD 建模 296 · 🔦激光切割 194 · 🧵织物/手工 45 · 🟢PCB 设计 23 |
+| **场景** Domain | 🩺健康医疗 469 · 🌱环境可持续 460 · 🎮游戏娱乐 426 · 🏠家居生活 389 · 🚲出行交通 303 · 🎓教育学习 298 |
+| **形态** Form factor | 📟桌面小装置 773 · ⌚可穿戴 369 · 🪑智能物件/家具 254 · ⚙️制造机器/机构 241 · 🤖移动机器人 160 · 🦾机械臂/手 154 |
+| **交互** Interaction | 📡环境感知/自主 928 · 👋视觉/手势 586 · 💡光与显示 586 · 🗣️语音对话 314 · 🎛️实体操控 192 · 🧠生理信号 132 |
+| **平台** Platform | ♾️Arduino 1508 · 🍓Raspberry Pi 522 · 📶ESP32/ESP8266 486 · 🔧其他 MCU 79 · 🟩NVIDIA Jetson 52 · 🛰️ROS 44 |
+| **智能** AI capability | 👁️计算机视觉 472 · ✨大模型/生成式 413 · 📈机器学习 290 · 🎙️语音 AI 149 · 🦿机器人学习 49 · 🔋端侧 ML 28 |
+| **工艺** Fabrication | 🧱3D 打印 401 · 📐CAD 建模 313 · 🔦激光切割 196 · 🧵织物/手工 46 · 🟢PCB 设计 28 |
 
 ### 「有意思指数」怎么算？（0–100）
 
@@ -74,7 +74,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · TreeHacks · Hackaday · Hacks
 
 ## 🗂️ 按场景浏览（每类 Top 5）
 
-<details><summary><b>🩺 健康医疗 · Health & Medical</b> — 453 件</summary>
+<details><summary><b>🩺 健康医疗 · Health & Medical</b> — 469 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
@@ -86,19 +86,19 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · TreeHacks · Hackaday · Hacks
 
 </details>
 
-<details><summary><b>♿ 无障碍辅助 · Accessibility</b> — 255 件</summary>
+<details><summary><b>♿ 无障碍辅助 · Accessibility</b> — 267 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
 | [**Shepherd**](https://devpost.com/software/raising-cane) | A smart cane that guides indoor and outdoor navigation for blind people, costing ~1/20 of… | TreeHacks 2026 | `无障碍辅助` `出行交通` 🏆 Treehacks Grand Prize (1st) | 88 |
 | [**Braille-iant**](https://devpost.com/software/braille-iant-o1gcya) | Let's make something Braille-iant. | TAMUmake 2020 | `无障碍辅助` 🏆 1st Place Winner | 83 |
 | [**BrainChair**](https://devpost.com/software/brainchair) | Brain-controlled wheelchair | MakeUofT 2022 | `无障碍辅助` 🏆 1st Place Overall | 81 |
+| [**VIGIL: Assistive Eyewear with an Autonomous Aerial Scout**](https://devpost.com/software/vigil-assistive-eeywear-with-an-autonomous-aerial-scout) | VIGIL reimagines assistive eyewear via an autonomous aerial scout, extending perception b… | HackGT 13: Seaside Market | `无障碍辅助` `工具与制造` 🏆 Best Overall - 3rd Place | 81 |
 | [**Lucid**](https://devpost.com/software/lucid-k078qt) | Brain screening made accessible | HackPrinceton Fall '26 | `健康医疗` `无障碍辅助` 🏆 [Justin Bojarski] Best Physical AI Hack | 80 |
-| [**Sophi - The Physical Augmentation Walker**](https://devpost.com/software/sophi) | Sophi is an AI-powered walker with an always-on voice agent for Q&A and GPS navigation, p… | Cal Hacks 13.0 | `安全应急` `无障碍辅助` 🏆 Cal Hacks First Overall | 80 |
 
 </details>
 
-<details><summary><b>🌱 环境可持续 · Sustainability</b> — 456 件</summary>
+<details><summary><b>🌱 环境可持续 · Sustainability</b> — 460 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
@@ -110,31 +110,31 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · TreeHacks · Hackaday · Hacks
 
 </details>
 
-<details><summary><b>🌾 农业食物 · Food & Agriculture</b> — 227 件</summary>
+<details><summary><b>🌾 农业食物 · Food & Agriculture</b> — 230 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
 | [**Vibrace**](https://devpost.com/software/ergonomic-arm-brace) | An astronomical solution to physical therapy. | MakeHarvard 2019 | `健康医疗` `农业食物` 🏆 Best Overall (1st, 2nd, 3rd prizes) | 74 |
 | [**AvocadoBro**](https://devpost.com/software/glycemic-index-tracker) | An essential grocery shopping companion | Longhorn Robotics 2nd Annual Hackathon | `农业食物` `社交情感` 🏆 1st Place | 73 |
 | [**Safe Sphere**](https://devpost.com/software/safe-sphere) | An all-in-one IoT device which help people to keep their home safe, calculate the number… | Hardware Hackfest | `农业食物` `安全应急` 🏆 Third Overall | 72 |
+| [**TerraGlide**](https://devpost.com/software/terraglide-ai) | TerraGlide is an autonomous leveler using dual-action parallel linkages for soil redistri… | HackIllinois 2026 | `农业食物` `安全应急` 🏆 Track: Best Hardware Hack (John Deere Mechathon) (1st Place) | 72 |
 | [**iPlanter: Autonomous Ground Monitoring & Tree Planting Robot**](https://devpost.com/software/tree-planting-robot) | Our tree planting robot, namely iPlanter, demonstrates the potential development of an on… | RoboTech 2022 | `农业食物` 🏆 Body Track | 70 |
-| [**HappyPlant**](https://devpost.com/software/happyplant) | HappyPlant monitors your plant's soil moisture and light exposure; using an AI model to m… | UTRA Hacks | `农业食物` `健康医疗` 🏆 Best .Tech Domain Name | 68 |
 
 </details>
 
-<details><summary><b>🏠 家居生活 · Home & Everyday</b> — 377 件</summary>
+<details><summary><b>🏠 家居生活 · Home & Everyday</b> — 389 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
 | [**AutoDump: Autonomous Self-Emptying Trash Rover**](https://devpost.com/software/autodump-autonomous-self-emptying-trash-rover) | A Raspberry Pi rover that finds full bins, docks, and auto-dumps into a central can using… | MakeCU | `环境可持续` `家居生活` 🏆 3rd Place Overall | 84 |
 | [**Kafa - Thermostat Enhancer**](https://devpost.com/software/kafa-thermostat-enhancer) | Kafa is a plug and play thermostat enhancer which brings new life to your current hardwar… | MakeUofT 2021 | `家居生活` `游戏娱乐` 🏆 1st Place Overall | 79 |
+| [**FEEL — The room, in your palm**](https://devpost.com/software/feel-the-room-in-your-palm) | A LiDAR iPhone and a 24-pin palm puck that turn the room into touch. Feel what’s ahead an… | HackHarvard2026: Hack to the Moon | `家居生活` `出行交通` 🏆 First Place Overall | 78 |
 | [**ROOMBAlling**](https://devpost.com/software/roomballing) | The SUCKIEST game of bowling known to man. | HackGT presents: BuildGT 2 | `社交情感` `家居生活` 🏆 1st Place | 76 |
 | [**SmartBar**](https://devpost.com/software/smartbar-nwuxg9) | A smart power bar that monitors, controls, and reduces power consumption to connected dev… | MakeUofT 2020 | `环境可持续` `家居生活` 🏆 2nd Place Overall | 76 |
-| [**DumbleDoor**](https://devpost.com/software/dumbledoor) | A magical door that opens with facial recognition with a 2 way confirmation. | MakeHarvard 2018 | `家居生活` 🏆 Best Overall | 75 |
 
 </details>
 
-<details><summary><b>⏱️ 效率与自律 · Productivity & Habits</b> — 204 件</summary>
+<details><summary><b>⏱️ 效率与自律 · Productivity & Habits</b> — 207 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
@@ -146,7 +146,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · TreeHacks · Hackaday · Hacks
 
 </details>
 
-<details><summary><b>🎓 教育学习 · Education</b> — 283 件</summary>
+<details><summary><b>🎓 教育学习 · Education</b> — 298 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
@@ -158,31 +158,31 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · TreeHacks · Hackaday · Hacks
 
 </details>
 
-<details><summary><b>🛡️ 安全应急 · Safety & Security</b> — 224 件</summary>
+<details><summary><b>🛡️ 安全应急 · Safety & Security</b> — 233 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
 | [**Sophi - The Physical Augmentation Walker**](https://devpost.com/software/sophi) | Sophi is an AI-powered walker with an always-on voice agent for Q&A and GPS navigation, p… | Cal Hacks 13.0 | `安全应急` `无障碍辅助` 🏆 Cal Hacks First Overall | 80 |
+| [**OpenReality**](https://devpost.com/software/real-eyes-mra8n6) | OpenClaw in the real world! Generate and reason in a 3d map with just your phone! | HackIllinois 2026 | `安全应急` `工具与制造` 🏆 Most Creative | 79 |
 | [**VisionSense**](https://devpost.com/software/visionsense) | An IoT outfit to haptically guide users with visual impairments/obstructions while monito… | MakeUofT 2019 | `环境可持续` `安全应急` 🏆 1st Place Overall | 75 |
 | [**Safe Sphere**](https://devpost.com/software/safe-sphere) | An all-in-one IoT device which help people to keep their home safe, calculate the number… | Hardware Hackfest | `农业食物` `安全应急` 🏆 Third Overall | 72 |
-| [**HearU**](https://devpost.com/software/heremi) | HearU is a device that gives subtitles to the world. It allows those with hearing disabil… | MakeUofT 2021 | `无障碍辅助` `安全应急` 🏆 Individual Well-Being | 70 |
-| [**ShakeSafe**](https://devpost.com/software/i-can-t-breathe) | Our app aids disaster survivors by sending a distress signal with location & photo, chatb… | MakeUofT 2023 | `安全应急` 🏆 Health | 69 |
+| [**TerraGlide**](https://devpost.com/software/terraglide-ai) | TerraGlide is an autonomous leveler using dual-action parallel linkages for soil redistri… | HackIllinois 2026 | `农业食物` `安全应急` 🏆 Track: Best Hardware Hack (John Deere Mechathon) (1st Place) | 72 |
 
 </details>
 
-<details><summary><b>🚲 出行交通 · Mobility & Transport</b> — 299 件</summary>
+<details><summary><b>🚲 出行交通 · Mobility & Transport</b> — 303 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
 | [**Shepherd**](https://devpost.com/software/raising-cane) | A smart cane that guides indoor and outdoor navigation for blind people, costing ~1/20 of… | TreeHacks 2026 | `无障碍辅助` `出行交通` 🏆 Treehacks Grand Prize (1st) | 88 |
+| [**FEEL — The room, in your palm**](https://devpost.com/software/feel-the-room-in-your-palm) | A LiDAR iPhone and a 24-pin palm puck that turn the room into touch. Feel what’s ahead an… | HackHarvard2026: Hack to the Moon | `家居生活` `出行交通` 🏆 First Place Overall | 78 |
 | [**Napkn**](https://devpost.com/software/napkn-kavgmw) | Easily reserve tables, analyze dining/study hall traffic, and optimize your eating and st… | IDEA Hacks 2020 | `效率与自律` `出行交通` 🏆 IDEA Hacks 1st Place Grand Prize | 76 |
 | [**Mirage**](https://devpost.com/software/synsplatt) | Robots and self-driving cars need training data. Mirage synthesizes 3D world-model traini… | TreeHacks 2026 | `出行交通` 🏆 [Modal] Inference Track (Inference Track Grand Prize: $5K in Modal Credits per person, paid visit (flight & hotel) to SF or NY Office with lunch with Modal team,.   Inference Track Runner Up Prize:  $1K in Modal credits, airpods for each team member.) | 75 |
 | [**Project Jeremy and DriveCode**](https://devpost.com/software/project-just-coding-destructive-jam-kite-robot-j-c-d-j-k-r) | Our magnificent 2 Wheeled Robot Jeremy will be able to tackle this obstacle course in sev… | UTRA Hacks 2026 | `出行交通` 🏆 UTRA Hacks 2026: 1st Place  - ASUS ROG Zephyrus G16 (2025) | 74 |
-| [**eL**](https://devpost.com/software/el) | Making electric longboards safer with smart lighting | MakeHarvard 2019 | `出行交通` 🏆 Sunstone Circuits: Documentation Competition | 73 |
 
 </details>
 
-<details><summary><b>🎨 艺术音乐 · Art & Music</b> — 257 件</summary>
+<details><summary><b>🎨 艺术音乐 · Art & Music</b> — 266 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
@@ -194,7 +194,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · TreeHacks · Hackaday · Hacks
 
 </details>
 
-<details><summary><b>🎮 游戏娱乐 · Games & Fun</b> — 419 件</summary>
+<details><summary><b>🎮 游戏娱乐 · Games & Fun</b> — 426 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
@@ -206,7 +206,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · TreeHacks · Hackaday · Hacks
 
 </details>
 
-<details><summary><b>💞 社交情感 · Social & Emotional</b> — 257 件</summary>
+<details><summary><b>💞 社交情感 · Social & Emotional</b> — 264 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
@@ -218,15 +218,15 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · TreeHacks · Hackaday · Hacks
 
 </details>
 
-<details><summary><b>🛠️ 工具与制造 · Tools & Industry</b> — 278 件</summary>
+<details><summary><b>🛠️ 工具与制造 · Tools & Industry</b> — 284 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
 | [**Unsynthesizer**](https://devpost.com/software/unsynthesizer-2jxeoy) | 不用电子元件、只靠声音的无线键盘：每个键敲出不同频率，电脑靠滤波识别按键 | MakeMIT 2020 | `工具与制造` `游戏娱乐` 🏆 First Place | 100 |
 | [**Quakey**](https://devpost.com/software/quakey) | A vision-first autonomous robot for where lidar fails. | Robotech 2026 | `工具与制造` 🏆 1st Place Autonomous Track | 82 |
+| [**VIGIL: Assistive Eyewear with an Autonomous Aerial Scout**](https://devpost.com/software/vigil-assistive-eeywear-with-an-autonomous-aerial-scout) | VIGIL reimagines assistive eyewear via an autonomous aerial scout, extending perception b… | HackGT 13: Seaside Market | `无障碍辅助` `工具与制造` 🏆 Best Overall - 3rd Place | 81 |
+| [**OpenReality**](https://devpost.com/software/real-eyes-mra8n6) | OpenClaw in the real world! Generate and reason in a 3d map with just your phone! | HackIllinois 2026 | `安全应急` `工具与制造` 🏆 Most Creative | 79 |
 | [**Pipe Crawler**](https://devpost.com/software/pipe-crawler) | Robot that follows pipes in search of leaks. | MakeHarvard 2019 | `工具与制造` 🏆 Sunstone Circuits: Documentation Competition | 70 |
-| [**.dot: bringing humanity to in-home care**](https://devpost.com/software/dot-bringing-humanity-to-in-home-care) | Agentified personal in-home care for the elderly. Multimodal S2S agent system handles pat… | TreeHacks 2026 | `健康医疗` `工具与制造` 🏆 [Zingage] Best Voice AI for Healthcare (Airpods Max + fast-track to superday with Zingage) | 69 |
-| [**Human Operator**](https://devpost.com/software/human-operator) | A Human Augmentation Tool for On-Body Intelligence with EMS. | HARD MODE: Hardware x AI Hackathon | `工具与制造` 🏆 LEARN - Track | 68 |
 
 </details>
 
@@ -236,7 +236,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · TreeHacks · Hackaday · Hacks
 
 | 赛事 | 类型 | 地区 | 收录届数 | 作品 | 获奖 |
 | :-- | :-- | :-- | --: | --: | --: |
-| [Hackaday 大奖与主题赛](https://hackaday.io/prize) | 长周期大奖 | Global | 13 | 619 | 0 |
+| [Hackaday 大奖与主题赛](https://hackaday.io/prize) | 长周期大奖 | Global | 13 | 645 | 0 |
 | [MakeUofT](https://makeuoft.ca/) | 造物赛 | North America | 8 | 514 | 81 |
 | [MakeMIT](https://makemit.org/) | 造物赛 | North America | 9 | 285 | 91 |
 | [其他硬件/机器人黑客松](https://devpost.com/hackathons) | 造物赛 | Global | 15 | 247 | 59 |
@@ -246,30 +246,30 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · TreeHacks · Hackaday · Hacks
 | [UTRA Hacks（多伦多机器人）](https://utrahacks.ca/) | 造物赛 | North America | 4 | 205 | 36 |
 | [Hack the North](https://hackthenorth.com/) | 综合黑客松 ·硬件赛道 | North America | 11 | 138 | 47 |
 | [TreeHacks（斯坦福）](https://www.treehacks.com/) | 综合黑客松 ·硬件赛道 | North America | 11 | 134 | 45 |
+| [Cal Hacks](https://calhacks.io/) | 综合黑客松 ·硬件赛道 | North America | 8 | 115 | 36 |
 | [RoboTech](https://robotech.devpost.com/) | 造物赛 | North America | 4 | 114 | 30 |
-| [Cal Hacks](https://calhacks.io/) | 综合黑客松 ·硬件赛道 | North America | 8 | 113 | 34 |
 | [MakeNJIT](https://makenjit.org/) | 造物赛 | North America | 4 | 102 | 12 |
 | [PennApps](https://pennapps.com/) | 综合黑客松 ·硬件赛道 | North America | 14 | 72 | 27 |
-| [HackPrinceton](https://www.hackprinceton.com/) | 综合黑客松 ·硬件赛道 | North America | 16 | 71 | 30 |
+| [HackPrinceton](https://www.hackprinceton.com/) | 综合黑客松 ·硬件赛道 | North America | 16 | 72 | 31 |
 | [AdventureX](https://www.adventure-x.cn/) | 综合黑客松 ·硬件赛道 | China | 4 | 70 | 40 |
 | [MakeCU（哥伦比亚）](https://makecu.org/) | 造物赛 | North America | 4 | 70 | 36 |
+| [HackGT](https://hack.gt/) | 综合黑客松 ·硬件赛道 | North America | 12 | 67 | 9 |
 | [BuildGT（佐治亚理工）](https://hack.gt/) | 造物赛 | North America | 2 | 63 | 9 |
-| [HackGT](https://hack.gt/) | 综合黑客松 ·硬件赛道 | North America | 12 | 63 | 5 |
-| [MHacks](https://mhacks.org/) | 综合黑客松 ·硬件赛道 | North America | 12 | 46 | 15 |
-| [HackIllinois](https://hackillinois.org/) | 综合黑客松 ·硬件赛道 | North America | 8 | 39 | 6 |
+| [MHacks](https://mhacks.org/) | 综合黑客松 ·硬件赛道 | North America | 12 | 51 | 20 |
+| [HackIllinois](https://hackillinois.org/) | 综合黑客松 ·硬件赛道 | North America | 8 | 41 | 8 |
 | [MIT Reality Hack](https://www.realityhackatmit.com/) | XR 黑客松 ·硬件赛道 | North America | 8 | 38 | 18 |
-| [HackHarvard](https://hackharvard.io/) | 综合黑客松 ·硬件赛道 | North America | 10 | 30 | 7 |
+| [HackHarvard](https://hackharvard.io/) | 综合黑客松 ·硬件赛道 | North America | 10 | 31 | 8 |
+| [DeltaHacks](https://deltahacks.com/) | 综合黑客松 ·硬件赛道 | North America | 9 | 28 | 8 |
 | [TAMUmake（德州农工）](https://tamumake.com/) | 造物赛 | North America | 2 | 27 | 11 |
 | [UGAHacks Makeathon](https://ugahacks.com/) | 造物赛 | North America | 2 | 26 | 6 |
-| [DeltaHacks](https://deltahacks.com/) | 综合黑客松 ·硬件赛道 | North America | 9 | 25 | 5 |
 | [HackMIT](https://hackmit.org/) | 综合黑客松 ·硬件赛道 | North America | 5 | 23 | 11 |
+| [nwHacks](https://nwhacks.io/) | 综合黑客松 ·硬件赛道 | North America | 9 | 23 | 11 |
 | [IEEE UofT Hardware Hack](https://hardwarehack.ca/) | 造物赛 | North America | 1 | 21 | 4 |
-| [nwHacks](https://nwhacks.io/) | 综合黑客松 ·硬件赛道 | North America | 9 | 18 | 6 |
+| [uOttaHack](https://uottahack.ca/) | 综合黑客松 ·硬件赛道 | North America | 5 | 20 | 10 |
 | [Hacktech（加州理工）](https://hacktech.io/) | 综合黑客松 ·硬件赛道 | North America | 9 | 18 | 5 |
 | [BoilerMake](https://boilermake.org/) | 综合黑客松 ·硬件赛道 | North America | 7 | 17 | 6 |
 | [MakeUC（辛辛那提）](https://makeuc.io/) | 综合黑客松 ·硬件赛道 | North America | 6 | 17 | 8 |
-| [uOttaHack](https://uottahack.ca/) | 综合黑客松 ·硬件赛道 | North America | 5 | 15 | 5 |
-| [LA Hacks](https://lahacks.com/) | 综合黑客松 ·硬件赛道 | North America | 2 | 12 | 6 |
+| [LA Hacks](https://lahacks.com/) | 综合黑客松 ·硬件赛道 | North America | 2 | 14 | 8 |
 | [Hack Western](https://hackwestern.com/) | 综合黑客松 ·硬件赛道 | North America | 5 | 12 | 2 |
 | [地瓜机器人黑客松](https://hackathon.d-robotics.cc/) | 综合黑客松 | China | — | 3 | 0 |
 
@@ -308,4 +308,4 @@ flowchart LR
 | 改进分类 | 编辑 [`config/taxonomy.toml`](config/taxonomy.toml) 后 `--reclassify` 看效果 |
 | 让 AI Agent 接力维护 | 把 [`AGENTS.md`](AGENTS.md) 发给它 |
 
-<div align="center"><sub>本页面由 <code>pipeline/render.py</code> 自动生成 · 最后更新 2026-11-20 · 作品版权归各自作者所有，本仓库仅做索引</sub></div>
+<div align="center"><sub>本页面由 <code>pipeline/render.py</code> 自动生成 · 最后更新 2026-11-21 · 作品版权归各自作者所有，本仓库仅做索引</sub></div>

@@ -2,568 +2,572 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Hardware Hackathon Works · 硬件黑客松作品雷达</title>
 <link href="https://hardware-hackathon-works.vercel.app/"/>
-<updated>2026-11-20T18:31:44+00:00</updated>
+<updated>2026-11-21T00:47:40+00:00</updated>
 <id>https://hardware-hackathon-works.vercel.app/</id>
 <entry>
-<title>Shepherd · TreeHacks 2026</title>
-<link href="https://devpost.com/software/raising-cane"/>
-<id>devpost:raising-cane</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>A smart cane that guides indoor and outdoor navigation for blind people, costing ~1/20 of existing devices and providing better guidance. · 🏆 Treehacks Grand Prize (1st), [OpenEvidence] Healthcare Track Grand Prize</summary>
+<title>VIGIL: Assistive Eyewear with an Autonomous Aerial Scout · HackGT 13: Seaside Market</title>
+<link href="https://devpost.com/software/vigil-assistive-eeywear-with-an-autonomous-aerial-scout"/>
+<id>devpost:vigil-assistive-eeywear-with-an-autonomous-aerial-scout</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>VIGIL reimagines assistive eyewear via an autonomous aerial scout, extending perception beyond the field of view to help visually impaired users navigate unfamiliar spaces more independently. · 🏆 Best Overall - 3rd Place</summary>
 </entry>
 <entry>
-<title>Silent Voice · Cal Hacks 13.0</title>
-<link href="https://devpost.com/software/silent-voice-s1f74p"/>
-<id>devpost:silent-voice-s1f74p</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Cancer can take your voice, but we can give it back. · 🏆 Cal Hacks Second Overall, [Cartesia] Best Use of Cartesia</summary>
+<title>OpenReality · HackIllinois 2026</title>
+<link href="https://devpost.com/software/real-eyes-mra8n6"/>
+<id>devpost:real-eyes-mra8n6</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>OpenClaw in the real world! Generate and reason in a 3d map with just your phone! · 🏆 Most Creative, Track: Best AI Inference (1st Place)</summary>
 </entry>
 <entry>
-<title>Lucid · HackPrinceton Fall &#x27;26</title>
-<link href="https://devpost.com/software/lucid-k078qt"/>
-<id>devpost:lucid-k078qt</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Brain screening made accessible · 🏆 [Justin Bojarski] Best Physical AI Hack, [Amazon] Best Practical AI Innovation</summary>
+<title>RIIS · LA Hacks 2026</title>
+<link href="https://devpost.com/software/riis"/>
+<id>devpost:riis</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Rapid Incident Intelligence System · 🏆 2nd Overall, Fetch.ai: Best Use of ASI:One</summary>
 </entry>
 <entry>
-<title>Robosurge · TreeHacks 2026</title>
-<link href="https://devpost.com/software/we-use-nix"/>
-<id>devpost:we-use-nix</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Cursor for surgery. · 🏆 Treehacks Grand Prize (2nd)</summary>
+<title>Synesthesia · HackGT 13: Seaside Market</title>
+<link href="https://devpost.com/software/synesthesia-b1p9r3"/>
+<id>devpost:synesthesia-b1p9r3</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Visualization of sound in augmented reality to assist the deaf and hard of hearing. · 🏆 The Shipyard - 1st Place</summary>
 </entry>
 <entry>
-<title>Zeta · TreeHacks 2026</title>
-<link href="https://devpost.com/software/zeta-jwq9te"/>
-<id>devpost:zeta-jwq9te</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Grammarly for Math · 🏆 [Y Combinator] Build an Iconic YC Company with AI (1st Place: Guaranteed YC interview  2nd Place: Guaranteed YC Office Hours  3rd Place: Guaranteed YC Office Hours)</summary>
+<title>TerraGlide · HackIllinois 2026</title>
+<link href="https://devpost.com/software/terraglide-ai"/>
+<id>devpost:terraglide-ai</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>TerraGlide is an autonomous leveler using dual-action parallel linkages for soil redistribution. It features AI human detection that auto-lifts the blade and triggers alerts for safety. · 🏆 Track: Best Hardware Hack (John Deere Mechathon) (1st Place), Track: Best Hardware Hack (John Deere Mechathon) (Easy Track Winner)</summary>
 </entry>
 <entry>
-<title>Octavius · Hack the North 2026</title>
-<link href="https://devpost.com/software/octavius-nkl4x3"/>
-<id>devpost:octavius-nkl4x3</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Extra DIY arm, made with cardboard, code, and love. · 🏆 Huawei: OMNI Live Challenge</summary>
+<title>Drip · LA Hacks 2026</title>
+<link href="https://devpost.com/software/drip-6ao9m2"/>
+<id>devpost:drip-6ao9m2</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Every AI prompt wastes water. We engineered a system where every prompt generates it instead. · 🏆 Track: Sustain The Spark</summary>
 </entry>
 <entry>
-<title>Reflex · Hack the North 2026</title>
-<link href="https://devpost.com/software/reflex-e0jkih"/>
-<id>devpost:reflex-e0jkih</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>We write skills for AI; what if AI could write skills for us? · 🏆 Hack the North 2026: Finalists</summary>
+<title>LavaLock · DeltaHacks 12</title>
+<link href="https://devpost.com/software/lavalock"/>
+<id>devpost:lavalock</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>LavaLock: Security Powered by Real-World Chaos · 🏆 Swift Student Challenge</summary>
 </entry>
 <entry>
-<title>.dot: bringing humanity to in-home care · TreeHacks 2026</title>
-<link href="https://devpost.com/software/dot-bringing-humanity-to-in-home-care"/>
-<id>devpost:dot-bringing-humanity-to-in-home-care</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Agentified personal in-home care for the elderly. Multimodal S2S agent system handles patient charts, leading medical knowledge, medicine routines, and emergency contacts, all in a friendly package. · 🏆 [Zingage] Best Voice AI for Healthcare (Airpods Max + fast-track to superday with Zingage)</summary>
+<title>Plante · uOttaHack 8</title>
+<link href="https://devpost.com/software/plante"/>
+<id>devpost:plante</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>We built Plante, a plant monitor, so you can touch grass inside · 🏆 Best Designed Hack</summary>
 </entry>
 <entry>
-<title>Lucid Weave · Reality Hack @ MIT 2026</title>
-<link href="https://devpost.com/software/lucid-weave"/>
-<id>devpost:lucid-weave</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Lucid Weave is a living spatial manifestation of dreams where gestures sculpt music, melodies bloom into light, and the experience is worn · 🏆 Bronze Prize, Best of Hardware Hack</summary>
+<title>deltawash · DeltaHacks 12</title>
+<link href="https://devpost.com/software/deltawash"/>
+<id>devpost:deltawash</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Only 1/3 of doctors wash their hands with the full WHO procedure, contributing to infections in over 1/7 middle income households. We make it easy to validate proper sanitation procedures at scale. · 🏆 Second Place: Garmin Smartwatch</summary>
 </entry>
 <entry>
-<title>Otto · Hack the North 2026</title>
-<link href="https://devpost.com/software/dean-your-personal-agent-at-your-command"/>
-<id>devpost:dean-your-personal-agent-at-your-command</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>All your apps, at your command. Just say the word and Otto already has it finished! · 🏆 Composio: 6 months free subscription + $10k of credits for the 6 months</summary>
+<title>Ground Unit Response Tank (G.U.R.T) · uOttaHack 8</title>
+<link href="https://devpost.com/software/ground-unit-response-tank-g-u-r-t"/>
+<id>devpost:ground-unit-response-tank-g-u-r-t</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>With different classes, enemies, and even an option to bet on yourself, G.U.R.T is the future of mixed-reality games. Join our web queue, and watch the real-world tanks drive! · 🏆 Best Hardware Hack, [MLH] Best .Tech Domain Name</summary>
 </entry>
 <entry>
-<title>Mira Mira on Da Wall · TreeHacks 2026</title>
-<link href="https://devpost.com/software/mira-3xqlos"/>
-<id>devpost:mira-3xqlos</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>MIRA is an AI powered smart mirror that helps you decide what to wear and what to buy. &quot;Mira Mira On The Wall...&quot; · 🏆 [Visa] The Generative Edge: Future of Commerce ($10,000 total)</summary>
+<title>Fire Automaton · uOttaHack 8</title>
+<link href="https://devpost.com/software/fire-automata"/>
+<id>devpost:fire-automata</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Cellular automaton that evolves into flame-like patterns. · 🏆 Ross Video: FPGA Challenge</summary>
 </entry>
 <entry>
-<title>Lincoln · HackPrinceton Fall &#x27;26</title>
-<link href="https://devpost.com/software/bouy-7tofbl"/>
-<id>devpost:bouy-7tofbl</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Solar powered buoys that track water quality 200x cheaper than the next closest instrument · 🏆 [Justin Bojarski] Best Physical AI Hack, Best Sustainability Hack</summary>
+<title>Embers · nwHacks 2026</title>
+<link href="https://devpost.com/software/concord-d6txpr"/>
+<id>devpost:concord-d6txpr</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Embers is an offline Mesh Network with Edge-AI sentry nodes that detect wildfires in real-time using Computer Vision and a self-healing mesh. · 🏆 Potential Community Impact</summary>
 </entry>
 <entry>
-<title>diffuji · TreeHacks 2026</title>
-<link href="https://devpost.com/software/diffuji"/>
-<id>devpost:diffuji</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>a diffusion-powered instant camera · 🏆 Most Creative, [Neo] Most Likely to Become a Product</summary>
+<title>ReelFriends · HackGT 13: Seaside Market</title>
+<link href="https://devpost.com/software/reelfriends"/>
+<id>devpost:reelfriends</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>The Reel Friends are the Fih we met along the way!!! · 🏆 Notability: Trust the Process</summary>
 </entry>
 <entry>
-<title>Drigil · Cal Hacks 13.0</title>
-<link href="https://devpost.com/software/drigil"/>
-<id>devpost:drigil</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Smart glasses that coach workers with intellectual and developmental disabilities (IDD) through a new job in their supervisor&#x27;s own voice, then step back as they learn. · 🏆 [Anthropic] Claude for Public Benefit</summary>
+<title>MelaNone · nwHacks 2026</title>
+<link href="https://devpost.com/software/melanone"/>
+<id>devpost:melanone</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Portable melanoma tracker and detector. · 🏆 [Telus] The Edge of Innovation</summary>
 </entry>
 <entry>
-<title>Orbit Health · Cal Hacks 13.0</title>
-<link href="https://devpost.com/software/orbit-health"/>
-<id>devpost:orbit-health</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Three in ten Zambian clinics run out of malaria drugs with a full warehouse. Village pods triage patients and order exactly what’s needed; satellites plan the routes around floods, on real roads. · 🏆 Cal Hacks Best Planet-First Social Impact Hack</summary>
+<title>Cardio Glasses · MHacks 2026</title>
+<link href="https://devpost.com/software/cardio-glasses"/>
+<id>devpost:cardio-glasses</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Everyday glasses that watch high-risk hearts and speak up before an emergency. · 🏆 FinchNode (HealthTech)</summary>
 </entry>
 <entry>
-<title>Granny Waymo · Hack the North 2026</title>
-<link href="https://devpost.com/software/granny-waymo"/>
-<id>devpost:granny-waymo</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Turn your Grandma into a Waymo · 🏆 OpenAI: API Prizes</summary>
+<title>SteadyScript · nwHacks 2026</title>
+<link href="https://devpost.com/software/steadyscript"/>
+<id>devpost:steadyscript</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>A smart biofeedback pen and web app that guides users through quick exercises to improve steadiness and control. · 🏆 Best Beginner Project, [PCCA] Best Wellness Related Hack</summary>
 </entry>
 <entry>
-<title>SpideyIRL · Hack the North 2026</title>
-<link href="https://devpost.com/software/sixth-sense-pk24ul"/>
-<id>devpost:sixth-sense-pk24ul</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>The Real Life Peter Tingle · 🏆 QNX: Create an Embedded System with QNX that Uses AI</summary>
+<title>VibeSense · nwHacks 2026</title>
+<link href="https://devpost.com/software/vibesense"/>
+<id>devpost:vibesense</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Sense emotions beyond sight: VibeSense converts facial expressions into audio patterns so blind people can perceive emotions in real-time. · 🏆 [MLH] Best Use of Presage</summary>
 </entry>
 <entry>
-<title>FortWatch · Cal Hacks 13.0</title>
-<link href="https://devpost.com/software/fortwatch"/>
-<id>devpost:fortwatch</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Affordable watch to help deaf people sense important noises around them. · 🏆 Cal Hacks Best Hardware Hack</summary>
+<title>B(AI)MAX · DeltaHacks 12</title>
+<link href="https://devpost.com/software/b-ai-max-m406t9"/>
+<id>devpost:b-ai-max-m406t9</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Biometric &amp; AI-Driven Medical Assistance eXchange. BAIMAX! · 🏆 Beasley Neighbourhood Association - Best Community Building Hack</summary>
 </entry>
 <entry>
-<title>PreVent · Cal Hacks 13.0</title>
-<link href="https://devpost.com/software/prevent-5ymas0"/>
-<id>devpost:prevent-5ymas0</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Autonomous security for the medical devices hospitals can&#x27;t patch. · 🏆 [Armadin] Best Security Hack, [Bitdeer AI] Best Use of Bitdeer AI Model Studio</summary>
+<title>Iris · MHacks 2026</title>
+<link href="https://devpost.com/software/iris-o0d6uh"/>
+<id>devpost:iris-o0d6uh</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Smart glasses for the glasses you already own. · 🏆 Best Use of Neon Backend</summary>
 </entry>
 <entry>
-<title>EyeMelody · Hack the North 2026</title>
-<link href="https://devpost.com/software/dual-vision-glasses"/>
-<id>devpost:dual-vision-glasses</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Anyone, playing anything, anywhere! · 🏆 QNX: Create an Embedded System with QNX that Uses AI</summary>
+<title>TedTime · HackGT 13: Seaside Market</title>
+<link href="https://devpost.com/software/teddy-42km8n"/>
+<id>devpost:teddy-42km8n</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>A cozy bear that families can use to share stories with their loved ones. · 🏆 Meta: Bringing People Closer Together with AI - Winner</summary>
 </entry>
 <entry>
-<title>Re:collection · Cal Hacks 13.0</title>
-<link href="https://devpost.com/software/re-collection"/>
-<id>devpost:re-collection</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Re:Collection turns a family visit or an old home video into a 3D Memory Palace someone with Alzheimer’s can walk back into, guided by a calm voice that only says what the family approved. · 🏆 [Meta] Meta/Facebook: Bringing People Closer Together with AI</summary>
+<title>HUDson · nwHacks 2026</title>
+<link href="https://devpost.com/software/hudson-uw5kn7"/>
+<id>devpost:hudson-uw5kn7</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Sound for all. HUDson visualizes sound for those with near or full deafness, giving visual and tactile cues for sounds outside of their field of vision. · 🏆 [MLH] Best Use of Elevenlabs</summary>
 </entry>
 <entry>
-<title>BrainSync · Cal Hacks 13.0</title>
-<link href="https://devpost.com/software/brainsync"/>
-<id>devpost:brainsync</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Speak with just your thoughts · 🏆 Cal Hacks Most Technically Complex Hack</summary>
+<title>+CropSCOUT · HackHarvard2026: Hack to the Moon</title>
+<link href="https://devpost.com/software/cropscout"/>
+<id>devpost:cropscout</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Physical AI for low-pesticide agriculture to help farmers spray less and grow more crop. #1 RFS on YC S26. · 🏆 ASUS Sustainability: Save the Earth</summary>
 </entry>
 <entry>
-<title>bingbong · Hack the North 2026</title>
-<link href="https://devpost.com/software/bing-bong-z7rsny"/>
-<id>devpost:bing-bong-z7rsny</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Multiplayer rhythm party game (badge hacking included) · 🏆 Hack the North 2026: Finalists</summary>
+<title>Ender&#x27;s Bench · Cal Hacks 13.0</title>
+<link href="https://devpost.com/software/ender-s-bench"/>
+<id>devpost:ender-s-bench</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Ender’s Bench puts AI agents to the test. Watch their choices, measure their results, and see whether they do the right thing when it matters. · 🏆 [Spacetime] Best Use of Spacetime</summary>
 </entry>
 <entry>
-<title>TouchSpace · Cal Hacks 13.0</title>
-<link href="https://devpost.com/software/touchspace"/>
-<id>devpost:touchspace</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Turning real-world spaces into interactive tactile and audio maps, empowering blind and visually impaired people to explore unfamiliar environments independently. · 🏆 [Anthropic] Claude for Public Benefit</summary>
+<title>ESPN LIVE · uOttaHack 8</title>
+<link href="https://devpost.com/software/espn-live"/>
+<id>devpost:espn-live</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>A live broadcast of the Canadian soccer league final, presented by ESPN and powered by ROSS Video technology. · 🏆 Ross Video: FPGA Challenge</summary>
 </entry>
 <entry>
-<title>Feel The Music · Hack the North 2026</title>
-<link href="https://devpost.com/software/feel-the-music"/>
-<id>devpost:feel-the-music</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>A full-body immersive music experience that transforms music into synchronized light, haptics, and gesture, enabling deaf people to feel rhythm, intensity, and emotion throughout their bodies. · 🏆 Human Computer Lab: Build with LeLamp SDK</summary>
+<title>:Peeki · MHacks 2026</title>
+<link href="https://devpost.com/software/peeki"/>
+<id>devpost:peeki</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>The wireless camera bear that watches, remembers, and answers when you ask. · 🏆 Relay Interactive Agents Track Winner</summary>
 </entry>
 <entry>
-<title>SoundSense · Reality Hack @ MIT 2026</title>
-<link href="https://devpost.com/software/soundsense-tfqiv9"/>
-<id>devpost:soundsense-tfqiv9</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>A communication tool that translates spoken language into visual and spatial cues, helping individuals with vision impairments better understand sound and making communication systems more accessible. · 🏆 Best Use of Edge AI for Hardware Hack - Sponsored by Qualcomm</summary>
+<title>Otto: One Less Trip to the Mechanic · MHacks 2026</title>
+<link href="https://devpost.com/software/otto-one-less-trip-to-the-mechanic"/>
+<id>devpost:otto-one-less-trip-to-the-mechanic</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Your car already knows what&#x27;s wrong. Otto uses a FREE-WILi and AI to turn its trouble codes and live data into plain English and safe DIY fixes, so you don&#x27;t get overcharged. · 🏆 Best Use of FREE-WILi</summary>
 </entry>
 <entry>
-<title>Boomer · HackPrinceton Fall &#x27;26</title>
-<link href="https://devpost.com/software/boomer"/>
-<id>devpost:boomer</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>The AI copilot for electricians · 🏆 [Peri] Forward Deployed Engineer</summary>
+<title>Rom-Com · HackPrinceton Spring &#x27;26</title>
+<link href="https://devpost.com/software/rom-com"/>
+<id>devpost:rom-com</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Recovery that meets you where you are. · 🏆 AI &amp; Tech for Clinical Trials by Regeneron [Cash Prizes]</summary>
 </entry>
 <entry>
-<title>Reboot: Anomaly Holdout · Reality Hack @ MIT 2026</title>
-<link href="https://devpost.com/software/anomaly-holdout"/>
-<id>devpost:anomaly-holdout</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Survive an alien threat by using a mixed-reality control panel to scan rooms, open valves, and shut doors. · 🏆 Best XR Experience - Sponsored by Qualcomm</summary>
+<title>SteadiStep · MHacks 2026</title>
+<link href="https://devpost.com/software/steadistep"/>
+<id>devpost:steadistep</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>An adjustable fall detection device that attaches to any walking guide, identifies potential risks, and automatically sends an alert for help. · 🏆 Beyond the Code Track Winner</summary>
 </entry>
 <entry>
-<title>Rest Easy · Cal Hacks 13.0</title>
-<link href="https://devpost.com/software/rest-easy"/>
-<id>devpost:rest-easy</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>An agentic pillow for older adults living alone: it notices when they haven&#x27;t come back to bed, checks in by voice, and only then reaches out to family. Not a monitor. A goodnight. · 🏆 [Fetch.ai] Best Use of Fetch.ai</summary>
+<title>Puck Buddy · uOttaHack 8</title>
+<link href="https://devpost.com/software/air-hockey-with-yourself"/>
+<id>devpost:air-hockey-with-yourself</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Meet Puck Buddy: the Al air hockey opponent that never tires. Custom 3D-printed with real-time tracking, it tests your reflexes with a genuine challenge, anytime. · 🏆 QNX: Hardware Project on the QNX OS</summary>
 </entry>
 <entry>
-<title>Gestura · Hack the North 2026</title>
-<link href="https://devpost.com/software/gestura-6m3xfv"/>
-<id>devpost:gestura-6m3xfv</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Gloves that turn your movements and voice into game controls, so instead of learning the controller, the controller learns you. · 🏆 Aramco Americas: Best Beginner Hack</summary>
+<title>Show Before · Cal Hacks 13.0</title>
+<link href="https://devpost.com/software/show-before"/>
+<id>devpost:show-before</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>One iPhone walkthrough builds a complete listing. Renters speed-tour real homes in VR, say what they love or hate, and see if their own couch fits before they ever visit. · 🏆 [Bright Data] Best Agent/App Using Public Web Data sponsored by Bright Data</summary>
 </entry>
 <entry>
-<title>Vision OS · Cal Hacks 13.0</title>
-<link href="https://devpost.com/software/vision-os-4ckmq3"/>
-<id>devpost:vision-os-4ckmq3</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Helps visually impaired individuals navigate everyday environments through real time AI assistance and tactile feedback. · 🏆 [Notability] Best Use of Notability</summary>
+<title>PAROL6 - Desktop robotic arm · Hackaday Prize 2023</title>
+<link href="https://hackaday.io/project/191860-parol6-desktop-robotic-arm"/>
+<id>hackaday:191860</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>A robot that can be used as desktop tool for small automation and education!</summary>
 </entry>
 <entry>
-<title>Hedge The North · Hack the North 2026</title>
-<link href="https://devpost.com/software/solana-prediction-mkt"/>
-<id>devpost:solana-prediction-mkt</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>A live, on-chain prediction market that thrives on hackathon chaos. Seamlessly bet on props with just a tap of your HTN badge. · 🏆 Dryft: Dryft Company Challenge</summary>
+<title>Rosmo robot · Hackaday Prize 2022</title>
+<link href="https://hackaday.io/project/183129-rosmo-robot"/>
+<id>hackaday:183129</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Modular open hardware robot for uROS2 &amp; Microblocks</summary>
 </entry>
 <entry>
-<title>JazzCasters · Reality Hack @ MIT 2026</title>
-<link href="https://devpost.com/software/jazzcasters"/>
-<id>devpost:jazzcasters</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Jazz Casters is an interactive music-driven spellcasting tower-defense game where players use hand gestures to compose music and combat the enemies in real time. · 🏆 Best Implementation of  Hand Tracking on Meta Quest - Sponsored by Meta</summary>
+<title>Autonomous tracked robotic platform UGV · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/181500-autonomous-tracked-robotic-platform-ugv"/>
+<id>hackaday:181500</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>One of my most advanced projects to date. A tracked robotic development platform that [hopefully] raises the bar for hobby robotics.</summary>
 </entry>
 <entry>
-<title>Keymaeleon · Hack the North 2026</title>
-<link href="https://devpost.com/software/keymaeleon"/>
-<id>devpost:keymaeleon</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Keymaeleon is a context-aware mechanical keyboard for developers, with OLED keys that adapt to what you’re doing and use AI to surface the most useful actions in the moment. · 🏆 Hack the North 2026: Finalists</summary>
+<title>MetaSense · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/181697-metasense"/>
+<id>hackaday:181697</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Using conductive and flex filament to 3d print interactive interfaces.</summary>
 </entry>
 <entry>
-<title>Oops All Motion · Reality Hack @ MIT 2026</title>
-<link href="https://devpost.com/software/oops-all-motion"/>
-<id>devpost:oops-all-motion</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>An Edge AI powered fitness coach that tracks your movement and corrects your form in real time through the Samsung Galaxy XR headset. · 🏆 Best Use of Arduino App Lab for Hardware Hack - Sponsored by Qualcomm</summary>
+<title>Open Concentrating PV Solar Tracker Controller · Hackaday Prize 2022</title>
+<link href="https://hackaday.io/project/185130-open-concentrating-pv-solar-tracker-controller"/>
+<id>hackaday:185130</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Achieve better than 0.1° sun tracking accuracy with a compass a tilt sensor and a shading beam sun sensor.</summary>
 </entry>
 <entry>
-<title>Among Us · Hack the North 2026</title>
-<link href="https://devpost.com/software/among-us-lbrwjk"/>
-<id>devpost:among-us-lbrwjk</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Among us but IRL · 🏆 Solana: Best Use of Solana and Badge Hack</summary>
+<title>PCB for HandWired Keyboards · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/180154-pcb-for-handwired-keyboards"/>
+<id>hackaday:180154</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Ergonomic typing, back in style</summary>
 </entry>
 <entry>
-<title>homecookd · Cal Hacks 13.0</title>
-<link href="https://devpost.com/software/homecookd"/>
-<id>devpost:homecookd</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Preserve family recipes in the voices of the people who made them. Cook hands-free from their real clips, and share the dishes with your community. · 🏆 [MLH] Best Use of Gemini API</summary>
+<title>Quad-ROS-bot · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/178361-quad-ros-bot"/>
+<id>hackaday:178361</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Development platform for agricultural robots</summary>
 </entry>
 <entry>
-<title>VoiceBridge · Hack the North 2026</title>
-<link href="https://devpost.com/software/voicebridge-xh0nv9"/>
-<id>devpost:voicebridge-xh0nv9</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Dysarthric speech recovery, in your own voice. · 🏆 Baseten: Best Use of Baseten</summary>
+<title>SDR dock 1.0 · Hackaday Prize 2023</title>
+<link href="https://hackaday.io/project/192534-sdr-dock-10"/>
+<id>hackaday:192534</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Raspberry pi based open source device with SDR and easy to use controls for exploring RF signals and data.</summary>
 </entry>
 <entry>
-<title>Eleven · Cal Hacks 13.0</title>
-<link href="https://devpost.com/software/eleven-j84ur5"/>
-<id>devpost:eleven-j84ur5</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Helping ALS patients do simple tasks by using their mind to run AI Agents! · 🏆 [Apify] Best Use of Apify</summary>
+<title>Slot-In Record Player with Arduino rfid &amp; mp3 · Hackaday Prize 2022</title>
+<link href="https://hackaday.io/project/185939-slot-in-record-player-with-arduino-rfid-mp3"/>
+<id>hackaday:185939</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Transform an old &quot;slot-in record player&quot;: make a magical mp3 player with the help of RFID reader and tags</summary>
 </entry>
 <entry>
-<title>Wren: a throat band that voices dysarthric speech in ALS · HackPrinceton Fall &#x27;26</title>
-<link href="https://devpost.com/software/fonos-a-throat-band-so-people-with-als-can-be-understood"/>
-<id>devpost:fonos-a-throat-band-so-people-with-als-can-be-understood</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>A band that feels speech as vibration at the larynx. Tap once and the iPhone app says your words clearly, in your own voice, then tracks how your speech changes week to week for your doctor. · 🏆 Best Hardware Hack</summary>
+<title>Stereo Ninja · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/180044-stereo-ninja"/>
+<id>hackaday:180044</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>A DIY digital stereo-microscope. Low cost. Open source software and hardware. For electronics inspection, soldering work and more.</summary>
 </entry>
 <entry>
-<title>GitIRL Bot · Hack the North 2026</title>
-<link href="https://devpost.com/software/house-bot"/>
-<id>devpost:house-bot</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Version control for the physical world · 🏆 Bracket Bot: Best Use of Bracket Bot Hardware</summary>
+<title>3D Printable 2-axis MEMS Mirror · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/180343-3d-printable-2-axis-mems-mirror"/>
+<id>hackaday:180343</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>A home buildable 2D mirror for controlling light deflection.</summary>
 </entry>
 <entry>
-<title>Restock · HackPrinceton Fall &#x27;26</title>
-<link href="https://devpost.com/software/restock-v3pkq8"/>
-<id>devpost:restock-v3pkq8</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>A camera watches the ingredients, AI counts every item taken, and texts the owner to reorder before anything runs out. Tested live at Casa Piada in Greenwich. · 🏆 [Photon] Build a Messaging Agent using Photon 2.0, [Peri] Forward Deployed Engineer</summary>
+<title>Standalone T9 Predictive Keyboard · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/179977-standalone-t9-predictive-keyboard"/>
+<id>hackaday:179977</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Fast, tactile, one-handed typing with a T9 powered macropad. Runs CircuitPython, so you can drag/drop your own custom dictionary.</summary>
 </entry>
 <entry>
-<title>A hand for my aunt · HackPrinceton Fall &#x27;26</title>
-<link href="https://devpost.com/software/a-hand-for-my-aunt"/>
-<id>devpost:a-hand-for-my-aunt</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>My aunt can’t move from the neck down. We built her a hand: a robot arm she controls with her head, eyes, or voice, so she can reach for things herself. · 🏆 [Amazon] Best Practical AI Innovation</summary>
+<title>The Recreator 3D - Make Recycled PET#1 3D Filament · Hackaday Prize 2023</title>
+<link href="https://hackaday.io/project/185867-the-recreator-3d-make-recycled-pet1-3d-filament"/>
+<id>hackaday:185867</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Strip down PET#1 Recyclable plastic bottles. 
+Convert into new usable 3D filament.
+Load up your favorite 3D printer and recreate!</summary>
 </entry>
 <entry>
-<title>WaterShield Alerts · HackPrinceton Spring &#x27;26</title>
-<link href="https://devpost.com/software/watershield-alerts"/>
-<id>devpost:watershield-alerts</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>An automated system to detect and prevent water leakages/bursts in piping systems · 🏆 Best Sustainability Hack, Agents in iMessage by Photon [Cash Prize]</summary>
+<title>VinyGo, a stereo vinyl recorder · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/181401-vinygo-a-stereo-vinyl-recorder"/>
+<id>hackaday:181401</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>For artists, vinyl stores, recording studios, or music lovers</summary>
 </entry>
 <entry>
-<title>Lifelink · TreeHacks 2026</title>
-<link href="https://devpost.com/software/lifelink-j2nf9t"/>
-<id>devpost:lifelink-j2nf9t</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>A decentralized mesh network for civilians in crisis.</summary>
+<title>VVD: an open source Real 3D Volumetric Display · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/180304-vvd-an-open-source-real-3d-volumetric-display"/>
+<id>hackaday:180304</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Your 3D content on a real PoV volumetric display, no glasses needed!</summary>
 </entry>
 <entry>
-<title>Rewind · HackPrinceton Fall &#x27;26</title>
-<link href="https://devpost.com/software/rewind-7ir2hn"/>
-<id>devpost:rewind-7ir2hn</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Ever wanted to relive a moment in time? With Rewind, step inside your old videos and live events using just your phone. AI builds the room around you. The room is generated; the moment is real. · 🏆 [MLH] Build Your Hackathon A-Team with SpaceXSI</summary>
+<title>3D-printable double helical gear pump *watertight* · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/182068-3d-printable-double-helical-gear-pump-watertight"/>
+<id>hackaday:182068</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Fully 3D-printable hydraulics for all your robotics projects</summary>
 </entry>
 <entry>
-<title>Co:Lab · TreeHacks 2026</title>
-<link href="https://devpost.com/software/co-laboratory"/>
-<id>devpost:co-laboratory</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>AI-Accelerated Scientific Discovery — design, execute, and iterate on experiments with agents</summary>
+<title>OMOTE  - DIY Universal Remote · Hackaday Prize 2023</title>
+<link href="https://hackaday.io/project/191752-omote-diy-universal-remote"/>
+<id>hackaday:191752</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Open-Source Infrared Remote Using ESP32 and LVGL</summary>
 </entry>
 <entry>
-<title>Between Us · Reality Hack @ MIT 2026</title>
-<link href="https://devpost.com/software/between-us-0l7tib"/>
-<id>devpost:between-us-0l7tib</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>The app turns brainwave data and body movement into interactive sound and visuals. Using hand tracking, users create music with gestures, generating colors, particles, and forms in VR. · 🏆 Best Execution in Community Hack - Sponsored by Quasar Lab</summary>
+<title>UChaser - Ultrasonic Following Control System · Hackaday Prize 2023</title>
+<link href="https://hackaday.io/project/190427-uchaser-ultrasonic-following-control-system"/>
+<id>hackaday:190427</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>An embeddable control system for creating robotic projects that follow a target.</summary>
 </entry>
 <entry>
-<title>Save My Rims · Hack the North 2026</title>
-<link href="https://devpost.com/software/detect-pot"/>
-<id>devpost:detect-pot</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Hate potholes? Damaged wheels? We got you! · 🏆 MLH: Best Use of Tiger Data</summary>
+<title>Wifi Module For 3D Printer(ESP32) · Hackaday Prize 2023</title>
+<link href="https://hackaday.io/project/187773-wifi-module-for-3d-printeresp32"/>
+<id>hackaday:187773</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>This module is based on esp32, uses arduino for programming, and the firmware is open source.
+It realizes the core functions of wifi transfe</summary>
 </entry>
 <entry>
-<title>CLN17 V2: $12 BoM Closed-Loop Driver for NEMA17 · Hackaday Prize 2023</title>
-<link href="https://hackaday.io/project/192759-cln17-v2-12-bom-closed-loop-driver-for-nema17"/>
-<id>hackaday:192759</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>A compact, silent, high-performance open-source closed-loop (servo) stepper motor driver with USB, CAN-FD and 48V support</summary>
+<title>Animabot - Advanced Hexapod Robot · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/168312-animabot-advanced-hexapod-robot"/>
+<id>hackaday:168312</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Animabot is a 3D printed hexapod robot created to be a daily life companion to interact with people and its environment.</summary>
 </entry>
 <entry>
-<title>eON INDOOR AIR QUALITY SENSOR · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/180248-eon-indoor-air-quality-sensor"/>
-<id>hackaday:180248</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Miniature battery indoor air quality, climate and weather forecast sensor with e-ink display.</summary>
+<title>Assistive Robotic Manipulator and 6-DoF Controller · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/181205-assistive-robotic-manipulator-and-6-dof-controller"/>
+<id>hackaday:181205</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>A low-cost, 3D printable assistive robotic arm prototype.</summary>
 </entry>
 <entry>
-<title>Homemade Spectrometer · Hackaday Prize 2023</title>
-<link href="https://hackaday.io/project/192720-homemade-spectrometer"/>
-<id>hackaday:192720</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Open source experiment kit made with the AS7262 (six colors) and AS7263 (near infrared) spectral sensors and the Raspberry Pi</summary>
+<title>breadWare · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/180394-breadware"/>
+<id>hackaday:180394</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>A jumperless breadboard</summary>
 </entry>
 <entry>
-<title>Laser4DIY · Hackaday Prize 2023</title>
-<link href="https://hackaday.io/project/191904-laser4diy"/>
-<id>hackaday:191904</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Laser4DIY is an open-hardware machine for producing PCBs by ablating copper with a laser</summary>
+<title>ElectroLab · Hackaday Prize 2023</title>
+<link href="https://hackaday.io/project/190443-electrolab"/>
+<id>hackaday:190443</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Transform your curiosity for electronics into creative circuits.</summary>
 </entry>
 <entry>
-<title>Lu.i – educational neuron PCB · Hackaday Prize 2023</title>
-<link href="https://hackaday.io/project/190754-lui-educational-neuron-pcb"/>
-<id>hackaday:190754</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Lu.i is an electronic neuron circuit mimicking and illustrating the basic dynamics of real, biological neurons.</summary>
+<title>Environmental Toolkit for an Ecological Area · Hackaday Prize 2022</title>
+<link href="https://hackaday.io/project/186547-environmental-toolkit-for-an-ecological-area"/>
+<id>hackaday:186547</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>LoRaWAN IoT system with the Arduino MKR WAN 1300, that help my community to monitor the air quality and water of our ecological area</summary>
 </entry>
 <entry>
-<title>UV projection printer for PCBs and item marking · Hackaday Prize 2023</title>
-<link href="https://hackaday.io/project/192246-uv-projection-printer-for-pcbs-and-item-marking"/>
-<id>hackaday:192246</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>This tool can project UV mask and cure paint on various objects, including PCB prototypes, 3D prints, panels and household items</summary>
+<title>FindMyCat - The Open Source Pet Tracker · Hackaday Prize 2023</title>
+<link href="https://hackaday.io/project/192734-findmycat-the-open-source-pet-tracker"/>
+<id>hackaday:192734</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>The only pet tracker you will ever need. Months long battery life, works outdoors and indoors. It’s Purr-fectly Empowered.</summary>
 </entry>
 <entry>
-<title>20€ DIY-Eyetracker for school projects · Hackaday Prize 2023</title>
-<link href="https://hackaday.io/project/190473-20-diy-eyetracker-for-school-projects"/>
-<id>hackaday:190473</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Build an inexpensive eyetracker with primary school students - and control real world robots with block-based coding!</summary>
+<title>Green BMS · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/181453-green-bms"/>
+<id>hackaday:181453</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Open source Bluetooth Smart Battery Management System</summary>
 </entry>
 <entry>
-<title>8-bit Workbench ED: hands-on with number systems · Retrocomputing Contest</title>
-<link href="https://hackaday.io/project/206154-8-bit-workbench-ed-hands-on-with-number-systems"/>
-<id>hackaday:206154</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Explore the computer byte with this educational easy-to-solder kit. Toggle in 8 bits and see their decimal, hex or octal value. With game!</summary>
+<title>Jumperless · Hackaday Prize 2023</title>
+<link href="https://hackaday.io/project/191238-jumperless"/>
+<id>hackaday:191238</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>a jumperless (solderless) breadboard</summary>
 </entry>
 <entry>
-<title>[HDP 2022] Put an RPi CM4 into an original iPad · Hackaday Prize 2022</title>
-<link href="https://hackaday.io/project/186431-hdp-2022-put-an-rpi-cm4-into-an-original-ipad"/>
-<id>hackaday:186431</id>
-<updated>2026-11-20T00:00:00Z</updated>
+<title>Kite Propulsion · Hackaday Prize 2022</title>
+<link href="https://hackaday.io/project/184950-kite-propulsion"/>
+<id>hackaday:184950</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Harnessing the wind with robot controlled kites</summary>
+</entry>
+<entry>
+<title>Kites for Future - Flying Wind Turbine · Hackaday Prize 2023</title>
+<link href="https://hackaday.io/project/188136-kites-for-future-flying-wind-turbine"/>
+<id>hackaday:188136</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>A flying wing drone that can periodically pull a tether + a generator on the ground that acts like a rowing machine = Flying Wind Turbine</summary>
+</entry>
+<entry>
+<title>Low cost Augmented Reality VR for microcontroller · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/179843-low-cost-augmented-reality-vr-for-microcontroller"/>
+<id>hackaday:179843</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Optimized for use microcontrollers and SPI displays
+popular ST7789 1.3&quot; IPS 240x240
+FEEL LIKE IRON MAN !!!!!</summary>
+</entry>
+<entry>
+<title>Low-Cost, Waterjet-Powered Robotic Speedboats · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/182005-low-cost-waterjet-powered-robotic-speedboats"/>
+<id>hackaday:182005</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>This project focuses on the development of open-source, low-cost, waterjet-powered robotic speedboats for education and research</summary>
+</entry>
+<entry>
+<title>mutantC V4 - Easy to Build, Modular Handheld PC · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/181347-mutantc-v4-easy-to-build-modular-handheld-pc"/>
+<id>hackaday:181347</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>A small Handheld PC with a physical 56 key keyboard, 4inch Display and Expansion header for add-on boards (Like Arduino Shield).</summary>
+</entry>
+<entry>
+<title>Non-contact touch panel · Hackaday Prize 2023</title>
+<link href="https://hackaday.io/project/192360-non-contact-touch-panel"/>
+<id>hackaday:192360</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Clean machine operation with non-contact touch panel.
+This sensor is a science fiction prototyping designed by imagining the future.</summary>
+</entry>
+<entry>
+<title>Open6X robot arm · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/181875-open6x-robot-arm"/>
+<id>hackaday:181875</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>open source, 3d printed, 6-axis robot arm</summary>
+</entry>
+<entry>
+<title>PCB Bussiness Card With 4*4 Tic Tac Toe Game · Business Card Contest 2024</title>
+<link href="https://hackaday.io/project/196299-pcb-bussiness-card-with-44-tic-tac-toe-game"/>
+<id>hackaday:196299</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>I have made a simple but feature-rich business card. it has a tic-tac-toe game. let&#x27;s see how I made this</summary>
+</entry>
+<entry>
+<title>PnPAssist · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/179878-pnpassist"/>
+<id>hackaday:179878</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>PnPAssist is a tool that helps you to assemble PCB boards manually.</summary>
+</entry>
+<entry>
+<title>pollutagNode2 -  Air Quality Monitor - LoRaWAN · Green Powered Challenge</title>
+<link href="https://hackaday.io/project/198348-pollutagnode2-air-quality-monitor-lorawan"/>
+<id>hackaday:198348</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Solar powered LoraWAN node for continuous air quality monitoring based on Wio-E5  and SEN54 Sensirion sensor</summary>
+</entry>
+<entry>
+<title>Put a Raspberry Pi CM4 into an original iPad · Hackaday Prize 2022</title>
+<link href="https://hackaday.io/project/177256-put-a-raspberry-pi-cm4-into-an-original-ipad"/>
+<id>hackaday:177256</id>
+<updated>2026-11-21T00:00:00Z</updated>
 <summary>Open up a 2010 iPad, remove its logic board, and fabricate a new board based around the Raspberry Pi CM4.</summary>
 </entry>
 <entry>
-<title>ARX Hand Project X1M · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/169585-arx-hand-project-x1m"/>
-<id>hackaday:169585</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>An advance modular 3D printed mechanical prosthetic</summary>
+<title>Solar Powered WiFi Weather Station V3.0 · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/182052-solar-powered-wifi-weather-station-v30"/>
+<id>hackaday:182052</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>ESP32 based Open Source Weather Station</summary>
 </entry>
 <entry>
-<title>Burning Pictures on a Compact Disc Surface · Hackaday Prize 2022</title>
-<link href="https://hackaday.io/project/186303-burning-pictures-on-a-compact-disc-surface"/>
-<id>hackaday:186303</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>No LightScribe, no LabelTag. No hardware hacks or gimmicks. A regular CD-RW drive and a regular compact disk.</summary>
+<title>SPI Display Array Desktop Clock · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/180045-spi-display-array-desktop-clock"/>
+<id>hackaday:180045</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>SPI Interface Display Array board to make a fully customizable desktop clock or notification banner connected to the internet with an ESP32.</summary>
 </entry>
 <entry>
-<title>ChatGPT Robot Kit: Unlock your AI Dream Job · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/180171-chatgpt-robot-kit-unlock-your-ai-dream-job"/>
-<id>hackaday:180171</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>ChatGPT+Gemini+Claude | Open Source | ROS2 | Assembly within 1 hour | Quickstart</summary>
+<title>The 603-200 watch · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/181159-the-603-200-watch"/>
+<id>hackaday:181159</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>This watch has 200 leds and an ESP32 pico for superb light shows</summary>
 </entry>
 <entry>
-<title>Crazy Clock · One Hertz Challenge</title>
-<link href="https://hackaday.io/project/5880-crazy-clock"/>
-<id>hackaday:5880</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>A replacement controller for Lavet stepper clock movements</summary>
+<title>Volumetric Display using Acoustically Trapped Ball · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/180008-volumetric-display-using-acoustically-trapped-ball"/>
+<id>hackaday:180008</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>This project uses a phased arrray of ultrasonic transducers to levitate and move a 1mm foam ball to draw in mid-air using the POV effect.</summary>
 </entry>
 <entry>
-<title>Crosberry Pi · Cyberdeck Contest 2023</title>
-<link href="https://hackaday.io/project/191823-crosberry-pi"/>
-<id>hackaday:191823</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>A cyberdeck made from a gutted Crosley record player and a Raspberry Pi, with working volume knob and original speakers</summary>
+<title>10mbps over 1km on a single pair of wires · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/179020-10mbps-over-1km-on-a-single-pair-of-wires"/>
+<id>hackaday:179020</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>A simple 46mmx22.5mm module to route power and differential signals (RS-485) over RJ-45</summary>
 </entry>
 <entry>
-<title>CRT-Style Pi Portable — Pi Terminal · Cyberdeck Contest 2023</title>
-<link href="https://hackaday.io/project/189558-crt-style-pi-portable-pi-terminal"/>
-<id>hackaday:189558</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Pi _Terminal is a CRT inspired portable for the Raspberry Pi 4.
-8in 4:3 Screen, UPS, HDMI Switch and a low profile cooler.</summary>
+<title>3D-printable 1x1x1m 5-axis machine, 3D-printer · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/181021-3d-printable-1x1x1m-5-axis-machine-3d-printer"/>
+<id>hackaday:181021</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Combining the best of both worlds into 1 giant machine.</summary>
 </entry>
 <entry>
-<title>DESERT EYE: Military Surveillance Robot · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/181648-desert-eye-military-surveillance-robot"/>
-<id>hackaday:181648</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>A tactical robot that can traverse the desert environment, video enemy locations and stream the feed back to soldiers on the ground in V.R.</summary>
+<title>All About Laptop Display Reuse · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/179868-all-about-laptop-display-reuse"/>
+<id>hackaday:179868</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>LVDS, eDP, connectors and controllers - let&#x27;s learn it all</summary>
 </entry>
 <entry>
-<title>Green Detect · Hackaday Prize 2022</title>
-<link href="https://hackaday.io/project/186064-green-detect"/>
-<id>hackaday:186064</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Wireless Sensor Network Platform (WSN) , for enviromental monitoring</summary>
+<title>Anteneh’s Jerry Can · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/178283-antenehs-jerry-can"/>
+<id>hackaday:178283</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>A new kind of Jerry can for water transport for rural areas that ease the pain for the person carrying the load with lower cost.</summary>
 </entry>
 <entry>
-<title>Lightup breadboard · Hackaday Prize 2023</title>
-<link href="https://hackaday.io/project/190765-lightup-breadboard"/>
-<id>hackaday:190765</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Each line of the breadboard has an LED that glows based on the voltage on that line</summary>
+<title>ArmaLamp - Armageddon resistant night lamp · Hackaday Prize 2022</title>
+<link href="https://hackaday.io/project/185116-armalamp-armageddon-resistant-night-lamp"/>
+<id>hackaday:185116</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Plastic covered photo cells + Supercapacitor with unlimited life</summary>
 </entry>
 <entry>
-<title>LOTP Robot Dog V2 · Hackaday Prize 2023</title>
-<link href="https://hackaday.io/project/188660-lotp-robot-dog-v2"/>
-<id>hackaday:188660</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Modular Autonomous Quadruped Robot Project
-(Open Source)</summary>
+<title>Braiding Machine - Maypole Braider and bobbins · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/181960-braiding-machine-maypole-braider-and-bobbins"/>
+<id>hackaday:181960</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>Basic design concepts for a 3D printable maypole braiding machine with bobbin carriers designed with tension control.</summary>
 </entry>
 <entry>
-<title>Micro-8 · Retrocomputing Contest</title>
-<link href="https://hackaday.io/project/206817-micro-8"/>
-<id>hackaday:206817</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>The 8-bit hobby computer with custom graphics and audio for creating small games on real hardware.</summary>
+<title>BrailleRAP DIY Braille embosser · Hackaday Prize 2023</title>
+<link href="https://hackaday.io/project/191085-braillerap-diy-braille-embosser"/>
+<id>hackaday:191085</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>An Open source Braille embosser in the spirit of RepRap</summary>
 </entry>
 <entry>
-<title>Neotron Pico · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/180407-neotron-pico"/>
-<id>hackaday:180407</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>A microATX motherboard that uses a Raspberry Pi Pico as the CPU. SuperVGA output, stereo audio, a BIOS written in Rust and not much RAM!</summary>
-</entry>
-<entry>
-<title>Pixel Pump Pick &amp; Place · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/181916-pixel-pump-pick-place"/>
-<id>hackaday:181916</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>An open-source manual pick and place machine for PCB artisans</summary>
-</entry>
-<entry>
-<title>Solder Sustainer | Effortless One-Hand Soldering · Hackaday Prize 2023</title>
-<link href="https://hackaday.io/project/192216-solder-sustainer-effortless-one-hand-soldering"/>
-<id>hackaday:192216</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>This project allows the user to effortlessly bond wires while only utilizing one hand for both the solder and soldering iron.</summary>
-</entry>
-<entry>
-<title>Spine desk lamp · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/176180-spine-desk-lamp"/>
-<id>hackaday:176180</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>a project for my work-from-home desk, with CNC cut profiles, addressable LEDs, with tentacle kinematics</summary>
-</entry>
-<entry>
-<title>Terminator T-800 Brain Chip Badge · Business Card Contest 2024</title>
-<link href="https://hackaday.io/project/195111-terminator-t-800-brain-chip-badge"/>
-<id>hackaday:195111</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>A PCB badge featuring the iconic brain chip from Terminator 2: Judgment Day</summary>
-</entry>
-<entry>
-<title>The Ball-Drone Project MK III · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/181367-the-ball-drone-project-mk-iii"/>
-<id>hackaday:181367</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Now in the 3rd iteration stage, this 3D printable single rotor drone with thrust vector control offers more safety and features than ever!</summary>
-</entry>
-<entry>
-<title>the electromechanicalanalogdigitalclock · One Hertz Challenge</title>
-<link href="https://hackaday.io/project/172231-the-electromechanicalanalogdigitalclock"/>
-<id>hackaday:172231</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>A clock build with CMOS logic, moving coil meters and a stepper</summary>
-</entry>
-<entry>
-<title>Ubo Pod: Build Apps with Rich UX on Raspberry Pi · Hackaday Prize 2023</title>
-<link href="https://hackaday.io/project/190742-ubo-pod-build-apps-with-rich-ux-on-raspberry-pi"/>
-<id>hackaday:190742</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>An open source dev kit to build Raspberry Pi app with rich UI&amp;#x2F;UX with an easy to use SDK</summary>
-</entry>
-<entry>
-<title>3D-printable strain wave gearbox - harmonic drive · Hackaday Prize 2022</title>
-<link href="https://hackaday.io/project/187309-3d-printable-strain-wave-gearbox-harmonic-drive"/>
-<id>hackaday:187309</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>3D-printed strain wave gearbox strong enough to pull a car forwards.</summary>
-</entry>
-<entry>
-<title>65uino · Hackaday Prize 2023</title>
-<link href="https://hackaday.io/project/190260-65uino"/>
-<id>hackaday:190260</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>6502 based learning in a familiar form factor</summary>
-</entry>
-<entry>
-<title>AI Coding Assistant for Microsoft QBasic · Retrocomputing Contest</title>
-<link href="https://hackaday.io/project/203972-ai-coding-assistant-for-microsoft-qbasic"/>
-<id>hackaday:203972</id>
-<updated>2026-11-20T00:00:00Z</updated>
-<summary>Vibe coding has come to the Microsoft QBasic v1.1 IDE from 1991 with integrated LLM code completions and code generation.</summary>
+<title>CRISS CP/M 8-bit Homebrew DIY Computer (AVR based) · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/181038-criss-cpm-8-bit-homebrew-diy-computer-avr-based"/>
+<id>hackaday:181038</id>
+<updated>2026-11-21T00:00:00Z</updated>
+<summary>the FIRST Single-board DIY 8-bit Personal Computer with VGA, Mice, Ethernet and Printer support, GPIO and CP/M powered!</summary>
 </entry>
 </feed>

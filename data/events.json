@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T18:31:44+00:00",
+ "generated": "2026-11-21T00:47:40+00:00",
  "series": [
   {
    "id": "hackaday-prize",
@@ -12,7 +12,7 @@
    "url": "https://hackaday.io/prize",
    "blurb_zh": "全球开源硬件『奥斯卡』，校准『解决真实问题 + 可复现』",
    "blurb_en": "The open-hardware 'Oscars' — real problems, reproducible builds.",
-   "projects": 619,
+   "projects": 645,
    "winners": 0,
    "editions": [
     {
@@ -22,7 +22,7 @@
      "year": 2026,
      "url": "https://hackaday.io/submissions/retro-computing-contest/list",
      "state": "ended",
-     "projects": 69,
+     "projects": 68,
      "winners": 0
     },
     {
@@ -62,7 +62,7 @@
      "year": 2025,
      "url": "https://hackaday.io/submissions/one-hertz-challenge/list",
      "state": "ended",
-     "projects": 34,
+     "projects": 33,
      "winners": 0
     },
     {
@@ -72,7 +72,7 @@
      "year": 2024,
      "url": "https://hackaday.io/submissions/supercon-8-sao-contest/list",
      "state": "ended",
-     "projects": 39,
+     "projects": 40,
      "winners": 0
     },
     {
@@ -112,7 +112,7 @@
      "year": 2023,
      "url": "https://hackaday.io/submissions/prize2023/list",
      "state": "ended",
-     "projects": 99,
+     "projects": 111,
      "winners": 0
     },
     {
@@ -122,7 +122,7 @@
      "year": 2023,
      "url": "https://hackaday.io/submissions/cyberdeck-2023/list",
      "state": "ended",
-     "projects": 36,
+     "projects": 35,
      "winners": 0
     },
     {
@@ -132,7 +132,7 @@
      "year": 2022,
      "url": "https://hackaday.io/submissions/prize2022/list",
      "state": "ended",
-     "projects": 98,
+     "projects": 86,
      "winners": 0
     },
     {
@@ -142,7 +142,7 @@
      "year": 2021,
      "url": "https://hackaday.io/submissions/prize2021/list",
      "state": "ended",
-     "projects": 63,
+     "projects": 91,
      "winners": 0
     }
    ]
@@ -1666,86 +1666,6 @@
    ]
   },
   {
-   "id": "robotech",
-   "name": "RoboTech",
-   "name_zh": "RoboTech",
-   "org": "RoboTech",
-   "region": "North America",
-   "kind": "makeathon",
-   "hardware_focus": "dedicated",
-   "url": "https://robotech.devpost.com/",
-   "blurb_zh": "机器人主题黑客松",
-   "blurb_en": "Robotics-themed hackathon.",
-   "projects": 114,
-   "winners": 30,
-   "editions": [
-    {
-     "id": "robotech-2026",
-     "series_id": "robotech",
-     "name": "Robotech 2026",
-     "year": 2026,
-     "url": "https://robotech-2026.devpost.com/",
-     "gallery_url": "https://robotech-2026.devpost.com/project-gallery",
-     "dates": "Jan 23 - 25, 2026",
-     "registrations": 118,
-     "state": "ended",
-     "winners_announced": true,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/811/590/datas/medium_square.png",
-     "devpost_id": 26852,
-     "projects": 25,
-     "winners": 6
-    },
-    {
-     "id": "robotech-2025",
-     "series_id": "robotech",
-     "name": "RoboTech 2025",
-     "year": 2025,
-     "url": "https://robotech-2025.devpost.com/",
-     "gallery_url": "https://robotech-2025.devpost.com/project-gallery",
-     "dates": "Mar 28 - 30, 2025",
-     "registrations": 43,
-     "state": "ended",
-     "winners_announced": true,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/318/780/datas/medium_square.png",
-     "devpost_id": 24484,
-     "projects": 15,
-     "winners": 7
-    },
-    {
-     "id": "robotech-2023",
-     "series_id": "robotech",
-     "name": "Robotech 2023",
-     "year": 2023,
-     "url": "https://robotech2023.devpost.com/",
-     "gallery_url": "https://robotech2023.devpost.com/project-gallery",
-     "dates": "Mar 03 - 05, 2023",
-     "registrations": 96,
-     "state": "ended",
-     "winners_announced": true,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/398/150/datas/medium_square.png",
-     "devpost_id": 17606,
-     "projects": 25,
-     "winners": 4
-    },
-    {
-     "id": "robotech-2022",
-     "series_id": "robotech",
-     "name": "RoboTech 2022",
-     "year": 2022,
-     "url": "https://robotech2022.devpost.com/",
-     "gallery_url": "https://robotech2022.devpost.com/project-gallery",
-     "dates": "Apr 01 - 03, 2022",
-     "registrations": 161,
-     "state": "ended",
-     "winners_announced": true,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/001/886/229/datas/medium_square.png",
-     "devpost_id": 15135,
-     "projects": 49,
-     "winners": 13
-    }
-   ]
-  },
-  {
    "id": "calhacks",
    "name": "Cal Hacks",
    "name_zh": "Cal Hacks",
@@ -1756,8 +1676,8 @@
    "url": "https://calhacks.io/",
    "blurb_zh": "伯克利大型黑客松（仅收录硬件作品）",
    "blurb_en": "Berkeley's large hackathon (hardware entries only).",
-   "projects": 113,
-   "winners": 34,
+   "projects": 115,
+   "winners": 36,
    "editions": [
     {
      "id": "calhacks-2026",
@@ -1772,8 +1692,8 @@
      "winners_announced": true,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/519/078/datas/medium_square.png",
      "devpost_id": 29871,
-     "projects": 51,
-     "winners": 20
+     "projects": 53,
+     "winners": 22
     },
     {
      "id": "calhacks-2025",
@@ -1886,6 +1806,86 @@
      "devpost_id": 5584,
      "projects": 3,
      "winners": 0
+    }
+   ]
+  },
+  {
+   "id": "robotech",
+   "name": "RoboTech",
+   "name_zh": "RoboTech",
+   "org": "RoboTech",
+   "region": "North America",
+   "kind": "makeathon",
+   "hardware_focus": "dedicated",
+   "url": "https://robotech.devpost.com/",
+   "blurb_zh": "机器人主题黑客松",
+   "blurb_en": "Robotics-themed hackathon.",
+   "projects": 114,
+   "winners": 30,
+   "editions": [
+    {
+     "id": "robotech-2026",
+     "series_id": "robotech",
+     "name": "Robotech 2026",
+     "year": 2026,
+     "url": "https://robotech-2026.devpost.com/",
+     "gallery_url": "https://robotech-2026.devpost.com/project-gallery",
+     "dates": "Jan 23 - 25, 2026",
+     "registrations": 118,
+     "state": "ended",
+     "winners_announced": true,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/811/590/datas/medium_square.png",
+     "devpost_id": 26852,
+     "projects": 25,
+     "winners": 6
+    },
+    {
+     "id": "robotech-2025",
+     "series_id": "robotech",
+     "name": "RoboTech 2025",
+     "year": 2025,
+     "url": "https://robotech-2025.devpost.com/",
+     "gallery_url": "https://robotech-2025.devpost.com/project-gallery",
+     "dates": "Mar 28 - 30, 2025",
+     "registrations": 43,
+     "state": "ended",
+     "winners_announced": true,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/318/780/datas/medium_square.png",
+     "devpost_id": 24484,
+     "projects": 15,
+     "winners": 7
+    },
+    {
+     "id": "robotech-2023",
+     "series_id": "robotech",
+     "name": "Robotech 2023",
+     "year": 2023,
+     "url": "https://robotech2023.devpost.com/",
+     "gallery_url": "https://robotech2023.devpost.com/project-gallery",
+     "dates": "Mar 03 - 05, 2023",
+     "registrations": 96,
+     "state": "ended",
+     "winners_announced": true,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/398/150/datas/medium_square.png",
+     "devpost_id": 17606,
+     "projects": 25,
+     "winners": 4
+    },
+    {
+     "id": "robotech-2022",
+     "series_id": "robotech",
+     "name": "RoboTech 2022",
+     "year": 2022,
+     "url": "https://robotech2022.devpost.com/",
+     "gallery_url": "https://robotech2022.devpost.com/project-gallery",
+     "dates": "Apr 01 - 03, 2022",
+     "registrations": 161,
+     "state": "ended",
+     "winners_announced": true,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/001/886/229/datas/medium_square.png",
+     "devpost_id": 15135,
+     "projects": 49,
+     "winners": 13
     }
    ]
   },
@@ -2220,8 +2220,8 @@
    "url": "https://www.hackprinceton.com/",
    "blurb_zh": "普林斯顿黑客松（仅收录硬件作品）",
    "blurb_en": "Princeton's hackathon (hardware entries only).",
-   "projects": 71,
-   "winners": 30,
+   "projects": 72,
+   "winners": 31,
    "editions": [
     {
      "id": "hackprinceton-2026",
@@ -2252,8 +2252,8 @@
      "winners_announced": true,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/544/959/datas/medium_square.png",
      "devpost_id": 29615,
-     "projects": 11,
-     "winners": 4
+     "projects": 12,
+     "winners": 5
     },
     {
      "id": "hackprinceton-2025",
@@ -2706,54 +2706,6 @@
    ]
   },
   {
-   "id": "buildgt",
-   "name": "BuildGT",
-   "name_zh": "BuildGT（佐治亚理工）",
-   "org": "HackGT",
-   "region": "North America",
-   "kind": "makeathon",
-   "hardware_focus": "dedicated",
-   "url": "https://hack.gt/",
-   "blurb_zh": "HackGT 旗下的硬件造物赛",
-   "blurb_en": "HackGT's hardware build event.",
-   "projects": 63,
-   "winners": 9,
-   "editions": [
-    {
-     "id": "buildgt-2019",
-     "series_id": "buildgt",
-     "name": "HackGT presents: BuildGT 2",
-     "year": 2019,
-     "url": "https://buildgt-2019.devpost.com/",
-     "gallery_url": "https://buildgt-2019.devpost.com/project-gallery",
-     "dates": "Mar 02, 2019",
-     "registrations": 106,
-     "state": "ended",
-     "winners_announced": true,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/000/767/261/datas/medium_square.png",
-     "devpost_id": 7706,
-     "projects": 41,
-     "winners": 5
-    },
-    {
-     "id": "buildgt-2018",
-     "series_id": "buildgt",
-     "name": "HackGT presents: BuildGT",
-     "year": 2018,
-     "url": "https://buildgt-2018.devpost.com/",
-     "gallery_url": "https://buildgt-2018.devpost.com/project-gallery",
-     "dates": "Mar 10, 2018",
-     "registrations": 62,
-     "state": "ended",
-     "winners_announced": true,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/000/612/203/datas/medium_square.png",
-     "devpost_id": 6251,
-     "projects": 22,
-     "winners": 4
-    }
-   ]
-  },
-  {
    "id": "hackgt",
    "name": "HackGT",
    "name_zh": "HackGT",
@@ -2764,8 +2716,8 @@
    "url": "https://hack.gt/",
    "blurb_zh": "Georgia Tech 综合黑客松（仅收录硬件作品）",
    "blurb_en": "Georgia Tech's hackathon (hardware entries only).",
-   "projects": 63,
-   "winners": 5,
+   "projects": 67,
+   "winners": 9,
    "editions": [
     {
      "id": "hackgt-2026",
@@ -2780,8 +2732,8 @@
      "winners_announced": true,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/379/047/datas/medium_square.png",
      "devpost_id": 30297,
-     "projects": 23,
-     "winners": 3
+     "projects": 27,
+     "winners": 7
     },
     {
      "id": "hackgt-2025",
@@ -3042,6 +2994,54 @@
    ]
   },
   {
+   "id": "buildgt",
+   "name": "BuildGT",
+   "name_zh": "BuildGT（佐治亚理工）",
+   "org": "HackGT",
+   "region": "North America",
+   "kind": "makeathon",
+   "hardware_focus": "dedicated",
+   "url": "https://hack.gt/",
+   "blurb_zh": "HackGT 旗下的硬件造物赛",
+   "blurb_en": "HackGT's hardware build event.",
+   "projects": 63,
+   "winners": 9,
+   "editions": [
+    {
+     "id": "buildgt-2019",
+     "series_id": "buildgt",
+     "name": "HackGT presents: BuildGT 2",
+     "year": 2019,
+     "url": "https://buildgt-2019.devpost.com/",
+     "gallery_url": "https://buildgt-2019.devpost.com/project-gallery",
+     "dates": "Mar 02, 2019",
+     "registrations": 106,
+     "state": "ended",
+     "winners_announced": true,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/000/767/261/datas/medium_square.png",
+     "devpost_id": 7706,
+     "projects": 41,
+     "winners": 5
+    },
+    {
+     "id": "buildgt-2018",
+     "series_id": "buildgt",
+     "name": "HackGT presents: BuildGT",
+     "year": 2018,
+     "url": "https://buildgt-2018.devpost.com/",
+     "gallery_url": "https://buildgt-2018.devpost.com/project-gallery",
+     "dates": "Mar 10, 2018",
+     "registrations": 62,
+     "state": "ended",
+     "winners_announced": true,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/000/612/203/datas/medium_square.png",
+     "devpost_id": 6251,
+     "projects": 22,
+     "winners": 4
+    }
+   ]
+  },
+  {
    "id": "mhacks",
    "name": "MHacks",
    "name_zh": "MHacks",
@@ -3052,8 +3052,8 @@
    "url": "https://mhacks.org/",
    "blurb_zh": "密歇根大学黑客松（仅收录硬件作品）",
    "blurb_en": "Michigan's hackathon (hardware entries only).",
-   "projects": 46,
-   "winners": 15,
+   "projects": 51,
+   "winners": 20,
    "editions": [
     {
      "id": "mhacks-2026",
@@ -3068,8 +3068,8 @@
      "winners_announced": true,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/372/670/datas/medium_square.jpeg",
      "devpost_id": 31496,
-     "projects": 15,
-     "winners": 4
+     "projects": 20,
+     "winners": 9
     },
     {
      "id": "mhacks-2025",
@@ -3292,8 +3292,8 @@
    "url": "https://hackillinois.org/",
    "blurb_zh": "UIUC 综合黑客松（仅收录硬件作品）",
    "blurb_en": "UIUC's hackathon (hardware entries only).",
-   "projects": 39,
-   "winners": 6,
+   "projects": 41,
+   "winners": 8,
    "editions": [
     {
      "id": "hackillinois-2026",
@@ -3308,8 +3308,8 @@
      "winners_announced": true,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/377/449/datas/medium_square.png",
      "devpost_id": 28870,
-     "projects": 9,
-     "winners": 3
+     "projects": 11,
+     "winners": 5
     },
     {
      "id": "hackillinois-2025",
@@ -3660,8 +3660,8 @@
    "url": "https://hackharvard.io/",
    "blurb_zh": "Harvard 综合黑客松（仅收录硬件作品）",
    "blurb_en": "Harvard's hackathon (hardware entries only).",
-   "projects": 30,
-   "winners": 7,
+   "projects": 31,
+   "winners": 8,
    "editions": [
     {
      "id": "hackharvard-2026",
@@ -3692,8 +3692,8 @@
      "winners_announced": true,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/591/322/datas/medium_square.png",
      "devpost_id": 31752,
-     "projects": 9,
-     "winners": 2
+     "projects": 10,
+     "winners": 3
     },
     {
      "id": "hackharvard-2025",
@@ -3858,118 +3858,6 @@
    ]
   },
   {
-   "id": "tamumake",
-   "name": "TAMUmake",
-   "name_zh": "TAMUmake（德州农工）",
-   "org": "Texas A&M",
-   "region": "North America",
-   "kind": "makeathon",
-   "hardware_focus": "dedicated",
-   "url": "https://tamumake.com/",
-   "blurb_zh": "德州农工硬件 makeathon",
-   "blurb_en": "Texas A&M's hardware makeathon.",
-   "projects": 27,
-   "winners": 11,
-   "editions": [
-    {
-     "id": "tamumake-2021",
-     "series_id": "tamumake",
-     "name": "TAMUmake",
-     "year": 2021,
-     "url": "https://tamumake2021.devpost.com/",
-     "gallery_url": "https://tamumake2021.devpost.com/project-gallery",
-     "dates": "Mar 05 - 07, 2021",
-     "registrations": 31,
-     "state": "ended",
-     "winners_announced": true,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/001/398/084/datas/medium_square.png",
-     "devpost_id": 12007,
-     "projects": 10,
-     "winners": 3
-    },
-    {
-     "id": "tamumake-2020",
-     "series_id": "tamumake",
-     "name": "TAMUmake 2020",
-     "year": 2020,
-     "url": "https://tamumake.devpost.com/",
-     "gallery_url": "https://tamumake.devpost.com/project-gallery",
-     "dates": "Feb 15 - 16, 2020",
-     "registrations": 42,
-     "state": "ended",
-     "winners_announced": true,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/000/936/805/datas/medium_square.png",
-     "devpost_id": 9501,
-     "projects": 17,
-     "winners": 8
-    },
-    {
-     "id": "tamumake-2018",
-     "series_id": "tamumake",
-     "name": "TAMUMAKE 2018",
-     "year": 2018,
-     "url": "https://tamumake2018.devpost.com/",
-     "gallery_url": "https://tamumake2018.devpost.com/project-gallery",
-     "dates": "Feb 17, 2018",
-     "registrations": 2,
-     "state": "ended",
-     "winners_announced": false,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/000/603/241/datas/medium_square.png",
-     "devpost_id": 6168,
-     "projects": 0,
-     "winners": 0
-    }
-   ]
-  },
-  {
-   "id": "ugahacks-make",
-   "name": "UGAHacks Makeathon",
-   "name_zh": "UGAHacks Makeathon",
-   "org": "University of Georgia",
-   "region": "North America",
-   "kind": "makeathon",
-   "hardware_focus": "dedicated",
-   "url": "https://ugahacks.com/",
-   "blurb_zh": "佐治亚大学 makeathon",
-   "blurb_en": "UGA's makeathon.",
-   "projects": 26,
-   "winners": 6,
-   "editions": [
-    {
-     "id": "ugahacks-make-2023",
-     "series_id": "ugahacks-make",
-     "name": "UGAHacks Makeathon II",
-     "year": 2023,
-     "url": "https://ugahacks-makeathon-2.devpost.com/",
-     "gallery_url": "https://ugahacks-makeathon-2.devpost.com/project-gallery",
-     "dates": "Oct 21 - 22, 2023",
-     "registrations": 60,
-     "state": "ended",
-     "winners_announced": true,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/551/550/datas/medium_square.png",
-     "devpost_id": 18833,
-     "projects": 12,
-     "winners": 3
-    },
-    {
-     "id": "ugahacks-make-2022",
-     "series_id": "ugahacks-make",
-     "name": "UGAHacks Makeathon",
-     "year": 2022,
-     "url": "https://ugahacks-makeathon.devpost.com/",
-     "gallery_url": "https://ugahacks-makeathon.devpost.com/project-gallery",
-     "dates": "Oct 01 - 02, 2022",
-     "registrations": 78,
-     "state": "ended",
-     "winners_announced": true,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/221/878/datas/medium_square.png",
-     "devpost_id": 16288,
-     "projects": 14,
-     "winners": 3
-    }
-   ]
-  },
-  {
    "id": "deltahacks",
    "name": "DeltaHacks",
    "name_zh": "DeltaHacks",
@@ -3980,8 +3868,8 @@
    "url": "https://deltahacks.com/",
    "blurb_zh": "McMaster 综合黑客松（仅收录硬件作品）",
    "blurb_en": "McMaster's hackathon (hardware entries only).",
-   "projects": 25,
-   "winners": 5,
+   "projects": 28,
+   "winners": 8,
    "editions": [
     {
      "id": "deltahacks-2026",
@@ -4012,8 +3900,8 @@
      "winners_announced": true,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/134/863/datas/medium_square.png",
      "devpost_id": 27983,
-     "projects": 4,
-     "winners": 2
+     "projects": 7,
+     "winners": 5
     },
     {
      "id": "deltahacks-2025",
@@ -4162,6 +4050,118 @@
    ]
   },
   {
+   "id": "tamumake",
+   "name": "TAMUmake",
+   "name_zh": "TAMUmake（德州农工）",
+   "org": "Texas A&M",
+   "region": "North America",
+   "kind": "makeathon",
+   "hardware_focus": "dedicated",
+   "url": "https://tamumake.com/",
+   "blurb_zh": "德州农工硬件 makeathon",
+   "blurb_en": "Texas A&M's hardware makeathon.",
+   "projects": 27,
+   "winners": 11,
+   "editions": [
+    {
+     "id": "tamumake-2021",
+     "series_id": "tamumake",
+     "name": "TAMUmake",
+     "year": 2021,
+     "url": "https://tamumake2021.devpost.com/",
+     "gallery_url": "https://tamumake2021.devpost.com/project-gallery",
+     "dates": "Mar 05 - 07, 2021",
+     "registrations": 31,
+     "state": "ended",
+     "winners_announced": true,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/001/398/084/datas/medium_square.png",
+     "devpost_id": 12007,
+     "projects": 10,
+     "winners": 3
+    },
+    {
+     "id": "tamumake-2020",
+     "series_id": "tamumake",
+     "name": "TAMUmake 2020",
+     "year": 2020,
+     "url": "https://tamumake.devpost.com/",
+     "gallery_url": "https://tamumake.devpost.com/project-gallery",
+     "dates": "Feb 15 - 16, 2020",
+     "registrations": 42,
+     "state": "ended",
+     "winners_announced": true,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/000/936/805/datas/medium_square.png",
+     "devpost_id": 9501,
+     "projects": 17,
+     "winners": 8
+    },
+    {
+     "id": "tamumake-2018",
+     "series_id": "tamumake",
+     "name": "TAMUMAKE 2018",
+     "year": 2018,
+     "url": "https://tamumake2018.devpost.com/",
+     "gallery_url": "https://tamumake2018.devpost.com/project-gallery",
+     "dates": "Feb 17, 2018",
+     "registrations": 2,
+     "state": "ended",
+     "winners_announced": false,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/000/603/241/datas/medium_square.png",
+     "devpost_id": 6168,
+     "projects": 0,
+     "winners": 0
+    }
+   ]
+  },
+  {
+   "id": "ugahacks-make",
+   "name": "UGAHacks Makeathon",
+   "name_zh": "UGAHacks Makeathon",
+   "org": "University of Georgia",
+   "region": "North America",
+   "kind": "makeathon",
+   "hardware_focus": "dedicated",
+   "url": "https://ugahacks.com/",
+   "blurb_zh": "佐治亚大学 makeathon",
+   "blurb_en": "UGA's makeathon.",
+   "projects": 26,
+   "winners": 6,
+   "editions": [
+    {
+     "id": "ugahacks-make-2023",
+     "series_id": "ugahacks-make",
+     "name": "UGAHacks Makeathon II",
+     "year": 2023,
+     "url": "https://ugahacks-makeathon-2.devpost.com/",
+     "gallery_url": "https://ugahacks-makeathon-2.devpost.com/project-gallery",
+     "dates": "Oct 21 - 22, 2023",
+     "registrations": 60,
+     "state": "ended",
+     "winners_announced": true,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/551/550/datas/medium_square.png",
+     "devpost_id": 18833,
+     "projects": 12,
+     "winners": 3
+    },
+    {
+     "id": "ugahacks-make-2022",
+     "series_id": "ugahacks-make",
+     "name": "UGAHacks Makeathon",
+     "year": 2022,
+     "url": "https://ugahacks-makeathon.devpost.com/",
+     "gallery_url": "https://ugahacks-makeathon.devpost.com/project-gallery",
+     "dates": "Oct 01 - 02, 2022",
+     "registrations": 78,
+     "state": "ended",
+     "winners_announced": true,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/221/878/datas/medium_square.png",
+     "devpost_id": 16288,
+     "projects": 14,
+     "winners": 3
+    }
+   ]
+  },
+  {
    "id": "hackmit",
    "name": "HackMIT",
    "name_zh": "HackMIT",
@@ -4274,38 +4274,6 @@
    ]
   },
   {
-   "id": "uoft-hardware-hack",
-   "name": "IEEE UofT Hardware Hack",
-   "name_zh": "IEEE UofT Hardware Hack",
-   "org": "IEEE UofT",
-   "region": "North America",
-   "kind": "makeathon",
-   "hardware_focus": "dedicated",
-   "url": "https://hardwarehack.ca/",
-   "blurb_zh": "多伦多大学 IEEE 硬件黑客松",
-   "blurb_en": "IEEE UofT's hardware hackathon.",
-   "projects": 21,
-   "winners": 4,
-   "editions": [
-    {
-     "id": "uoft-hardware-hack-2018",
-     "series_id": "uoft-hardware-hack",
-     "name": "IEEE UofT Hardware Hack II",
-     "year": 2018,
-     "url": "https://hardwarehack2.devpost.com/",
-     "gallery_url": "https://hardwarehack2.devpost.com/project-gallery",
-     "dates": "Feb 17 - 18, 2018",
-     "registrations": 40,
-     "state": "ended",
-     "winners_announced": true,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/000/603/210/datas/medium_square.jpg",
-     "devpost_id": 6126,
-     "projects": 21,
-     "winners": 4
-    }
-   ]
-  },
-  {
    "id": "nwhacks",
    "name": "nwHacks",
    "name_zh": "nwHacks",
@@ -4316,8 +4284,8 @@
    "url": "https://nwhacks.io/",
    "blurb_zh": "UBC 综合黑客松（仅收录硬件作品）",
    "blurb_en": "UBC's hackathon (hardware entries only).",
-   "projects": 18,
-   "winners": 6,
+   "projects": 23,
+   "winners": 11,
    "editions": [
     {
      "id": "nwhacks-2026",
@@ -4332,8 +4300,8 @@
      "winners_announced": true,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/127/805/datas/medium_square.png",
      "devpost_id": 25450,
-     "projects": 5,
-     "winners": 1
+     "projects": 10,
+     "winners": 6
     },
     {
      "id": "nwhacks-2025",
@@ -4493,6 +4461,150 @@
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/000/353/641/datas/medium_square.jpeg",
      "devpost_id": 3273,
      "projects": 1,
+     "winners": 0
+    }
+   ]
+  },
+  {
+   "id": "uoft-hardware-hack",
+   "name": "IEEE UofT Hardware Hack",
+   "name_zh": "IEEE UofT Hardware Hack",
+   "org": "IEEE UofT",
+   "region": "North America",
+   "kind": "makeathon",
+   "hardware_focus": "dedicated",
+   "url": "https://hardwarehack.ca/",
+   "blurb_zh": "多伦多大学 IEEE 硬件黑客松",
+   "blurb_en": "IEEE UofT's hardware hackathon.",
+   "projects": 21,
+   "winners": 4,
+   "editions": [
+    {
+     "id": "uoft-hardware-hack-2018",
+     "series_id": "uoft-hardware-hack",
+     "name": "IEEE UofT Hardware Hack II",
+     "year": 2018,
+     "url": "https://hardwarehack2.devpost.com/",
+     "gallery_url": "https://hardwarehack2.devpost.com/project-gallery",
+     "dates": "Feb 17 - 18, 2018",
+     "registrations": 40,
+     "state": "ended",
+     "winners_announced": true,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/000/603/210/datas/medium_square.jpg",
+     "devpost_id": 6126,
+     "projects": 21,
+     "winners": 4
+    }
+   ]
+  },
+  {
+   "id": "uottahack",
+   "name": "uOttaHack",
+   "name_zh": "uOttaHack",
+   "org": "University of Ottawa",
+   "region": "North America",
+   "kind": "hackathon",
+   "hardware_focus": "track",
+   "url": "https://uottahack.ca/",
+   "blurb_zh": "University of Ottawa 综合黑客松（仅收录硬件作品）",
+   "blurb_en": "University of Ottawa's hackathon (hardware entries only).",
+   "projects": 20,
+   "winners": 10,
+   "editions": [
+    {
+     "id": "uottahack-2026",
+     "series_id": "uottahack",
+     "name": "uOttaHack 8",
+     "year": 2026,
+     "url": "https://uottahack8.devpost.com/",
+     "gallery_url": "https://uottahack8.devpost.com/project-gallery",
+     "dates": "Jan 16 - 18, 2026",
+     "registrations": 564,
+     "state": "ended",
+     "winners_announced": true,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/139/192/datas/medium_square.png",
+     "devpost_id": 28006,
+     "projects": 9,
+     "winners": 7
+    },
+    {
+     "id": "uottahack-2024",
+     "series_id": "uottahack",
+     "name": "uOttaHack 6",
+     "year": 2024,
+     "url": "https://uottahack-6.devpost.com/",
+     "gallery_url": "https://uottahack-6.devpost.com/project-gallery",
+     "dates": "Mar 01 - 03, 2024",
+     "registrations": 463,
+     "state": "ended",
+     "winners_announced": true,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/788/751/datas/medium_square.png",
+     "devpost_id": 20749,
+     "projects": 7,
+     "winners": 2
+    },
+    {
+     "id": "uottahack-2023",
+     "series_id": "uottahack",
+     "name": "uOttaHack 5",
+     "year": 2023,
+     "url": "https://uottahack5.devpost.com/",
+     "gallery_url": "https://uottahack5.devpost.com/project-gallery",
+     "dates": "Feb 10 - 12, 2023",
+     "registrations": 241,
+     "state": "ended",
+     "winners_announced": true,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/349/435/datas/medium_square.png",
+     "devpost_id": 17238,
+     "projects": 1,
+     "winners": 0
+    },
+    {
+     "id": "uottahack-2021",
+     "series_id": "uottahack",
+     "name": "uOttaHack 4",
+     "year": 2021,
+     "url": "https://uottahack-4.devpost.com/",
+     "gallery_url": "https://uottahack-4.devpost.com/project-gallery",
+     "dates": "Feb 05 - 07, 2021",
+     "registrations": 341,
+     "state": "ended",
+     "winners_announced": true,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/001/381/170/datas/medium_square.png",
+     "devpost_id": 11898,
+     "projects": 1,
+     "winners": 1
+    },
+    {
+     "id": "uottahack-2020",
+     "series_id": "uottahack",
+     "name": "uOttaHack 3",
+     "year": 2020,
+     "url": "https://uottahack3.devpost.com/",
+     "gallery_url": "https://uottahack3.devpost.com/project-gallery",
+     "dates": "Feb 07 - 09, 2020",
+     "registrations": 172,
+     "state": "ended",
+     "winners_announced": true,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/000/930/007/datas/medium_square.png",
+     "devpost_id": 9393,
+     "projects": 0,
+     "winners": 0
+    },
+    {
+     "id": "uottahack-2019",
+     "series_id": "uottahack",
+     "name": "uOttaHack 2019",
+     "year": 2019,
+     "url": "https://uottahack2019.devpost.com/",
+     "gallery_url": "https://uottahack2019.devpost.com/project-gallery",
+     "dates": "Feb 09 - 10, 2019",
+     "registrations": 206,
+     "state": "ended",
+     "winners_announced": true,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/000/757/202/datas/medium_square.png",
+     "devpost_id": 7607,
+     "projects": 2,
      "winners": 0
     }
    ]
@@ -4994,118 +5106,6 @@
    ]
   },
   {
-   "id": "uottahack",
-   "name": "uOttaHack",
-   "name_zh": "uOttaHack",
-   "org": "University of Ottawa",
-   "region": "North America",
-   "kind": "hackathon",
-   "hardware_focus": "track",
-   "url": "https://uottahack.ca/",
-   "blurb_zh": "University of Ottawa 综合黑客松（仅收录硬件作品）",
-   "blurb_en": "University of Ottawa's hackathon (hardware entries only).",
-   "projects": 15,
-   "winners": 5,
-   "editions": [
-    {
-     "id": "uottahack-2026",
-     "series_id": "uottahack",
-     "name": "uOttaHack 8",
-     "year": 2026,
-     "url": "https://uottahack8.devpost.com/",
-     "gallery_url": "https://uottahack8.devpost.com/project-gallery",
-     "dates": "Jan 16 - 18, 2026",
-     "registrations": 564,
-     "state": "ended",
-     "winners_announced": true,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/139/192/datas/medium_square.png",
-     "devpost_id": 28006,
-     "projects": 4,
-     "winners": 2
-    },
-    {
-     "id": "uottahack-2024",
-     "series_id": "uottahack",
-     "name": "uOttaHack 6",
-     "year": 2024,
-     "url": "https://uottahack-6.devpost.com/",
-     "gallery_url": "https://uottahack-6.devpost.com/project-gallery",
-     "dates": "Mar 01 - 03, 2024",
-     "registrations": 463,
-     "state": "ended",
-     "winners_announced": true,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/788/751/datas/medium_square.png",
-     "devpost_id": 20749,
-     "projects": 7,
-     "winners": 2
-    },
-    {
-     "id": "uottahack-2023",
-     "series_id": "uottahack",
-     "name": "uOttaHack 5",
-     "year": 2023,
-     "url": "https://uottahack5.devpost.com/",
-     "gallery_url": "https://uottahack5.devpost.com/project-gallery",
-     "dates": "Feb 10 - 12, 2023",
-     "registrations": 241,
-     "state": "ended",
-     "winners_announced": true,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/349/435/datas/medium_square.png",
-     "devpost_id": 17238,
-     "projects": 1,
-     "winners": 0
-    },
-    {
-     "id": "uottahack-2021",
-     "series_id": "uottahack",
-     "name": "uOttaHack 4",
-     "year": 2021,
-     "url": "https://uottahack-4.devpost.com/",
-     "gallery_url": "https://uottahack-4.devpost.com/project-gallery",
-     "dates": "Feb 05 - 07, 2021",
-     "registrations": 341,
-     "state": "ended",
-     "winners_announced": true,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/001/381/170/datas/medium_square.png",
-     "devpost_id": 11898,
-     "projects": 1,
-     "winners": 1
-    },
-    {
-     "id": "uottahack-2020",
-     "series_id": "uottahack",
-     "name": "uOttaHack 3",
-     "year": 2020,
-     "url": "https://uottahack3.devpost.com/",
-     "gallery_url": "https://uottahack3.devpost.com/project-gallery",
-     "dates": "Feb 07 - 09, 2020",
-     "registrations": 172,
-     "state": "ended",
-     "winners_announced": true,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/000/930/007/datas/medium_square.png",
-     "devpost_id": 9393,
-     "projects": 0,
-     "winners": 0
-    },
-    {
-     "id": "uottahack-2019",
-     "series_id": "uottahack",
-     "name": "uOttaHack 2019",
-     "year": 2019,
-     "url": "https://uottahack2019.devpost.com/",
-     "gallery_url": "https://uottahack2019.devpost.com/project-gallery",
-     "dates": "Feb 09 - 10, 2019",
-     "registrations": 206,
-     "state": "ended",
-     "winners_announced": true,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/000/757/202/datas/medium_square.png",
-     "devpost_id": 7607,
-     "projects": 2,
-     "winners": 0
-    }
-   ]
-  },
-  {
    "id": "lahacks",
    "name": "LA Hacks",
    "name_zh": "LA Hacks",
@@ -5116,8 +5116,8 @@
    "url": "https://lahacks.com/",
    "blurb_zh": "UCLA 综合黑客松（仅收录硬件作品）",
    "blurb_en": "UCLA's hackathon (hardware entries only).",
-   "projects": 12,
-   "winners": 6,
+   "projects": 14,
+   "winners": 8,
    "editions": [
     {
      "id": "lahacks-2026",
@@ -5132,8 +5132,8 @@
      "winners_announced": true,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/469/854/datas/medium_square.png",
      "devpost_id": 29106,
-     "projects": 7,
-     "winners": 4
+     "projects": 9,
+     "winners": 6
     },
     {
      "id": "lahacks-2025",
@@ -5175,7 +5175,7 @@
      "url": "https://hack-western-13.devpost.com/",
      "gallery_url": "https://hack-western-13.devpost.com/project-gallery",
      "dates": "Nov 20 - 22, 2026",
-     "registrations": 110,
+     "registrations": 178,
      "state": "upcoming",
      "winners_announced": false,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/421/169/datas/medium_square.png",
