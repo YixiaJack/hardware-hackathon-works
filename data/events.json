@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T00:51:55+00:00",
+ "generated": "2026-11-22T06:36:06+00:00",
  "series": [
   {
    "id": "hackaday-prize",
@@ -12,7 +12,7 @@
    "url": "https://hackaday.io/prize",
    "blurb_zh": "全球开源硬件『奥斯卡』，校准『解决真实问题 + 可复现』",
    "blurb_en": "The open-hardware 'Oscars' — real problems, reproducible builds.",
-   "projects": 669,
+   "projects": 678,
    "winners": 0,
    "editions": [
     {
@@ -22,7 +22,7 @@
      "year": 2026,
      "url": "https://hackaday.io/submissions/retro-computing-contest/list",
      "state": "ended",
-     "projects": 71,
+     "projects": 65,
      "winners": 0
     },
     {
@@ -52,7 +52,7 @@
      "year": 2025,
      "url": "https://hackaday.io/submissions/component-abuse-challenge/list",
      "state": "ended",
-     "projects": 34,
+     "projects": 33,
      "winners": 0
     },
     {
@@ -72,7 +72,7 @@
      "year": 2024,
      "url": "https://hackaday.io/submissions/supercon-8-sao-contest/list",
      "state": "ended",
-     "projects": 37,
+     "projects": 40,
      "winners": 0
     },
     {
@@ -82,7 +82,7 @@
      "year": 2024,
      "url": "https://hackaday.io/submissions/2024-sweet-home-automation/list",
      "state": "ended",
-     "projects": 35,
+     "projects": 38,
      "winners": 0
     },
     {
@@ -92,7 +92,7 @@
      "year": 2024,
      "url": "https://hackaday.io/submissions/tiny-games-challenge/list",
      "state": "ended",
-     "projects": 28,
+     "projects": 29,
      "winners": 0
     },
     {
@@ -102,7 +102,7 @@
      "year": 2024,
      "url": "https://hackaday.io/submissions/2024-business-card-contest/list",
      "state": "ended",
-     "projects": 49,
+     "projects": 46,
      "winners": 0
     },
     {
@@ -112,7 +112,7 @@
      "year": 2023,
      "url": "https://hackaday.io/submissions/prize2023/list",
      "state": "ended",
-     "projects": 108,
+     "projects": 109,
      "winners": 0
     },
     {
@@ -122,7 +122,7 @@
      "year": 2023,
      "url": "https://hackaday.io/submissions/cyberdeck-2023/list",
      "state": "ended",
-     "projects": 35,
+     "projects": 37,
      "winners": 0
     },
     {
@@ -132,7 +132,7 @@
      "year": 2022,
      "url": "https://hackaday.io/submissions/prize2022/list",
      "state": "ended",
-     "projects": 94,
+     "projects": 96,
      "winners": 0
     },
     {
@@ -142,7 +142,7 @@
      "year": 2021,
      "url": "https://hackaday.io/submissions/prize2021/list",
      "state": "ended",
-     "projects": 109,
+     "projects": 116,
      "winners": 0
     }
    ]
@@ -1292,8 +1292,8 @@
    "url": "https://hackthenorth.com/",
    "blurb_zh": "加拿大最大黑客松，硬件库极其丰富",
    "blurb_en": "Canada's biggest hackathon with a huge hardware library.",
-   "projects": 155,
-   "winners": 62,
+   "projects": 162,
+   "winners": 68,
    "editions": [
     {
      "id": "hackthenorth-2026",
@@ -1372,8 +1372,8 @@
      "winners_announced": true,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/193/661/datas/medium_square.png",
      "devpost_id": 5417,
-     "projects": 9,
-     "winners": 1
+     "projects": 16,
+     "winners": 7
     },
     {
      "id": "hackthenorth-2021",
@@ -1484,8 +1484,8 @@
    "url": "https://www.treehacks.com/",
    "blurb_zh": "斯坦福千人旗舰黑客松，硬件赛道含金量高",
    "blurb_en": "Stanford's flagship hackathon with a strong hardware track.",
-   "projects": 142,
-   "winners": 59,
+   "projects": 146,
+   "winners": 63,
    "editions": [
     {
      "id": "treehacks-2026",
@@ -1564,8 +1564,8 @@
      "winners_announced": true,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/001/789/451/datas/medium_square.png",
      "devpost_id": 14552,
-     "projects": 2,
-     "winners": 1
+     "projects": 4,
+     "winners": 3
     },
     {
      "id": "treehacks-2021",
@@ -1580,8 +1580,8 @@
      "winners_announced": true,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/001/380/660/datas/medium_square.png",
      "devpost_id": 11892,
-     "projects": 3,
-     "winners": 1
+     "projects": 5,
+     "winners": 3
     },
     {
      "id": "treehacks-2020",
@@ -1980,8 +1980,8 @@
    "url": "https://pennapps.com/",
    "blurb_zh": "最早的大学黑客松之一，硬件作品传统深厚",
    "blurb_en": "One of the original college hackathons, rich hardware tradition.",
-   "projects": 79,
-   "winners": 33,
+   "projects": 80,
+   "winners": 34,
    "editions": [
     {
      "id": "pennapps-2025",
@@ -2044,8 +2044,8 @@
      "winners_announced": true,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/202/390/datas/medium_square.png",
      "devpost_id": 16154,
-     "projects": 2,
-     "winners": 1
+     "projects": 3,
+     "winners": 2
     },
     {
      "id": "pennapps-2021",
@@ -2220,8 +2220,8 @@
    "url": "https://www.hackprinceton.com/",
    "blurb_zh": "普林斯顿黑客松（仅收录硬件作品）",
    "blurb_en": "Princeton's hackathon (hardware entries only).",
-   "projects": 78,
-   "winners": 37,
+   "projects": 79,
+   "winners": 39,
    "editions": [
     {
      "id": "hackprinceton-2026",
@@ -2236,7 +2236,7 @@
      "winners_announced": true,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/789/397/datas/medium_square.png",
      "devpost_id": 31990,
-     "projects": 23,
+     "projects": 22,
      "winners": 11
     },
     {
@@ -2364,8 +2364,8 @@
      "winners_announced": true,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/274/039/datas/medium_square.png",
      "devpost_id": 16161,
-     "projects": 1,
-     "winners": 0
+     "projects": 3,
+     "winners": 2
     },
     {
      "id": "hackprinceton-2021",
@@ -2524,8 +2524,8 @@
    "url": "https://hack.gt/",
    "blurb_zh": "Georgia Tech 综合黑客松（仅收录硬件作品）",
    "blurb_en": "Georgia Tech's hackathon (hardware entries only).",
-   "projects": 76,
-   "winners": 18,
+   "projects": 78,
+   "winners": 20,
    "editions": [
     {
      "id": "hackgt-2026",
@@ -2604,8 +2604,8 @@
      "winners_announced": true,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/264/082/datas/medium_square.png",
      "devpost_id": 16608,
-     "projects": 6,
-     "winners": 0
+     "projects": 8,
+     "winners": 2
     },
     {
      "id": "hackgt-2021",
@@ -3042,6 +3042,198 @@
    ]
   },
   {
+   "id": "reality-hack",
+   "name": "MIT Reality Hack",
+   "name_zh": "MIT Reality Hack",
+   "org": "MIT",
+   "region": "North America",
+   "kind": "xr-hack",
+   "hardware_focus": "track",
+   "url": "https://www.realityhackatmit.com/",
+   "blurb_zh": "XR / 穿戴硬件 / 空间交互的天花板（仅收录含硬件的作品）",
+   "blurb_en": "The flagship XR + spatial hardware hackathon (hardware entries only).",
+   "projects": 58,
+   "winners": 37,
+   "editions": [
+    {
+     "id": "reality-hack-2026",
+     "series_id": "reality-hack",
+     "name": "Reality Hack @ MIT 2026",
+     "year": 2026,
+     "url": "https://reality-hack-2026.devpost.com/",
+     "gallery_url": "https://reality-hack-2026.devpost.com/project-gallery",
+     "dates": "Jan 24 - 26, 2026",
+     "registrations": 348,
+     "state": "ended",
+     "winners_announced": true,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/195/755/datas/medium_square.png",
+     "devpost_id": 28296,
+     "projects": 17,
+     "winners": 12
+    },
+    {
+     "id": "reality-hack-2026-30368",
+     "series_id": "reality-hack",
+     "name": "Reality Hack at AWE 2026",
+     "year": 2026,
+     "url": "https://reality-hack-at-awe-2026.devpost.com/",
+     "gallery_url": "https://reality-hack-at-awe-2026.devpost.com/project-gallery",
+     "dates": "Jun 09 - 15, 2026",
+     "registrations": 82,
+     "state": "ended",
+     "winners_announced": true,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/748/407/datas/medium_square.png",
+     "devpost_id": 30368,
+     "projects": 2,
+     "winners": 1
+    },
+    {
+     "id": "reality-hack-2025",
+     "series_id": "reality-hack",
+     "name": "MIT Reality Hack 2025",
+     "year": 2025,
+     "url": "https://mit-reality-hack-2025.devpost.com/",
+     "gallery_url": "https://mit-reality-hack-2025.devpost.com/project-gallery",
+     "dates": "Jan 26, 2025",
+     "registrations": 366,
+     "state": "ended",
+     "winners_announced": true,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/242/958/datas/medium_square.png",
+     "devpost_id": 23741,
+     "projects": 11,
+     "winners": 8
+    },
+    {
+     "id": "reality-hack-2025-25446",
+     "series_id": "reality-hack",
+     "name": "RH x Snap LiveAR Hack at AWE",
+     "year": 2025,
+     "url": "https://rh-x-snap-livear-hack-at-awe.devpost.com/",
+     "gallery_url": "https://rh-x-snap-livear-hack-at-awe.devpost.com/project-gallery",
+     "dates": "Jun 06 - 09, 2025",
+     "registrations": 55,
+     "state": "ended",
+     "winners_announced": true,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/463/634/datas/medium_square.png",
+     "devpost_id": 25446,
+     "projects": 0,
+     "winners": 0
+    },
+    {
+     "id": "reality-hack-2024",
+     "series_id": "reality-hack",
+     "name": "MIT Reality Hack 2024",
+     "year": 2024,
+     "url": "https://mit-reality-hack-2024.devpost.com/",
+     "gallery_url": "https://mit-reality-hack-2024.devpost.com/project-gallery",
+     "dates": "Jan 27 - 28, 2024",
+     "registrations": 446,
+     "state": "ended",
+     "winners_announced": true,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/736/645/datas/medium_square.png",
+     "devpost_id": 20344,
+     "projects": 6,
+     "winners": 5
+    },
+    {
+     "id": "reality-hack-2023",
+     "series_id": "reality-hack",
+     "name": "MIT Reality Hack 2023",
+     "year": 2023,
+     "url": "https://mit-reality-hack-2023.devpost.com/",
+     "gallery_url": "https://mit-reality-hack-2023.devpost.com/project-gallery",
+     "dates": "Jan 15 - 16, 2023",
+     "registrations": 309,
+     "state": "ended",
+     "winners_announced": true,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/345/150/datas/medium_square.png",
+     "devpost_id": 17186,
+     "projects": 8,
+     "winners": 6
+    },
+    {
+     "id": "reality-hack-2022",
+     "series_id": "reality-hack",
+     "name": "MIT Reality Hack 2022",
+     "year": 2022,
+     "url": "https://mit-reality-hack-2022.devpost.com/",
+     "gallery_url": "https://mit-reality-hack-2022.devpost.com/project-gallery",
+     "dates": "Mar 25 - 26, 2022",
+     "registrations": 228,
+     "state": "ended",
+     "winners_announced": true,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/001/886/354/datas/medium_square.png",
+     "devpost_id": 15158,
+     "projects": 5,
+     "winners": 4
+    },
+    {
+     "id": "reality-hack-2022-15168",
+     "series_id": "reality-hack",
+     "name": "Reality Hack 2022 - Hacking the Hack",
+     "year": 2022,
+     "url": "https://reality-hack-2022-hth.devpost.com/",
+     "gallery_url": "https://reality-hack-2022-hth.devpost.com/project-gallery",
+     "dates": "Mar 26, 2022",
+     "registrations": 29,
+     "state": "ended",
+     "winners_announced": false,
+     "thumbnail": "https://assets.devpost.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
+     "devpost_id": 15168,
+     "projects": 0,
+     "winners": 0
+    },
+    {
+     "id": "reality-hack-2020",
+     "series_id": "reality-hack",
+     "name": "MIT Reality Hack 2020",
+     "year": 2020,
+     "url": "https://mit-reality-hack-2020.devpost.com/",
+     "gallery_url": "https://mit-reality-hack-2020.devpost.com/project-gallery",
+     "dates": "Jan 17 - Feb 03, 2020",
+     "registrations": 267,
+     "state": "ended",
+     "winners_announced": true,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/000/903/829/datas/medium_square.jpg",
+     "devpost_id": 9168,
+     "projects": 1,
+     "winners": 1
+    },
+    {
+     "id": "reality-hack-2019",
+     "series_id": "reality-hack",
+     "name": "Reality Virtually Hackathon at the MIT Media Lab Returns Year 3 January 17 - 21, 2019",
+     "year": 2019,
+     "url": "https://rv2019.devpost.com/",
+     "gallery_url": "https://rv2019.devpost.com/project-gallery",
+     "dates": "Jan 17 - 20, 2019",
+     "registrations": 462,
+     "state": "ended",
+     "winners_announced": true,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/000/719/959/datas/medium_square.jpg",
+     "devpost_id": 7279,
+     "projects": 1,
+     "winners": 0
+    },
+    {
+     "id": "reality-hack-2017",
+     "series_id": "reality-hack",
+     "name": "Reality Virtually Hackathon 2017 ",
+     "year": 2017,
+     "url": "https://arvr-hackathon-2017.devpost.com/",
+     "gallery_url": "https://arvr-hackathon-2017.devpost.com/project-gallery",
+     "dates": "Oct 06 - 09, 2017",
+     "registrations": 271,
+     "state": "ended",
+     "winners_announced": true,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/000/529/789/datas/medium_square.JPG",
+     "devpost_id": 5460,
+     "projects": 0,
+     "winners": 0
+    }
+   ]
+  },
+  {
    "id": "mhacks",
    "name": "MHacks",
    "name_zh": "MHacks",
@@ -3282,198 +3474,6 @@
    ]
   },
   {
-   "id": "reality-hack",
-   "name": "MIT Reality Hack",
-   "name_zh": "MIT Reality Hack",
-   "org": "MIT",
-   "region": "North America",
-   "kind": "xr-hack",
-   "hardware_focus": "track",
-   "url": "https://www.realityhackatmit.com/",
-   "blurb_zh": "XR / 穿戴硬件 / 空间交互的天花板（仅收录含硬件的作品）",
-   "blurb_en": "The flagship XR + spatial hardware hackathon (hardware entries only).",
-   "projects": 55,
-   "winners": 34,
-   "editions": [
-    {
-     "id": "reality-hack-2026",
-     "series_id": "reality-hack",
-     "name": "Reality Hack @ MIT 2026",
-     "year": 2026,
-     "url": "https://reality-hack-2026.devpost.com/",
-     "gallery_url": "https://reality-hack-2026.devpost.com/project-gallery",
-     "dates": "Jan 24 - 26, 2026",
-     "registrations": 348,
-     "state": "ended",
-     "winners_announced": true,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/195/755/datas/medium_square.png",
-     "devpost_id": 28296,
-     "projects": 17,
-     "winners": 12
-    },
-    {
-     "id": "reality-hack-2026-30368",
-     "series_id": "reality-hack",
-     "name": "Reality Hack at AWE 2026",
-     "year": 2026,
-     "url": "https://reality-hack-at-awe-2026.devpost.com/",
-     "gallery_url": "https://reality-hack-at-awe-2026.devpost.com/project-gallery",
-     "dates": "Jun 09 - 15, 2026",
-     "registrations": 82,
-     "state": "ended",
-     "winners_announced": true,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/748/407/datas/medium_square.png",
-     "devpost_id": 30368,
-     "projects": 2,
-     "winners": 1
-    },
-    {
-     "id": "reality-hack-2025",
-     "series_id": "reality-hack",
-     "name": "MIT Reality Hack 2025",
-     "year": 2025,
-     "url": "https://mit-reality-hack-2025.devpost.com/",
-     "gallery_url": "https://mit-reality-hack-2025.devpost.com/project-gallery",
-     "dates": "Jan 26, 2025",
-     "registrations": 366,
-     "state": "ended",
-     "winners_announced": true,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/242/958/datas/medium_square.png",
-     "devpost_id": 23741,
-     "projects": 11,
-     "winners": 8
-    },
-    {
-     "id": "reality-hack-2025-25446",
-     "series_id": "reality-hack",
-     "name": "RH x Snap LiveAR Hack at AWE",
-     "year": 2025,
-     "url": "https://rh-x-snap-livear-hack-at-awe.devpost.com/",
-     "gallery_url": "https://rh-x-snap-livear-hack-at-awe.devpost.com/project-gallery",
-     "dates": "Jun 06 - 09, 2025",
-     "registrations": 55,
-     "state": "ended",
-     "winners_announced": true,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/463/634/datas/medium_square.png",
-     "devpost_id": 25446,
-     "projects": 0,
-     "winners": 0
-    },
-    {
-     "id": "reality-hack-2024",
-     "series_id": "reality-hack",
-     "name": "MIT Reality Hack 2024",
-     "year": 2024,
-     "url": "https://mit-reality-hack-2024.devpost.com/",
-     "gallery_url": "https://mit-reality-hack-2024.devpost.com/project-gallery",
-     "dates": "Jan 27 - 28, 2024",
-     "registrations": 446,
-     "state": "ended",
-     "winners_announced": true,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/736/645/datas/medium_square.png",
-     "devpost_id": 20344,
-     "projects": 6,
-     "winners": 5
-    },
-    {
-     "id": "reality-hack-2023",
-     "series_id": "reality-hack",
-     "name": "MIT Reality Hack 2023",
-     "year": 2023,
-     "url": "https://mit-reality-hack-2023.devpost.com/",
-     "gallery_url": "https://mit-reality-hack-2023.devpost.com/project-gallery",
-     "dates": "Jan 15 - 16, 2023",
-     "registrations": 309,
-     "state": "ended",
-     "winners_announced": true,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/345/150/datas/medium_square.png",
-     "devpost_id": 17186,
-     "projects": 8,
-     "winners": 6
-    },
-    {
-     "id": "reality-hack-2022",
-     "series_id": "reality-hack",
-     "name": "MIT Reality Hack 2022",
-     "year": 2022,
-     "url": "https://mit-reality-hack-2022.devpost.com/",
-     "gallery_url": "https://mit-reality-hack-2022.devpost.com/project-gallery",
-     "dates": "Mar 25 - 26, 2022",
-     "registrations": 228,
-     "state": "ended",
-     "winners_announced": true,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/001/886/354/datas/medium_square.png",
-     "devpost_id": 15158,
-     "projects": 2,
-     "winners": 1
-    },
-    {
-     "id": "reality-hack-2022-15168",
-     "series_id": "reality-hack",
-     "name": "Reality Hack 2022 - Hacking the Hack",
-     "year": 2022,
-     "url": "https://reality-hack-2022-hth.devpost.com/",
-     "gallery_url": "https://reality-hack-2022-hth.devpost.com/project-gallery",
-     "dates": "Mar 26, 2022",
-     "registrations": 29,
-     "state": "ended",
-     "winners_announced": false,
-     "thumbnail": "https://assets.devpost.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
-     "devpost_id": 15168,
-     "projects": 0,
-     "winners": 0
-    },
-    {
-     "id": "reality-hack-2020",
-     "series_id": "reality-hack",
-     "name": "MIT Reality Hack 2020",
-     "year": 2020,
-     "url": "https://mit-reality-hack-2020.devpost.com/",
-     "gallery_url": "https://mit-reality-hack-2020.devpost.com/project-gallery",
-     "dates": "Jan 17 - Feb 03, 2020",
-     "registrations": 267,
-     "state": "ended",
-     "winners_announced": true,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/000/903/829/datas/medium_square.jpg",
-     "devpost_id": 9168,
-     "projects": 1,
-     "winners": 1
-    },
-    {
-     "id": "reality-hack-2019",
-     "series_id": "reality-hack",
-     "name": "Reality Virtually Hackathon at the MIT Media Lab Returns Year 3 January 17 - 21, 2019",
-     "year": 2019,
-     "url": "https://rv2019.devpost.com/",
-     "gallery_url": "https://rv2019.devpost.com/project-gallery",
-     "dates": "Jan 17 - 20, 2019",
-     "registrations": 462,
-     "state": "ended",
-     "winners_announced": true,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/000/719/959/datas/medium_square.jpg",
-     "devpost_id": 7279,
-     "projects": 1,
-     "winners": 0
-    },
-    {
-     "id": "reality-hack-2017",
-     "series_id": "reality-hack",
-     "name": "Reality Virtually Hackathon 2017 ",
-     "year": 2017,
-     "url": "https://arvr-hackathon-2017.devpost.com/",
-     "gallery_url": "https://arvr-hackathon-2017.devpost.com/project-gallery",
-     "dates": "Oct 06 - 09, 2017",
-     "registrations": 271,
-     "state": "ended",
-     "winners_announced": true,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/000/529/789/datas/medium_square.JPG",
-     "devpost_id": 5460,
-     "projects": 0,
-     "winners": 0
-    }
-   ]
-  },
-  {
    "id": "hackillinois",
    "name": "HackIllinois",
    "name_zh": "HackIllinois",
@@ -3484,8 +3484,8 @@
    "url": "https://hackillinois.org/",
    "blurb_zh": "UIUC 综合黑客松（仅收录硬件作品）",
    "blurb_en": "UIUC's hackathon (hardware entries only).",
-   "projects": 44,
-   "winners": 10,
+   "projects": 45,
+   "winners": 11,
    "editions": [
     {
      "id": "hackillinois-2026",
@@ -3564,8 +3564,8 @@
      "winners_announced": true,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/001/829/881/datas/medium_square.jpg",
      "devpost_id": 14784,
-     "projects": 2,
-     "winners": 0
+     "projects": 3,
+     "winners": 1
     },
     {
      "id": "hackillinois-2021",
@@ -3660,8 +3660,8 @@
    "url": "https://hackharvard.io/",
    "blurb_zh": "Harvard 综合黑客松（仅收录硬件作品）",
    "blurb_en": "Harvard's hackathon (hardware entries only).",
-   "projects": 36,
-   "winners": 13,
+   "projects": 39,
+   "winners": 15,
    "editions": [
     {
      "id": "hackharvard-2026",
@@ -3772,8 +3772,8 @@
      "winners_announced": true,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/230/798/datas/medium_square.png",
      "devpost_id": 16256,
-     "projects": 2,
-     "winners": 1
+     "projects": 5,
+     "winners": 3
     },
     {
      "id": "hackharvard-2021",
@@ -3868,8 +3868,8 @@
    "url": "https://deltahacks.com/",
    "blurb_zh": "McMaster 综合黑客松（仅收录硬件作品）",
    "blurb_en": "McMaster's hackathon (hardware entries only).",
-   "projects": 34,
-   "winners": 13,
+   "projects": 39,
+   "winners": 18,
    "editions": [
     {
      "id": "deltahacks-2026",
@@ -3964,8 +3964,8 @@
      "winners_announced": true,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/342/270/datas/medium_square.png",
      "devpost_id": 17051,
-     "projects": 2,
-     "winners": 0
+     "projects": 4,
+     "winners": 2
     },
     {
      "id": "deltahacks-2022",
@@ -3980,8 +3980,8 @@
      "winners_announced": true,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/001/782/642/datas/medium_square.jpg",
      "devpost_id": 14494,
-     "projects": 2,
-     "winners": 1
+     "projects": 5,
+     "winners": 4
     },
     {
      "id": "deltahacks-2021",
@@ -4748,8 +4748,8 @@
    "url": "https://hacktech.io/",
    "blurb_zh": "Caltech 综合黑客松（仅收录硬件作品）",
    "blurb_en": "Caltech's hackathon (hardware entries only).",
-   "projects": 19,
-   "winners": 6,
+   "projects": 20,
+   "winners": 7,
    "editions": [
     {
      "id": "hacktech-2026",
@@ -4828,8 +4828,8 @@
      "winners_announced": true,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/001/837/597/datas/medium_square.png",
      "devpost_id": 14854,
-     "projects": 0,
-     "winners": 0
+     "projects": 1,
+     "winners": 1
     },
     {
      "id": "hacktech-2021",
@@ -5164,8 +5164,8 @@
    "url": "https://hackwestern.com/",
    "blurb_zh": "Western University 综合黑客松（仅收录硬件作品）",
    "blurb_en": "Western University's hackathon (hardware entries only).",
-   "projects": 12,
-   "winners": 2,
+   "projects": 15,
+   "winners": 5,
    "editions": [
     {
      "id": "hackwestern-2026",
@@ -5175,7 +5175,7 @@
      "url": "https://hack-western-13.devpost.com/",
      "gallery_url": "https://hack-western-13.devpost.com/project-gallery",
      "dates": "Nov 20 - 22, 2026",
-     "registrations": 255,
+     "registrations": 295,
      "state": "open",
      "winners_announced": false,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/421/169/datas/medium_square.png",
@@ -5228,8 +5228,8 @@
      "winners_announced": true,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/296/594/datas/medium_square.png",
      "devpost_id": 16778,
-     "projects": 0,
-     "winners": 0
+     "projects": 3,
+     "winners": 3
     },
     {
      "id": "hackwestern-2021",
