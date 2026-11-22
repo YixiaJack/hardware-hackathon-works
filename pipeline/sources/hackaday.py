@@ -8,10 +8,11 @@ from __future__ import annotations
 import html
 import re
 
-from ..common import new_project, year_from
+from ..common import CACHE, TODAY, load_json, new_project, save_json, year_from
 from ..http import fetch, log
 
 BASE = "https://hackaday.io"
+LIST_DIR = CACHE / "hackaday_lists"  # last good submission list per contest
 
 
 def _num(pattern, chunk):
@@ -82,6 +83,13 @@ def collect(series, cfg, editions):
     out = []
     for c in contests:
         items = submissions(c["slug"], c.get("max_pages", 30))
+        path = LIST_DIR / f"{c['slug']}.json"
+        if items:
+            save_json(path, {"fetched": TODAY, "items": items})
+        elif (cached := load_json(path)) and cached.get("items"):
+            # hackaday.io sometimes serves empty lists for a while (2026-11-22: 8 contests at once)
+            items = cached["items"]
+            log(f"  hackaday {c['name']}: empty list, keeping last good from {cached['fetched']}")
         min_likes = c.get("min_likes", cfg_h.get("min_likes", 0))
         winners = {u.rstrip("/"): a for u, a in (c.get("winners") or {}).items()}
         kept = [it for it in items if it["likes"] >= min_likes or it["url"].rstrip("/") in winners]

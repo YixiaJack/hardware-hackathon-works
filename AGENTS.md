@@ -67,7 +67,7 @@ EOF
 | GitHub | ✅ | Search API is 30 req/min (own throttle lane in `http.py`); stars batched over GraphQL. Topics like `makemit` are sparse — name/description search has far higher recall. |
 | Build18 | ✅ | Full list embedded in the Next.js RSC payload of `/garage`; details at `/garage/<id>`. |
 | AdventureX | ✅ | `POST gallery.adventure-x.cn/api/gallery/public/trpc?trpc-path=public.projects` with body `{"json":{}}` returns every project (mostly software → hardware filter applies). |
-| Hackaday.io | ✅ | `/submissions/<slug>/list?page=N` HTML. Winners aren't marked; filtered by likes. New contests auto-discovered from `/contests`. |
+| Hackaday.io | ✅ | `/submissions/<slug>/list?page=N` HTML. Winners aren't marked; filtered by likes. New contests auto-discovered from `/contests`. Lists sometimes come back empty for a while (2026-11-22: 8 contests in one run), so each contest's last non-empty list is kept in `data/cache/hackaday_lists/`. |
 | Hackster.io | ⛔ | Contest and submission pages return Cloudflare 403; past-contest GraphQL needs a session token. Needs the official API (OAuth app) — not implemented. |
 | OSHWHub 立创开源 | ⚠️ | `api/activities/competition_list` lists contests; no public endpoint lists projects *within* an activity (`/api/competition/getActivitiesProjects` → 401). |
 | MakeMIT 2024–2025, HackMIT 2021/22/24/25 | ⚠️ | Not on Devpost; GitHub search partly covers them. |
