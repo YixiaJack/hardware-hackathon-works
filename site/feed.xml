@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Hardware Hackathon Works · 硬件黑客松作品雷达</title>
 <link href="https://hardware-hackathon-works.vercel.app/"/>
-<updated>2026-11-22T12:02:18+00:00</updated>
+<updated>2026-11-22T12:09:48+00:00</updated>
 <id>https://hardware-hackathon-works.vercel.app/</id>
+<entry>
+<title>Peak PerFARMance · Hack Western 7</title>
+<link href="https://devpost.com/software/peak-perfarmance"/>
+<id>devpost:peak-perfarmance</id>
+<updated>2026-11-22T00:00:00Z</updated>
+<summary>Data-driven smart agriculture solution to support small-scale farmers. · 🏆 Fourth Place Overall</summary>
+</entry>
 <entry>
 <title>Pill-Drop · DeltaHacks IX</title>
 <link href="https://devpost.com/software/pill-drop-mrvltj"/>
@@ -24,6 +31,13 @@
 <id>devpost:surge-kxbjlz</id>
 <updated>2026-11-22T00:00:00Z</updated>
 <summary>Build more authentic relationships through fitness! · 🏆 Pinnacle Prize, Standard 1st Place</summary>
+</entry>
+<entry>
+<title>HemoHelper · HackGT 7</title>
+<link href="https://devpost.com/software/hemohelper"/>
+<id>devpost:hemohelper</id>
+<updated>2026-11-22T00:00:00Z</updated>
+<summary>An app that notifies emergency services when a user&#x27;s blood oxygen levels are low. · 🏆 Anthem: Personalized, digital medicine in the age of COVID and beyond, Top 8 Overall</summary>
 </entry>
 <entry>
 <title>Holo-cade · HackGT 9</title>
@@ -54,11 +68,25 @@
 <summary>If you can think it, you can drive it! · 🏆 Hack the North 2023 Finalist, Best use of Viam for a project</summary>
 </entry>
 <entry>
+<title>PresentXR · Reality Virtually Hackathon at the MIT Media Lab Returns Year 3 January 17 - 21, 2019</title>
+<link href="https://devpost.com/software/iron-man"/>
+<id>devpost:iron-man</id>
+<updated>2026-11-22T00:00:00Z</updated>
+<summary>Immersive Presentations · 🏆 Best in Productivity</summary>
+</entry>
+<entry>
 <title>Pillvisor · nwHacks 2021</title>
 <link href="https://devpost.com/software/pillvisor"/>
 <id>devpost:pillvisor</id>
 <updated>2026-11-22T00:00:00Z</updated>
 <summary>A smart pillbox that solves the issue of medication error by verifying that pills are taken correctly to keep your loved ones safe. · 🏆 Best Hardware Hack Sponsored by Digi-Key, Honorable Mention</summary>
+</entry>
+<entry>
+<title>Holla · HackGT Presents: Horizons 2020</title>
+<link href="https://devpost.com/software/holla-gj8n1c"/>
+<id>devpost:holla-gj8n1c</id>
+<updated>2026-11-22T00:00:00Z</updated>
+<summary>An interactive screaming battle! Yell as loud as you can to shoot a beam out of your mouth and defeat your opponent! · 🏆 Best in Show</summary>
 </entry>
 <entry>
 <title>Maskus · TreeHacks 2021</title>
@@ -80,6 +108,20 @@
 <id>devpost:dejavu</id>
 <updated>2026-11-22T00:00:00Z</updated>
 <summary>Eliminating déjà vu by reviving memories one video at a time · 🏆 Hack the North 2023 Finalist</summary>
+</entry>
+<entry>
+<title>desk.lib · DeltaHacks VI</title>
+<link href="https://devpost.com/software/desk-lib"/>
+<id>devpost:desk-lib</id>
+<updated>2026-11-22T00:00:00Z</updated>
+<summary>Improving the productivity of students, one desk at a time. · 🏆 2nd Place</summary>
+</entry>
+<entry>
+<title>MaskOn · HackGT 7</title>
+<link href="https://devpost.com/software/maskon-6dghtp"/>
+<id>devpost:maskon-6dghtp</id>
+<updated>2026-11-22T00:00:00Z</updated>
+<summary>Reduce COVID-19 risk in stores by automatically enforcing PPE and occupancy requirements at the door. · 🏆 MLH: Best Hardware Hack Sponsored by Digi-Key, Top 8 Overall</summary>
 </entry>
 <entry>
 <title>TactileVision · HackGT X: Journal Of Memories</title>
@@ -122,6 +164,13 @@
 <id>devpost:cast3d-scanner-for-medicinal-casts</id>
 <updated>2026-11-22T00:00:00Z</updated>
 <summary>Making a cast that will last · 🏆 Hack the North 2020++ Finalists, Best Use of Voiceflow App</summary>
+</entry>
+<entry>
+<title>FitBuddy · Hack the North 2020++</title>
+<link href="https://devpost.com/software/fitbuddy-sm9yde"/>
+<id>devpost:fitbuddy-sm9yde</id>
+<updated>2026-11-22T00:00:00Z</updated>
+<summary>Competitively exercise against your friends, push yourself for a high rank, and improve your form, all from the safety of your own home. · 🏆 Hack the North 2020++ Finalists, Best Hardware Hack Sponsored by Digi-Key</summary>
 </entry>
 <entry>
 <title>jARvis · MIT Reality Hack 2023</title>
@@ -243,6 +292,13 @@
 <summary>Elevate your harvest with Harvest Hero! Analyze soil, monitor moisture, and combat diseases using advanced deep learning for next-gen crop care. Maximize yields effortlessly! · 🏆 Best Environment Hack -- Track Prize</summary>
 </entry>
 <entry>
+<title>MAMBU-T1 #HackTechCOVID · HackTech COVID</title>
+<link href="https://devpost.com/software/mambu-t1-hacktechcovid"/>
+<id>devpost:mambu-t1-hacktechcovid</id>
+<updated>2026-11-22T00:00:00Z</updated>
+<summary>MAMBU, which stands for Mechatronic-AMBU, is an automated version of the well-known self-inflating bag for air ventilation. · 🏆 Seed capital, Project incubation grant</summary>
+</entry>
+<entry>
 <title>Responsive Tale · MIT Reality Hack 2023</title>
 <link href="https://devpost.com/software/responsive-tale"/>
 <id>devpost:responsive-tale</id>
@@ -257,6 +313,13 @@
 <summary>A cup to prevent drug-facilitated assault by notifying the owner when the content of their drink has changed. · 🏆 Most Impactful Hack, Best Hardware Hack</summary>
 </entry>
 <entry>
+<title>smartBin · DeltaHacks VI</title>
+<link href="https://devpost.com/software/smartbin-sy4pik"/>
+<id>devpost:smartbin-sy4pik</id>
+<updated>2026-11-22T00:00:00Z</updated>
+<summary>A smart way to take out the trash! · 🏆 ArcelorMittal Dofasco</summary>
+</entry>
+<entry>
 <title>Trippy · HackPrinceton</title>
 <link href="https://devpost.com/software/trippy-f6lwuc"/>
 <id>devpost:trippy-f6lwuc</id>
@@ -264,11 +327,39 @@
 <summary>A modulated Laser Trip Wire that prevents trespassing · 🏆 2nd Place</summary>
 </entry>
 <entry>
+<title>UV Box · HackTech COVID</title>
+<link href="https://devpost.com/software/uv-box-eqxbpa"/>
+<id>devpost:uv-box-eqxbpa</id>
+<updated>2026-11-22T00:00:00Z</updated>
+<summary>Dispositivo de rayos UV-C que permite la desinfección de alimentos al ser incorporado dentro de las &quot;mochilas delivery&quot; de los distribuidores de comida. · 🏆 Participation in investment rounds -IEEE-</summary>
+</entry>
+<entry>
+<title>CoRFID -T1 #HackTechCOVID · HackTech COVID</title>
+<link href="https://devpost.com/software/corfid-t1-hacktechcovid"/>
+<id>devpost:corfid-t1-hacktechcovid</id>
+<updated>2026-11-22T00:00:00Z</updated>
+<summary>CoRFID es una pulsera que brinda seguimiento y documentación a los afectados por la pandemia. Asegurando tranquilidad y seguridad de pacientes, familiares y personal medico, mediante tecnología RFID. · 🏆 Participation in investment rounds -IEEE-</summary>
+</entry>
+<entry>
 <title>Happy RecycleMore · DeltaHacks IX</title>
 <link href="https://devpost.com/software/happy-recyclemore"/>
 <id>devpost:happy-recyclemore</id>
 <updated>2026-11-22T00:00:00Z</updated>
 <summary>Using ML to yeet unwanted waste in our recycling bins · 🏆 2nd Place</summary>
+</entry>
+<entry>
+<title>heAR · Reality Virtually Hackathon at the MIT Media Lab Returns Year 3 January 17 - 21, 2019</title>
+<link href="https://devpost.com/software/hear"/>
+<id>devpost:hear</id>
+<updated>2026-11-22T00:00:00Z</updated>
+<summary>heAR: An Augmented Reality Visualizer for the Hearing Impaired · 🏆 Best in Mobility &amp; Communications</summary>
+</entry>
+<entry>
+<title>Sachen · MakeUC</title>
+<link href="https://devpost.com/software/sachen"/>
+<id>devpost:sachen</id>
+<updated>2026-11-22T00:00:00Z</updated>
+<summary>The space-grade automatic inventory management system for everyone · 🏆 [Wolfram] Wolfram Award, Best Hardware Hack</summary>
 </entry>
 <entry>
 <title>Aria · HackHarvard 2021: Back From Scratch</title>
@@ -285,11 +376,25 @@
 <summary>Ideal for high-traffic areas, DHD autonomously disinfects doorknobs while monitoring the number of individuals entering and exiting a location in a building. · 🏆 Best Health Hack, MLH Best Hardware Hack Sponsored by Digi-Key</summary>
 </entry>
 <entry>
+<title>Ideate AR · Reality Virtually Hackathon at the MIT Media Lab Returns Year 3 January 17 - 21, 2019</title>
+<link href="https://devpost.com/software/ideatear"/>
+<id>devpost:ideatear</id>
+<updated>2026-11-22T00:00:00Z</updated>
+<summary>A collaboration tool that allows users to physically pull content from devices into a shared holographic workspace · 🏆 Best use of Vuforia (PTC)</summary>
+</entry>
+<entry>
 <title>RecyclAIble · PennApps XXIII: Sustainability</title>
 <link href="https://devpost.com/software/recycleai-v1dqz5"/>
 <id>devpost:recycleai-v1dqz5</id>
 <updated>2026-11-22T00:00:00Z</updated>
 <summary>A computer vision-based, mechanical waste bin that autonomously separates trash and recycling. · 🏆 (Sponsored by Citadel &amp; Penn Detkin Lab) Best Hardware Hack</summary>
+</entry>
+<entry>
+<title>SmartBox Delivery Service · uOttaHack 3</title>
+<link href="https://devpost.com/software/smartbox-delivery"/>
+<id>devpost:smartbox-delivery</id>
+<updated>2026-11-22T00:00:00Z</updated>
+<summary>How smart is your box? SmartBox is an end-to-end delivery system facilitating deliveries and pickups alike. · 🏆 Solace Challenge, Smart Delivery Track Winner</summary>
 </entry>
 <entry>
 <title>Soteria · TreeHacks 2020</title>
@@ -376,11 +481,25 @@
 <summary>FlameNet uses a distributed network of CFire Nodes connected via Bluetooth or Radio creating a robust communication system capable of early wildfire detection in areas without developed infrastructure · 🏆 Best Overall, Best Domain Name from Domain.com (MLH)</summary>
 </entry>
 <entry>
+<title>Orion · HackTech COVID</title>
+<link href="https://devpost.com/software/orion"/>
+<id>devpost:orion</id>
+<updated>2026-11-22T00:00:00Z</updated>
+<summary>RealTime monitoring of COVID19 propagation · 🏆 Participation in investment rounds -IEEE-</summary>
+</entry>
+<entry>
 <title>All of the Lights · DeltaHacks 8</title>
 <link href="https://devpost.com/software/all-of-the-lights-b31saz"/>
 <id>devpost:all-of-the-lights-b31saz</id>
 <updated>2026-11-22T00:00:00Z</updated>
 <summary>Synchronize your routine with All of the Lights, a product that enables you to connect with your friends through engaging LED displays. Study, party, and vibe with anyone in the world! · 🏆 MLH Best Hardware Hack Sponsored by Digi-Key</summary>
+</entry>
+<entry>
+<title>MakerManage · BoilerMake VII</title>
+<link href="https://devpost.com/software/maker-manage"/>
+<id>devpost:maker-manage</id>
+<updated>2026-11-22T00:00:00Z</updated>
+<summary>Manage your Makers; take control of training and flow though your makerspace! · 🏆 Best Hardware Hack</summary>
 </entry>
 <entry>
 <title>Tandem · Hack the North 2022</title>
@@ -444,124 +563,5 @@
 <id>devpost:vibes-decentralized-social-media-for-artists</id>
 <updated>2026-11-22T00:00:00Z</updated>
 <summary>It functions how you&#x27;d expect - social media meets music streaming - but under the hood it&#x27;s different! Vibes enables you to own your data and is privacy-respecting, being based on IPFS and NOSTR! · 🏆 Hack the North 2023 Finalist</summary>
-</entry>
-<entry>
-<title>Morpheus · HackHarvard 2022: Control, Alt, Create</title>
-<link href="https://devpost.com/software/morpheus-73e4bo"/>
-<id>devpost:morpheus-73e4bo</id>
-<updated>2026-11-22T00:00:00Z</updated>
-<summary>A smart tutor for professors to learn how to better engage their students through machine learning · 🏆 Best Use of MATLAB (Sponsored by MathWorks)</summary>
-</entry>
-<entry>
-<title>Aerovision Pro Max · PennApps XXIV</title>
-<link href="https://devpost.com/software/wordle-wniql2"/>
-<id>devpost:wordle-wniql2</id>
-<updated>2026-11-22T00:00:00Z</updated>
-<summary>Self-driving is not an instantaneous revolution. Aerovision Pro Max provides a transitional program to allow for air traffic control as airplanes incorporate self-driving alongside human-driven. · 🏆 Best use of Viam software in robotics -- Sponsored by Viam</summary>
-</entry>
-<entry>
-<title>Gripp · Hack Western 9</title>
-<link href="https://devpost.com/software/gripp"/>
-<id>devpost:gripp</id>
-<updated>2026-11-22T00:00:00Z</updated>
-<summary>Gripp is a hand-grip dynamometer that measures and benchmarks grip strength, with the intent of providing intelligent recommendations that can optimize the health and fitness protocols of users. · 🏆 Most Novel Hack, Presented by 1517</summary>
-</entry>
-<entry>
-<title>Charitron · BoilerMake VIII</title>
-<link href="https://devpost.com/software/charitron"/>
-<id>devpost:charitron</id>
-<updated>2026-11-22T00:00:00Z</updated>
-<summary>Helping people in need, with vending machines · 🏆 Best Hardware Hack Sponsored by Digi-Key</summary>
-</entry>
-<entry>
-<title>Study BUDD-E · PennApps XXIV</title>
-<link href="https://devpost.com/software/studyfocus-l3ok0i"/>
-<id>devpost:studyfocus-l3ok0i</id>
-<updated>2026-11-22T00:00:00Z</updated>
-<summary>Stay motivated and concentrated while studying with Study BUDD-E! · 🏆 Best use of Statistics -- Sponsored by SIG</summary>
-</entry>
-<entry>
-<title>FoodSafe · MakeUC</title>
-<link href="https://devpost.com/software/food-safe-9jqilz"/>
-<id>devpost:food-safe-9jqilz</id>
-<updated>2026-11-22T00:00:00Z</updated>
-<summary>Our project is designed to help those with food sensitivities determine what food items are safe to eat with our profile based bar code scanning tool. · 🏆 Wolfram Award, [AWS] Greatest Social Impact</summary>
-</entry>
-<entry>
-<title>Snore No More! · PennApps XXIV</title>
-<link href="https://devpost.com/software/you-snooze-you-lose-we-dont-lose"/>
-<id>devpost:you-snooze-you-lose-we-dont-lose</id>
-<updated>2026-11-22T00:00:00Z</updated>
-<summary>Mind controlled water gun with computer vision tracking to prevent you from falling asleep when you study! · 🏆 Most Creative use of the Twilio API -- Sponsored by Twilio</summary>
-</entry>
-<entry>
-<title>homegrown · Hack the North 2022</title>
-<link href="https://devpost.com/software/homegrown-htw4ub"/>
-<id>devpost:homegrown-htw4ub</id>
-<updated>2026-11-22T00:00:00Z</updated>
-<summary>Every thought of growing your own plants? Start now! homegrown lets you grow your own mini garden from the comfort of your own phone (✿◠‿◠) 🪴🥬🥒 (｡◕‿◕｡) · 🏆 Most Creative Use of Twilio</summary>
-</entry>
-<entry>
-<title>Project LearnSafe · PennApps XXIV</title>
-<link href="https://devpost.com/software/project-learnsafe"/>
-<id>devpost:project-learnsafe</id>
-<updated>2026-11-22T00:00:00Z</updated>
-<summary>Project LearnSafe: a proactive approach to ensure school safety. Using surveillance footage, our ML model is trained to identify potential threats and immediately alert the police prior to crisis. · 🏆 Best use of Viam software in robotics -- Sponsored by Viam</summary>
-</entry>
-<entry>
-<title>POC Diagnostics · TreeHacks 2022</title>
-<link href="https://devpost.com/software/universal-lfa-reader-for-poc-diagnostics"/>
-<id>devpost:universal-lfa-reader-for-poc-diagnostics</id>
-<updated>2026-11-22T00:00:00Z</updated>
-<summary>Despite the fact that the covid-19 pandemic has downgraded. The real number of infections is unknown, especially in low-income countries. . · 🏆 (SERI) Kill COVID Challenge</summary>
-</entry>
-<entry>
-<title>Sugar Marker · DeltaHacks 7</title>
-<link href="https://devpost.com/software/sugar-marker"/>
-<id>devpost:sugar-marker</id>
-<updated>2026-11-22T00:00:00Z</updated>
-<summary>Motivate students while teaching them valuable life lessons. · 🏆 MLH Best Hardware Hack Sponsored by Digi-Key</summary>
-</entry>
-<entry>
-<title>Pathosense · HackMIT 2023</title>
-<link href="https://devpost.com/software/pathosense"/>
-<id>devpost:pathosense</id>
-<updated>2026-11-22T00:00:00Z</updated>
-<summary>Bring emotion into technology! · 🏆 Interactive Media Track Winner</summary>
-</entry>
-<entry>
-<title>Project HERMES · HackPrinceton</title>
-<link href="https://devpost.com/software/project-hermes-36qs2y"/>
-<id>devpost:project-hermes-36qs2y</id>
-<updated>2026-11-22T00:00:00Z</updated>
-<summary>A messenger for the inarticulate.</summary>
-</entry>
-<entry>
-<title>Terrariam · MIT Reality Hack 2022</title>
-<link href="https://devpost.com/software/terrariam"/>
-<id>devpost:terrariam</id>
-<updated>2026-11-22T00:00:00Z</updated>
-<summary>Terrariam is a unique, holographic experience of a user’s emotional state by measuring real-time emotional data. · 🏆 Best Use of Looking Glass</summary>
-</entry>
-<entry>
-<title>Xeri · HackHarvard 2022: Control, Alt, Create</title>
-<link href="https://devpost.com/software/xeri"/>
-<id>devpost:xeri</id>
-<updated>2026-11-22T00:00:00Z</updated>
-<summary>An Affordable Alternative to Treating Muscle Spasticity. Xeri has developed a therapeutic device designed to promote neuroplasticity within individuals who suffer from impaired hand mobility. · 🏆 [MLH] Best Accessibility Hack sponsored by Fidelity</summary>
-</entry>
-<entry>
-<title>Game of Squid · Hack the North 2022</title>
-<link href="https://devpost.com/software/game-of-squid"/>
-<id>devpost:game-of-squid</id>
-<updated>2026-11-22T00:00:00Z</updated>
-<summary>The Calamari Contest of Fun with Guns! Can you make it to the end?</summary>
-</entry>
-<entry>
-<title>Braille Bananza (Team 77) · Boilermake XI</title>
-<link href="https://devpost.com/software/braille-bananza"/>
-<id>devpost:braille-bananza</id>
-<updated>2026-11-22T00:00:00Z</updated>
-<summary>Have you ever wanted to be able to read in the dark? Look no further! With this neat contraption, everyone can learn to read the Braille alphabet with ease. · 🏆 Best DEI Hack sponsored by Fidelity</summary>
 </entry>
 </feed>
