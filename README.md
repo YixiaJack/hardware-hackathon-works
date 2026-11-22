@@ -5,13 +5,13 @@
 **自动收录全球硬件 / 机器人 / 具身交互赛事里最有意思的作品**
 MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hackaday · Hackster · 立创开源 · AdventureX …
 
-[![Works](https://img.shields.io/badge/作品-4194-38BDF8?style=flat-square)](https://OWNER.github.io/hardware-hackathon-works/)
-[![Winners](https://img.shields.io/badge/获奖作品-982-F59E0B?style=flat-square)](https://OWNER.github.io/hardware-hackathon-works/)
+[![Works](https://img.shields.io/badge/作品-4194-38BDF8?style=flat-square)](https://hardware-hackathon-works.vercel.app/)
+[![Winners](https://img.shields.io/badge/获奖作品-982-F59E0B?style=flat-square)](https://hardware-hackathon-works.vercel.app/)
 [![Events](https://img.shields.io/badge/赛事系列-36%20·%20265%20届-10B981?style=flat-square)](#-赛事覆盖)
 [![New](https://img.shields.io/badge/本周新增-首轮-EC4899?style=flat-square)](#-本周新增)
 [![Updated](https://img.shields.io/badge/自动更新-2026--11--22-6366F1?style=flat-square)](.github/workflows/update.yml)
 
-### 👉 [打开可视化作品库](https://OWNER.github.io/hardware-hackathon-works/) · [RSS 订阅](https://OWNER.github.io/hardware-hackathon-works/feed.xml) · [JSON 数据](data/projects.json)
+### 👉 [打开可视化作品库](https://hardware-hackathon-works.vercel.app/) · [RSS 订阅](https://hardware-hackathon-works.vercel.app/feed.xml) · [JSON 数据](data/projects.json)
 
 </div>
 
