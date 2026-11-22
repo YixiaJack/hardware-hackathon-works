@@ -27,7 +27,11 @@ jobs:
     env:
       HAS_KEY: ${{ secrets.ANTHROPIC_API_KEY != '' }}
     steps:
+      # Check out the tip of main when the job starts, not the commit that triggered it: runs queue behind
+      # each other (concurrency group), and the run ahead may already have pushed a data commit.
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       - uses: actions/setup-python@v5
         with:
