@@ -169,6 +169,13 @@ def merge(prev: list[dict], fresh_by_source: dict[str, list[dict]]) -> list[dict
                 continue
             merged[p["id"]] = p
 
+    # picks.toml `repo` on an annotation entry: the code repo a scraped page doesn't link (set before de-dup)
+    extra_repos = pick_repos()
+    for p in merged.values():
+        r = extra_repos.get(p["url"].lower().rstrip("/"))
+        if r and not normalize_repo(p.get("repo")):
+            p["repo"] = r
+
     # de-duplicate: curated → richer scraped page; GitHub repo → any page that links to it
     by_repo = {}
     for p in merged.values():
@@ -194,6 +201,12 @@ def merge(prev: list[dict], fresh_by_source: dict[str, list[dict]]) -> list[dict
     return list(merged.values())
 
 
+def pick_repos() -> dict[str, str]:
+    """match URL → repo, for annotation entries (no `title`) that carry a `repo`."""
+    return {pk["match"].lower().rstrip("/"): pk["repo"].rstrip("/") for pk in load_toml("picks.toml").get("pick", [])
+            if pk.get("repo") and not pk.get("title") and normalize_repo(pk["repo"])}
+
+
 def apply_picks(projects: list[dict]) -> None:
     picks = load_toml("picks.toml").get("pick", [])
     idx = {}
@@ -205,7 +218,8 @@ def apply_picks(projects: list[dict]) -> None:
         tgt = idx.get(pk["match"].lower().rstrip("/")) or idx.get(normalize_repo(pk["match"]) or "")
         if not tgt:
             continue
-        tgt["pick"] = True
+        if pk.get("pick", True):  # `pick = false`: a hand-verified record, not an editor's pick
+            tgt["pick"] = True
         for k in ("note_zh", "zh", "vibe"):
             if pk.get(k):
                 tgt[k if k != "note_zh" else "pick_note"] = pk[k]
@@ -329,7 +343,10 @@ def main():
                 log(f"  ! {src} failed, keeping previous data\n{traceback.format_exc()}")
         if new_eds:
             ids = {e["id"] for e in new_eds}
-            editions = new_eds + [e for e in editions if e["id"] not in ids]
+            # a Devpost hackathon moved to another series gets a new edition id; drop its old entry
+            dp_ids = {e["devpost_id"] for e in new_eds if e.get("devpost_id")}
+            editions = new_eds + [e for e in editions
+                                  if e["id"] not in ids and not (e.get("devpost_id") and e["devpost_id"] in dp_ids)]
 
     projects = merge(prev, fresh)
 

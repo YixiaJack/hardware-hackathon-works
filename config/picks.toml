@@ -7,6 +7,8 @@
 # note_zh  = 编辑点评：为什么值得看
 # vibe     = 亮点标签，取值：humor 脑洞幽默 | warmth 情感温度 | hardcore 硬核工程 | practical 实用落地 | impact 社会价值
 # facets   = 可选，手动指定分类，覆盖自动结果，如 { domain = ["health"], form = ["wearable"] }
+# repo     = 可选，只用于不写 title 的条目：抓取页面没链接、但核实过属于该作品的代码仓库
+# pick     = 可选，默认 true；写 false 表示只建档（自动抓取漏掉、核实过的作品），不进编辑精选
 #
 # 前 6 条来自 AlexDrives/hardware-hackathon-radar 的 docs/makemit-and-benchmarks.md
 # ─────────────────────────────────────────────────────────────────────────────
@@ -90,3 +92,33 @@ zh = "不用电子元件、只靠声音的无线键盘：每个键敲出不同�
 note_zh = "MakeMIT 2020 一等奖。用最朴素的物理原理（声学频率）完成通信，惊喜感极强。"
 facets = { domain = ["tools-industry", "games-fun"], form = ["gadget"], interaction = ["tangible"] }
 vibe = ["hardcore", "humor"]
+
+# ── HARD MODE（MIT 硬件 × AI 黑客松）2026 ──
+# 奖项以 Devpost 图库为准（hardmode.devpost.com）；官网没有结果页。
+
+[[pick]]
+match = "https://devpost.com/software/living-room-dreaming-objects"
+repo = "https://github.com/matthieujules/MIT-HARDMODE-WINNER"   # Devpost 页没链接；提交者是队员 Matthieu Huss，代码含 lamp / mirror / radio 设备
+zh = "台灯、收音机、镜子、篮子四件家居物件各有一个 AI 代理，会动、会说话，由中控调度互相配合"
+note_zh = "HARD MODE 2026 总冠军（Devpost：Grand Prize (E14 Fund)）。不做一个全能机器人，而是把智能分散到几件普通家具里；仓库里有中控服务、每件设备的代理代码和网页仪表盘。"
+facets = { form = ["smart-object", "mobile-robot"] }
+vibe = ["warmth", "hardcore"]
+
+[[pick]]
+match = "https://devpost.com/software/human-operator"
+zh = "AI 通过电肌肉刺激（EMS）直接驱动佩戴者的手指和手腕：看第一人称画面、听语音指令，替你挥手、弹旋律、比 OK"
+note_zh = "HARD MODE 2026 Learn 赛道获奖，思路是把人体本身当执行器来教动作。注意：这是黑客松原型，会对人体施加电刺激；作者在 README 里要求有人监护、事先知情同意、强度从低调起、随时能急停，它不是经过验证的医疗或康复设备。"
+vibe = ["hardcore"]
+
+[[pick]]
+match = "https://github.com/oorjitchowdhary/mit-hardmode"
+pick = false   # 不在 Devpost 图库里；README 写明为 MIT hardmode 黑客松而做，仓库建于 2026-03-07（比赛第二天）
+title = "Doom Clock (hardmode)"
+tagline = "A Raspberry Pi 5 device that listens to the room, judges the vibe with Claude, and spins a physical doom clock faster when you slack off."
+description = "Ambient audio from a USB microphone is transcribed live by Deepgram with speaker diarization, and the transcript is periodically sent to Claude for a vibe score. A productive conversation slows and freezes the clock; brain rot, or music with no speech, makes it spin fast and jump ahead. The doom clock runs on a 128x64 OLED and a stepper motor drives the clock hand."
+series_id = "hardmode"
+event_name = "HARD MODE: Hardware x AI Hackathon"
+year = 2026
+built_with = ["raspberry-pi", "deepgram", "claude", "oled", "stepper-motor"]
+facets = { domain = ["productivity"] }
+zh = "听房间里的对话，让 Claude 判断你是在专注还是在刷短视频；摸鱼时实体『末日时钟』的指针越转越快"

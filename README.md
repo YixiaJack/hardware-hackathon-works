@@ -3,15 +3,15 @@
 # 🛠️ Hardware Hackathon Works · 硬件黑客松作品雷达
 
 **自动收录全球硬件 / 机器人 / 具身交互赛事里最有意思的作品**
-MakeMIT · Build18 · MakeUofT · Reality Hack · TreeHacks · Hackaday · Hackster · 立创开源 · AdventureX …
+MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hackaday · Hackster · 立创开源 · AdventureX …
 
-[![Works](https://img.shields.io/badge/作品-4194-38BDF8?style=flat-square)](https://hardware-hackathon-works.vercel.app/)
-[![Winners](https://img.shields.io/badge/获奖作品-982-F59E0B?style=flat-square)](https://hardware-hackathon-works.vercel.app/)
+[![Works](https://img.shields.io/badge/作品-4194-38BDF8?style=flat-square)](https://OWNER.github.io/hardware-hackathon-works/)
+[![Winners](https://img.shields.io/badge/获奖作品-982-F59E0B?style=flat-square)](https://OWNER.github.io/hardware-hackathon-works/)
 [![Events](https://img.shields.io/badge/赛事系列-36%20·%20265%20届-10B981?style=flat-square)](#-赛事覆盖)
 [![New](https://img.shields.io/badge/本周新增-首轮-EC4899?style=flat-square)](#-本周新增)
 [![Updated](https://img.shields.io/badge/自动更新-2026--11--22-6366F1?style=flat-square)](.github/workflows/update.yml)
 
-### 👉 [打开可视化作品库](https://hardware-hackathon-works.vercel.app/) · [RSS 订阅](https://hardware-hackathon-works.vercel.app/feed.xml) · [JSON 数据](data/projects.json)
+### 👉 [打开可视化作品库](https://OWNER.github.io/hardware-hackathon-works/) · [RSS 订阅](https://OWNER.github.io/hardware-hackathon-works/feed.xml) · [JSON 数据](data/projects.json)
 
 </div>
 
@@ -43,7 +43,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · TreeHacks · Hackaday · Hacks
 | 维度 | 分布 Top |
 | :-- | :-- |
 | **场景** Domain | 🩺健康医疗 513 · 🌱环境可持续 496 · 🎮游戏娱乐 477 · 🏠家居生活 401 · 🎓教育学习 339 · 🚲出行交通 315 |
-| **形态** Form factor | 📟桌面小装置 824 · ⌚可穿戴 394 · 🪑智能物件/家具 266 · ⚙️制造机器/机构 250 · 🥽XR/空间计算 188 · 🤖移动机器人 177 |
+| **形态** Form factor | 📟桌面小装置 824 · ⌚可穿戴 394 · 🪑智能物件/家具 267 · ⚙️制造机器/机构 250 · 🥽XR/空间计算 188 · 🤖移动机器人 177 |
 | **交互** Interaction | 📡环境感知/自主 1002 · 👋视觉/手势 676 · 💡光与显示 623 · 🗣️语音对话 368 · 🎛️实体操控 211 · 🧠生理信号 147 |
 | **平台** Platform | ♾️Arduino 1646 · 🍓Raspberry Pi 622 · 📶ESP32/ESP8266 543 · 🔧其他 MCU 82 · 🟩NVIDIA Jetson 61 · 🛰️ROS 52 |
 | **智能** AI capability | 👁️计算机视觉 563 · ✨大模型/生成式 531 · 📈机器学习 350 · 🎙️语音 AI 199 · 🦿机器人学习 51 · 🔋端侧 ML 32 |
@@ -61,6 +61,8 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · TreeHacks · Hackaday · Hacks
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
 | [**Unsynthesizer**](https://devpost.com/software/unsynthesizer-2jxeoy) | 不用电子元件、只靠声音的无线键盘：每个键敲出不同频率，电脑靠滤波识别按键 | MakeMIT 2020 | `工具与制造` `游戏娱乐` 🏆 First Place | 100 |
+| [**Dreaming Objects**](https://devpost.com/software/living-room-dreaming-objects) | 台灯、收音机、镜子、篮子四件家居物件各有一个 AI 代理，会动、会说话，由中控调度互相配合 | HARD MODE: Hardware x AI Hackathon | `家居生活` 🏆 Grand Prize (E14 Fund) | 96 |
+| [**Human Operator**](https://devpost.com/software/human-operator) | AI 通过电肌肉刺激（EMS）直接驱动佩戴者的手指和手腕：看第一人称画面、听语音指令，替你挥手、弹旋律、比 OK | HARD MODE: Hardware x AI Hackathon | `工具与制造` 🏆 LEARN - Track | 90 |
 | [**Scribblr**](https://devpost.com/software/scribblr-0bxzq4) | 听课 → Gemini 提炼重点 → 单笔画 G-code → 机械手拿真粉笔写在黑板上 | MakeMIT x Harvard 2026 | `教育学习` 🏆 Seed Studio Interactive Signage | 74 |
 | [**Whackathon**](https://devpost.com/software/whackathon-w0e27o) | 检测到你驼背成『虾』就立刻物理惩罚的椅子 | MakeMIT x Harvard 2026 | `健康医疗` `效率与自律` 🏆 [MLH] Best Use of ElevenLabs | 62 |
 | [**Bless You Polar Bear**](https://github.com/NaemBi-Bap-MAKE-MIT-2026-Team) | 独居异乡打喷嚏没人说『Bless you』？北极熊玩偶用本地小模型听到喷嚏并回应关怀 | MakeMIT x Harvard 2026 | `社交情感` 🏆 Sustainability — 3rd Place | 54 |
@@ -126,11 +128,11 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · TreeHacks · Hackaday · Hacks
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
+| [**Dreaming Objects**](https://devpost.com/software/living-room-dreaming-objects) | 台灯、收音机、镜子、篮子四件家居物件各有一个 AI 代理，会动、会说话，由中控调度互相配合 | HARD MODE: Hardware x AI Hackathon | `家居生活` 🏆 Grand Prize (E14 Fund) | 96 |
 | [**AutoDump: Autonomous Self-Emptying Trash Rover**](https://devpost.com/software/autodump-autonomous-self-emptying-trash-rover) | A Raspberry Pi rover that finds full bins, docks, and auto-dumps into a central can using… | MakeCU | `环境可持续` `家居生活` 🏆 3rd Place Overall | 84 |
 | [**Kafa - Thermostat Enhancer**](https://devpost.com/software/kafa-thermostat-enhancer) | Kafa is a plug and play thermostat enhancer which brings new life to your current hardwar… | MakeUofT 2021 | `家居生活` `游戏娱乐` 🏆 1st Place Overall | 79 |
 | [**FEEL — The room, in your palm**](https://devpost.com/software/feel-the-room-in-your-palm) | A LiDAR iPhone and a 24-pin palm puck that turn the room into touch. Feel what’s ahead an… | HackHarvard2026: Hack to the Moon | `家居生活` `出行交通` 🏆 First Place Overall | 78 |
 | [**PetAlert**](https://devpost.com/software/doggoalert) | Calling all pet owners: never get out of bed early in the morning again! | Hack Western 9 | `家居生活` 🏆 Third Place Overall | 77 |
-| [**ROOMBAlling**](https://devpost.com/software/roomballing) | The SUCKIEST game of bowling known to man. | HackGT presents: BuildGT 2 | `社交情感` `家居生活` 🏆 1st Place | 76 |
 
 </details>
 
@@ -223,10 +225,10 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · TreeHacks · Hackaday · Hacks
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
 | [**Unsynthesizer**](https://devpost.com/software/unsynthesizer-2jxeoy) | 不用电子元件、只靠声音的无线键盘：每个键敲出不同频率，电脑靠滤波识别按键 | MakeMIT 2020 | `工具与制造` `游戏娱乐` 🏆 First Place | 100 |
+| [**Human Operator**](https://devpost.com/software/human-operator) | AI 通过电肌肉刺激（EMS）直接驱动佩戴者的手指和手腕：看第一人称画面、听语音指令，替你挥手、弹旋律、比 OK | HARD MODE: Hardware x AI Hackathon | `工具与制造` 🏆 LEARN - Track | 90 |
 | [**Quakey**](https://devpost.com/software/quakey) | A vision-first autonomous robot for where lidar fails. | Robotech 2026 | `工具与制造` 🏆 1st Place Autonomous Track | 82 |
 | [**VIGIL: Assistive Eyewear with an Autonomous Aerial Scout**](https://devpost.com/software/vigil-assistive-eeywear-with-an-autonomous-aerial-scout) | VIGIL reimagines assistive eyewear via an autonomous aerial scout, extending perception b… | HackGT 13: Seaside Market | `无障碍辅助` `工具与制造` 🏆 Best Overall - 3rd Place | 81 |
 | [**OpenReality**](https://devpost.com/software/real-eyes-mra8n6) | OpenClaw in the real world! Generate and reason in a 3d map with just your phone! | HackIllinois 2026 | `安全应急` `工具与制造` 🏆 Most Creative | 79 |
-| [**Quick Mouse**](https://devpost.com/software/quick-mouse) | Quick Mouse turns your phone into a precise wireless mouse. No extra hardware. Open the a… | MakeUC 2025 | `工具与制造` `教育学习` 🏆 First Place | 79 |
 
 </details>
 

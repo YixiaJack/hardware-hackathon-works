@@ -53,6 +53,13 @@ def main():
         for v in pk.get("vibe", []):
             if v not in {"humor", "warmth", "hardcore", "practical", "impact"}:
                 err(f"picks: unknown vibe {v}")
+        if "pick" in pk and not isinstance(pk["pick"], bool):
+            err(f"picks: pick must be true|false: {pk['match']}")
+        if pk.get("repo"):
+            if not re.match(r"https://github\.com/[\w.-]+/[\w.-]+/?$", pk["repo"]):
+                err(f"picks: repo must be https://github.com/<owner>/<repo>: {pk['match']}")
+            if pk.get("title"):
+                err(f"picks: repo is only for entries without title (a titled entry's repo is its match): {pk['match']}")
 
     pj = ROOT / "data/projects.json"
     if pj.exists():

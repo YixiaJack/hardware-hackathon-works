@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Hardware Hackathon Works · 硬件黑客松作品雷达</title>
-<link href="https://hardware-hackathon-works.vercel.app/"/>
-<updated>2026-11-22T06:36:06+00:00</updated>
-<id>https://hardware-hackathon-works.vercel.app/</id>
+<link href="https://OWNER.github.io/hardware-hackathon-works/"/>
+<updated>2026-11-22T11:42:49+00:00</updated>
+<id>https://OWNER.github.io/hardware-hackathon-works/</id>
 <entry>
 <title>Pill-Drop · DeltaHacks IX</title>
 <link href="https://devpost.com/software/pill-drop-mrvltj"/>

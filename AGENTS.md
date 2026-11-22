@@ -19,7 +19,7 @@ It is the "works" companion to [AlexDrives/hardware-hackathon-radar](https://git
 | :-- | :-- |
 | `config/events.toml` | Competition series. Devpost editions are auto-discovered via `devpost_search` + `devpost_title_regex`. `hardware_focus = "dedicated"` keeps every project; `"track"` keeps only projects that pass the hardware test. Also `[devpost_stream]`, `[[github_extra_queries]]`, `[hackaday]`, `[[hackaday_contests]]`. |
 | `config/taxonomy.toml` | The six facets (domain · form · interaction · platform · ai · fab) and the `[hardware]` detector. Keyword rules only — no code. |
-| `config/picks.toml` | Editor's picks: Chinese one-liner (`zh`), note (`note_zh`), `vibe`. Entries with `title` also create the project if no scraper found it. |
+| `config/picks.toml` | Editor's picks: Chinese one-liner (`zh`), note (`note_zh`), `vibe`. Entries with `title` also create the project if no scraper found it. `pick = false` keeps such a hand-verified record out of the picks; `repo` (entries without `title`) attaches a verified code repo that the scraped page doesn't link. |
 | `pipeline/sources/*.py` | One collector per source. Each returns records built with `common.new_project()`. |
 | `pipeline/run.py` | Orchestrator: collect → merge/dedupe (by id, then by repo URL) → picks → classify → score → render. Keeps last-good data per source on failure. |
 | `pipeline/classify.py` | Facet matcher, award tier, interest score (0–100). |
@@ -71,6 +71,7 @@ EOF
 | Hackster.io | ⛔ | Contest and submission pages return Cloudflare 403; past-contest GraphQL needs a session token. Needs the official API (OAuth app) — not implemented. |
 | OSHWHub 立创开源 | ⚠️ | `api/activities/competition_list` lists contests; no public endpoint lists projects *within* an activity (`/api/competition/getActivitiesProjects` → 401). |
 | MakeMIT 2024–2025, HackMIT 2021/22/24/25 | ⚠️ | Not on Devpost; GitHub search partly covers them. |
+| HARD MODE (MIT, `hardmode`) | ✅ | Verified 2026-11-22: `hardmode.devpost.com` has 22 projects / 12 winners, the same as our data. The official site `hardmode.media.mit.edu` has no results page, so awards come from Devpost. Devpost search `hardmode` finds it, and `mode` is a fallback. No `github_queries`: searching `hardmode` returns mostly unrelated repos, plus second repos of Devpost projects that would show up twice. Off-Devpost entries go in `picks.toml` with `pick = false` once their README ties them to the event. |
 
 ## 5. Backlog (good next tasks)
 

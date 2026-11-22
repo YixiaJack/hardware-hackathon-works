@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T06:36:06+00:00",
+ "generated": "2026-11-22T11:42:48+00:00",
  "count": 4194,
  "projects": [
   {
@@ -83,6 +83,144 @@
    },
    "award_tier": 3,
    "score": 100
+  },
+  {
+   "id": "devpost:living-room-dreaming-objects",
+   "title": "Dreaming Objects",
+   "tagline": "Everyday items that interact, empathize, and thrive together.",
+   "description": "Grand Prize We are so honoured to have won the MIT HARDMODE Grand Prize of $50K backed by the e14 fund to further the idea. Inspiration Household devices today are mostly single-purpose, static, and frankly boring. Advances in AI are enabling physical devices to perceive context, adapt behavior, and coordinate actions. This creates an opportunity to rethink how intelligence can be embedded into the everyday objects around us. Current Applications of AI in Devices: Humanoid / general-purpose robots: Highly flexible but technically complex and socially unnatural in homes. Smart home / IoT systems: Practical and widely used, but rigid, relying on predefined rules that struggle with ambiguity and changing user needs. Our Solution Our team wanted to introduce a middle-ground approach and embed AI to bring household items to life, like in Beauty in the Beast. We envisioned a world where objects can interact with the physical world, empathize based on context, express themselves, and collaborate together to help the user thrive. Instead of one central robot or fixed automations, intelligence is spread throughout a system of devices. How we built it Our project has 4 objects Lamp - moves in an animated, almost-cartoon way and changes light brightness/colour Radio - switches channels to play music and talk to you Mirror - displays generated images and can respond to things in its line of sight Basket - move/push, like an RC car (it can push things around, bring items to you) The proj…",
+   "url": "https://devpost.com/software/living-room-dreaming-objects",
+   "source": "devpost",
+   "event_id": "hw-misc-2026-29112",
+   "series_id": "hw-misc",
+   "event_name": "HARD MODE: Hardware x AI Hackathon",
+   "year": 2026,
+   "awards": [
+    "Grand Prize (E14 Fund)"
+   ],
+   "winner": true,
+   "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/595/616/datas/medium.jpg",
+   "video": "https://www.youtube.com/watch?v=4GW0NdRvaYs",
+   "repo": "https://github.com/matthieujules/MIT-HARDMODE-WINNER",
+   "links": [],
+   "team": [
+    "Cristiano Da Silva",
+    "matthieujules Huss"
+   ],
+   "built_with": [
+    "claude",
+    "power-of-friendship"
+   ],
+   "likes": 3,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-19",
+   "updated": "2026-11-22",
+   "hw_score": 2,
+   "facets": {
+    "domain": [
+     "home"
+    ],
+    "form": [
+     "smart-object",
+     "mobile-robot"
+    ],
+    "interaction": [
+     "light-display"
+    ],
+    "platform": [],
+    "ai": [
+     "llm"
+    ],
+    "fab": []
+   },
+   "award_tier": 3,
+   "score": 96,
+   "pick": true,
+   "pick_note": "HARD MODE 2026 总冠军（Devpost：Grand Prize (E14 Fund)）。不做一个全能机器人，而是把智能分散到几件普通家具里；仓库里有中控服务、每件设备的代理代码和网页仪表盘。",
+   "zh": "台灯、收音机、镜子、篮子四件家居物件各有一个 AI 代理，会动、会说话，由中控调度互相配合",
+   "vibe": [
+    "warmth",
+    "hardcore"
+   ],
+   "facet_override": {
+    "form": [
+     "smart-object",
+     "mobile-robot"
+    ]
+   }
+  },
+  {
+   "id": "devpost:human-operator",
+   "title": "Human Operator",
+   "tagline": "A Human Augmentation Tool for On-Body Intelligence with EMS.",
+   "description": "What it does Human Operator is a human augmentation tool that allows AI to briefly take control of your body to help you learn and do things you normally cannot do. To do this, it uses a Vision-Language Model for human motor control through Electrical Muscle Stimulation (EMS). Vision-based commands are generated via open-ended speech input through the Claude API to control finger and wrist stimulation for intuitive on-body interaction. How we built it Prerequisites Python 3.10.x Conda , Miniconda or other environment setup Arduino IDE 2.3.x (for firmware setup) Claude API key (from Anthropic) Hardware Setup EMS & Control: TENS/EMS Gel Electrodes Arduino-compatible microcontroller (Arduino Micro recommended) 5V Relays for finger control (pinky, middle, index) Custom or commercial TENS/EMS unit with electronic control capability Sensing: Camera module (integrated or USB) for POV video capture Software Setup Clone the repository: git clone <repository-url> cd Human-Operator Create Python environment: conda env create -f environment.yml conda activate human-operator Configure API key: cp .env_empty .env # Edit .env and add your Anthropic API key: # ANTHROPIC_API_KEY=your_api_key_here Upload Arduino firmware: Open Arduino IDE Load firmware/human_operator_ems/human_operator_ems.ino Upload to your Arduino board Verify serial communication works (115200 baud) Run Main Application Start the real-time EMS control system: python app.py This launches: Video capture from your camera AI p…",
+   "url": "https://devpost.com/software/human-operator",
+   "source": "devpost",
+   "event_id": "hw-misc-2026-29112",
+   "series_id": "hw-misc",
+   "event_name": "HARD MODE: Hardware x AI Hackathon",
+   "year": 2026,
+   "awards": [
+    "LEARN - Track"
+   ],
+   "winner": true,
+   "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/466/708/datas/medium.png",
+   "video": "https://www.youtube.com/watch?v=fCLxENGs7CY",
+   "repo": "https://github.com/danielkaijzer/Human-Operator",
+   "links": [
+    "https://github.com/danielkaijzer/Human-Operator"
+   ],
+   "team": [
+    "Peter He",
+    "Daniel Kaijzer",
+    "Ashley Neall",
+    "Valdemar Danry",
+    "Sean Hardesty Lewis"
+   ],
+   "built_with": [
+    "arduino",
+    "claude",
+    "opencv",
+    "python",
+    "tens-unit-ems"
+   ],
+   "likes": 0,
+   "stars": 316,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-19",
+   "updated": "2026-11-22",
+   "hw_score": 7,
+   "facets": {
+    "domain": [
+     "tools-industry"
+    ],
+    "form": [
+     "wearable"
+    ],
+    "interaction": [
+     "haptic",
+     "vision-gesture"
+    ],
+    "platform": [
+     "arduino"
+    ],
+    "ai": [
+     "llm",
+     "cv"
+    ],
+    "fab": []
+   },
+   "award_tier": 2,
+   "score": 90,
+   "pick": true,
+   "pick_note": "HARD MODE 2026 Learn 赛道获奖，思路是把人体本身当执行器来教动作。注意：这是黑客松原型，会对人体施加电刺激；作者在 README 里要求有人监护、事先知情同意、强度从低调起、随时能急停，它不是经过验证的医疗或康复设备。",
+   "zh": "AI 通过电肌肉刺激（EMS）直接驱动佩戴者的手指和手腕：看第一人称画面、听语音指令，替你挥手、弹旋律、比 OK",
+   "vibe": [
+    "hardcore"
+   ]
   },
   {
    "id": "devpost:raising-cane",
@@ -7140,59 +7278,6 @@
    "score": 69
   },
   {
-   "id": "devpost:living-room-dreaming-objects",
-   "title": "Dreaming Objects",
-   "tagline": "Everyday items that interact, empathize, and thrive together.",
-   "description": "Grand Prize We are so honoured to have won the MIT HARDMODE Grand Prize of $50K backed by the e14 fund to further the idea. Inspiration Household devices today are mostly single-purpose, static, and frankly boring. Advances in AI are enabling physical devices to perceive context, adapt behavior, and coordinate actions. This creates an opportunity to rethink how intelligence can be embedded into the everyday objects around us. Current Applications of AI in Devices: Humanoid / general-purpose robots: Highly flexible but technically complex and socially unnatural in homes. Smart home / IoT systems: Practical and widely used, but rigid, relying on predefined rules that struggle with ambiguity and changing user needs. Our Solution Our team wanted to introduce a middle-ground approach and embed AI to bring household items to life, like in Beauty in the Beast. We envisioned a world where objects can interact with the physical world, empathize based on context, express themselves, and collaborate together to help the user thrive. Instead of one central robot or fixed automations, intelligence is spread throughout a system of devices. How we built it Our project has 4 objects Lamp - moves in an animated, almost-cartoon way and changes light brightness/colour Radio - switches channels to play music and talk to you Mirror - displays generated images and can respond to things in its line of sight Basket - move/push, like an RC car (it can push things around, bring items to you) The proj…",
-   "url": "https://devpost.com/software/living-room-dreaming-objects",
-   "source": "devpost",
-   "event_id": "hw-misc-2026-29112",
-   "series_id": "hw-misc",
-   "event_name": "HARD MODE: Hardware x AI Hackathon",
-   "year": 2026,
-   "awards": [
-    "Grand Prize (E14 Fund)"
-   ],
-   "winner": true,
-   "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/595/616/datas/medium.jpg",
-   "video": "https://www.youtube.com/watch?v=4GW0NdRvaYs",
-   "repo": null,
-   "links": [],
-   "team": [
-    "Cristiano Da Silva",
-    "matthieujules Huss"
-   ],
-   "built_with": [
-    "claude",
-    "power-of-friendship"
-   ],
-   "likes": 3,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-19",
-   "updated": "2026-11-22",
-   "hw_score": 2,
-   "facets": {
-    "domain": [
-     "home"
-    ],
-    "form": [
-     "mobile-robot"
-    ],
-    "interaction": [
-     "light-display"
-    ],
-    "platform": [],
-    "ai": [
-     "llm"
-    ],
-    "fab": []
-   },
-   "award_tier": 3,
-   "score": 69
-  },
-  {
    "id": "devpost:healthbox",
    "title": "Healthbox",
    "tagline": "Healthbox helps users take medication on time with ongoing reminders, camera-assisted recipient and pill checks, dose tracking, and AI guidance to support accountability.",
@@ -9011,71 +9096,6 @@
      "laser",
      "3d-print"
     ]
-   },
-   "award_tier": 2,
-   "score": 68
-  },
-  {
-   "id": "devpost:human-operator",
-   "title": "Human Operator",
-   "tagline": "A Human Augmentation Tool for On-Body Intelligence with EMS.",
-   "description": "What it does Human Operator is a human augmentation tool that allows AI to briefly take control of your body to help you learn and do things you normally cannot do. To do this, it uses a Vision-Language Model for human motor control through Electrical Muscle Stimulation (EMS). Vision-based commands are generated via open-ended speech input through the Claude API to control finger and wrist stimulation for intuitive on-body interaction. How we built it Prerequisites Python 3.10.x Conda , Miniconda or other environment setup Arduino IDE 2.3.x (for firmware setup) Claude API key (from Anthropic) Hardware Setup EMS & Control: TENS/EMS Gel Electrodes Arduino-compatible microcontroller (Arduino Micro recommended) 5V Relays for finger control (pinky, middle, index) Custom or commercial TENS/EMS unit with electronic control capability Sensing: Camera module (integrated or USB) for POV video capture Software Setup Clone the repository: git clone <repository-url> cd Human-Operator Create Python environment: conda env create -f environment.yml conda activate human-operator Configure API key: cp .env_empty .env # Edit .env and add your Anthropic API key: # ANTHROPIC_API_KEY=your_api_key_here Upload Arduino firmware: Open Arduino IDE Load firmware/human_operator_ems/human_operator_ems.ino Upload to your Arduino board Verify serial communication works (115200 baud) Run Main Application Start the real-time EMS control system: python app.py This launches: Video capture from your camera AI p…",
-   "url": "https://devpost.com/software/human-operator",
-   "source": "devpost",
-   "event_id": "hw-misc-2026-29112",
-   "series_id": "hw-misc",
-   "event_name": "HARD MODE: Hardware x AI Hackathon",
-   "year": 2026,
-   "awards": [
-    "LEARN - Track"
-   ],
-   "winner": true,
-   "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/466/708/datas/medium.png",
-   "video": "https://www.youtube.com/watch?v=fCLxENGs7CY",
-   "repo": "https://github.com/danielkaijzer/Human-Operator",
-   "links": [
-    "https://github.com/danielkaijzer/Human-Operator"
-   ],
-   "team": [
-    "Peter He",
-    "Daniel Kaijzer",
-    "Ashley Neall",
-    "Valdemar Danry",
-    "Sean Hardesty Lewis"
-   ],
-   "built_with": [
-    "arduino",
-    "claude",
-    "opencv",
-    "python",
-    "tens-unit-ems"
-   ],
-   "likes": 0,
-   "stars": 316,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-19",
-   "updated": "2026-11-22",
-   "hw_score": 7,
-   "facets": {
-    "domain": [
-     "tools-industry"
-    ],
-    "form": [
-     "wearable"
-    ],
-    "interaction": [
-     "haptic",
-     "vision-gesture"
-    ],
-    "platform": [
-     "arduino"
-    ],
-    "ai": [
-     "llm",
-     "cv"
-    ],
-    "fab": []
    },
    "award_tier": 2,
    "score": 68

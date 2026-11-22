@@ -100,6 +100,25 @@ devpost_search = ["realityhack", "reality", "virtually"]
 devpost_title_regex = "(mit reality hack|^reality hack|reality virtually|^rh x snap)"
 github_queries = ["realityhack in:name,description,topics", "\"reality hack\" in:description"]
 
+# HARD MODE：官网 hardmode.media.mit.edu（2026-03-06–08，MIT Media Lab，48 小时，六赛道 Play/Learn/Work/Connect/Reflect/Thrive）。
+# 作品与获奖以 Devpost 图库 hardmode.devpost.com 为准（官网没有结果页）。2026 届核对过：22 件作品、12 件获奖，与图库一致。
+# 届次发现：Devpost 搜 "hardmode" 能命中（标题里是带空格的 HARD MODE）；"mode" 是兜底，以防下一届换了子域名。
+# 不配 github_queries：搜 "hardmode" 多是无关仓库（游戏、CS2 工具），另有几个是 Devpost 作品的第二个仓库，自动收录会重复；
+# 不在 Devpost 上的作品，核实后写进 picks.toml（pick = false 只建档）。
+[[series]]
+id = "hardmode"
+name = "HARD MODE (MIT Hardware × AI Hackathon)"
+name_zh = "HARD MODE（MIT 硬件 × AI 黑客松）"
+org = "MIT Media Lab AHA · MIT Design Intelligence Lab"
+region = "North America"
+kind = "makeathon"
+hardware_focus = "dedicated"
+url = "https://hardmode.media.mit.edu/"
+blurb_zh = "MIT Media Lab 48 小时硬件 × AI 黑客松：不做聊天机器人和 App，只做能拿在手里、戴在身上的智能实物"
+blurb_en = "MIT Media Lab's 48-hour hardware × AI hackathon: no chatbots, no apps, only intelligent objects you can hold or wear."
+devpost_search = ["hardmode", "mode"]
+devpost_title_regex = '''^hard ?mode\b'''
+
 [[series]]
 id = "hackaday-prize"
 name = "Hackaday Prize & Contests"
@@ -424,7 +443,7 @@ url = "https://devpost.com/hackathons"
 blurb_zh = "Devpost 上的其他硬件 / 机器人 / IoT 专题黑客松（含 LeRobot 全球黑客松）"
 blurb_en = "Other hardware, robotics & IoT hackathons on Devpost (incl. LeRobot global hackathon)."
 devpost_search = ["hardware", "robotics", "makeathon", "iot"]
-devpost_title_regex = '''^(hardware hackfest|pch .*hardware hackathon|hard mode: hardware|hackhardware$|makerhacks|hardware hackathon 3\.0|hard-war|robotic agents hackathon$|.*lerobot global hackathon|longhorn robotics|automatica makeathon|iot ?hack ?day|mother.s day iot makeathon|break to make)'''
+devpost_title_regex = '''^(hardware hackfest|pch .*hardware hackathon|hackhardware$|makerhacks|hardware hackathon 3\.0|hard-war|robotic agents hackathon$|.*lerobot global hackathon|longhorn robotics|automatica makeathon|iot ?hack ?day|mother.s day iot makeathon|break to make)'''
 
 # ───────────────────────────── 更多综合黑客松（仅收录硬件作品）─────────────────────────────
 

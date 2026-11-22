@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T06:36:06+00:00",
+ "generated": "2026-11-22T11:42:48+00:00",
  "series": [
   {
    "id": "hackaday-prize",
@@ -5341,6 +5341,21 @@
    "blurb_zh": "RDK 端侧算力 + 真机（机器狗/机械臂）的具身交互赛",
    "blurb_en": "Embodied-AI hackathon on D-Robotics RDK boards with real robots.",
    "projects": 3,
+   "winners": 0,
+   "editions": []
+  },
+  {
+   "id": "hardmode",
+   "name": "HARD MODE (MIT Hardware × AI Hackathon)",
+   "name_zh": "HARD MODE（MIT 硬件 × AI 黑客松）",
+   "org": "MIT Media Lab AHA · MIT Design Intelligence Lab",
+   "region": "North America",
+   "kind": "makeathon",
+   "hardware_focus": "dedicated",
+   "url": "https://hardmode.media.mit.edu/",
+   "blurb_zh": "MIT Media Lab 48 小时硬件 × AI 黑客松：不做聊天机器人和 App，只做能拿在手里、戴在身上的智能实物",
+   "blurb_en": "MIT Media Lab's 48-hour hardware × AI hackathon: no chatbots, no apps, only intelligent objects you can hold or wear.",
+   "projects": 0,
    "winners": 0,
    "editions": []
   },
