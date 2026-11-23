@@ -2,14 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Hardware Hackathon Works · 硬件黑客松作品雷达</title>
 <link href="https://hardware-hackathon-works.vercel.app/"/>
-<updated>2026-11-23T06:47:51+00:00</updated>
+<updated>2026-11-23T12:34:36+00:00</updated>
 <id>https://hardware-hackathon-works.vercel.app/</id>
+<entry>
+<title>Braille Printer · Hack Western 3</title>
+<link href="https://devpost.com/software/braille-printer"/>
+<id>devpost:braille-printer</id>
+<updated>2026-11-23T00:00:00Z</updated>
+<summary>A quick, affordable method to print braille. · 🏆 1st Place</summary>
+</entry>
 <entry>
 <title>Speakeasy · Reality Virtually Hackathon 2017 </title>
 <link href="https://devpost.com/software/speakeasy-5wl7z2"/>
 <id>devpost:speakeasy-5wl7z2</id>
 <updated>2026-11-23T00:00:00Z</updated>
 <summary>Practice your speech in front of an audience and receive real time feedback on your vocal and physical delivery · 🏆 Grand Prize in VR</summary>
+</entry>
+<entry>
+<title>OrchestrAI · MHacks 8</title>
+<link href="https://devpost.com/software/orchestrai"/>
+<id>devpost:orchestrai</id>
+<updated>2026-11-23T00:00:00Z</updated>
+<summary>An improvisational AI that unleashes the creative power of an entire orchestra to music producers and artists · 🏆 Best Use of Wolfram Technologies, MHacks First Prize</summary>
 </entry>
 <entry>
 <title>Blink! · PennApps XVI</title>
@@ -24,6 +38,13 @@
 <id>devpost:flick-8hsqc1</id>
 <updated>2026-11-23T00:00:00Z</updated>
 <summary>with a flicka da wrist · 🏆 Best First-Time-Hackathon Hack</summary>
+</entry>
+<entry>
+<title>Gun Loc ·  HackIllinois 2016</title>
+<link href="https://devpost.com/software/gun-loc"/>
+<id>devpost:gun-loc</id>
+<updated>2026-11-23T00:00:00Z</updated>
+<summary>An IoT solution to complete home gun control that gives firearm-owners peace-of-mind. · 🏆 HackIllinois Top Hardware Hacks, Microsoft&#x27;s Best Microsoft Hack</summary>
 </entry>
 <entry>
 <title>Moonlens · TreeHacks 2017</title>
@@ -145,6 +166,13 @@
 <summary>Sometimes getting up to turn off or turn on the light can be really incovenient. It doesn&#x27;t have to be! · 🏆 All Submissions</summary>
 </entry>
 <entry>
+<title>Do You Want To Hug Me? · Hack Western 3</title>
+<link href="https://devpost.com/software/do-you-want-to-hug-me"/>
+<id>devpost:do-you-want-to-hug-me</id>
+<updated>2026-11-23T00:00:00Z</updated>
+<summary>A simple combination of a stress ball, desktop buddy, and hug-tracker. Plus, we&#x27;ve got mobile/computer apps! · 🏆 Best Devpost with 10 hours to go!</summary>
+</entry>
+<entry>
 <title>Phiracks · Hack the North 2017</title>
 <link href="https://devpost.com/software/phi-racks"/>
 <id>devpost:phi-racks</id>
@@ -229,6 +257,13 @@
 <summary>Augmenting ordinary paper with new interactive experiences · 🏆 Focus based document summarization (Philips)</summary>
 </entry>
 <entry>
+<title>Catch me if you CAN. ·  HackIllinois 2016</title>
+<link href="https://devpost.com/software/catch-me-if-you-can-ga3yxs"/>
+<id>devpost:catch-me-if-you-can-ga3yxs</id>
+<updated>2026-11-23T00:00:00Z</updated>
+<summary>We developed the most realistic car driving simulator ever. · 🏆 HackIllinois Top Hardware Hacks, a16z&#x27;s Most Technically Challenging Hack</summary>
+</entry>
+<entry>
 <title>EZNet · Cal Hacks 4.0</title>
 <link href="https://devpost.com/software/ezsec"/>
 <id>devpost:ezsec</id>
@@ -241,6 +276,20 @@
 <id>devpost:mnemonic</id>
 <updated>2026-11-23T00:00:00Z</updated>
 <summary>A social memory companion · 🏆 Best Internet of Things Hack</summary>
+</entry>
+<entry>
+<title>oki · HackGT 2016</title>
+<link href="https://devpost.com/software/oki"/>
+<id>devpost:oki</id>
+<updated>2026-11-23T00:00:00Z</updated>
+<summary>Music that you can feel - control the way you play music with just your hands - no MIDIs, no controllers, no limits. · 🏆 Top 3, State Farm&#x27;s Choice</summary>
+</entry>
+<entry>
+<title>Polyglot · HackHarvard 2016</title>
+<link href="https://devpost.com/software/polyglot"/>
+<id>devpost:polyglot</id>
+<updated>2026-11-23T00:00:00Z</updated>
+<summary>Breaking the Language Barrier · 🏆 Overall - 1st Place</summary>
 </entry>
 <entry>
 <title>Rubber Security · HackPrinceton Spring 2017</title>
@@ -306,6 +355,13 @@
 <summary>DeliverAI is a simulation of a futuristic driverless car delivery system. It features customer face authentication. · 🏆 Best Implementation of Security Measures</summary>
 </entry>
 <entry>
+<title>Doggie Delight ·  HackIllinois 2016</title>
+<link href="https://devpost.com/software/doggie-delight"/>
+<id>devpost:doggie-delight</id>
+<updated>2026-11-23T00:00:00Z</updated>
+<summary>All inclusive dog management device for when you are away! · 🏆 HackIllinois Top Hardware Hacks</summary>
+</entry>
+<entry>
 <title>Facile · Hack Western 4</title>
 <link href="https://devpost.com/software/facile"/>
 <id>devpost:facile</id>
@@ -369,6 +425,13 @@
 <summary>A control platform for muon detectors that enables student collaboration. · 🏆 MHacks 2nd Place Prize, 1517 - Most Unique Hack</summary>
 </entry>
 <entry>
+<title>Sorting Hat ·  HackIllinois 2016</title>
+<link href="https://devpost.com/software/sorting-hat"/>
+<id>devpost:sorting-hat</id>
+<updated>2026-11-23T00:00:00Z</updated>
+<summary>Lifelike Sorting Hat, as seen in Harry Potter · 🏆 KCG&#x27;s Best Use of an Automated Test, Facebook&#x27;s Favorite Hack</summary>
+</entry>
+<entry>
 <title>Duo: Remote Control Pair of Hands · Hack the North 2016</title>
 <link href="https://devpost.com/software/duo-remote-control-pair-of-hands"/>
 <id>devpost:duo-remote-control-pair-of-hands</id>
@@ -395,6 +458,13 @@
 <id>devpost:signtology</id>
 <updated>2026-11-23T00:00:00Z</updated>
 <summary>Signtology is a machine learning based way to break down communication barriers by learning sign language. · 🏆 Best Use of Xesto API</summary>
+</entry>
+<entry>
+<title>Sing Me A Dress · MHacks: Refactor</title>
+<link href="https://devpost.com/software/sing-me-a-dress"/>
+<id>devpost:sing-me-a-dress</id>
+<updated>2026-11-23T00:00:00Z</updated>
+<summary>LED dress that turns you into the Disney Princess you are singing! · 🏆 MHacks Top 5</summary>
 </entry>
 <entry>
 <title>WiFi-Vision · Hack the North 2017</title>
@@ -425,6 +495,13 @@
 <summary>Helping the blind see, one beacon at a time. · 🏆 Best Domain Name Registered in PennApps XIV, PennApps Route | Best Social/Civic Hacking Hack Sponsored by JP Morgan</summary>
 </entry>
 <entry>
+<title>omniVision · HackGT 2016</title>
+<link href="https://devpost.com/software/omnivision"/>
+<id>devpost:omnivision</id>
+<updated>2026-11-23T00:00:00Z</updated>
+<summary>You can&#x27;t always keep an eye on things at home, so this smart application promise to do the heavy lifting for you. · 🏆 Top 8</summary>
+</entry>
+<entry>
 <title>Yappy Bird · HackHarvard 2017</title>
 <link href="https://devpost.com/software/yappybird"/>
 <id>devpost:yappybird</id>
@@ -453,6 +530,13 @@
 <summary>Easily convert sign language to speech, on the go · 🏆 Best Integration of Legacy and New Age Technology</summary>
 </entry>
 <entry>
+<title>PillHero · Hack Western 3</title>
+<link href="https://devpost.com/software/pillhero"/>
+<id>devpost:pillhero</id>
+<updated>2026-11-23T00:00:00Z</updated>
+<summary>A connected device that ensures you take your medicine on time, every time! · 🏆 Best Hack for Social Impact presented by Magnet Forensics, Best Newcomers presented by Hack Western Organizing Team</summary>
+</entry>
+<entry>
 <title>Rolie Polie Olie · Hack the North 2016</title>
 <link href="https://devpost.com/software/rolly-polly"/>
 <id>devpost:rolly-polly</id>
@@ -479,89 +563,5 @@
 <id>devpost:decibell</id>
 <updated>2026-11-23T00:00:00Z</updated>
 <summary>A smart doorbell combining computer vision with Alexa to determine who is knocking outside your door · 🏆 Best use of Twilio API</summary>
-</entry>
-<entry>
-<title>HackerVision · HackPrinceton Fall 2016</title>
-<link href="https://devpost.com/software/hacker-vision"/>
-<id>devpost:hacker-vision</id>
-<updated>2026-11-23T00:00:00Z</updated>
-<summary>See the names and profiles of hackers around you with the power of augmented reality. · 🏆 Best VR/AR Hack</summary>
-</entry>
-<entry>
-<title>LocalCoin · HackPrinceton Fall 2017</title>
-<link href="https://devpost.com/software/localarkcrypto"/>
-<id>devpost:localarkcrypto</id>
-<updated>2026-11-23T00:00:00Z</updated>
-<summary>Location specific cryptocurrency to revitalize local economies. · 🏆 Ark-IoT: Decentralize Everything - Blockchain Challenge</summary>
-</entry>
-<entry>
-<title>VIA - Visual Impairment Assistant · PennApps XIII</title>
-<link href="https://devpost.com/software/via-visual-impairment-assistant-17pg9d"/>
-<id>devpost:via-visual-impairment-assistant-17pg9d</id>
-<updated>2026-11-23T00:00:00Z</updated>
-<summary>VIA helps the visually impaired gain awareness of the environment. · 🏆 Most Innovative Embedded Application, sponsored by L3 Communications</summary>
-</entry>
-<entry>
-<title>Windsong · HackPrinceton Spring 2016</title>
-<link href="https://devpost.com/software/windsong"/>
-<id>devpost:windsong</id>
-<updated>2026-11-23T00:00:00Z</updated>
-<summary>A rhythm game using a Leap Motion controller for input · 🏆 Best Design</summary>
-</entry>
-<entry>
-<title>GunLock · Hacktech 2018</title>
-<link href="https://devpost.com/software/gunlock-a1wus4"/>
-<id>devpost:gunlock-a1wus4</id>
-<updated>2026-11-23T00:00:00Z</updated>
-<summary>Alcohol is involved in 40% of gun-related murders. GunLock will prevent inebriated people from firing a gun. · 🏆 [1517 Fund] Most Unique Hack</summary>
-</entry>
-<entry>
-<title>LeapLock · HackMIT 2016</title>
-<link href="https://devpost.com/software/leaplock-piof9q"/>
-<id>devpost:leaplock-piof9q</id>
-<updated>2026-11-23T00:00:00Z</updated>
-<summary>LeapLock is a 3D-gesture based locking mechanism. · 🏆 Best Use of FOSS in a Drone Cargo Management System App (Local Motors Labs)</summary>
-</entry>
-<entry>
-<title>Mattress X · BoilerMake IV</title>
-<link href="https://devpost.com/software/mattress-x"/>
-<id>devpost:mattress-x</id>
-<updated>2026-11-23T00:00:00Z</updated>
-<summary>The next generation uber-cool mattress! · 🏆 1st - 10th Place</summary>
-</entry>
-<entry>
-<title>nanoTransit - A Web Bluetooth Transit Beacon System · Hack the North 2016</title>
-<link href="https://devpost.com/software/nanotransit"/>
-<id>devpost:nanotransit</id>
-<updated>2026-11-23T00:00:00Z</updated>
-<summary>Interact with the bus info you need and physically interact with the bus&#x27;s services when onboard without an app. · 🏆 Google Cloud Platform, Top 12 Winners</summary>
-</entry>
-<entry>
-<title>AutoDirector · PennApps XIII</title>
-<link href="https://devpost.com/software/autodirector"/>
-<id>devpost:autodirector</id>
-<updated>2026-11-23T00:00:00Z</updated>
-<summary>It&#x27;s a voice controlled camera rail for your smartphone. Be your own director! · 🏆 PennApps XIII Hardware Route Prize</summary>
-</entry>
-<entry>
-<title>Hot Dog · TreeHacks 2017</title>
-<link href="https://devpost.com/software/hot-dog"/>
-<id>devpost:hot-dog</id>
-<updated>2026-11-23T00:00:00Z</updated>
-<summary>Saving pets&#x27; lives from overheated cars · 🏆 Best Use of IBM Watson IoT Platform on Bluemix</summary>
-</entry>
-<entry>
-<title>MyoHome.net · nwHacks 2018</title>
-<link href="https://devpost.com/software/myohome-2ruw9e"/>
-<id>devpost:myohome-2ruw9e</id>
-<updated>2026-11-23T00:00:00Z</updated>
-<summary>Web app for Myo Armband users to control their smart homes with customizable gestures · 🏆 The Wolfram Award</summary>
-</entry>
-<entry>
-<title>Pharma · PennApps XV</title>
-<link href="https://devpost.com/software/pharma"/>
-<id>devpost:pharma</id>
-<updated>2026-11-23T00:00:00Z</updated>
-<summary>A Premiere Suite of Connected Health Tools that Brings the Pharmacy to your Home · 🏆 PennApps Route | Best Health Hack, The Most Innovative Embedded Hack</summary>
 </entry>
 </feed>
