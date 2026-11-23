@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Hardware Hackathon Works · 硬件黑客松作品雷达</title>
 <link href="https://hardware-hackathon-works.vercel.app/"/>
-<updated>2026-11-23T12:34:36+00:00</updated>
+<updated>2026-11-23T18:27:45+00:00</updated>
 <id>https://hardware-hackathon-works.vercel.app/</id>
 <entry>
 <title>Braille Printer · Hack Western 3</title>
@@ -171,6 +171,13 @@
 <id>devpost:do-you-want-to-hug-me</id>
 <updated>2026-11-23T00:00:00Z</updated>
 <summary>A simple combination of a stress ball, desktop buddy, and hug-tracker. Plus, we&#x27;ve got mobile/computer apps! · 🏆 Best Devpost with 10 hours to go!</summary>
+</entry>
+<entry>
+<title>Handle · TUM XR Value Creation Hackathon 2026</title>
+<link href="https://devpost.com/software/handle-bnspvr"/>
+<id>devpost:handle-bnspvr</id>
+<updated>2026-11-23T00:00:00Z</updated>
+<summary>Imagine a robot trying to open a door. Where should it grab? Which way should it pull? With Handle, anybody with a VR headset can label 3D scans in VR to teach robots how everyday objects work. · 🏆 Overall winner</summary>
 </entry>
 <entry>
 <title>Phiracks · Hack the North 2017</title>
@@ -556,12 +563,5 @@
 <id>devpost:ammalia</id>
 <updated>2026-11-23T00:00:00Z</updated>
 <summary>A Leap Motion assisted app allowing medical professionals to view and manipulate scans while scrubbed in and sterile · 🏆 Best Social Impact Prize - Sponsored by GoodHacks, Dropbox - Best use of API</summary>
-</entry>
-<entry>
-<title>Decibell · MHacks X</title>
-<link href="https://devpost.com/software/decibell"/>
-<id>devpost:decibell</id>
-<updated>2026-11-23T00:00:00Z</updated>
-<summary>A smart doorbell combining computer vision with Alexa to determine who is knocking outside your door · 🏆 Best use of Twilio API</summary>
 </entry>
 </feed>
