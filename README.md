@@ -5,11 +5,11 @@
 **自动收录全球硬件 / 机器人 / 具身交互赛事里最有意思的作品**
 MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hackaday · Hackster · 立创开源 · AdventureX …
 
-[![Works](https://img.shields.io/badge/作品-4478-38BDF8?style=flat-square)](https://hardware-hackathon-works.vercel.app/)
+[![Works](https://img.shields.io/badge/作品-4481-38BDF8?style=flat-square)](https://hardware-hackathon-works.vercel.app/)
 [![Winners](https://img.shields.io/badge/获奖作品-1268-F59E0B?style=flat-square)](https://hardware-hackathon-works.vercel.app/)
 [![Events](https://img.shields.io/badge/赛事系列-37%20·%20277%20届-10B981?style=flat-square)](#-赛事覆盖)
 [![New](https://img.shields.io/badge/本周新增-首轮-EC4899?style=flat-square)](#-本周新增)
-[![Updated](https://img.shields.io/badge/自动更新-2026--11--23-6366F1?style=flat-square)](.github/workflows/update.yml)
+[![Updated](https://img.shields.io/badge/自动更新-2026--11--24-6366F1?style=flat-square)](.github/workflows/update.yml)
 
 ### 👉 [打开可视化作品库](https://hardware-hackathon-works.vercel.app/) · [RSS 订阅](https://hardware-hackathon-works.vercel.app/feed.xml) · [JSON 数据](data/projects.json)
 
@@ -42,12 +42,12 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 
 | 维度 | 分布 Top |
 | :-- | :-- |
-| **场景** Domain | 🩺健康医疗 572 · 🌱环境可持续 525 · 🎮游戏娱乐 522 · 🏠家居生活 439 · 🎓教育学习 388 · 🚲出行交通 353 |
-| **形态** Form factor | 📟桌面小装置 876 · ⌚可穿戴 415 · 🪑智能物件/家具 283 · ⚙️制造机器/机构 278 · 🥽XR/空间计算 226 · 🤖移动机器人 184 |
-| **交互** Interaction | 📡环境感知/自主 1080 · 👋视觉/手势 793 · 💡光与显示 675 · 🗣️语音对话 416 · 🎛️实体操控 232 · 🧠生理信号 163 |
-| **平台** Platform | ♾️Arduino 1922 · 🍓Raspberry Pi 770 · 📶ESP32/ESP8266 563 · 🔧其他 MCU 110 · 🟩NVIDIA Jetson 68 · 🛰️ROS 65 |
-| **智能** AI capability | 👁️计算机视觉 647 · ✨大模型/生成式 535 · 📈机器学习 424 · 🎙️语音 AI 217 · 🦿机器人学习 53 · 🔋端侧 ML 32 |
-| **工艺** Fabrication | 🧱3D 打印 466 · 📐CAD 建模 397 · 🔦激光切割 234 · 🧵织物/手工 59 · 🟢PCB 设计 35 |
+| **场景** Domain | 🩺健康医疗 573 · 🎮游戏娱乐 531 · 🌱环境可持续 522 · 🏠家居生活 442 · 🎓教育学习 391 · 🚲出行交通 353 |
+| **形态** Form factor | 📟桌面小装置 884 · ⌚可穿戴 414 · 🪑智能物件/家具 284 · ⚙️制造机器/机构 274 · 🥽XR/空间计算 226 · 🤖移动机器人 188 |
+| **交互** Interaction | 📡环境感知/自主 1079 · 👋视觉/手势 799 · 💡光与显示 677 · 🗣️语音对话 418 · 🎛️实体操控 234 · 🧠生理信号 163 |
+| **平台** Platform | ♾️Arduino 1927 · 🍓Raspberry Pi 779 · 📶ESP32/ESP8266 565 · 🔧其他 MCU 111 · 🟩NVIDIA Jetson 68 · 🛰️ROS 64 |
+| **智能** AI capability | 👁️计算机视觉 656 · ✨大模型/生成式 538 · 📈机器学习 430 · 🎙️语音 AI 218 · 🦿机器人学习 53 · 🔋端侧 ML 36 |
+| **工艺** Fabrication | 🧱3D 打印 468 · 📐CAD 建模 398 · 🔦激光切割 234 · 🧵织物/手工 58 · 🟢PCB 设计 36 |
 
 ### 「有意思指数」怎么算？（0–100）
 
@@ -76,7 +76,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 
 ## 🗂️ 按场景浏览（每类 Top 5）
 
-<details><summary><b>🩺 健康医疗 · Health & Medical</b> — 572 件</summary>
+<details><summary><b>🩺 健康医疗 · Health & Medical</b> — 573 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
@@ -88,7 +88,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 
 </details>
 
-<details><summary><b>♿ 无障碍辅助 · Accessibility</b> — 328 件</summary>
+<details><summary><b>♿ 无障碍辅助 · Accessibility</b> — 334 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
@@ -100,7 +100,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 
 </details>
 
-<details><summary><b>🌱 环境可持续 · Sustainability</b> — 525 件</summary>
+<details><summary><b>🌱 环境可持续 · Sustainability</b> — 522 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
@@ -124,7 +124,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 
 </details>
 
-<details><summary><b>🏠 家居生活 · Home & Everyday</b> — 439 件</summary>
+<details><summary><b>🏠 家居生活 · Home & Everyday</b> — 442 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
@@ -136,7 +136,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 
 </details>
 
-<details><summary><b>⏱️ 效率与自律 · Productivity & Habits</b> — 228 件</summary>
+<details><summary><b>⏱️ 效率与自律 · Productivity & Habits</b> — 232 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
@@ -148,7 +148,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 
 </details>
 
-<details><summary><b>🎓 教育学习 · Education</b> — 388 件</summary>
+<details><summary><b>🎓 教育学习 · Education</b> — 391 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
@@ -160,7 +160,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 
 </details>
 
-<details><summary><b>🛡️ 安全应急 · Safety & Security</b> — 281 件</summary>
+<details><summary><b>🛡️ 安全应急 · Safety & Security</b> — 285 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
@@ -184,7 +184,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 
 </details>
 
-<details><summary><b>🎨 艺术音乐 · Art & Music</b> — 304 件</summary>
+<details><summary><b>🎨 艺术音乐 · Art & Music</b> — 305 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
@@ -196,7 +196,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 
 </details>
 
-<details><summary><b>🎮 游戏娱乐 · Games & Fun</b> — 522 件</summary>
+<details><summary><b>🎮 游戏娱乐 · Games & Fun</b> — 531 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
@@ -220,7 +220,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 
 </details>
 
-<details><summary><b>🛠️ 工具与制造 · Tools & Industry</b> — 315 件</summary>
+<details><summary><b>🛠️ 工具与制造 · Tools & Industry</b> — 322 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
@@ -238,7 +238,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 
 | 赛事 | 类型 | 地区 | 收录届数 | 作品 | 获奖 |
 | :-- | :-- | :-- | --: | --: | --: |
-| [Hackaday 大奖与主题赛](https://hackaday.io/prize) | 长周期大奖 | Global | 13 | 662 | 0 |
+| [Hackaday 大奖与主题赛](https://hackaday.io/prize) | 长周期大奖 | Global | 13 | 649 | 0 |
 | [MakeUofT](https://makeuoft.ca/) | 造物赛 | North America | 8 | 514 | 81 |
 | [MakeMIT](https://makemit.org/) | 造物赛 | North America | 9 | 285 | 91 |
 | [IDEA Hacks（UCLA）](https://ideahacks.la/) | 造物赛 | North America | 8 | 227 | 49 |
@@ -262,10 +262,10 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 | [HackHarvard](https://hackharvard.io/) | 综合黑客松 ·硬件赛道 | North America | 10 | 54 | 30 |
 | [HackIllinois](https://hackillinois.org/) | 综合黑客松 ·硬件赛道 | North America | 8 | 54 | 20 |
 | [DeltaHacks](https://deltahacks.com/) | 综合黑客松 ·硬件赛道 | North America | 9 | 54 | 33 |
+| [Hack Western](https://hackwestern.com/) | 综合黑客松 ·硬件赛道 | North America | 8 | 51 | 22 |
 | [nwHacks](https://nwhacks.io/) | 综合黑客松 ·硬件赛道 | North America | 9 | 46 | 34 |
 | [HackMIT](https://hackmit.org/) | 综合黑客松 ·硬件赛道 | North America | 5 | 41 | 29 |
 | [Hacktech（加州理工）](https://hacktech.io/) | 综合黑客松 ·硬件赛道 | North America | 12 | 38 | 18 |
-| [Hack Western](https://hackwestern.com/) | 综合黑客松 ·硬件赛道 | North America | 8 | 35 | 22 |
 | [uOttaHack](https://uottahack.ca/) | 综合黑客松 ·硬件赛道 | North America | 6 | 29 | 19 |
 | [BoilerMake](https://boilermake.org/) | 综合黑客松 ·硬件赛道 | North America | 9 | 28 | 17 |
 | [TAMUmake（德州农工）](https://tamumake.com/) | 造物赛 | North America | 2 | 27 | 11 |
@@ -311,4 +311,4 @@ flowchart LR
 | 改进分类 | 编辑 [`config/taxonomy.toml`](config/taxonomy.toml) 后 `--reclassify` 看效果 |
 | 让 AI Agent 接力维护 | 把 [`AGENTS.md`](AGENTS.md) 发给它 |
 
-<div align="center"><sub>本页面由 <code>pipeline/render.py</code> 自动生成 · 最后更新 2026-11-23 · 作品版权归各自作者所有，本仓库仅做索引</sub></div>
+<div align="center"><sub>本页面由 <code>pipeline/render.py</code> 自动生成 · 最后更新 2026-11-24 · 作品版权归各自作者所有，本仓库仅做索引</sub></div>

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T18:27:45+00:00",
+ "generated": "2026-11-24T00:42:20+00:00",
  "series": [
   {
    "id": "hackaday-prize",
@@ -12,7 +12,7 @@
    "url": "https://hackaday.io/prize",
    "blurb_zh": "全球开源硬件『奥斯卡』，校准『解决真实问题 + 可复现』",
    "blurb_en": "The open-hardware 'Oscars' — real problems, reproducible builds.",
-   "projects": 662,
+   "projects": 649,
    "winners": 0,
    "editions": [
     {
@@ -22,7 +22,7 @@
      "year": 2026,
      "url": "https://hackaday.io/submissions/retro-computing-contest/list",
      "state": "ended",
-     "projects": 66,
+     "projects": 62,
      "winners": 0
     },
     {
@@ -42,7 +42,7 @@
      "year": 2026,
      "url": "https://hackaday.io/submissions/green-powered-challenge/list",
      "state": "ended",
-     "projects": 22,
+     "projects": 24,
      "winners": 0
     },
     {
@@ -52,7 +52,7 @@
      "year": 2025,
      "url": "https://hackaday.io/submissions/component-abuse-challenge/list",
      "state": "ended",
-     "projects": 34,
+     "projects": 30,
      "winners": 0
     },
     {
@@ -62,7 +62,7 @@
      "year": 2025,
      "url": "https://hackaday.io/submissions/one-hertz-challenge/list",
      "state": "ended",
-     "projects": 31,
+     "projects": 20,
      "winners": 0
     },
     {
@@ -72,7 +72,7 @@
      "year": 2024,
      "url": "https://hackaday.io/submissions/supercon-8-sao-contest/list",
      "state": "ended",
-     "projects": 39,
+     "projects": 40,
      "winners": 0
     },
     {
@@ -82,7 +82,7 @@
      "year": 2024,
      "url": "https://hackaday.io/submissions/2024-sweet-home-automation/list",
      "state": "ended",
-     "projects": 35,
+     "projects": 36,
      "winners": 0
     },
     {
@@ -92,7 +92,7 @@
      "year": 2024,
      "url": "https://hackaday.io/submissions/tiny-games-challenge/list",
      "state": "ended",
-     "projects": 26,
+     "projects": 29,
      "winners": 0
     },
     {
@@ -102,7 +102,7 @@
      "year": 2024,
      "url": "https://hackaday.io/submissions/2024-business-card-contest/list",
      "state": "ended",
-     "projects": 48,
+     "projects": 47,
      "winners": 0
     },
     {
@@ -112,7 +112,7 @@
      "year": 2023,
      "url": "https://hackaday.io/submissions/prize2023/list",
      "state": "ended",
-     "projects": 106,
+     "projects": 107,
      "winners": 0
     },
     {
@@ -122,7 +122,7 @@
      "year": 2023,
      "url": "https://hackaday.io/submissions/cyberdeck-2023/list",
      "state": "ended",
-     "projects": 34,
+     "projects": 35,
      "winners": 0
     },
     {
@@ -142,7 +142,7 @@
      "year": 2021,
      "url": "https://hackaday.io/submissions/prize2021/list",
      "state": "ended",
-     "projects": 115,
+     "projects": 113,
      "winners": 0
     }
    ]
@@ -4034,6 +4034,182 @@
    ]
   },
   {
+   "id": "hackwestern",
+   "name": "Hack Western",
+   "name_zh": "Hack Western",
+   "org": "Western University",
+   "region": "North America",
+   "kind": "hackathon",
+   "hardware_focus": "track",
+   "url": "https://hackwestern.com/",
+   "blurb_zh": "Western University 综合黑客松（仅收录硬件作品）",
+   "blurb_en": "Western University's hackathon (hardware entries only).",
+   "projects": 51,
+   "winners": 22,
+   "editions": [
+    {
+     "id": "hackwestern-2026",
+     "series_id": "hackwestern",
+     "name": "Hack Western 13",
+     "year": 2026,
+     "url": "https://hack-western-13.devpost.com/",
+     "gallery_url": "https://hack-western-13.devpost.com/project-gallery",
+     "dates": "Nov 20 - 22, 2026",
+     "registrations": 300,
+     "state": "ended",
+     "winners_announced": false,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/421/169/datas/medium_square.png",
+     "devpost_id": 31536,
+     "projects": 19,
+     "winners": 0
+    },
+    {
+     "id": "hackwestern-2025",
+     "series_id": "hackwestern",
+     "name": "Hack Western 12",
+     "year": 2025,
+     "url": "https://hack-western-12.devpost.com/",
+     "gallery_url": "https://hack-western-12.devpost.com/project-gallery",
+     "dates": "Nov 21 - 23, 2025",
+     "registrations": 284,
+     "state": "ended",
+     "winners_announced": true,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/943/754/datas/medium_square.png",
+     "devpost_id": 27384,
+     "projects": 6,
+     "winners": 1
+    },
+    {
+     "id": "hackwestern-2023",
+     "series_id": "hackwestern",
+     "name": "Hack Western 10",
+     "year": 2023,
+     "url": "https://hack-western-10.devpost.com/",
+     "gallery_url": "https://hack-western-10.devpost.com/project-gallery",
+     "dates": "Nov 24 - 26, 2023",
+     "registrations": 247,
+     "state": "ended",
+     "winners_announced": true,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/672/505/datas/medium_square.png",
+     "devpost_id": 19737,
+     "projects": 0,
+     "winners": 0
+    },
+    {
+     "id": "hackwestern-2022",
+     "series_id": "hackwestern",
+     "name": "Hack Western 9",
+     "year": 2022,
+     "url": "https://hack-western-9.devpost.com/",
+     "gallery_url": "https://hack-western-9.devpost.com/project-gallery",
+     "dates": "Nov 18 - 20, 2022",
+     "registrations": 273,
+     "state": "ended",
+     "winners_announced": true,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/296/594/datas/medium_square.png",
+     "devpost_id": 16778,
+     "projects": 3,
+     "winners": 3
+    },
+    {
+     "id": "hackwestern-2021",
+     "series_id": "hackwestern",
+     "name": "Hack Western 8",
+     "year": 2021,
+     "url": "https://hack-western-8.devpost.com/",
+     "gallery_url": "https://hack-western-8.devpost.com/project-gallery",
+     "dates": "Nov 19 - 21, 2021",
+     "registrations": 340,
+     "state": "ended",
+     "winners_announced": true,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/001/740/738/datas/medium_square.png",
+     "devpost_id": 14213,
+     "projects": 0,
+     "winners": 0
+    },
+    {
+     "id": "hackwestern-2020",
+     "series_id": "hackwestern",
+     "name": "Hack Western 7",
+     "year": 2020,
+     "url": "https://hack-western-7.devpost.com/",
+     "gallery_url": "https://hack-western-7.devpost.com/project-gallery",
+     "dates": "Nov 20 - 22, 2020",
+     "registrations": 431,
+     "state": "ended",
+     "winners_announced": true,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/001/248/951/datas/medium_square.png",
+     "devpost_id": 11088,
+     "projects": 2,
+     "winners": 2
+    },
+    {
+     "id": "hackwestern-2019",
+     "series_id": "hackwestern",
+     "name": "Hack Western 6",
+     "year": 2019,
+     "url": "https://hackwestern6.devpost.com/",
+     "gallery_url": "https://hackwestern6.devpost.com/project-gallery",
+     "dates": "Nov 22 - 24, 2019",
+     "registrations": 302,
+     "state": "ended",
+     "winners_announced": true,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/000/893/399/datas/medium_square.png",
+     "devpost_id": 8697,
+     "projects": 3,
+     "winners": 2
+    },
+    {
+     "id": "hackwestern-2018",
+     "series_id": "hackwestern",
+     "name": "Hack Western 5",
+     "year": 2018,
+     "url": "https://hackwestern5.devpost.com/",
+     "gallery_url": "https://hackwestern5.devpost.com/project-gallery",
+     "dates": "Nov 23 - 25, 2018",
+     "registrations": 326,
+     "state": "ended",
+     "winners_announced": true,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/000/723/506/datas/medium_square.png",
+     "devpost_id": 7292,
+     "projects": 5,
+     "winners": 4
+    },
+    {
+     "id": "hackwestern-2017",
+     "series_id": "hackwestern",
+     "name": "Hack Western 4",
+     "year": 2017,
+     "url": "https://hackwestern4.devpost.com/",
+     "gallery_url": "https://hackwestern4.devpost.com/project-gallery",
+     "dates": "Nov 17 - 19, 2017",
+     "registrations": 269,
+     "state": "ended",
+     "winners_announced": true,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/000/557/699/datas/medium_square.png",
+     "devpost_id": 5660,
+     "projects": 8,
+     "winners": 6
+    },
+    {
+     "id": "hackwestern-2016",
+     "series_id": "hackwestern",
+     "name": "Hack Western 3",
+     "year": 2016,
+     "url": "https://hackwestern3.devpost.com/",
+     "gallery_url": "https://hackwestern3.devpost.com/project-gallery",
+     "dates": "Oct 14 - 16, 2016",
+     "registrations": 252,
+     "state": "ended",
+     "winners_announced": true,
+     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/000/424/831/datas/medium_square.png",
+     "devpost_id": 4304,
+     "projects": 5,
+     "winners": 4
+    }
+   ]
+  },
+  {
    "id": "nwhacks",
    "name": "nwHacks",
    "name_zh": "nwHacks",
@@ -4558,182 +4734,6 @@
      "devpost_id": 3260,
      "projects": 5,
      "winners": 2
-    }
-   ]
-  },
-  {
-   "id": "hackwestern",
-   "name": "Hack Western",
-   "name_zh": "Hack Western",
-   "org": "Western University",
-   "region": "North America",
-   "kind": "hackathon",
-   "hardware_focus": "track",
-   "url": "https://hackwestern.com/",
-   "blurb_zh": "Western University 综合黑客松（仅收录硬件作品）",
-   "blurb_en": "Western University's hackathon (hardware entries only).",
-   "projects": 35,
-   "winners": 22,
-   "editions": [
-    {
-     "id": "hackwestern-2026",
-     "series_id": "hackwestern",
-     "name": "Hack Western 13",
-     "year": 2026,
-     "url": "https://hack-western-13.devpost.com/",
-     "gallery_url": "https://hack-western-13.devpost.com/project-gallery",
-     "dates": "Nov 20 - 22, 2026",
-     "registrations": 300,
-     "state": "ended",
-     "winners_announced": false,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/421/169/datas/medium_square.png",
-     "devpost_id": 31536,
-     "projects": 3,
-     "winners": 0
-    },
-    {
-     "id": "hackwestern-2025",
-     "series_id": "hackwestern",
-     "name": "Hack Western 12",
-     "year": 2025,
-     "url": "https://hack-western-12.devpost.com/",
-     "gallery_url": "https://hack-western-12.devpost.com/project-gallery",
-     "dates": "Nov 21 - 23, 2025",
-     "registrations": 284,
-     "state": "ended",
-     "winners_announced": true,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/943/754/datas/medium_square.png",
-     "devpost_id": 27384,
-     "projects": 6,
-     "winners": 1
-    },
-    {
-     "id": "hackwestern-2023",
-     "series_id": "hackwestern",
-     "name": "Hack Western 10",
-     "year": 2023,
-     "url": "https://hack-western-10.devpost.com/",
-     "gallery_url": "https://hack-western-10.devpost.com/project-gallery",
-     "dates": "Nov 24 - 26, 2023",
-     "registrations": 247,
-     "state": "ended",
-     "winners_announced": true,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/672/505/datas/medium_square.png",
-     "devpost_id": 19737,
-     "projects": 0,
-     "winners": 0
-    },
-    {
-     "id": "hackwestern-2022",
-     "series_id": "hackwestern",
-     "name": "Hack Western 9",
-     "year": 2022,
-     "url": "https://hack-western-9.devpost.com/",
-     "gallery_url": "https://hack-western-9.devpost.com/project-gallery",
-     "dates": "Nov 18 - 20, 2022",
-     "registrations": 273,
-     "state": "ended",
-     "winners_announced": true,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/296/594/datas/medium_square.png",
-     "devpost_id": 16778,
-     "projects": 3,
-     "winners": 3
-    },
-    {
-     "id": "hackwestern-2021",
-     "series_id": "hackwestern",
-     "name": "Hack Western 8",
-     "year": 2021,
-     "url": "https://hack-western-8.devpost.com/",
-     "gallery_url": "https://hack-western-8.devpost.com/project-gallery",
-     "dates": "Nov 19 - 21, 2021",
-     "registrations": 340,
-     "state": "ended",
-     "winners_announced": true,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/001/740/738/datas/medium_square.png",
-     "devpost_id": 14213,
-     "projects": 0,
-     "winners": 0
-    },
-    {
-     "id": "hackwestern-2020",
-     "series_id": "hackwestern",
-     "name": "Hack Western 7",
-     "year": 2020,
-     "url": "https://hack-western-7.devpost.com/",
-     "gallery_url": "https://hack-western-7.devpost.com/project-gallery",
-     "dates": "Nov 20 - 22, 2020",
-     "registrations": 431,
-     "state": "ended",
-     "winners_announced": true,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/001/248/951/datas/medium_square.png",
-     "devpost_id": 11088,
-     "projects": 2,
-     "winners": 2
-    },
-    {
-     "id": "hackwestern-2019",
-     "series_id": "hackwestern",
-     "name": "Hack Western 6",
-     "year": 2019,
-     "url": "https://hackwestern6.devpost.com/",
-     "gallery_url": "https://hackwestern6.devpost.com/project-gallery",
-     "dates": "Nov 22 - 24, 2019",
-     "registrations": 302,
-     "state": "ended",
-     "winners_announced": true,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/000/893/399/datas/medium_square.png",
-     "devpost_id": 8697,
-     "projects": 3,
-     "winners": 2
-    },
-    {
-     "id": "hackwestern-2018",
-     "series_id": "hackwestern",
-     "name": "Hack Western 5",
-     "year": 2018,
-     "url": "https://hackwestern5.devpost.com/",
-     "gallery_url": "https://hackwestern5.devpost.com/project-gallery",
-     "dates": "Nov 23 - 25, 2018",
-     "registrations": 326,
-     "state": "ended",
-     "winners_announced": true,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/000/723/506/datas/medium_square.png",
-     "devpost_id": 7292,
-     "projects": 5,
-     "winners": 4
-    },
-    {
-     "id": "hackwestern-2017",
-     "series_id": "hackwestern",
-     "name": "Hack Western 4",
-     "year": 2017,
-     "url": "https://hackwestern4.devpost.com/",
-     "gallery_url": "https://hackwestern4.devpost.com/project-gallery",
-     "dates": "Nov 17 - 19, 2017",
-     "registrations": 269,
-     "state": "ended",
-     "winners_announced": true,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/000/557/699/datas/medium_square.png",
-     "devpost_id": 5660,
-     "projects": 8,
-     "winners": 6
-    },
-    {
-     "id": "hackwestern-2016",
-     "series_id": "hackwestern",
-     "name": "Hack Western 3",
-     "year": 2016,
-     "url": "https://hackwestern3.devpost.com/",
-     "gallery_url": "https://hackwestern3.devpost.com/project-gallery",
-     "dates": "Oct 14 - 16, 2016",
-     "registrations": 252,
-     "state": "ended",
-     "winners_announced": true,
-     "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/000/424/831/datas/medium_square.png",
-     "devpost_id": 4304,
-     "projects": 5,
-     "winners": 4
     }
    ]
   },
