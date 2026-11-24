@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-24T12:32:24+00:00",
- "count": 4487,
+ "generated": "2026-11-24T18:27:25+00:00",
+ "count": 4486,
  "projects": [
   {
    "id": "devpost:unsynthesizer-2jxeoy",
@@ -3165,7 +3165,7 @@
     "ux",
     "web"
    ],
-   "likes": 9,
+   "likes": 10,
    "stars": 0,
    "comments": 0,
    "lang": "en",
@@ -81243,80 +81243,6 @@
    "score": 38
   },
   {
-   "id": "devpost:horseless-chariot",
-   "title": "Horseless Chariot",
-   "tagline": "Wii designed an assisted walking chariot for the walking and the horseless. Integrating retro technology with modern manufacturing.",
-   "description": "Inspiration The idea for this project was inspired by current technologies that enable people with disabilities to move. Current trends emphasize helping those with limited to no leg motion and horses, but they usually don't consider a user with unrestricted leg mobility and no horse. We challenged ourselves to bridge this gap in the market by developing a design that helps the horseless walk. What it does The Horseless Chariot is a transportation device and familiar. The user can move by means of stepping on the board to generate a forward force and tilt the remote to turn which is step mode. The user can also move by means of leaning on the board to move in that direction which is lean mode. How we built it We designed a lightweight chassis out of 80/20 aluminum extrusions and right angle brackets. The drive system and electronics were borrowed from previous projects which are wired underneath the chassis frame. The wii controller is mounted to a custom 3d printed handle and the balance board is bolted to the chassis. Challenges we ran into We ran into trouble with designing the mount for the wii controller. Our 3d printer volume has a limited print volume so we had to design a mount that was constrained to the printer. We wanted to force the user to completely step in Accomplishments that we're proud of Speaks for itself. What we learned There are ample resources for making retro hardware usable. We found the useful repo Bluepad32 which allowed us to use the Wii devices.…",
-   "url": "https://devpost.com/software/horseless-chariot",
-   "source": "devpost",
-   "event_id": "dp-madhacks-fall-2026",
-   "series_id": null,
-   "event_name": "MadHacks 2026",
-   "year": 2026,
-   "awards": [],
-   "winner": false,
-   "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/005/924/722/datas/medium.jpeg",
-   "video": "https://www.youtube.com/watch?v=gg9zKZokLzA",
-   "repo": "https://github.com/jrgustmadtown/wiiboardings",
-   "links": [
-    "https://github.com/jrgustmadtown/wiiboardings"
-   ],
-   "team": [
-    "Vikram Bangalore",
-    "Luke Olson",
-    "Jacob Gust",
-    "Nico Dittmar Greaves"
-   ],
-   "built_with": [
-    "8020",
-    "angle-grinder",
-    "arduinoide",
-    "bambulab",
-    "bluepad32",
-    "duct-tape",
-    "esc",
-    "esp32wroom",
-    "gemini",
-    "hacksaw",
-    "metal",
-    "onshape",
-    "platformio",
-    "tlc",
-    "vscode",
-    "wii",
-    "wiibalanceboard",
-    "wiimote"
-   ],
-   "likes": 6,
-   "stars": 0,
-   "comments": 1,
-   "lang": "en",
-   "first_seen": "2026-11-19",
-   "updated": "2026-11-24",
-   "via": "stream",
-   "hw_score": 8,
-   "facets": {
-    "domain": [
-     "tools-industry"
-    ],
-    "form": [
-     "gadget",
-     "machine"
-    ],
-    "interaction": [],
-    "platform": [],
-    "ai": [
-     "llm"
-    ],
-    "fab": [
-     "cad",
-     "3d-print"
-    ]
-   },
-   "award_tier": 0,
-   "score": 38
-  },
-  {
    "id": "devpost:innotank",
    "title": "InnoTank",
    "tagline": "\"Savin-novation\" for the Planet: Our improvements on improvements",
@@ -138382,49 +138308,6 @@
    "score": 25
   },
   {
-   "id": "hackaday:192272",
-   "title": "CircuitScout",
-   "tagline": "A DIY Probe Testing system that helps with automatic PCB in-circuit debugging.",
-   "description": "",
-   "url": "https://hackaday.io/project/192272-circuitscout",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2023",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2023",
-   "year": 2023,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/8016051691439773812.jpg",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "Fangzheng Liu"
-   ],
-   "built_with": [],
-   "likes": 44,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-22",
-   "updated": "2026-11-24",
-   "hw_score": 6,
-   "facets": {
-    "domain": [],
-    "form": [
-     "board"
-    ],
-    "interaction": [
-     "ambient"
-    ],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 25
-  },
-  {
    "id": "hackaday:192759",
    "title": "CLN17 V2: $12 BoM Closed-Loop Driver for NEMA17",
    "tagline": "A compact, silent, high-performance open-source closed-loop (servo) stepper motor driver with USB, CAN-FD and 48V support",
@@ -138509,48 +138392,6 @@
     "form": [
      "wearable"
     ],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 25
-  },
-  {
-   "id": "hackaday:169861",
-   "title": "Delta Robot One",
-   "tagline": "Smart open source robotics project for makers and students. Combines electronics, mechanics and informatics in one system.",
-   "description": "",
-   "url": "https://hackaday.io/project/169861-delta-robot-one",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2021",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2021",
-   "year": 2021,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/4650481581104883650.PNG",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "Pascal Buerger"
-   ],
-   "built_with": [],
-   "likes": 27,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-24",
-   "updated": "2026-11-24",
-   "hw_score": 6,
-   "facets": {
-    "domain": [
-     "tools-industry",
-     "education"
-    ],
-    "form": [],
     "interaction": [],
     "platform": [],
     "ai": [],
@@ -140640,6 +140481,45 @@
    "score": 25
   },
   {
+   "id": "hackaday:202835",
+   "title": "Microtronic Phoenix",
+   "tagline": "After 45 years, the original Microtronic firmware ROM rises from the ashes and flies with new hardware!",
+   "description": "",
+   "url": "https://hackaday.io/project/202835-microtronic-phoenix",
+   "source": "hackaday",
+   "event_id": "hackaday-retro-computing-contest",
+   "series_id": "hackaday-prize",
+   "event_name": "Retrocomputing Contest",
+   "year": 2026,
+   "awards": [],
+   "winner": false,
+   "image": "https://cdn.hackaday.io/images/resize/600x600/2241351744474870963.jpg",
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Michael Wessel"
+   ],
+   "built_with": [],
+   "likes": 62,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 6,
+   "facets": {
+    "domain": [],
+    "form": [],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 25
+  },
+  {
    "id": "hackaday:181173",
    "title": "Minamil: a minimal CNC mill - HaDPrize 2021",
    "tagline": "Minamil: a minimal 3-axis CNC mill that works. Build from laser-cut hardboard with a screwdriver (mostly). Mill fine-pitch PCBs.",
@@ -142551,51 +142431,6 @@
    "score": 25
   },
   {
-   "id": "hackaday:184499",
-   "title": "Tracer | A Wearable for Things!",
-   "tagline": "The Tracer is an open-source ESP32-based Inertial Measurement Unit tracker",
-   "description": "",
-   "url": "https://hackaday.io/project/184499-tracer-a-wearable-for-things",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2022",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2022",
-   "year": 2022,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/4357511691935212657.jpg",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "YJ"
-   ],
-   "built_with": [],
-   "likes": 35,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-22",
-   "updated": "2026-11-24",
-   "hw_score": 6,
-   "facets": {
-    "domain": [
-     "tools-industry"
-    ],
-    "form": [
-     "wearable"
-    ],
-    "interaction": [],
-    "platform": [
-     "esp32"
-    ],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 25
-  },
-  {
    "id": "devpost:sentinel-sack",
    "title": "TrackPack",
    "tagline": "An smart backpack with an AI assistant that scans items to keep track of it",
@@ -143266,42 +143101,45 @@
    "score": 24
   },
   {
-   "id": "hackaday:175900",
-   "title": "3D-printable shredder",
-   "tagline": "An almost completely 3D-printable shredder that can be used to shred \r\n3D-prints ;-)",
+   "id": "hackaday:206154",
+   "title": "8-bit Workbench ED: hands-on with number systems",
+   "tagline": "Explore the computer byte with this educational easy-to-solder kit. Toggle in 8 bits and see their decimal, hex or octal value. With game!",
    "description": "",
-   "url": "https://hackaday.io/project/175900-3d-printable-shredder",
+   "url": "https://hackaday.io/project/206154-8-bit-workbench-ed-hands-on-with-number-systems",
    "source": "hackaday",
-   "event_id": "hackaday-prize2021",
+   "event_id": "hackaday-retro-computing-contest",
    "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2021",
-   "year": 2021,
+   "event_name": "Retrocomputing Contest",
+   "year": 2026,
    "awards": [],
    "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/824571605549512602.jpg",
+   "image": "https://cdn.hackaday.io/images/resize/600x600/6417551784573048785.jpg",
    "video": null,
    "repo": null,
    "links": [],
    "team": [
-    "Brian Brocken"
+    "Nijssen"
    ],
    "built_with": [],
-   "likes": 63,
+   "likes": 12,
    "stars": 0,
    "comments": 0,
    "lang": "en",
-   "first_seen": "2026-11-23",
+   "first_seen": "2026-11-24",
    "updated": "2026-11-24",
    "hw_score": 3,
    "facets": {
-    "domain": [],
+    "domain": [
+     "games-fun",
+     "education"
+    ],
     "form": [],
-    "interaction": [],
+    "interaction": [
+     "tangible"
+    ],
     "platform": [],
     "ai": [],
-    "fab": [
-     "3d-print"
-    ]
+    "fab": []
    },
    "award_tier": 0,
    "score": 24
@@ -143354,10 +143192,10 @@
    "description": "",
    "url": "https://hackaday.io/project/177083-hexpod-climate-tracker-digital-nose",
    "source": "hackaday",
-   "event_id": "hackaday-2024-sweet-home-automation",
+   "event_id": "hackaday-prize2021",
    "series_id": "hackaday-prize",
-   "event_name": "Home Sweet Home Automation 2024",
-   "year": 2024,
+   "event_name": "Hackaday Prize 2021",
+   "year": 2021,
    "awards": [],
    "winner": false,
    "image": "https://cdn.hackaday.io/images/resize/600x600/6890791702941635475.jpg",
@@ -144206,6 +144044,47 @@
    "score": 24
   },
   {
+   "id": "hackaday:181500",
+   "title": "Autonomous tracked robotic platform UGV",
+   "tagline": "One of my most advanced projects to date. A tracked robotic development platform that [hopefully] raises the bar for hobby robotics.",
+   "description": "",
+   "url": "https://hackaday.io/project/181500-autonomous-tracked-robotic-platform-ugv",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2021",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2021",
+   "year": 2021,
+   "awards": [],
+   "winner": false,
+   "image": "https://cdn.hackaday.io/images/resize/600x600/4094471630620756150.jpg",
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Maximiliano Palay"
+   ],
+   "built_with": [],
+   "likes": 43,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 3,
+   "facets": {
+    "domain": [],
+    "form": [],
+    "interaction": [
+     "ambient"
+    ],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 24
+  },
+  {
    "id": "hackaday:170192",
    "title": "Backup Battery Pack",
    "tagline": "A Li-ion battery pack which can be charged from an 18V solar panel and can output 230VAC through an Inverter.",
@@ -144697,45 +144576,6 @@
    "score": 24
   },
   {
-   "id": "hackaday:186303",
-   "title": "Burning Pictures on a Compact Disc Surface",
-   "tagline": "No LightScribe, no LabelTag. No hardware hacks or gimmicks. A regular CD-RW drive and a regular compact disk.",
-   "description": "",
-   "url": "https://hackaday.io/project/186303-burning-pictures-on-a-compact-disc-surface",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2022",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2022",
-   "year": 2022,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/8319151657431940854.jpg",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "arduinocelentano"
-   ],
-   "built_with": [],
-   "likes": 103,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-20",
-   "updated": "2026-11-24",
-   "hw_score": 3,
-   "facets": {
-    "domain": [],
-    "form": [],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 24
-  },
-  {
    "id": "hackaday:196562",
    "title": "Business Card Bluetooth Speaker",
    "tagline": "ESP32 controlled business card that connects to your phone or laptop and plays sound on a built in speaker.",
@@ -145037,6 +144877,49 @@
     "ai": [
      "llm"
     ],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 24
+  },
+  {
+   "id": "hackaday:186435",
+   "title": "CE-140F Emulator: SD Storage for Sharp Pocket PCs",
+   "tagline": "Disk storage for the 1980s Sharp Pocket Computer family, using an SD card and an STM32 Nucleo board",
+   "description": "",
+   "url": "https://hackaday.io/project/186435-ce-140f-emulator-sd-storage-for-sharp-pocket-pcs",
+   "source": "hackaday",
+   "event_id": "hackaday-retro-computing-contest",
+   "series_id": "hackaday-prize",
+   "event_name": "Retrocomputing Contest",
+   "year": 2026,
+   "awards": [],
+   "winner": false,
+   "image": "https://cdn.hackaday.io/images/resize/600x600/3322781658387802182.jpg",
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Fabio"
+   ],
+   "built_with": [],
+   "likes": 13,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 3,
+   "facets": {
+    "domain": [
+     "social-emotion"
+    ],
+    "form": [],
+    "interaction": [],
+    "platform": [
+     "mcu-other"
+    ],
+    "ai": [],
     "fab": []
    },
    "award_tier": 0,
@@ -145837,6 +145720,52 @@
    "score": 24
   },
   {
+   "id": "hackaday:173564",
+   "title": "DIY Arduino 2d motion racing  simulator",
+   "tagline": "Fun model Car Racing similator",
+   "description": "",
+   "url": "https://hackaday.io/project/173564-diy-arduino-2d-motion-racing-simulator",
+   "source": "hackaday",
+   "event_id": "hackaday-tiny-games-challenge",
+   "series_id": "hackaday-prize",
+   "event_name": "Tiny Games Challenge",
+   "year": 2024,
+   "awards": [],
+   "winner": false,
+   "image": "https://cdn.hackaday.io/images/resize/600x600/1245591593883658740.JPG",
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "mircemk"
+   ],
+   "built_with": [],
+   "likes": 19,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 3,
+   "facets": {
+    "domain": [
+     "mobility",
+     "games-fun"
+    ],
+    "form": [
+     "vehicle"
+    ],
+    "interaction": [],
+    "platform": [
+     "arduino"
+    ],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 24
+  },
+  {
    "id": "hackaday:180373",
    "title": "DIY Soil Moisture Sensor with E-Ink Display",
    "tagline": "Wireless capacitive soil moisture mini sensor with 1.02 inch e-paper display.",
@@ -145919,47 +145848,6 @@
     ],
     "interaction": [],
     "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 24
-  },
-  {
-   "id": "hackaday:171475",
-   "title": "DIY SW , MW , Retro look Radio with ESP32/Si5351",
-   "tagline": "This radio receiver is capable of receiving all MW and SW bandwidth, and can also operate as an SDR receiver, so with the help of PC and app",
-   "description": "",
-   "url": "https://hackaday.io/project/171475-diy-sw-mw-retro-look-radio-with-esp32si5351",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2022",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2022",
-   "year": 2022,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/4205191588858258987.JPG",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "mircemk"
-   ],
-   "built_with": [],
-   "likes": 87,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-19",
-   "updated": "2026-11-24",
-   "hw_score": 3,
-   "facets": {
-    "domain": [],
-    "form": [],
-    "interaction": [],
-    "platform": [
-     "esp32"
-    ],
     "ai": [],
     "fab": []
    },
@@ -146064,47 +145952,6 @@
     "fab": [
      "laser"
     ]
-   },
-   "award_tier": 0,
-   "score": 24
-  },
-  {
-   "id": "hackaday:184811",
-   "title": "DS-Pi | RP2040 Audio DSP Board",
-   "tagline": "An audio DSP platform based on the Raspberry Pi RP2040",
-   "description": "",
-   "url": "https://hackaday.io/project/184811-ds-pi-rp2040-audio-dsp-board",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2022",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2022",
-   "year": 2022,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/9628971650315877974.JPG",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "YJ"
-   ],
-   "built_with": [],
-   "likes": 34,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-22",
-   "updated": "2026-11-24",
-   "hw_score": 3,
-   "facets": {
-    "domain": [],
-    "form": [],
-    "interaction": [],
-    "platform": [
-     "raspberry-pi"
-    ],
-    "ai": [],
-    "fab": []
    },
    "award_tier": 0,
    "score": 24
@@ -146453,52 +146300,6 @@
    "score": 24
   },
   {
-   "id": "hackaday:180893",
-   "title": "Eye-to-Speech Module",
-   "tagline": "We want to help people who are unable to communicate verbally and cannot use sign language by providing a wearable “eye-to-speech\" solution.",
-   "description": "",
-   "url": "https://hackaday.io/project/180893-eye-to-speech-module",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2021",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2021",
-   "year": 2021,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/8976101626949710914.jpeg",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "Malte"
-   ],
-   "built_with": [],
-   "likes": 37,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-23",
-   "updated": "2026-11-24",
-   "hw_score": 3,
-   "facets": {
-    "domain": [
-     "accessibility"
-    ],
-    "form": [
-     "wearable",
-     "board"
-    ],
-    "interaction": [
-     "voice"
-    ],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 24
-  },
-  {
    "id": "hackaday:194762",
    "title": "fastLOGIC! open-source (industrial) logic control",
    "tagline": "An affordable Arduino-based board designed for fast (industrial) logic control, ideal for building small-scale automation and control",
@@ -146699,6 +146500,47 @@
      "cad",
      "3d-print"
     ]
+   },
+   "award_tier": 0,
+   "score": 24
+  },
+  {
+   "id": "hackaday:181882",
+   "title": "Flexible circuit wind generator",
+   "tagline": "A new way to generate wind energy using only polyester film based flexible circuits",
+   "description": "",
+   "url": "https://hackaday.io/project/181882-flexible-circuit-wind-generator",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2021",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2021",
+   "year": 2021,
+   "awards": [],
+   "winner": false,
+   "image": "https://cdn.hackaday.io/images/resize/600x600/5767191632672164877.JPEG",
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Stuart MacKenzie"
+   ],
+   "built_with": [],
+   "likes": 51,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 3,
+   "facets": {
+    "domain": [
+     "sustainability"
+    ],
+    "form": [],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": []
    },
    "award_tier": 0,
    "score": 24
@@ -147669,47 +147511,6 @@
    "score": 24
   },
   {
-   "id": "hackaday:196148",
-   "title": "I2CDetect Business Card",
-   "tagline": "I2CDetect software utility built on a PCB business card.",
-   "description": "",
-   "url": "https://hackaday.io/project/196148-i2cdetect-business-card",
-   "source": "hackaday",
-   "event_id": "hackaday-2024-business-card-contest",
-   "series_id": "hackaday-prize",
-   "event_name": "Business Card Contest 2024",
-   "year": 2024,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/4248011716046999707.png",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "Kris Bittle"
-   ],
-   "built_with": [],
-   "likes": 12,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-22",
-   "updated": "2026-11-24",
-   "hw_score": 3,
-   "facets": {
-    "domain": [],
-    "form": [
-     "board"
-    ],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 24
-  },
-  {
    "id": "hackaday:185960",
    "title": "IKEA Vindriktning IAQ",
    "tagline": "IKEA Vindriktning + BME688 + SGP30 + WS2812 connected to an ESP8266 running Tasmota",
@@ -147949,6 +147750,49 @@
    "score": 24
   },
   {
+   "id": "hackaday:180723",
+   "title": "KEEP CLEAR",
+   "tagline": "Bicycle rear warning sign activated by ultra sonic sensor",
+   "description": "",
+   "url": "https://hackaday.io/project/180723-keep-clear",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2021",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2021",
+   "year": 2021,
+   "awards": [],
+   "winner": false,
+   "image": "https://cdn.hackaday.io/images/resize/600x600/8105931625942442133.JPG",
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "GOAT INDUSTRIES"
+   ],
+   "built_with": [],
+   "likes": 20,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-23",
+   "updated": "2026-11-24",
+   "hw_score": 3,
+   "facets": {
+    "domain": [
+     "mobility"
+    ],
+    "form": [
+     "vehicle"
+    ],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 24
+  },
+  {
    "id": "devpost:keep-hacking-and-nobody-explodes",
    "title": "Keep Hacking and Nobody Explodes",
    "tagline": "You're trapped with a ticking bomb, and only your friends have the manual. You'll have to talk it out- fast!",
@@ -148145,45 +147989,6 @@
     "platform": [
      "raspberry-pi"
     ],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 24
-  },
-  {
-   "id": "hackaday:182523",
-   "title": "LibreServo",
-   "tagline": "LibreServo is a project with the goal of easily converting any standard size servo into the smartest servo possible.",
-   "description": "",
-   "url": "https://hackaday.io/project/182523-libreservo",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2022",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2022",
-   "year": 2022,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/8335241636231981460.jpg",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "Luis"
-   ],
-   "built_with": [],
-   "likes": 17,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-22",
-   "updated": "2026-11-24",
-   "hw_score": 3,
-   "facets": {
-    "domain": [],
-    "form": [],
-    "interaction": [],
-    "platform": [],
     "ai": [],
     "fab": []
    },
@@ -148440,6 +148245,45 @@
      "productivity",
      "education"
     ],
+    "form": [],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 24
+  },
+  {
+   "id": "hackaday:206232",
+   "title": "Measuring Microns with Lasers",
+   "tagline": "A homemade laser-triangulation sensor: sub-micron noise, 4,000+ scans per second.",
+   "description": "",
+   "url": "https://hackaday.io/project/206232-measuring-microns-with-lasers",
+   "source": "hackaday",
+   "event_id": "hackaday-frikkin-lasers-challenge",
+   "series_id": "hackaday-prize",
+   "event_name": "Frikkin Lasers Challenge",
+   "year": 2026,
+   "awards": [],
+   "winner": false,
+   "image": "https://cdn.hackaday.io/images/resize/600x600/687771784775458158.JPG",
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Kyle Mayer"
+   ],
+   "built_with": [],
+   "likes": 17,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-22",
+   "updated": "2026-11-24",
+   "hw_score": 3,
+   "facets": {
+    "domain": [],
     "form": [],
     "interaction": [],
     "platform": [],
@@ -149221,51 +149065,6 @@
    "score": 24
   },
   {
-   "id": "hackaday:187652",
-   "title": "Not-so-smart capacitive discharge spot welder",
-   "tagline": "Portable spot welder that doesn't need microcontrollers, uses recycled industrial thyristor and mostly off-the-shelf components",
-   "description": "",
-   "url": "https://hackaday.io/project/187652-not-so-smart-capacitive-discharge-spot-welder",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2022",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2022",
-   "year": 2022,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/4417781664995848387.jpg",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "W. \"adalbert\" Jastrzebski"
-   ],
-   "built_with": [],
-   "likes": 82,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-20",
-   "updated": "2026-11-24",
-   "hw_score": 3,
-   "facets": {
-    "domain": [
-     "tools-industry"
-    ],
-    "form": [
-     "smart-object"
-    ],
-    "interaction": [
-     "haptic"
-    ],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 24
-  },
-  {
    "id": "devpost:tentacle-8icblf",
    "title": "Octavius",
    "tagline": "A soft robotic octopus tentacle that is controlled by muscle neural signals (EMG).",
@@ -149369,6 +149168,49 @@
     "platform": [],
     "ai": [],
     "fab": []
+   },
+   "award_tier": 0,
+   "score": 24
+  },
+  {
+   "id": "hackaday:181875",
+   "title": "Open6X robot arm",
+   "tagline": "open source, 3d printed, 6-axis robot arm",
+   "description": "",
+   "url": "https://hackaday.io/project/181875-open6x-robot-arm",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2021",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2021",
+   "year": 2021,
+   "awards": [],
+   "winner": false,
+   "image": "https://cdn.hackaday.io/images/resize/600x600/6261991640100449775.jpg",
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "James Kariuki"
+   ],
+   "built_with": [],
+   "likes": 35,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-23",
+   "updated": "2026-11-24",
+   "hw_score": 3,
+   "facets": {
+    "domain": [],
+    "form": [
+     "arm-manipulator"
+    ],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": [
+     "3d-print"
+    ]
    },
    "award_tier": 0,
    "score": 24
@@ -149868,48 +149710,6 @@
    "score": 24
   },
   {
-   "id": "hackaday:181916",
-   "title": "Pixel Pump Pick & Place",
-   "tagline": "An open-source manual pick and place machine for PCB artisans",
-   "description": "",
-   "url": "https://hackaday.io/project/181916-pixel-pump-pick-place",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2021",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2021",
-   "year": 2021,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/6890711632807542202.JPG",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "Robin Reiter"
-   ],
-   "built_with": [],
-   "likes": 74,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-21",
-   "updated": "2026-11-24",
-   "hw_score": 3,
-   "facets": {
-    "domain": [],
-    "form": [
-     "machine",
-     "board"
-    ],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 24
-  },
-  {
    "id": "hackaday:179878",
    "title": "PnPAssist",
    "tagline": "PnPAssist is a tool that helps you to assemble PCB boards manually.",
@@ -150271,47 +150071,6 @@
     ],
     "interaction": [],
     "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 24
-  },
-  {
-   "id": "hackaday:177256",
-   "title": "Put a Raspberry Pi CM4 into an original iPad",
-   "tagline": "Open up a 2010 iPad, remove its logic board, and fabricate a new board based around the Raspberry Pi CM4.",
-   "description": "",
-   "url": "https://hackaday.io/project/177256-put-a-raspberry-pi-cm4-into-an-original-ipad",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2022",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2022",
-   "year": 2022,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/3333021665818023677.jpg",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "Evan"
-   ],
-   "built_with": [],
-   "likes": 133,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-21",
-   "updated": "2026-11-24",
-   "hw_score": 3,
-   "facets": {
-    "domain": [],
-    "form": [],
-    "interaction": [],
-    "platform": [
-     "raspberry-pi"
-    ],
     "ai": [],
     "fab": []
    },
@@ -150681,49 +150440,6 @@
      "raspberry-pi"
     ],
     "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 24
-  },
-  {
-   "id": "hackaday:181144",
-   "title": "Raspberry Pi Spectrometer",
-   "tagline": "The PySpectrometer is a Python (OpenCV and Tkinter) implementation of an optical spectrometer for the Raspberry Pi.",
-   "description": "",
-   "url": "https://hackaday.io/project/181144-raspberry-pi-spectrometer",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2021",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2021",
-   "year": 2021,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/6295341628540281813.png",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "LesWright"
-   ],
-   "built_with": [],
-   "likes": 165,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-24",
-   "updated": "2026-11-24",
-   "hw_score": 3,
-   "facets": {
-    "domain": [],
-    "form": [],
-    "interaction": [],
-    "platform": [
-     "raspberry-pi"
-    ],
-    "ai": [
-     "cv"
-    ],
     "fab": []
    },
    "award_tier": 0,
@@ -152531,6 +152247,98 @@
    "score": 24
   },
   {
+   "id": "hackaday:180045",
+   "title": "SPI Display Array Desktop Clock",
+   "tagline": "SPI Interface Display Array board to make a fully customizable desktop clock or notification banner connected to the internet with an ESP32.",
+   "description": "",
+   "url": "https://hackaday.io/project/180045-spi-display-array-desktop-clock",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2021",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2021",
+   "year": 2021,
+   "awards": [],
+   "winner": false,
+   "image": "https://cdn.hackaday.io/images/resize/600x600/2856121622129856308.JPG",
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Josue Alejandro"
+   ],
+   "built_with": [],
+   "likes": 20,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-23",
+   "updated": "2026-11-24",
+   "hw_score": 3,
+   "facets": {
+    "domain": [],
+    "form": [
+     "gadget"
+    ],
+    "interaction": [
+     "light-display"
+    ],
+    "platform": [
+     "esp32"
+    ],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 24
+  },
+  {
+   "id": "hackaday:176180",
+   "title": "Spine desk lamp",
+   "tagline": "a project for my work-from-home desk, with CNC cut profiles, addressable LEDs, with tentacle kinematics",
+   "description": "",
+   "url": "https://hackaday.io/project/176180-spine-desk-lamp",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2021",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2021",
+   "year": 2021,
+   "awards": [],
+   "winner": false,
+   "image": "https://cdn.hackaday.io/images/resize/600x600/3426361613342494014.png",
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "sebsplane"
+   ],
+   "built_with": [],
+   "likes": 50,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 3,
+   "facets": {
+    "domain": [
+     "home",
+     "productivity"
+    ],
+    "form": [
+     "smart-object",
+     "machine"
+    ],
+    "interaction": [
+     "light-display"
+    ],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 24
+  },
+  {
    "id": "devpost:spinify",
    "title": "Spinify",
    "tagline": "Modern authenticity: Spinify looks like a classic record player, but with a twist: it recognizes the record and starts streaming the corresponding song, album or playlist from Spotify instantly.",
@@ -152681,6 +152489,49 @@
     "domain": [],
     "form": [
      "gadget"
+    ],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 24
+  },
+  {
+   "id": "hackaday:181344",
+   "title": "Stack-chan -  JavaScript driven super-kawaii robot",
+   "tagline": "An easy-to-build and companion robot for everyone",
+   "description": "",
+   "url": "https://hackaday.io/project/181344-stack-chan-javascript-driven-super-kawaii-robot",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2021",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2021",
+   "year": 2021,
+   "awards": [],
+   "winner": false,
+   "image": "https://cdn.hackaday.io/images/resize/600x600/6756371637223357925.jpg",
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Shinya Ishikawa"
+   ],
+   "built_with": [],
+   "likes": 228,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 3,
+   "facets": {
+    "domain": [
+     "social-emotion"
+    ],
+    "form": [
+     "companion-toy"
     ],
     "interaction": [],
     "platform": [],
@@ -152876,6 +152727,47 @@
      "drone"
     ],
     "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 24
+  },
+  {
+   "id": "hackaday:197169",
+   "title": "T1Duino",
+   "tagline": "One-dimensional Tetris on a LED strip",
+   "description": "",
+   "url": "https://hackaday.io/project/197169-t1duino",
+   "source": "hackaday",
+   "event_id": "hackaday-tiny-games-challenge",
+   "series_id": "hackaday-prize",
+   "event_name": "Tiny Games Challenge",
+   "year": 2024,
+   "awards": [],
+   "winner": false,
+   "image": "https://cdn.hackaday.io/images/resize/600x600/8495221722496432795.jpg",
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "andrea trentini"
+   ],
+   "built_with": [],
+   "likes": 8,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 3,
+   "facets": {
+    "domain": [],
+    "form": [],
+    "interaction": [
+     "light-display"
+    ],
     "platform": [],
     "ai": [],
     "fab": []
@@ -154040,6 +153932,47 @@
    "score": 24
   },
   {
+   "id": "hackaday:185085",
+   "title": "Vectron VGA Plus v2",
+   "tagline": "Vectron VGA Plus v2 generates a 640x480@60Hz VGA signal and has an interface that works with retro computers or Arduino.",
+   "description": "",
+   "url": "https://hackaday.io/project/185085-vectron-vga-plus-v2",
+   "source": "hackaday",
+   "event_id": "hackaday-retro-computing-contest",
+   "series_id": "hackaday-prize",
+   "event_name": "Retrocomputing Contest",
+   "year": 2026,
+   "awards": [],
+   "winner": false,
+   "image": "https://cdn.hackaday.io/images/resize/600x600/9250211650990675390.jpg",
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Nick Bild"
+   ],
+   "built_with": [],
+   "likes": 10,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 3,
+   "facets": {
+    "domain": [],
+    "form": [],
+    "interaction": [],
+    "platform": [
+     "arduino"
+    ],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 24
+  },
+  {
    "id": "hackaday:205892",
    "title": "Versatile Laser Processing Machine",
    "tagline": "machine for PCB exposure, structuring of the ITO coating, exposure  of photosensitive epoxy, cutting...",
@@ -154409,6 +154342,47 @@
    "score": 24
   },
   {
+   "id": "hackaday:190591",
+   "title": "\"Mercator Origins\": Sat Nav & Telemetry for Divers",
+   "tagline": "Want to map your dive? Want to navigate like a pro? Even if you are vision-impaired, this will empower you to navigate our underwater world.",
+   "description": "",
+   "url": "https://hackaday.io/project/190591-mercator-origins-sat-nav-telemetry-for-divers",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2023",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2023",
+   "year": 2023,
+   "awards": [],
+   "winner": false,
+   "image": "https://cdn.hackaday.io/images/resize/600x600/4493351683017787190.jpg",
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Mark B Jones"
+   ],
+   "built_with": [],
+   "likes": 20,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [
+     "tools-industry"
+    ],
+    "form": [],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 23
+  },
+  {
    "id": "hackaday:204201",
    "title": "100% \"Safe\" 120VAC LED tester",
    "tagline": "Cook your hot dogs and test your LEDs at the same time with this convienent, safe-ish LED tester!",
@@ -154445,88 +154419,6 @@
     "interaction": [
      "light-display"
     ],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 23
-  },
-  {
-   "id": "hackaday:191642",
-   "title": "10kW (30kW pulse) Electronic Load",
-   "tagline": "All we need to do get some big resistors and connect them up in different combinations, right?",
-   "description": "",
-   "url": "https://hackaday.io/project/191642-10kw-30kw-pulse-electronic-load",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2023",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2023",
-   "year": 2023,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/2246991696928039896.jpg",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "tinfever"
-   ],
-   "built_with": [],
-   "likes": 31,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-23",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [],
-    "form": [],
-    "interaction": [
-     "biosignal"
-    ],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 23
-  },
-  {
-   "id": "hackaday:179020",
-   "title": "10mbps over 1km on a single pair of wires",
-   "tagline": "A simple 46mmx22.5mm module to route power and differential signals (RS-485) over RJ-45",
-   "description": "",
-   "url": "https://hackaday.io/project/179020-10mbps-over-1km-on-a-single-pair-of-wires",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2021",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2021",
-   "year": 2021,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/734191668054960429.JPG",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "Alexander Williams"
-   ],
-   "built_with": [],
-   "likes": 22,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-23",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [],
-    "form": [
-     "board"
-    ],
-    "interaction": [],
     "platform": [],
     "ai": [],
     "fab": []
@@ -154660,43 +154552,39 @@
    "score": 23
   },
   {
-   "id": "hackaday:180343",
-   "title": "3D Printable 2-axis MEMS Mirror",
-   "tagline": "A home buildable 2D mirror for controlling light deflection.",
+   "id": "hackaday:183736",
+   "title": "3D Metal &amp; Ceramic Printer",
+   "tagline": "EBM - 3D Metal & Ceramic Printer - Electron Beam Melting",
    "description": "",
-   "url": "https://hackaday.io/project/180343-3d-printable-2-axis-mems-mirror",
+   "url": "https://hackaday.io/project/183736-3d-metal-amp-ceramic-printer",
    "source": "hackaday",
-   "event_id": "hackaday-prize2021",
+   "event_id": "hackaday-prize2022",
    "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2021",
-   "year": 2021,
+   "event_name": "Hackaday Prize 2022",
+   "year": 2022,
    "awards": [],
    "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/7080831623637592616.png",
+   "image": "https://cdn.hackaday.io/images/resize/600x600/695621643108777605.jpg",
    "video": null,
    "repo": null,
    "links": [],
    "team": [
-    "Ray Clemens"
+    "Agustin Cruz"
    ],
    "built_with": [],
-   "likes": 20,
+   "likes": 70,
    "stars": 0,
    "comments": 0,
    "lang": "en",
-   "first_seen": "2026-11-22",
+   "first_seen": "2026-11-23",
    "updated": "2026-11-24",
    "hw_score": 0,
    "facets": {
-    "domain": [
-     "home"
-    ],
+    "domain": [],
     "form": [
-     "smart-object"
+     "machine"
     ],
-    "interaction": [
-     "light-display"
-    ],
+    "interaction": [],
     "platform": [],
     "ai": [],
     "fab": []
@@ -155424,6 +155312,53 @@
     "interaction": [],
     "platform": [],
     "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 23
+  },
+  {
+   "id": "hackaday:191802",
+   "title": "AI Audio Classifier Recycle Bin",
+   "tagline": "Recycle Bin that sorts rubbish based on the sound of collision using Edge AI audio classification.",
+   "description": "",
+   "url": "https://hackaday.io/project/191802-ai-audio-classifier-recycle-bin",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2023",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2023",
+   "year": 2023,
+   "awards": [],
+   "winner": false,
+   "image": "https://cdn.hackaday.io/images/resize/600x600/2937731688454179007.jpeg",
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Samuel Alexander"
+   ],
+   "built_with": [],
+   "likes": 108,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [
+     "sustainability",
+     "safety"
+    ],
+    "form": [
+     "smart-object"
+    ],
+    "interaction": [],
+    "platform": [],
+    "ai": [
+     "classic-ml",
+     "edge-ml"
+    ],
     "fab": []
    },
    "award_tier": 0,
@@ -156167,6 +156102,47 @@
    "score": 23
   },
   {
+   "id": "hackaday:194923",
+   "title": "Automating Husqvarna Automower BLE",
+   "tagline": "Reverse engineering the Husqvarna Automower BLE protocol and then automating it in Home Assistant",
+   "description": "",
+   "url": "https://hackaday.io/project/194923-automating-husqvarna-automower-ble",
+   "source": "hackaday",
+   "event_id": "hackaday-2024-sweet-home-automation",
+   "series_id": "hackaday-prize",
+   "event_name": "Home Sweet Home Automation 2024",
+   "year": 2024,
+   "awards": [],
+   "winner": false,
+   "image": "https://cdn.hackaday.io/images/resize/600x600/7279981708680197637.jpg",
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Alistair"
+   ],
+   "built_with": [],
+   "likes": 10,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [
+     "home"
+    ],
+    "form": [],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 23
+  },
+  {
    "id": "hackaday:198165",
    "title": "Badge Tag NFC SAO",
    "tagline": "Adding some of the traditional badge stuff to any badge",
@@ -156598,47 +156574,6 @@
    "score": 23
   },
   {
-   "id": "hackaday:198371",
-   "title": "Blinkencap",
-   "tagline": "The world s most difficult to manufacture blinkenlight.\r\nSAO using the massive overkill that is an ASIC to control a single RGB LED.",
-   "description": "",
-   "url": "https://hackaday.io/project/198371-blinkencap",
-   "source": "hackaday",
-   "event_id": "hackaday-supercon-8-sao-contest",
-   "series_id": "hackaday-prize",
-   "event_name": "Supercon 8 Add-On Contest",
-   "year": 2024,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/1734611728502988959.png",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "Pat Deegan"
-   ],
-   "built_with": [],
-   "likes": 8,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-19",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [],
-    "form": [],
-    "interaction": [
-     "light-display"
-    ],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 23
-  },
-  {
    "id": "hackaday:169140",
    "title": "Blinkencard - Pocket Altair 8800",
    "tagline": "'70s microcomputer meets '80s handheld game",
@@ -156674,6 +156609,49 @@
      "gadget"
     ],
     "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 23
+  },
+  {
+   "id": "hackaday:192538",
+   "title": "Blockchain Camera",
+   "tagline": "A photo taken with this camera will instantly become a NFT.\r\nThis camera aims to prove with blockchain that a photo was taken with a camera.",
+   "description": "",
+   "url": "https://hackaday.io/project/192538-blockchain-camera",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2023",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2023",
+   "year": 2023,
+   "awards": [],
+   "winner": false,
+   "image": "https://cdn.hackaday.io/images/resize/600x600/4675931694269232746.jpg",
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Human Controller"
+   ],
+   "built_with": [],
+   "likes": 26,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-23",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [],
+    "form": [
+     "gadget"
+    ],
+    "interaction": [
+     "vision-gesture"
+    ],
     "platform": [],
     "ai": [],
     "fab": []
@@ -157419,48 +157397,6 @@
    "score": 23
   },
   {
-   "id": "hackaday:185726",
-   "title": "Converting Waste Pigments into Art Supplies",
-   "tagline": "System to turn wasted retail store house paint pigment into (almost) free art supplies.",
-   "description": "",
-   "url": "https://hackaday.io/project/185726-converting-waste-pigments-into-art-supplies",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2022",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2022",
-   "year": 2022,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/1339581654403939894.jpeg",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "technoplastique"
-   ],
-   "built_with": [],
-   "likes": 15,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-24",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [
-     "art-music",
-     "sustainability"
-    ],
-    "form": [],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 23
-  },
-  {
    "id": "hackaday:191834",
    "title": "Core16: Interactive Core Memory Made Smaller",
    "tagline": "Core16 makes it easier to get started weaving your own Interactive Core Memory. You can do a lot of fun stuff with it after it is assembled!",
@@ -157951,6 +157887,45 @@
    "score": 23
   },
   {
+   "id": "hackaday:168558",
+   "title": "CyL3D",
+   "tagline": "Rethinking POV : what about 3D?",
+   "description": "",
+   "url": "https://hackaday.io/project/168558-cyl3d",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2021",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2021",
+   "year": 2021,
+   "awards": [],
+   "winner": false,
+   "image": "https://cdn.hackaday.io/images/resize/600x600/4961821581210196164.png",
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Alexis"
+   ],
+   "built_with": [],
+   "likes": 24,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [],
+    "form": [],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 23
+  },
+  {
    "id": "hackaday:187634",
    "title": "DC-DC Solar EV Charger",
    "tagline": "The key component to transform the solar car from a backyard science experiment to cost effective practical transportation.",
@@ -158030,6 +158005,45 @@
     "interaction": [
      "light-display"
     ],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 23
+  },
+  {
+   "id": "hackaday:196769",
+   "title": "DECstation2040",
+   "tagline": "A RP2040 based MIPS emulator, running Ultrix/DECwindows in a business card format.",
+   "description": "",
+   "url": "https://hackaday.io/project/196769-decstation2040",
+   "source": "hackaday",
+   "event_id": "hackaday-2024-business-card-contest",
+   "series_id": "hackaday-prize",
+   "event_name": "Business Card Contest 2024",
+   "year": 2024,
+   "awards": [],
+   "winner": false,
+   "image": "https://cdn.hackaday.io/images/resize/600x600/188351719877172735.jpg",
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "rscott2049"
+   ],
+   "built_with": [],
+   "likes": 23,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-22",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [],
+    "form": [],
+    "interaction": [],
     "platform": [],
     "ai": [],
     "fab": []
@@ -158370,47 +158384,6 @@
     "form": [
      "gadget"
     ],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 23
-  },
-  {
-   "id": "hackaday:185994",
-   "title": "DIY Retro Audio Player",
-   "tagline": "Portable MP3 Player for Music and Audiobooks",
-   "description": "",
-   "url": "https://hackaday.io/project/185994-diy-retro-audio-player",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2022",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2022",
-   "year": 2022,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/7843311655751616414.jpg",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "Max.K"
-   ],
-   "built_with": [],
-   "likes": 227,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-23",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [
-     "art-music"
-    ],
-    "form": [],
     "interaction": [],
     "platform": [],
     "ai": [],
@@ -159314,6 +159287,47 @@
    "score": 23
   },
   {
+   "id": "hackaday:187684",
+   "title": "EPTAORA",
+   "tagline": "7 segment clock",
+   "description": "",
+   "url": "https://hackaday.io/project/187684-eptaora",
+   "source": "hackaday",
+   "event_id": "hackaday-one-hertz-challenge",
+   "series_id": "hackaday-prize",
+   "event_name": "One Hertz Challenge",
+   "year": 2025,
+   "awards": [],
+   "winner": false,
+   "image": "https://cdn.hackaday.io/images/resize/600x600/2120071665219410447.JPG",
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "ekaggrat singh kalsi"
+   ],
+   "built_with": [],
+   "likes": 462,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [],
+    "form": [
+     "gadget"
+    ],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 23
+  },
+  {
    "id": "devpost:equispace-5r2nup",
    "title": "EquiSpace",
    "tagline": "Our app, EquiSpace, saves you transit time by giving you information about the number of people on any streetcar you want.",
@@ -159545,6 +159559,47 @@
     "ai": [
      "llm"
     ],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 23
+  },
+  {
+   "id": "hackaday:192369",
+   "title": "F.U.S.E Box",
+   "tagline": "It started with a box found in the dumpster and became a cyberdeck",
+   "description": "",
+   "url": "https://hackaday.io/project/192369-fuse-box",
+   "source": "hackaday",
+   "event_id": "hackaday-cyberdeck-2023",
+   "series_id": "hackaday-prize",
+   "event_name": "Cyberdeck Contest 2023",
+   "year": 2023,
+   "awards": [],
+   "winner": false,
+   "image": "https://cdn.hackaday.io/images/resize/600x600/9193711692041098426.jpg",
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "MakeNModify"
+   ],
+   "built_with": [],
+   "likes": 9,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [],
+    "form": [
+     "gadget"
+    ],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
     "fab": []
    },
    "award_tier": 0,
@@ -160094,9 +160149,9 @@
    "description": "",
    "url": "https://hackaday.io/project/178686-game-card",
    "source": "hackaday",
-   "event_id": "hackaday-2024-business-card-contest",
+   "event_id": "hackaday-tiny-games-challenge",
    "series_id": "hackaday-prize",
-   "event_name": "Business Card Contest 2024",
+   "event_name": "Tiny Games Challenge",
    "year": 2024,
    "awards": [],
    "winner": false,
@@ -160405,90 +160460,6 @@
    "score": 23
   },
   {
-   "id": "hackaday:185831",
-   "title": "HACKtablet: Crestron TSS-752 Teardown + Rebuild",
-   "tagline": "Tearing down a Crestron display conference room controller, the second. And making it into a CircuitPython device.",
-   "description": "",
-   "url": "https://hackaday.io/project/185831-hacktablet-crestron-tss-752-teardown-rebuild",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2022",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2022",
-   "year": 2022,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/7319721654893571370.jpeg",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "kmatch98"
-   ],
-   "built_with": [],
-   "likes": 18,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-23",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [
-     "home"
-    ],
-    "form": [
-     "gadget"
-    ],
-    "interaction": [
-     "light-display"
-    ],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 23
-  },
-  {
-   "id": "hackaday:203452",
-   "title": "Ham Radio foxhunt transmitter",
-   "tagline": "Ham Radio foxhunt transmitter",
-   "description": "",
-   "url": "https://hackaday.io/project/203452-ham-radio-foxhunt-transmitter",
-   "source": "hackaday",
-   "event_id": "hackaday-one-hertz-challenge",
-   "series_id": "hackaday-prize",
-   "event_name": "One Hertz Challenge",
-   "year": 2025,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/5072031751817257886.jpg",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "Jim Matthews"
-   ],
-   "built_with": [],
-   "likes": 23,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-24",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [],
-    "form": [],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 23
-  },
-  {
    "id": "hackaday:197803",
    "title": "Han SAOlo",
    "tagline": "Oh. They&#x27;ve encased him in Carbonite. He should be quite well protected. If he survived the freezing process, that is.",
@@ -160726,45 +160697,6 @@
     "fab": [
      "cad"
     ]
-   },
-   "award_tier": 0,
-   "score": 23
-  },
-  {
-   "id": "hackaday:197693",
-   "title": "hello my name is SAO",
-   "tagline": "A simpler add-on, for a different time",
-   "description": "",
-   "url": "https://hackaday.io/project/197693-hello-my-name-is-sao",
-   "source": "hackaday",
-   "event_id": "hackaday-supercon-8-sao-contest",
-   "series_id": "hackaday-prize",
-   "event_name": "Supercon 8 Add-On Contest",
-   "year": 2024,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/2510281728672408004.jpg",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "davedarko"
-   ],
-   "built_with": [],
-   "likes": 13,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-19",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [],
-    "form": [],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
    },
    "award_tier": 0,
    "score": 23
@@ -161221,6 +161153,45 @@
    "score": 23
   },
   {
+   "id": "hackaday:174015",
+   "title": "Introducing… BeoModern",
+   "tagline": "Bootstrapping great sounding and looking eighties Hi-Fi system into twenty first century.",
+   "description": "",
+   "url": "https://hackaday.io/project/174015-introducing-beomodern",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2021",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2021",
+   "year": 2021,
+   "awards": [],
+   "winner": false,
+   "image": "https://cdn.hackaday.io/images/resize/600x600/8128901595804477914.jpg",
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "mhenryk"
+   ],
+   "built_with": [],
+   "likes": 29,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [],
+    "form": [],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 23
+  },
+  {
    "id": "hackaday:167848",
    "title": "IoT cat feeder",
    "tagline": "A mostly 3D printed automated cat feeder (part of my SCADA)",
@@ -161575,51 +161546,6 @@
    "score": 23
   },
   {
-   "id": "hackaday:186678",
-   "title": "Joytojoy",
-   "tagline": "An Open assistive device design to add mouse or video game stick capabilities to your power wheelchair controller",
-   "description": "",
-   "url": "https://hackaday.io/project/186678-joytojoy",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2022",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2022",
-   "year": 2022,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/30031666207014652.png",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "Julien OUDIN"
-   ],
-   "built_with": [],
-   "likes": 17,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-20",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [
-     "accessibility",
-     "games-fun"
-    ],
-    "form": [
-     "gadget",
-     "vehicle"
-    ],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 23
-  },
-  {
    "id": "hackaday:191745",
    "title": "Kali Cyberdeck",
    "tagline": "Portable pen test system running on RP4",
@@ -161897,6 +161823,49 @@
    "score": 23
   },
   {
+   "id": "hackaday:174394",
+   "title": "L2 Camera",
+   "tagline": "Fully manual twin-lens reflex instant film camera",
+   "description": "",
+   "url": "https://hackaday.io/project/174394-l2-camera",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2022",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2022",
+   "year": 2022,
+   "awards": [],
+   "winner": false,
+   "image": "https://cdn.hackaday.io/images/resize/600x600/7903071615183451708.jpeg",
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Vladimir Gorshenin"
+   ],
+   "built_with": [],
+   "likes": 26,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [],
+    "form": [
+     "gadget"
+    ],
+    "interaction": [
+     "vision-gesture"
+    ],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 23
+  },
+  {
    "id": "hackaday:194245",
    "title": "LangCard",
    "tagline": "A full keyboard development board for learning programming languages such as CircuitPython, MicroPython, C++, uLisp, etc",
@@ -161932,45 +161901,6 @@
      "gadget",
      "board"
     ],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 23
-  },
-  {
-   "id": "hackaday:206003",
-   "title": "Laser Buttplug - How I Won Kink Halloween Contest",
-   "tagline": "Frikkin' Laser Buttplug - I Won a Kink Halloween Contest So Hard They Gave Me First Place on Sight",
-   "description": "",
-   "url": "https://hackaday.io/project/206003-laser-buttplug-how-i-won-kink-halloween-contest",
-   "source": "hackaday",
-   "event_id": "hackaday-frikkin-lasers-challenge",
-   "series_id": "hackaday-prize",
-   "event_name": "Frikkin Lasers Challenge",
-   "year": 2026,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/9287051782189951275.jpg",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "mumaque"
-   ],
-   "built_with": [],
-   "likes": 8,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-22",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [],
-    "form": [],
     "interaction": [],
     "platform": [],
     "ai": [],
@@ -162325,6 +162255,51 @@
    "score": 23
   },
   {
+   "id": "hackaday:184672",
+   "title": "Long Range Machine Control System",
+   "tagline": "LoRa + ROS Full Duplex Peer to Peer Data Transceiver Array with Onboard High Precision Satellite Positioning",
+   "description": "",
+   "url": "https://hackaday.io/project/184672-long-range-machine-control-system",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2022",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2022",
+   "year": 2022,
+   "awards": [],
+   "winner": false,
+   "image": "https://cdn.hackaday.io/images/resize/600x600/8659021657905177692.jpg",
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "GOAT INDUSTRIES"
+   ],
+   "built_with": [],
+   "likes": 18,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-22",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [
+     "tools-industry"
+    ],
+    "form": [
+     "machine"
+    ],
+    "interaction": [],
+    "platform": [
+     "ros"
+    ],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 23
+  },
+  {
    "id": "hackaday:187574",
    "title": "LoRa darkStar",
    "tagline": "Low Quiescent Current, Solar Powered +30dB LoRa",
@@ -162532,6 +162507,48 @@
    "score": 23
   },
   {
+   "id": "hackaday:197276",
+   "title": "Lunar Navigation Game",
+   "tagline": "Your mission is to save Moon Puppies stranded at Moon Base P. (P. for puppy)",
+   "description": "",
+   "url": "https://hackaday.io/project/197276-lunar-navigation-game",
+   "source": "hackaday",
+   "event_id": "hackaday-tiny-games-challenge",
+   "series_id": "hackaday-prize",
+   "event_name": "Tiny Games Challenge",
+   "year": 2024,
+   "awards": [],
+   "winner": false,
+   "image": "https://cdn.hackaday.io/images/resize/600x600/4735921723169428414.JPG",
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Luke J. Barker"
+   ],
+   "built_with": [],
+   "likes": 18,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [
+     "mobility",
+     "games-fun"
+    ],
+    "form": [],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 23
+  },
+  {
    "id": "hackaday:180819",
    "title": "M4-Breadstick (Retired) → Raspberry Breadstick",
    "tagline": "A long and thin development board, with spaced out I/O pins to minimize the length and number of jumper wires required.",
@@ -162563,6 +162580,49 @@
     "domain": [],
     "form": [
      "board"
+    ],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 23
+  },
+  {
+   "id": "hackaday:182021",
+   "title": "M5Stack Color Maker",
+   "tagline": "With this device, you can copy the color of an object or create a new color with your imagination.",
+   "description": "",
+   "url": "https://hackaday.io/project/182021-m5stack-color-maker",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2021",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2021",
+   "year": 2021,
+   "awards": [],
+   "winner": false,
+   "image": "https://cdn.hackaday.io/images/resize/600x600/1062701633401164693.png",
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "AIRPOCKET"
+   ],
+   "built_with": [],
+   "likes": 50,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [
+     "tools-industry"
+    ],
+    "form": [
+     "gadget"
     ],
     "interaction": [],
     "platform": [],
@@ -163076,48 +163136,6 @@
    "score": 23
   },
   {
-   "id": "hackaday:181914",
-   "title": "MicroSynth: Part Biz Card, Part Synth, All Analog",
-   "tagline": "A Tiny, Low Cost, Super Simple Synth for Fun and Learning",
-   "description": "",
-   "url": "https://hackaday.io/project/181914-microsynth-part-biz-card-part-synth-all-analog",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2021",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2021",
-   "year": 2021,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/9720031632791936255.png",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "David Levi"
-   ],
-   "built_with": [],
-   "likes": 52,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-22",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [
-     "games-fun",
-     "education"
-    ],
-    "form": [],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 23
-  },
-  {
    "id": "hackaday:196436",
    "title": "MidiCard USB C Tiny Keyboard",
    "tagline": "MidiCard is a USB-C Midi Keyboard with 18 keys, sustain, modulation, octave buttons, and volume buttons, available at makerproducts.art.",
@@ -163474,47 +163492,6 @@
    "score": 23
   },
   {
-   "id": "hackaday:178131",
-   "title": "MonKlock",
-   "tagline": "Cistercian Monk's cypher digital clock.",
-   "description": "",
-   "url": "https://hackaday.io/project/178131-monklock",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2021",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2021",
-   "year": 2021,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/8799101619190085005.jpg",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "danjovic"
-   ],
-   "built_with": [],
-   "likes": 29,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-23",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [],
-    "form": [
-     "gadget"
-    ],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 23
-  },
-  {
    "id": "devpost:moodmix",
    "title": "MoodMix",
    "tagline": "MoodMix -- the SMART music player you didn't know you needed! Our device selects the mood-appropriate song for you, based on your surrounding environment, so that you can stay in the moment!",
@@ -163732,6 +163709,48 @@
     "interaction": [
      "vision-gesture"
     ],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 23
+  },
+  {
+   "id": "hackaday:188259",
+   "title": "Mushroom Growing Control System",
+   "tagline": "Industrial control in a humid environment",
+   "description": "",
+   "url": "https://hackaday.io/project/188259-mushroom-growing-control-system",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2023",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2023",
+   "year": 2023,
+   "awards": [],
+   "winner": false,
+   "image": "https://cdn.hackaday.io/images/resize/600x600/443721670362402322.jpeg",
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "GOAT INDUSTRIES"
+   ],
+   "built_with": [],
+   "likes": 49,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [
+     "tools-industry",
+     "sustainability"
+    ],
+    "form": [],
+    "interaction": [],
     "platform": [],
     "ai": [],
     "fab": []
@@ -164093,47 +164112,6 @@
     "form": [
      "gadget"
     ],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 23
-  },
-  {
-   "id": "hackaday:196439",
-   "title": "NoiseCard",
-   "tagline": "Solar-powered decibel measuring business card",
-   "description": "",
-   "url": "https://hackaday.io/project/196439-noisecard",
-   "source": "hackaday",
-   "event_id": "hackaday-2024-business-card-contest",
-   "series_id": "hackaday-prize",
-   "event_name": "Business Card Contest 2024",
-   "year": 2024,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/3328371717965203245.jpg",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "Clyne"
-   ],
-   "built_with": [],
-   "likes": 28,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-23",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [
-     "sustainability"
-    ],
-    "form": [],
     "interaction": [],
     "platform": [],
     "ai": [],
@@ -165951,49 +165929,6 @@
    "score": 23
   },
   {
-   "id": "hackaday:180017",
-   "title": "Portable Foldable Scoreboard",
-   "tagline": "A portable, scalable and foldable display, that can be used as a Scoreboard or Timekeeper in outdoor sport events, with minimal setup",
-   "description": "",
-   "url": "https://hackaday.io/project/180017-portable-foldable-scoreboard",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2021",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2021",
-   "year": 2021,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/4229911622060006776.png",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "LordGuilly"
-   ],
-   "built_with": [],
-   "likes": 28,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-23",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [],
-    "form": [
-     "gadget"
-    ],
-    "interaction": [
-     "light-display"
-    ],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 23
-  },
-  {
    "id": "hackaday:198996",
    "title": "Power Slug SAO",
    "tagline": "Congratulation Pioneer. The Ficsyt corporation has decided you may adorn yourself with a miniature power slug.",
@@ -166222,45 +166157,6 @@
    "score": 23
   },
   {
-   "id": "hackaday:186277",
-   "title": "Psion 5MX - Kludged Linux",
-   "tagline": "This is a project which shows how to install Kludged Linux on a old Psion 5MX",
-   "description": "",
-   "url": "https://hackaday.io/project/186277-psion-5mx-kludged-linux",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2022",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2022",
-   "year": 2022,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/4287241657269333009.jpg",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "jay-t"
-   ],
-   "built_with": [],
-   "likes": 16,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-23",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [],
-    "form": [],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 23
-  },
-  {
    "id": "hackaday:180023",
    "title": "pxlBlck - An unobtrusive home information display",
    "tagline": "A multifunctional home display and optical notification system for everyone",
@@ -166431,49 +166327,6 @@
    "score": 23
   },
   {
-   "id": "hackaday:197898",
-   "title": "reDOT_RGB",
-   "tagline": "smart miniature 5x7 LED Matrix with SAO header",
-   "description": "",
-   "url": "https://hackaday.io/project/197898-redotrgb",
-   "source": "hackaday",
-   "event_id": "hackaday-supercon-8-sao-contest",
-   "series_id": "hackaday-prize",
-   "event_name": "Supercon 8 Add-On Contest",
-   "year": 2024,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/9889691728948382035.jpg",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "Alex"
-   ],
-   "built_with": [],
-   "likes": 12,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-19",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [],
-    "form": [
-     "installation"
-    ],
-    "interaction": [
-     "light-display"
-    ],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 23
-  },
-  {
    "id": "hackaday:197866",
    "title": "Remote Control SAO",
    "tagline": "A badge add-on that's a re-programmable remote for your TV or other IR-controllable device and a I2C-controlled IR blaster.",
@@ -166506,47 +166359,6 @@
     "form": [
      "gadget",
      "wearable"
-    ],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 23
-  },
-  {
-   "id": "hackaday:203540",
-   "title": "Restoring HP’s atomic clock that sync'ed the world",
-   "tagline": "We restore an HP 115BR divider and clock. Its atomic-driven 1 second tick famously sync'ed the world's second in 1964.",
-   "description": "",
-   "url": "https://hackaday.io/project/203540-restoring-hps-atomic-clock-that-synced-the-world",
-   "source": "hackaday",
-   "event_id": "hackaday-one-hertz-challenge",
-   "series_id": "hackaday-prize",
-   "event_name": "One Hertz Challenge",
-   "year": 2025,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/6815571752719631660.jpg",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "curiousmarc"
-   ],
-   "built_with": [],
-   "likes": 9,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-22",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [],
-    "form": [
-     "gadget"
     ],
     "interaction": [],
     "platform": [],
@@ -166918,89 +166730,6 @@
    "score": 23
   },
   {
-   "id": "hackaday:185588",
-   "title": "RPSD: Recycled Plastic Skateboard Deck",
-   "tagline": "Tackling plastic waste, democratizing access to skateboarding and proving to people what products made from waste can really do.",
-   "description": "",
-   "url": "https://hackaday.io/project/185588-rpsd-recycled-plastic-skateboard-deck",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2022",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2022",
-   "year": 2022,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/1546491653819350292.JPG",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "Jason Knight"
-   ],
-   "built_with": [],
-   "likes": 21,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-22",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [
-     "sustainability",
-     "mobility"
-    ],
-    "form": [],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 23
-  },
-  {
-   "id": "hackaday:180457",
-   "title": "Rugged Solar Generator 2.5kW",
-   "tagline": "A 2.5kW solar generator designed for overlanding and outdoor adventures in mind.",
-   "description": "",
-   "url": "https://hackaday.io/project/180457-rugged-solar-generator-25kw",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2021",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2021",
-   "year": 2021,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/6743501624303019925.jpg",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "Philip Ian Haasnoot"
-   ],
-   "built_with": [],
-   "likes": 84,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-22",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [
-     "sustainability"
-    ],
-    "form": [],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 23
-  },
-  {
    "id": "devpost:safetybeacon-weg3k6",
    "title": "SafetyBeacon",
    "tagline": "AI reads ESP32 sensor JSON (HR, motion, temp/humidity), filters noise, detects anomalies (impact/HR/temp), labels NORMAL/WARNING + reason, and shows GPS data in alerts.",
@@ -167215,45 +166944,6 @@
     "form": [
      "smart-object"
     ],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 23
-  },
-  {
-   "id": "hackaday:198109",
-   "title": "SAO Lora Walkie Talkie",
-   "tagline": "SAO that adds Lora Communication",
-   "description": "",
-   "url": "https://hackaday.io/project/198109-sao-lora-walkie-talkie",
-   "source": "hackaday",
-   "event_id": "hackaday-supercon-8-sao-contest",
-   "series_id": "hackaday-prize",
-   "event_name": "Supercon 8 Add-On Contest",
-   "year": 2024,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/4034021728351330773.png",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "jeremy.geppert"
-   ],
-   "built_with": [],
-   "likes": 42,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-19",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [],
-    "form": [],
     "interaction": [],
     "platform": [],
     "ai": [],
@@ -167714,45 +167404,6 @@
     "form": [
      "gadget"
     ],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 23
-  },
-  {
-   "id": "hackaday:186309",
-   "title": "Simple Universal Modem",
-   "tagline": "Can it save audio? It can save data too!",
-   "description": "",
-   "url": "https://hackaday.io/project/186309-simple-universal-modem",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2022",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2022",
-   "year": 2022,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/9558041666086922601.jpeg",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "Anders Nielsen"
-   ],
-   "built_with": [],
-   "likes": 43,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-22",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [],
-    "form": [],
     "interaction": [],
     "platform": [],
     "ai": [],
@@ -168290,53 +167941,6 @@
    "score": 23
   },
   {
-   "id": "hackaday:179440",
-   "title": "Smashed iPad makes a Magic Mirror",
-   "tagline": "My old iPad1 was finally going to the grave. So I thought I'd try and recycle the bits. The screen makes a great magic mirror!",
-   "description": "",
-   "url": "https://hackaday.io/project/179440-smashed-ipad-makes-a-magic-mirror",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2022",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2022",
-   "year": 2022,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/2936471619610980201.jpg",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "Chris G"
-   ],
-   "built_with": [],
-   "likes": 21,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-22",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [
-     "sustainability",
-     "home"
-    ],
-    "form": [
-     "smart-object",
-     "gadget"
-    ],
-    "interaction": [
-     "light-display"
-    ],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 23
-  },
-  {
    "id": "hackaday:197070",
    "title": "Snake 1D",
    "tagline": "A snake game. In one dimension. With LEDs!",
@@ -168632,6 +168236,49 @@
    "score": 23
   },
   {
+   "id": "hackaday:204019",
+   "title": "SolMate",
+   "tagline": "a sleek, solar-powered charger that keeps your devices energized wherever you roam",
+   "description": "",
+   "url": "https://hackaday.io/project/204019-solmate",
+   "source": "hackaday",
+   "event_id": "hackaday-green-powered-challenge",
+   "series_id": "hackaday-prize",
+   "event_name": "Green Powered Challenge",
+   "year": 2026,
+   "awards": [],
+   "winner": false,
+   "image": "https://cdn.hackaday.io/images/resize/600x600/5158271757795174076.jpg",
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Arnov Sharma"
+   ],
+   "built_with": [],
+   "likes": 15,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-22",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [
+     "sustainability"
+    ],
+    "form": [
+     "gadget"
+    ],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 23
+  },
+  {
    "id": "devpost:spongerake",
    "title": "SpongeRake",
    "tagline": "We created the next generation of rakes. In 2050, we imagine a world where every rake has been strapped onto the bottom of a rover-like robot. Not the leaf kind of rake, but the sand-flattening rake.",
@@ -168766,47 +168413,6 @@
     ],
     "form": [],
     "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 23
-  },
-  {
-   "id": "hackaday:185561",
-   "title": "Story on the line",
-   "tagline": "When old rotary dial phones tell you beautiful stories (or whatever you want)",
-   "description": "",
-   "url": "https://hackaday.io/project/185561-story-on-the-line",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2022",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2022",
-   "year": 2022,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/9019581653724838706.jpeg",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "Samy Rabih"
-   ],
-   "built_with": [],
-   "likes": 15,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-22",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [],
-    "form": [],
-    "interaction": [
-     "tangible"
-    ],
     "platform": [],
     "ai": [],
     "fab": []
@@ -169243,45 +168849,6 @@
    "score": 23
   },
   {
-   "id": "hackaday:195954",
-   "title": "The Homebrew Handwired Z80 Computer - H2Z80",
-   "tagline": "A 64K Z80 computher that you cand build by yourself only with perfboards, wires and some components",
-   "description": "",
-   "url": "https://hackaday.io/project/195954-the-homebrew-handwired-z80-computer-h2z80",
-   "source": "hackaday",
-   "event_id": "hackaday-2024-business-card-contest",
-   "series_id": "hackaday-prize",
-   "event_name": "Business Card Contest 2024",
-   "year": 2024,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/2918661715026402640.jpeg",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "Jorisclayton"
-   ],
-   "built_with": [],
-   "likes": 27,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-22",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [],
-    "form": [],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 23
-  },
-  {
    "id": "hackaday:204064",
    "title": "The IC abusing diode tester",
    "tagline": "Mistreating an LM3909 and a 7473 to test diodes - a recreation of a 40 year old device.",
@@ -169436,6 +169003,47 @@
     "interaction": [
      "voice"
     ],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 23
+  },
+  {
+   "id": "hackaday:204295",
+   "title": "The Piezo Transmitter",
+   "tagline": "Can you generate enough energy to power a transmitter with a piezo disk?",
+   "description": "",
+   "url": "https://hackaday.io/project/204295-the-piezo-transmitter",
+   "source": "hackaday",
+   "event_id": "hackaday-component-abuse-challenge",
+   "series_id": "hackaday-prize",
+   "event_name": "Component Abuse Challenge",
+   "year": 2025,
+   "awards": [],
+   "winner": false,
+   "image": "https://cdn.hackaday.io/images/resize/600x600/691401761057174780.jpg",
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "b.kainka"
+   ],
+   "built_with": [],
+   "likes": 15,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-22",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [
+     "sustainability"
+    ],
+    "form": [],
+    "interaction": [],
     "platform": [],
     "ai": [],
     "fab": []
@@ -170307,45 +169915,6 @@
    "score": 23
   },
   {
-   "id": "hackaday:186829",
-   "title": "UltraTower",
-   "tagline": "Grow vegetables with ultraponics tower",
-   "description": "",
-   "url": "https://hackaday.io/project/186829-ultratower",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2022",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2022",
-   "year": 2022,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/4088341665233689358.jpg",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "J Gleyzes"
-   ],
-   "built_with": [],
-   "likes": 60,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-22",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [],
-    "form": [],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 23
-  },
-  {
    "id": "hackaday:195383",
    "title": "Upcycling Old Clock with NTP",
    "tagline": "Retrofit an old clock. Sync to internet time with Network Time Protocol (NTP)",
@@ -170521,6 +170090,89 @@
     "domain": [],
     "form": [
      "gadget"
+    ],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 23
+  },
+  {
+   "id": "hackaday:185300",
+   "title": "VacPen",
+   "tagline": "A DIY Vacuum Tweezer/Pickup Tool to help with manually picking up and placing tiny components",
+   "description": "",
+   "url": "https://hackaday.io/project/185300-vacpen",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2022",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2022",
+   "year": 2022,
+   "awards": [],
+   "winner": false,
+   "image": "https://cdn.hackaday.io/images/resize/600x600/2398631652116567126.jpg",
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "sjm4306"
+   ],
+   "built_with": [],
+   "likes": 60,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [
+     "tools-industry",
+     "home"
+    ],
+    "form": [],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 23
+  },
+  {
+   "id": "hackaday:185208",
+   "title": "Valkyrie High Temp 3d-Printer",
+   "tagline": "A Premium DIY High-Temp 3d Printer",
+   "description": "",
+   "url": "https://hackaday.io/project/185208-valkyrie-high-temp-3d-printer",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2022",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2022",
+   "year": 2022,
+   "awards": [],
+   "winner": false,
+   "image": "https://cdn.hackaday.io/images/resize/600x600/9961671659434357136.png",
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Roy Berntsen"
+   ],
+   "built_with": [],
+   "likes": 18,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [],
+    "form": [
+     "machine"
     ],
     "interaction": [],
     "platform": [],
@@ -170731,42 +170383,41 @@
    "score": 23
   },
   {
-   "id": "hackaday:197669",
-   "title": "Video Button SAO",
-   "tagline": "Building a SAO with off-the-shelf parts and hot glue",
+   "id": "hackaday:190462",
+   "title": "VIMANA - STEM for ALL",
+   "tagline": "Low Cost Open source Smartphone controlled Micro RC plane Controller for STEM/STEAM Education",
    "description": "",
-   "url": "https://hackaday.io/project/197669-video-button-sao",
+   "url": "https://hackaday.io/project/190462-vimana-stem-for-all",
    "source": "hackaday",
-   "event_id": "hackaday-supercon-8-sao-contest",
+   "event_id": "hackaday-prize2023",
    "series_id": "hackaday-prize",
-   "event_name": "Supercon 8 Add-On Contest",
-   "year": 2024,
+   "event_name": "Hackaday Prize 2023",
+   "year": 2023,
    "awards": [],
    "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/1815071730526613311.jpg",
+   "image": "https://cdn.hackaday.io/images/resize/600x600/9845061681026089936.png",
    "video": null,
    "repo": null,
    "links": [],
    "team": [
-    "Ben Combee"
+    "ravi butani"
    ],
    "built_with": [],
-   "likes": 12,
+   "likes": 35,
    "stars": 0,
    "comments": 0,
    "lang": "en",
-   "first_seen": "2026-11-21",
+   "first_seen": "2026-11-24",
    "updated": "2026-11-24",
    "hw_score": 0,
    "facets": {
-    "domain": [],
+    "domain": [
+     "education"
+    ],
     "form": [
-     "smart-object",
      "gadget"
     ],
-    "interaction": [
-     "tangible"
-    ],
+    "interaction": [],
     "platform": [],
     "ai": [],
     "fab": []
@@ -171437,47 +171088,6 @@
      "wearable",
      "board"
     ],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 23
-  },
-  {
-   "id": "hackaday:197163",
-   "title": "Zero Dimensional PONG",
-   "tagline": "1D PONG still has one dimension too many. PWM does the trick!",
-   "description": "",
-   "url": "https://hackaday.io/project/197163-zero-dimensional-pong",
-   "source": "hackaday",
-   "event_id": "hackaday-tiny-games-challenge",
-   "series_id": "hackaday-prize",
-   "event_name": "Tiny Games Challenge",
-   "year": 2024,
-   "awards": [],
-   "winner": false,
-   "image": "https://cdn.hackaday.io/images/resize/600x600/6377931722450569095.JPG",
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "senily64dx"
-   ],
-   "built_with": [],
-   "likes": 9,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-22",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [
-     "games-fun"
-    ],
-    "form": [],
     "interaction": [],
     "platform": [],
     "ai": [],
@@ -173946,6 +173556,97 @@
    "score": 22
   },
   {
+   "id": "hackaday:180248",
+   "title": "eON INDOOR AIR QUALITY SENSOR",
+   "tagline": "Miniature battery indoor air quality, climate and weather forecast sensor with e-ink display.",
+   "description": "",
+   "url": "https://hackaday.io/project/180248-eon-indoor-air-quality-sensor",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2021",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2021",
+   "year": 2021,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Andrew Lamchenko"
+   ],
+   "built_with": [],
+   "likes": 42,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 6,
+   "facets": {
+    "domain": [
+     "sustainability"
+    ],
+    "form": [
+     "gadget"
+    ],
+    "interaction": [
+     "light-display"
+    ],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 22
+  },
+  {
+   "id": "hackaday:187504",
+   "title": "ESP32 3-Channel Power Logger",
+   "tagline": "Power logger based on the INA3221 chip with TFT Display, SD card and battery (charging and monitoring) support",
+   "description": "",
+   "url": "https://hackaday.io/project/187504-esp32-3-channel-power-logger",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2022",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2022",
+   "year": 2022,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Ovidiu"
+   ],
+   "built_with": [],
+   "likes": 62,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 6,
+   "facets": {
+    "domain": [],
+    "form": [
+     "gadget"
+    ],
+    "interaction": [
+     "light-display",
+     "ambient"
+    ],
+    "platform": [
+     "esp32"
+    ],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 22
+  },
+  {
    "id": "devpost:bus-stop-lora-e-ink",
    "title": "eStop: LoRa E-Ink Bus Stop Signs",
    "tagline": "We make smart bus stop signs.",
@@ -173995,6 +173696,49 @@
     ],
     "platform": [
      "arduino"
+    ],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 22
+  },
+  {
+   "id": "hackaday:181058",
+   "title": "EtherCAT servodrive",
+   "tagline": "Free CoE (CAN over EtherCAT) CiA402 servodrive on STM32. For open motor controllers like ODrive, STMBL, or your next thing.",
+   "description": "",
+   "url": "https://hackaday.io/project/181058-ethercat-servodrive",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2021",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2021",
+   "year": 2021,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "kubabuda"
+   ],
+   "built_with": [],
+   "likes": 41,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 6,
+   "facets": {
+    "domain": [],
+    "form": [
+     "gadget"
+    ],
+    "interaction": [],
+    "platform": [
+     "mcu-other"
     ],
     "ai": [],
     "fab": []
@@ -175331,47 +175075,6 @@
    "score": 22
   },
   {
-   "id": "hackaday:190619",
-   "title": "Multi-FOC: Universal multi-channel FOC controller",
-   "tagline": "A Universal multi-channal FOC controller for robot systems or Multi-motor collaborative control",
-   "description": "",
-   "url": "https://hackaday.io/project/190619-multi-foc-universal-multi-channel-foc-controller",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2023",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2023",
-   "year": 2023,
-   "awards": [],
-   "winner": false,
-   "image": null,
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "ChengDanguo"
-   ],
-   "built_with": [],
-   "likes": 26,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-24",
-   "updated": "2026-11-24",
-   "hw_score": 6,
-   "facets": {
-    "domain": [],
-    "form": [
-     "gadget"
-    ],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 22
-  },
-  {
    "id": "devpost:my-first-greenhouse",
    "title": "My First Greenhouse",
    "tagline": "Kids struggle to develop responsibility. My First Greenhouse is here to change that! Give your child the chance to take charge of their own project and learn about nature all in one go!",
@@ -176145,6 +175848,47 @@
      "3d-print",
      "laser"
     ]
+   },
+   "award_tier": 0,
+   "score": 22
+  },
+  {
+   "id": "hackaday:176736",
+   "title": "Project Bird Fish - Free Flight Robotics",
+   "tagline": "Considerate conservation and climate science is on the horizon. These robots are developed to work in multi-species flocks for GOOD!",
+   "description": "",
+   "url": "https://hackaday.io/project/176736-project-bird-fish-free-flight-robotics",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2021",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2021",
+   "year": 2021,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "freeflightlab"
+   ],
+   "built_with": [],
+   "likes": 57,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 6,
+   "facets": {
+    "domain": [
+     "sustainability"
+    ],
+    "form": [],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": []
    },
    "award_tier": 0,
    "score": 22
@@ -178153,6 +177897,55 @@
    "score": 22
   },
   {
+   "id": "hackaday:192246",
+   "title": "UV projection printer for PCBs and item marking",
+   "tagline": "This tool can project UV mask and cure paint on various objects, including PCB prototypes, 3D prints, panels and household items",
+   "description": "",
+   "url": "https://hackaday.io/project/192246-uv-projection-printer-for-pcbs-and-item-marking",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2023",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2023",
+   "year": 2023,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "W. \"adalbert\" Jastrzebski"
+   ],
+   "built_with": [],
+   "likes": 12,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 6,
+   "facets": {
+    "domain": [
+     "tools-industry",
+     "home"
+    ],
+    "form": [
+     "machine",
+     "board"
+    ],
+    "interaction": [
+     "light-display"
+    ],
+    "platform": [],
+    "ai": [],
+    "fab": [
+     "3d-print"
+    ]
+   },
+   "award_tier": 0,
+   "score": 22
+  },
+  {
    "id": "devpost:venture-n-vision",
    "title": "Venture N' Vision",
    "tagline": "Make the robot judges see the vision that you have... secure their investment!",
@@ -178781,6 +178574,52 @@
    "score": 21
   },
   {
+   "id": "hackaday:204046",
+   "title": "A Self-Charging LED Flasher By Burkhard Kainka",
+   "tagline": "The circuit is very simple: an ultra-bright green LED, two 10-ΜΩ resistors, two 100-nF ceramic capacitors and a push-button switch. When you",
+   "description": "",
+   "url": "https://hackaday.io/project/204046-a-self-charging-led-flasher-by-burkhard-kainka",
+   "source": "hackaday",
+   "event_id": "hackaday-component-abuse-challenge",
+   "series_id": "hackaday-prize",
+   "event_name": "Component Abuse Challenge",
+   "year": 2025,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Tito"
+   ],
+   "built_with": [],
+   "likes": 8,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 3,
+   "facets": {
+    "domain": [
+     "sustainability"
+    ],
+    "form": [
+     "gadget"
+    ],
+    "interaction": [
+     "tangible",
+     "light-display"
+    ],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 21
+  },
+  {
    "id": "hackaday:190664",
    "title": "Ai Honey Bee Swarm Detector / Predictor System",
    "tagline": "Local C02 sensor and weather data scraped off interwebs predict swarming",
@@ -179247,6 +179086,50 @@
    "score": 21
   },
   {
+   "id": "hackaday:181205",
+   "title": "Assistive Robotic Manipulator and 6-DoF Controller",
+   "tagline": "A low-cost, 3D printable assistive robotic arm prototype.",
+   "description": "",
+   "url": "https://hackaday.io/project/181205-assistive-robotic-manipulator-and-6-dof-controller",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2021",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2021",
+   "year": 2021,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Michael Laffin"
+   ],
+   "built_with": [],
+   "likes": 30,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 3,
+   "facets": {
+    "domain": [
+     "accessibility"
+    ],
+    "form": [
+     "arm-manipulator",
+     "gadget"
+    ],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 21
+  },
+  {
    "id": "devpost:automato-n89ogb",
    "title": "AuTomato",
    "tagline": "A smart vending machine for all your produce needs.",
@@ -179302,47 +179185,6 @@
     "ai": [
      "classic-ml"
     ],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 21
-  },
-  {
-   "id": "hackaday:181500",
-   "title": "Autonomous tracked robotic platform UGV",
-   "tagline": "One of my most advanced projects to date. A tracked robotic development platform that [hopefully] raises the bar for hobby robotics.",
-   "description": "",
-   "url": "https://hackaday.io/project/181500-autonomous-tracked-robotic-platform-ugv",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2021",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2021",
-   "year": 2021,
-   "awards": [],
-   "winner": false,
-   "image": null,
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "Maximiliano Palay"
-   ],
-   "built_with": [],
-   "likes": 43,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-24",
-   "updated": "2026-11-24",
-   "hw_score": 3,
-   "facets": {
-    "domain": [],
-    "form": [],
-    "interaction": [
-     "ambient"
-    ],
-    "platform": [],
-    "ai": [],
     "fab": []
    },
    "award_tier": 0,
@@ -180237,6 +180079,49 @@
    "score": 21
   },
   {
+   "id": "hackaday:180588",
+   "title": "CM6 - Compliant 3D printed robotic arm",
+   "tagline": "Cheap, Open-source, safe, and compliant 6 - Axis 3d printed robotic arm based on Quasi direct drive BLDC drives.",
+   "description": "",
+   "url": "https://hackaday.io/project/180588-cm6-compliant-3d-printed-robotic-arm",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2021",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2021",
+   "year": 2021,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Petar Crnjak"
+   ],
+   "built_with": [],
+   "likes": 108,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 3,
+   "facets": {
+    "domain": [],
+    "form": [
+     "arm-manipulator"
+    ],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": [
+     "3d-print"
+    ]
+   },
+   "award_tier": 0,
+   "score": 21
+  },
+  {
    "id": "devpost:remote-music-transcriber-and-synchronizer",
    "title": "Collective Cadence",
    "tagline": "Play, Transcribe, and Jam with other musicians anywhere, anytime.",
@@ -180638,16 +180523,16 @@
    "score": 21
   },
   {
-   "id": "hackaday:173564",
-   "title": "DIY Arduino 2d motion racing  simulator",
-   "tagline": "Fun model Car Racing similator",
+   "id": "hackaday:181648",
+   "title": "DESERT EYE: Military Surveillance Robot",
+   "tagline": "A tactical robot that can traverse the desert environment, video enemy locations and stream the feed back to soldiers on the ground in V.R.",
    "description": "",
-   "url": "https://hackaday.io/project/173564-diy-arduino-2d-motion-racing-simulator",
+   "url": "https://hackaday.io/project/181648-desert-eye-military-surveillance-robot",
    "source": "hackaday",
-   "event_id": "hackaday-tiny-games-challenge",
+   "event_id": "hackaday-prize2021",
    "series_id": "hackaday-prize",
-   "event_name": "Tiny Games Challenge",
-   "year": 2024,
+   "event_name": "Hackaday Prize 2021",
+   "year": 2021,
    "awards": [],
    "winner": false,
    "image": null,
@@ -180655,10 +180540,10 @@
    "repo": null,
    "links": [],
    "team": [
-    "mircemk"
+    "Aviv Butvinik"
    ],
    "built_with": [],
-   "likes": 19,
+   "likes": 131,
    "stars": 0,
    "comments": 0,
    "lang": "en",
@@ -180667,16 +180552,12 @@
    "hw_score": 3,
    "facets": {
     "domain": [
-     "mobility",
-     "games-fun"
+     "sustainability",
+     "safety"
     ],
-    "form": [
-     "vehicle"
-    ],
+    "form": [],
     "interaction": [],
-    "platform": [
-     "arduino"
-    ],
+    "platform": [],
     "ai": [],
     "fab": []
    },
@@ -181554,47 +181435,6 @@
    "score": 21
   },
   {
-   "id": "hackaday:181882",
-   "title": "Flexible circuit wind generator",
-   "tagline": "A new way to generate wind energy using only polyester film based flexible circuits",
-   "description": "",
-   "url": "https://hackaday.io/project/181882-flexible-circuit-wind-generator",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2021",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2021",
-   "year": 2021,
-   "awards": [],
-   "winner": false,
-   "image": null,
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "Stuart MacKenzie"
-   ],
-   "built_with": [],
-   "likes": 51,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-24",
-   "updated": "2026-11-24",
-   "hw_score": 3,
-   "facets": {
-    "domain": [
-     "sustainability"
-    ],
-    "form": [],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 21
-  },
-  {
    "id": "hackaday:196293",
    "title": "Gamified Business Card",
    "tagline": "A 8x8 LED matrix PCB business card playing Snake",
@@ -181686,6 +181526,49 @@
     "platform": [
      "raspberry-pi"
     ],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 21
+  },
+  {
+   "id": "hackaday:186064",
+   "title": "Green Detect",
+   "tagline": "Wireless Sensor Network Platform (WSN) , for enviromental monitoring",
+   "description": "",
+   "url": "https://hackaday.io/project/186064-green-detect",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2022",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2022",
+   "year": 2022,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Sergio Ghirardelli"
+   ],
+   "built_with": [],
+   "likes": 58,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 3,
+   "facets": {
+    "domain": [
+     "sustainability"
+    ],
+    "form": [],
+    "interaction": [
+     "ambient"
+    ],
+    "platform": [],
     "ai": [],
     "fab": []
    },
@@ -182635,6 +182518,49 @@
    "score": 21
   },
   {
+   "id": "hackaday:180101",
+   "title": "Infrared Mirror",
+   "tagline": "Who has the prettiest thermal radiation of them all?",
+   "description": "",
+   "url": "https://hackaday.io/project/180101-infrared-mirror",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2021",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2021",
+   "year": 2021,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Reuben"
+   ],
+   "built_with": [],
+   "likes": 23,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 3,
+   "facets": {
+    "domain": [
+     "home"
+    ],
+    "form": [
+     "smart-object"
+    ],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 21
+  },
+  {
    "id": "advx:cmrzr5zfn000f02l951k0xdqz",
    "title": "Injenium灵枢",
    "tagline": "一链万象：技能为光，具身为镜。机器狗、机械臂到智能家居，把学会的本领上链、自由交易。",
@@ -182788,49 +182714,6 @@
    "facets": {
     "domain": [],
     "form": [],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 21
-  },
-  {
-   "id": "hackaday:180723",
-   "title": "KEEP CLEAR",
-   "tagline": "Bicycle rear warning sign activated by ultra sonic sensor",
-   "description": "",
-   "url": "https://hackaday.io/project/180723-keep-clear",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2021",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2021",
-   "year": 2021,
-   "awards": [],
-   "winner": false,
-   "image": null,
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "GOAT INDUSTRIES"
-   ],
-   "built_with": [],
-   "likes": 20,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-23",
-   "updated": "2026-11-24",
-   "hw_score": 3,
-   "facets": {
-    "domain": [
-     "mobility"
-    ],
-    "form": [
-     "vehicle"
-    ],
     "interaction": [],
     "platform": [],
     "ai": [],
@@ -183107,47 +182990,6 @@
    "score": 21
   },
   {
-   "id": "hackaday:202962",
-   "title": "Load Cell Wind Anenometer",
-   "tagline": "Measurement of wind speed and direction through two load cells.",
-   "description": "",
-   "url": "https://hackaday.io/project/202962-load-cell-wind-anenometer",
-   "source": "hackaday",
-   "event_id": "hackaday-component-abuse-challenge",
-   "series_id": "hackaday-prize",
-   "event_name": "Component Abuse Challenge",
-   "year": 2025,
-   "awards": [],
-   "winner": false,
-   "image": null,
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "BLANCHARD Jordan"
-   ],
-   "built_with": [],
-   "likes": 20,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-22",
-   "updated": "2026-11-24",
-   "hw_score": 3,
-   "facets": {
-    "domain": [
-     "tools-industry"
-    ],
-    "form": [],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 21
-  },
-  {
    "id": "github:samethanmathew/lola_autonomous-3d-mapping-robot",
    "title": "LOLA Autonomous 3D Mapping Robot",
    "tagline": "This repository contains our team’s project for the 2026 Build18 event. The system leverages LiDAR, SLAM, and CUT3R to autonomously reconstruct detailed 3D models of indoor environments.",
@@ -183386,45 +183228,6 @@
     "platform": [
      "raspberry-pi"
     ],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 21
-  },
-  {
-   "id": "hackaday:206232",
-   "title": "Measuring Microns with Lasers",
-   "tagline": "A homemade laser-triangulation sensor: sub-micron noise, 4,000+ scans per second.",
-   "description": "",
-   "url": "https://hackaday.io/project/206232-measuring-microns-with-lasers",
-   "source": "hackaday",
-   "event_id": "hackaday-frikkin-lasers-challenge",
-   "series_id": "hackaday-prize",
-   "event_name": "Frikkin Lasers Challenge",
-   "year": 2026,
-   "awards": [],
-   "winner": false,
-   "image": null,
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "Kyle Mayer"
-   ],
-   "built_with": [],
-   "likes": 17,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-22",
-   "updated": "2026-11-24",
-   "hw_score": 3,
-   "facets": {
-    "domain": [],
-    "form": [],
-    "interaction": [],
-    "platform": [],
     "ai": [],
     "fab": []
    },
@@ -184120,47 +183923,6 @@
    "score": 21
   },
   {
-   "id": "hackaday:180407",
-   "title": "Neotron Pico",
-   "tagline": "A microATX motherboard that uses a Raspberry Pi Pico as the CPU. SuperVGA output, stereo audio, a BIOS written in Rust and not much RAM!",
-   "description": "",
-   "url": "https://hackaday.io/project/180407-neotron-pico",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2021",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2021",
-   "year": 2021,
-   "awards": [],
-   "winner": false,
-   "image": null,
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "Jonathan 'theJPster' Pallant"
-   ],
-   "built_with": [],
-   "likes": 25,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-23",
-   "updated": "2026-11-24",
-   "hw_score": 3,
-   "facets": {
-    "domain": [],
-    "form": [],
-    "interaction": [],
-    "platform": [
-     "raspberry-pi"
-    ],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 21
-  },
-  {
    "id": "devpost:nexus-chat-3ztv1p",
    "title": "Nexus Chat",
    "tagline": "The aim is to allow users to have a lightweight AI chat that responds to prompts",
@@ -184454,49 +184216,6 @@
    "score": 21
   },
   {
-   "id": "hackaday:181875",
-   "title": "Open6X robot arm",
-   "tagline": "open source, 3d printed, 6-axis robot arm",
-   "description": "",
-   "url": "https://hackaday.io/project/181875-open6x-robot-arm",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2021",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2021",
-   "year": 2021,
-   "awards": [],
-   "winner": false,
-   "image": null,
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "James Kariuki"
-   ],
-   "built_with": [],
-   "likes": 35,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-23",
-   "updated": "2026-11-24",
-   "hw_score": 3,
-   "facets": {
-    "domain": [],
-    "form": [
-     "arm-manipulator"
-    ],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": [
-     "3d-print"
-    ]
-   },
-   "award_tier": 0,
-   "score": 21
-  },
-  {
    "id": "devpost:ml-blockchain-training-research-development-rover",
    "title": "OpenAI Gym: Martian Rover Dynamic Environment",
    "tagline": "OpenAI Gym is a standard framework for training reinforcement learning (RL) agents (i.e. virtual robots) in different environments. We created a dynamic environment as a new RL benchmark.",
@@ -184545,6 +184264,45 @@
      "llm",
      "classic-ml"
     ],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 21
+  },
+  {
+   "id": "hackaday:186901",
+   "title": "Otter Force One",
+   "tagline": "Robotic urchin harvesting to protect kelp forests",
+   "description": "",
+   "url": "https://hackaday.io/project/186901-otter-force-one",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2022",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2022",
+   "year": 2022,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Erin RobotZwrrl"
+   ],
+   "built_with": [],
+   "likes": 51,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 3,
+   "facets": {
+    "domain": [],
+    "form": [],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
     "fab": []
    },
    "award_tier": 0,
@@ -185487,6 +185245,88 @@
    "score": 21
   },
   {
+   "id": "hackaday:181111",
+   "title": "Robotics Ground Control Station",
+   "tagline": "Yet another overkill project. An attempt at building a portable and versatile GCS for robotics.",
+   "description": "",
+   "url": "https://hackaday.io/project/181111-robotics-ground-control-station",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2021",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2021",
+   "year": 2021,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Maximiliano Palay"
+   ],
+   "built_with": [],
+   "likes": 71,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 3,
+   "facets": {
+    "domain": [],
+    "form": [],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 21
+  },
+  {
+   "id": "hackaday:178329",
+   "title": "RoDog",
+   "tagline": "3D printed Quadruped Robot",
+   "description": "",
+   "url": "https://hackaday.io/project/178329-rodog",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2021",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2021",
+   "year": 2021,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Wissam Tedros"
+   ],
+   "built_with": [],
+   "likes": 27,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 3,
+   "facets": {
+    "domain": [],
+    "form": [
+     "mobile-robot"
+    ],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": [
+     "3d-print"
+    ]
+   },
+   "award_tier": 0,
+   "score": 21
+  },
+  {
    "id": "devpost:romi",
    "title": "Romi",
    "tagline": "Romi combines ovulation insights, manual period tracking, and the user's physiological indicators to give users knowledge of their personal insight for every phase of their cycle.",
@@ -186361,11 +186201,11 @@
    "score": 21
   },
   {
-   "id": "hackaday:180045",
-   "title": "SPI Display Array Desktop Clock",
-   "tagline": "SPI Interface Display Array board to make a fully customizable desktop clock or notification banner connected to the internet with an ESP32.",
+   "id": "hackaday:182052",
+   "title": "Solar Powered WiFi Weather Station V3.0",
+   "tagline": "ESP32 based Open Source Weather Station",
    "description": "",
-   "url": "https://hackaday.io/project/180045-spi-display-array-desktop-clock",
+   "url": "https://hackaday.io/project/182052-solar-powered-wifi-weather-station-v30",
    "source": "hackaday",
    "event_id": "hackaday-prize2021",
    "series_id": "hackaday-prize",
@@ -186378,24 +186218,22 @@
    "repo": null,
    "links": [],
    "team": [
-    "Josue Alejandro"
+    "Open Green Energy"
    ],
    "built_with": [],
-   "likes": 20,
+   "likes": 31,
    "stars": 0,
    "comments": 0,
    "lang": "en",
-   "first_seen": "2026-11-23",
+   "first_seen": "2026-11-24",
    "updated": "2026-11-24",
    "hw_score": 3,
    "facets": {
-    "domain": [],
-    "form": [
-     "gadget"
+    "domain": [
+     "sustainability"
     ],
-    "interaction": [
-     "light-display"
-    ],
+    "form": [],
+    "interaction": [],
     "platform": [
      "esp32"
     ],
@@ -186577,52 +186415,6 @@
    "score": 21
   },
   {
-   "id": "hackaday:174508",
-   "title": "Stylish desktop ESP8266 weather station",
-   "tagline": "The design and manufacturing process of a stylish desktop companion based on Adafruit’s 2.4” TFT Feather Wing and Feather Huuzah ESP8266",
-   "description": "",
-   "url": "https://hackaday.io/project/174508-stylish-desktop-esp8266-weather-station",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2021",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2021",
-   "year": 2021,
-   "awards": [],
-   "winner": false,
-   "image": null,
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "Swoosh Mihu"
-   ],
-   "built_with": [],
-   "likes": 29,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-24",
-   "updated": "2026-11-24",
-   "hw_score": 3,
-   "facets": {
-    "domain": [
-     "tools-industry",
-     "social-emotion"
-    ],
-    "form": [
-     "gadget"
-    ],
-    "interaction": [],
-    "platform": [
-     "esp32"
-    ],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 21
-  },
-  {
    "id": "devpost:sunseekr",
    "title": "SunSeekr",
    "tagline": "An adaptive solar panel system using WiFi, an ESP 32, a photo-resistor that dynamically adjusts its positions in real time, maximizing sunlight efficiency and power.",
@@ -186672,47 +186464,6 @@
      "esp32",
      "arduino"
     ],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 21
-  },
-  {
-   "id": "hackaday:197169",
-   "title": "T1Duino",
-   "tagline": "One-dimensional Tetris on a LED strip",
-   "description": "",
-   "url": "https://hackaday.io/project/197169-t1duino",
-   "source": "hackaday",
-   "event_id": "hackaday-tiny-games-challenge",
-   "series_id": "hackaday-prize",
-   "event_name": "Tiny Games Challenge",
-   "year": 2024,
-   "awards": [],
-   "winner": false,
-   "image": null,
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "andrea trentini"
-   ],
-   "built_with": [],
-   "likes": 8,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-24",
-   "updated": "2026-11-24",
-   "hw_score": 3,
-   "facets": {
-    "domain": [],
-    "form": [],
-    "interaction": [
-     "light-display"
-    ],
-    "platform": [],
     "ai": [],
     "fab": []
    },
@@ -186892,53 +186643,6 @@
    "score": 21
   },
   {
-   "id": "hackaday:181159",
-   "title": "The 603-200 watch",
-   "tagline": "This watch has 200 leds and an ESP32 pico for superb light shows",
-   "description": "",
-   "url": "https://hackaday.io/project/181159-the-603-200-watch",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2021",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2021",
-   "year": 2021,
-   "awards": [],
-   "winner": false,
-   "image": null,
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "pcadic"
-   ],
-   "built_with": [],
-   "likes": 104,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-24",
-   "updated": "2026-11-24",
-   "hw_score": 3,
-   "facets": {
-    "domain": [
-     "art-music"
-    ],
-    "form": [
-     "wearable"
-    ],
-    "interaction": [
-     "light-display"
-    ],
-    "platform": [
-     "esp32"
-    ],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 21
-  },
-  {
    "id": "hackaday:185204",
    "title": "The Airman Rocket",
    "tagline": "fin controlled rocket using PID implemented on a teensy 4.1. completely 3d printed airframe, open source educational kit",
@@ -186982,49 +186686,6 @@
     "fab": [
      "3d-print"
     ]
-   },
-   "award_tier": 0,
-   "score": 21
-  },
-  {
-   "id": "hackaday:181367",
-   "title": "The Ball-Drone Project MK III",
-   "tagline": "Now in the 3rd iteration stage, this 3D printable single rotor drone with thrust vector control offers more safety and features than ever!",
-   "description": "",
-   "url": "https://hackaday.io/project/181367-the-ball-drone-project-mk-iii",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2021",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2021",
-   "year": 2021,
-   "awards": [],
-   "winner": false,
-   "image": null,
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "Benjamin Prescher"
-   ],
-   "built_with": [],
-   "likes": 77,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-24",
-   "updated": "2026-11-24",
-   "hw_score": 3,
-   "facets": {
-    "domain": [
-     "safety"
-    ],
-    "form": [
-     "drone"
-    ],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
    },
    "award_tier": 0,
    "score": 21
@@ -187830,6 +187491,47 @@
    "score": 21
   },
   {
+   "id": "hackaday:205151",
+   "title": "VAULT-TEC Air Terminal",
+   "tagline": "Made a Terminal PC from fallout, powered by Raspberry Pi 5",
+   "description": "",
+   "url": "https://hackaday.io/project/205151-vault-tec-air-terminal",
+   "source": "hackaday",
+   "event_id": "hackaday-retro-computing-contest",
+   "series_id": "hackaday-prize",
+   "event_name": "Retrocomputing Contest",
+   "year": 2026,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Arnov Sharma"
+   ],
+   "built_with": [],
+   "likes": 16,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 3,
+   "facets": {
+    "domain": [],
+    "form": [],
+    "interaction": [],
+    "platform": [
+     "raspberry-pi"
+    ],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 21
+  },
+  {
    "id": "devpost:vetro",
    "title": "Vetro",
    "tagline": "Vetro is an easy way of donating your old devices and buying old technology at the same time. We are the middleman that takes the hassle out of getting rid of your old hardware.",
@@ -187993,6 +187695,54 @@
    "score": 21
   },
   {
+   "id": "hackaday:180008",
+   "title": "Volumetric Display using Acoustically Trapped Ball",
+   "tagline": "This project uses a phased arrray of ultrasonic transducers to levitate and move a 1mm foam ball to draw in mid-air using the POV effect.",
+   "description": "",
+   "url": "https://hackaday.io/project/180008-volumetric-display-using-acoustically-trapped-ball",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2021",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2021",
+   "year": 2021,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Dan Foisy"
+   ],
+   "built_with": [],
+   "likes": 56,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 3,
+   "facets": {
+    "domain": [
+     "art-music"
+    ],
+    "form": [
+     "gadget"
+    ],
+    "interaction": [
+     "light-display",
+     "ambient"
+    ],
+    "platform": [],
+    "ai": [],
+    "fab": [
+     "textile-craft"
+    ]
+   },
+   "award_tier": 0,
+   "score": 21
+  },
+  {
    "id": "hackaday:184289",
    "title": "Wall Drawing Robot, Open Source",
    "tagline": "The robot can draw a picture on a wall\r\nI name it is \"Fumik\"",
@@ -188025,6 +187775,47 @@
      "art-music"
     ],
     "form": [],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 21
+  },
+  {
+   "id": "hackaday:165989",
+   "title": "Wall-E",
+   "tagline": "A small-size, low-cost, Wall-E robot. Remote controlled from a HTML5 interface, through WiFi websockets.",
+   "description": "",
+   "url": "https://hackaday.io/project/165989-wall-e",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2021",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2021",
+   "year": 2021,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Etienne"
+   ],
+   "built_with": [],
+   "likes": 41,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 3,
+   "facets": {
+    "domain": [],
+    "form": [
+     "gadget"
+    ],
     "interaction": [],
     "platform": [],
     "ai": [],
@@ -188272,6 +188063,53 @@
    "score": 21
   },
   {
+   "id": "hackaday:205193",
+   "title": "Win95 Retro Weather Display",
+   "tagline": "Retro display in a Windows 95 style to display the weather based on an ESP32 Cheap Yellow Display",
+   "description": "",
+   "url": "https://hackaday.io/project/205193-win95-retro-weather-display",
+   "source": "hackaday",
+   "event_id": "hackaday-retro-computing-contest",
+   "series_id": "hackaday-prize",
+   "event_name": "Retrocomputing Contest",
+   "year": 2026,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "BLANCHARD Jordan"
+   ],
+   "built_with": [],
+   "likes": 21,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 3,
+   "facets": {
+    "domain": [
+     "home"
+    ],
+    "form": [
+     "gadget"
+    ],
+    "interaction": [
+     "light-display"
+    ],
+    "platform": [
+     "esp32"
+    ],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 21
+  },
+  {
    "id": "devpost:windhere-an-attachable-wind-turbine-with-telemetric-data",
    "title": "windHERE [An attachable wind turbine with telemetric data]",
    "tagline": "windHERE provides city planners with a compact yet powerful turbine that integrates onto existing structures. It utilizes areas of already existing development to reduce land usage footprint",
@@ -188373,45 +188211,6 @@
     "platform": [
      "arduino"
     ],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 21
-  },
-  {
-   "id": "hackaday:171888",
-   "title": "Zakhar the Robot",
-   "tagline": "An interesting robot without a clear purpose",
-   "description": "",
-   "url": "https://hackaday.io/project/171888-zakhar-the-robot",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2021",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2021",
-   "year": 2021,
-   "awards": [],
-   "winner": false,
-   "image": null,
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "Andrei Gramakov"
-   ],
-   "built_with": [],
-   "likes": 34,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-23",
-   "updated": "2026-11-24",
-   "hw_score": 3,
-   "facets": {
-    "domain": [],
-    "form": [],
-    "interaction": [],
-    "platform": [],
     "ai": [],
     "fab": []
    },
@@ -188532,47 +188331,6 @@
    },
    "award_tier": 1,
    "score": 21
-  },
-  {
-   "id": "hackaday:190591",
-   "title": "\"Mercator Origins\": Sat Nav & Telemetry for Divers",
-   "tagline": "Want to map your dive? Want to navigate like a pro? Even if you are vision-impaired, this will empower you to navigate our underwater world.",
-   "description": "",
-   "url": "https://hackaday.io/project/190591-mercator-origins-sat-nav-telemetry-for-divers",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2023",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2023",
-   "year": 2023,
-   "awards": [],
-   "winner": false,
-   "image": null,
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "Mark B Jones"
-   ],
-   "built_with": [],
-   "likes": 20,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-24",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [
-     "tools-industry"
-    ],
-    "form": [],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 20
   },
   {
    "id": "hackaday:196753",
@@ -188739,11 +188497,11 @@
    "score": 20
   },
   {
-   "id": "hackaday:183736",
-   "title": "3D Metal &amp; Ceramic Printer",
-   "tagline": "EBM - 3D Metal & Ceramic Printer - Electron Beam Melting",
+   "id": "hackaday:185070",
+   "title": "3D PRINTED PORTABLE WIND TURBINE",
+   "tagline": "A small Portable Wind Turbine, mostly 3D printed!",
    "description": "",
-   "url": "https://hackaday.io/project/183736-3d-metal-amp-ceramic-printer",
+   "url": "https://hackaday.io/project/185070-3d-printed-portable-wind-turbine",
    "source": "hackaday",
    "event_id": "hackaday-prize2022",
    "series_id": "hackaday-prize",
@@ -188756,25 +188514,27 @@
    "repo": null,
    "links": [],
    "team": [
-    "Agustin Cruz"
+    "adriancubas"
    ],
    "built_with": [],
-   "likes": 70,
+   "likes": 388,
    "stars": 0,
    "comments": 0,
    "lang": "en",
-   "first_seen": "2026-11-23",
+   "first_seen": "2026-11-24",
    "updated": "2026-11-24",
    "hw_score": 0,
    "facets": {
-    "domain": [],
-    "form": [
-     "machine"
+    "domain": [
+     "sustainability"
     ],
+    "form": [],
     "interaction": [],
     "platform": [],
     "ai": [],
-    "fab": []
+    "fab": [
+     "3d-print"
+    ]
    },
    "award_tier": 0,
    "score": 20
@@ -189024,6 +188784,47 @@
    "score": 20
   },
   {
+   "id": "hackaday:203972",
+   "title": "AI Coding Assistant for Microsoft QBasic",
+   "tagline": "Vibe coding has come to the Microsoft QBasic v1.1 IDE from 1991 with integrated LLM code completions and code generation.",
+   "description": "",
+   "url": "https://hackaday.io/project/203972-ai-coding-assistant-for-microsoft-qbasic",
+   "source": "hackaday",
+   "event_id": "hackaday-retro-computing-contest",
+   "series_id": "hackaday-prize",
+   "event_name": "Retrocomputing Contest",
+   "year": 2026,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Nick Bild"
+   ],
+   "built_with": [],
+   "likes": 13,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [],
+    "form": [],
+    "interaction": [],
+    "platform": [],
+    "ai": [
+     "llm"
+    ],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 20
+  },
+  {
    "id": "hackaday:191794",
    "title": "AlgaLite",
    "tagline": "A living lamp for climate-conscious homes. It uses microalgae to create sustainable light while improving indoor air quality naturally",
@@ -189062,45 +188863,6 @@
     "interaction": [
      "light-display"
     ],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 20
-  },
-  {
-   "id": "hackaday:185642",
-   "title": "AnemoSens - SLA printed anemometer",
-   "tagline": "This is my design of a SLA printed anemometer",
-   "description": "",
-   "url": "https://hackaday.io/project/185642-anemosens-sla-printed-anemometer",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2022",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2022",
-   "year": 2022,
-   "awards": [],
-   "winner": false,
-   "image": null,
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "Fabian"
-   ],
-   "built_with": [],
-   "likes": 39,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-24",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [],
-    "form": [],
-    "interaction": [],
     "platform": [],
     "ai": [],
     "fab": []
@@ -189304,6 +189066,50 @@
    "score": 20
   },
   {
+   "id": "hackaday:186289",
+   "title": "Autonomous Research Laboratories",
+   "tagline": "A closed-loop spectroscopy laboratory demo using dimmable LEDs and a spectrophotometer. < $100, < 1 sq. ft, < 1 hr setup.",
+   "description": "",
+   "url": "https://hackaday.io/project/186289-autonomous-research-laboratories",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2022",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2022",
+   "year": 2022,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Sterling Baird"
+   ],
+   "built_with": [],
+   "likes": 26,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [
+     "tools-industry"
+    ],
+    "form": [],
+    "interaction": [
+     "light-display",
+     "ambient"
+    ],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 20
+  },
+  {
    "id": "devpost:baemax-qowt51",
    "title": "Baemax",
    "tagline": "A personal miniature healthcare companion who tends to your medical needs.",
@@ -189444,49 +189250,6 @@
      "smart-object"
     ],
     "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 20
-  },
-  {
-   "id": "hackaday:192538",
-   "title": "Blockchain Camera",
-   "tagline": "A photo taken with this camera will instantly become a NFT.\r\nThis camera aims to prove with blockchain that a photo was taken with a camera.",
-   "description": "",
-   "url": "https://hackaday.io/project/192538-blockchain-camera",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2023",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2023",
-   "year": 2023,
-   "awards": [],
-   "winner": false,
-   "image": null,
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "Human Controller"
-   ],
-   "built_with": [],
-   "likes": 26,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-23",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [],
-    "form": [
-     "gadget"
-    ],
-    "interaction": [
-     "vision-gesture"
-    ],
     "platform": [],
     "ai": [],
     "fab": []
@@ -189807,6 +189570,45 @@
    "score": 20
   },
   {
+   "id": "hackaday:181629",
+   "title": "CB2 micro",
+   "tagline": "Perhaps, the cheapest and easiest to build color opensource microcomputer in the world!",
+   "description": "",
+   "url": "https://hackaday.io/project/181629-cb2-micro",
+   "source": "hackaday",
+   "event_id": "hackaday-retro-computing-contest",
+   "series_id": "hackaday-prize",
+   "event_name": "Retrocomputing Contest",
+   "year": 2026,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Kostas"
+   ],
+   "built_with": [],
+   "likes": 11,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [],
+    "form": [],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 20
+  },
+  {
    "id": "hackaday:197467",
    "title": "CL-32",
    "tagline": "A mobile dev terminal, hacker device, anything you like!!",
@@ -189998,6 +189800,45 @@
    "score": 20
   },
   {
+   "id": "hackaday:204482",
+   "title": "CPU running Basic",
+   "tagline": "Celebrating 50 years of Tiny Basic by implementing a custom micro-coded 16/32-bit CPU that executes it directly (up to 100MHz)",
+   "description": "",
+   "url": "https://hackaday.io/project/204482-cpu-running-basic",
+   "source": "hackaday",
+   "event_id": "hackaday-retro-computing-contest",
+   "series_id": "hackaday-prize",
+   "event_name": "Retrocomputing Contest",
+   "year": 2026,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "zpekic"
+   ],
+   "built_with": [],
+   "likes": 13,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [],
+    "form": [],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 20
+  },
+  {
    "id": "hackaday:181038",
    "title": "CRISS CP/M 8-bit Homebrew DIY Computer (AVR based)",
    "tagline": "the FIRST Single-board DIY 8-bit Personal Computer with VGA, Mice, Ethernet and Printer support, GPIO and CP/M powered!",
@@ -190140,45 +189981,6 @@
    "score": 20
   },
   {
-   "id": "hackaday:168558",
-   "title": "CyL3D",
-   "tagline": "Rethinking POV : what about 3D?",
-   "description": "",
-   "url": "https://hackaday.io/project/168558-cyl3d",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2021",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2021",
-   "year": 2021,
-   "awards": [],
-   "winner": false,
-   "image": null,
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "Alexis"
-   ],
-   "built_with": [],
-   "likes": 24,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-24",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [],
-    "form": [],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 20
-  },
-  {
    "id": "devpost:dance-buddy",
    "title": "Dance Buddy™",
    "tagline": "Dance Buddy™ is the perfect way to SPICE up any party. This majestic piece of art sports a portable speaker/ light show combination, with an interactive surprise.",
@@ -190238,50 +190040,11 @@
    "score": 20
   },
   {
-   "id": "hackaday:196769",
-   "title": "DECstation2040",
-   "tagline": "A RP2040 based MIPS emulator, running Ultrix/DECwindows in a business card format.",
+   "id": "hackaday:180779",
+   "title": "DIY Mini UPS for WiFi Router",
+   "tagline": "A DIY uninterrupted power supply that can power up  a WiFi-Router/Modem",
    "description": "",
-   "url": "https://hackaday.io/project/196769-decstation2040",
-   "source": "hackaday",
-   "event_id": "hackaday-2024-business-card-contest",
-   "series_id": "hackaday-prize",
-   "event_name": "Business Card Contest 2024",
-   "year": 2024,
-   "awards": [],
-   "winner": false,
-   "image": null,
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "rscott2049"
-   ],
-   "built_with": [],
-   "likes": 23,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-22",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [],
-    "form": [],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 20
-  },
-  {
-   "id": "hackaday:176811",
-   "title": "Disco Containment Unit",
-   "tagline": "A quarantine-friendly party machine",
-   "description": "",
-   "url": "https://hackaday.io/project/176811-disco-containment-unit",
+   "url": "https://hackaday.io/project/180779-diy-mini-ups-for-wifi-router",
    "source": "hackaday",
    "event_id": "hackaday-prize2021",
    "series_id": "hackaday-prize",
@@ -190294,23 +190057,19 @@
    "repo": null,
    "links": [],
    "team": [
-    "Hamilton Q K"
+    "Open Green Energy"
    ],
    "built_with": [],
-   "likes": 35,
+   "likes": 45,
    "stars": 0,
    "comments": 0,
    "lang": "en",
-   "first_seen": "2026-11-23",
+   "first_seen": "2026-11-24",
    "updated": "2026-11-24",
    "hw_score": 0,
    "facets": {
-    "domain": [
-     "games-fun"
-    ],
-    "form": [
-     "machine"
-    ],
+    "domain": [],
+    "form": [],
     "interaction": [],
     "platform": [],
     "ai": [],
@@ -190602,49 +190361,6 @@
    "score": 20
   },
   {
-   "id": "hackaday:190485",
-   "title": "Echo Sounder Buoys: Upcycling Playbook",
-   "tagline": "Annually, tens of thousands of drifting FAD buoys are deployed in the ocean. Let's upgrade them for cutting-edge marine research.",
-   "description": "",
-   "url": "https://hackaday.io/project/190485-echo-sounder-buoys-upcycling-playbook",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2023",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2023",
-   "year": 2023,
-   "awards": [],
-   "winner": false,
-   "image": null,
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "Brett Smith"
-   ],
-   "built_with": [],
-   "likes": 30,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-24",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [
-     "sustainability"
-    ],
-    "form": [],
-    "interaction": [
-     "haptic"
-    ],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 20
-  },
-  {
    "id": "devpost:edupulse-gyn5jw",
    "title": "EduPulse",
    "tagline": "Pulse to the Rhythm of Health. A smart wristband prioritizing health, proactive alerts, daily motivation. Elevate well-being and academic success of students effortlessly.",
@@ -190798,47 +190514,6 @@
    "score": 20
   },
   {
-   "id": "hackaday:187684",
-   "title": "EPTAORA",
-   "tagline": "7 segment clock",
-   "description": "",
-   "url": "https://hackaday.io/project/187684-eptaora",
-   "source": "hackaday",
-   "event_id": "hackaday-one-hertz-challenge",
-   "series_id": "hackaday-prize",
-   "event_name": "One Hertz Challenge",
-   "year": 2025,
-   "awards": [],
-   "winner": false,
-   "image": null,
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "ekaggrat singh kalsi"
-   ],
-   "built_with": [],
-   "likes": 462,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-24",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [],
-    "form": [
-     "gadget"
-    ],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 20
-  },
-  {
    "id": "devpost:eve-np3yk1",
    "title": "EvE",
    "tagline": "imagine if your plant friend was like a pet that roams around!",
@@ -190883,47 +190558,6 @@
     "platform": [
      "arduino"
     ],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 20
-  },
-  {
-   "id": "hackaday:192369",
-   "title": "F.U.S.E Box",
-   "tagline": "It started with a box found in the dumpster and became a cyberdeck",
-   "description": "",
-   "url": "https://hackaday.io/project/192369-fuse-box",
-   "source": "hackaday",
-   "event_id": "hackaday-cyberdeck-2023",
-   "series_id": "hackaday-prize",
-   "event_name": "Cyberdeck Contest 2023",
-   "year": 2023,
-   "awards": [],
-   "winner": false,
-   "image": null,
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "MakeNModify"
-   ],
-   "built_with": [],
-   "likes": 9,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-24",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [],
-    "form": [
-     "gadget"
-    ],
-    "interaction": [],
-    "platform": [],
     "ai": [],
     "fab": []
    },
@@ -191204,6 +190838,49 @@
     "platform": [
      "arduino"
     ],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 20
+  },
+  {
+   "id": "hackaday:204159",
+   "title": "GeigerWatch, a Sensitiv Radiation Detector Watch",
+   "tagline": "The GeigerWatch uses laser modified BPW34 to detect α, β, γ radiation",
+   "description": "",
+   "url": "https://hackaday.io/project/204159-geigerwatch-a-sensitiv-radiation-detector-watch",
+   "source": "hackaday",
+   "event_id": "hackaday-component-abuse-challenge",
+   "series_id": "hackaday-prize",
+   "event_name": "Component Abuse Challenge",
+   "year": 2025,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Armin Bindzus"
+   ],
+   "built_with": [],
+   "likes": 13,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [],
+    "form": [
+     "wearable"
+    ],
+    "interaction": [
+     "ambient"
+    ],
+    "platform": [],
     "ai": [],
     "fab": []
    },
@@ -191508,6 +191185,87 @@
      "cad",
      "3d-print"
     ]
+   },
+   "award_tier": 0,
+   "score": 20
+  },
+  {
+   "id": "hackaday:195094",
+   "title": "Home Assistant Bathroom fan automation",
+   "tagline": "So it turns out that my kids never remember to turn on the bathroom fan when they take a shower, here's how I fixed that....",
+   "description": "",
+   "url": "https://hackaday.io/project/195094-home-assistant-bathroom-fan-automation",
+   "source": "hackaday",
+   "event_id": "hackaday-2024-sweet-home-automation",
+   "series_id": "hackaday-prize",
+   "event_name": "Home Sweet Home Automation 2024",
+   "year": 2024,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "ladybrinx"
+   ],
+   "built_with": [],
+   "likes": 15,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [
+     "home",
+     "education"
+    ],
+    "form": [],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 20
+  },
+  {
+   "id": "hackaday:189725",
+   "title": "Homebrew 16 bit relay computer",
+   "tagline": "Goal of the project is to develop and build a homebrew 16 bit relay computer ... including a BASIC compiler",
+   "description": "",
+   "url": "https://hackaday.io/project/189725-homebrew-16-bit-relay-computer",
+   "source": "hackaday",
+   "event_id": "hackaday-retro-computing-contest",
+   "series_id": "hackaday-prize",
+   "event_name": "Retrocomputing Contest",
+   "year": 2026,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Peter"
+   ],
+   "built_with": [],
+   "likes": 67,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [],
+    "form": [],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": []
    },
    "award_tier": 0,
    "score": 20
@@ -191818,45 +191576,6 @@
     "platform": [
      "arduino"
     ],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 20
-  },
-  {
-   "id": "hackaday:174015",
-   "title": "Introducing… BeoModern",
-   "tagline": "Bootstrapping great sounding and looking eighties Hi-Fi system into twenty first century.",
-   "description": "",
-   "url": "https://hackaday.io/project/174015-introducing-beomodern",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2021",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2021",
-   "year": 2021,
-   "awards": [],
-   "winner": false,
-   "image": null,
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "mhenryk"
-   ],
-   "built_with": [],
-   "likes": 29,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-24",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [],
-    "form": [],
-    "interaction": [],
-    "platform": [],
     "ai": [],
     "fab": []
    },
@@ -192217,6 +191936,84 @@
    "score": 20
   },
   {
+   "id": "hackaday:180219",
+   "title": "Live-A-Little",
+   "tagline": "Live bolder knowing that life does not last forever.",
+   "description": "",
+   "url": "https://hackaday.io/project/180219-live-a-little",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2021",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2021",
+   "year": 2021,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "John Opsahl"
+   ],
+   "built_with": [],
+   "likes": 42,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [],
+    "form": [],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 20
+  },
+  {
+   "id": "hackaday:165246",
+   "title": "LM80C Color Computer",
+   "tagline": "A Z80 homebrew computer with 64KB SRAM & 32KB ROM (with BASIC), TMS9918A VDP (video) and AY-3-8910 PSG (audio)",
+   "description": "",
+   "url": "https://hackaday.io/project/165246-lm80c-color-computer",
+   "source": "hackaday",
+   "event_id": "hackaday-retro-computing-contest",
+   "series_id": "hackaday-prize",
+   "event_name": "Retrocomputing Contest",
+   "year": 2026,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Leonardo Miliani"
+   ],
+   "built_with": [],
+   "likes": 66,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [],
+    "form": [],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 20
+  },
+  {
    "id": "devpost:locked-in-2tugri",
    "title": "Locked In",
    "tagline": "Locked In tracks library check-ins and check-outs, updating real-time occupancy online so students can see crowd levels and find where their friends are before they go.",
@@ -192270,51 +192067,6 @@
     "ai": [
      "llm"
     ],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 20
-  },
-  {
-   "id": "hackaday:184672",
-   "title": "Long Range Machine Control System",
-   "tagline": "LoRa + ROS Full Duplex Peer to Peer Data Transceiver Array with Onboard High Precision Satellite Positioning",
-   "description": "",
-   "url": "https://hackaday.io/project/184672-long-range-machine-control-system",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2022",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2022",
-   "year": 2022,
-   "awards": [],
-   "winner": false,
-   "image": null,
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "GOAT INDUSTRIES"
-   ],
-   "built_with": [],
-   "likes": 18,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-22",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [
-     "tools-industry"
-    ],
-    "form": [
-     "machine"
-    ],
-    "interaction": [],
-    "platform": [
-     "ros"
-    ],
-    "ai": [],
     "fab": []
    },
    "award_tier": 0,
@@ -192488,16 +192240,16 @@
    "score": 20
   },
   {
-   "id": "hackaday:197276",
-   "title": "Lunar Navigation Game",
-   "tagline": "Your mission is to save Moon Puppies stranded at Moon Base P. (P. for puppy)",
+   "id": "hackaday:204632",
+   "title": "Lunar Lander for the PDP-1",
+   "tagline": "My PDP-1 Replica (PiDP-1) from Obsolescence Guaranteed has arrived and I want to do something cool with it.",
    "description": "",
-   "url": "https://hackaday.io/project/197276-lunar-navigation-game",
+   "url": "https://hackaday.io/project/204632-lunar-lander-for-the-pdp-1",
    "source": "hackaday",
-   "event_id": "hackaday-tiny-games-challenge",
+   "event_id": "hackaday-retro-computing-contest",
    "series_id": "hackaday-prize",
-   "event_name": "Tiny Games Challenge",
-   "year": 2024,
+   "event_name": "Retrocomputing Contest",
+   "year": 2026,
    "awards": [],
    "winner": false,
    "image": null,
@@ -192505,10 +192257,10 @@
    "repo": null,
    "links": [],
    "team": [
-    "Luke J. Barker"
+    "Michael Gardi"
    ],
    "built_with": [],
-   "likes": 18,
+   "likes": 14,
    "stars": 0,
    "comments": 0,
    "lang": "en",
@@ -192516,10 +192268,7 @@
    "updated": "2026-11-24",
    "hw_score": 0,
    "facets": {
-    "domain": [
-     "mobility",
-     "games-fun"
-    ],
+    "domain": [],
     "form": [],
     "interaction": [],
     "platform": [],
@@ -192643,49 +192392,6 @@
    "score": 20
   },
   {
-   "id": "hackaday:182021",
-   "title": "M5Stack Color Maker",
-   "tagline": "With this device, you can copy the color of an object or create a new color with your imagination.",
-   "description": "",
-   "url": "https://hackaday.io/project/182021-m5stack-color-maker",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2021",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2021",
-   "year": 2021,
-   "awards": [],
-   "winner": false,
-   "image": null,
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "AIRPOCKET"
-   ],
-   "built_with": [],
-   "likes": 50,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-24",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [
-     "tools-industry"
-    ],
-    "form": [
-     "gadget"
-    ],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 20
-  },
-  {
    "id": "hackaday:204286",
    "title": "Making Wi-Fi Sound Like Dial-Up Internet",
    "tagline": "After over three decades, AOL finally discontinued their dial-up internet service. But now your Wi-Fi connection can make the same sounds.",
@@ -192777,6 +192483,45 @@
     "platform": [
      "arduino"
     ],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 20
+  },
+  {
+   "id": "hackaday:180051",
+   "title": "Meatloaf",
+   "tagline": "The internet is a massive floppy drive for your C64 with Meatloaf!",
+   "description": "",
+   "url": "https://hackaday.io/project/180051-meatloaf",
+   "source": "hackaday",
+   "event_id": "hackaday-retro-computing-contest",
+   "series_id": "hackaday-prize",
+   "event_name": "Retrocomputing Contest",
+   "year": 2026,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "jaime"
+   ],
+   "built_with": [],
+   "likes": 21,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [],
+    "form": [],
+    "interaction": [],
+    "platform": [],
     "ai": [],
     "fab": []
    },
@@ -193119,6 +192864,49 @@
    "score": 20
   },
   {
+   "id": "hackaday:197769",
+   "title": "Mini OLED SAO",
+   "tagline": "A 0.66\" I2C OLED display as a Simple Add-on.",
+   "description": "",
+   "url": "https://hackaday.io/project/197769-mini-oled-sao",
+   "source": "hackaday",
+   "event_id": "hackaday-supercon-8-sao-contest",
+   "series_id": "hackaday-prize",
+   "event_name": "Supercon 8 Add-On Contest",
+   "year": 2024,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "deʃhipu"
+   ],
+   "built_with": [],
+   "likes": 13,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [],
+    "form": [
+     "gadget"
+    ],
+    "interaction": [
+     "light-display"
+    ],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 20
+  },
+  {
    "id": "devpost:mini-smart-home",
    "title": "Mini Smart Home",
    "tagline": "A fully connected and interactive IoT-based house",
@@ -193222,47 +193010,6 @@
    "score": 20
   },
   {
-   "id": "hackaday:190488",
-   "title": "Modified Miller–Urey experiment",
-   "tagline": "Miller-Urey experiment based on my ideas and theories",
-   "description": "",
-   "url": "https://hackaday.io/project/190488-modified-millerurey-experiment",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2023",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2023",
-   "year": 2023,
-   "awards": [],
-   "winner": false,
-   "image": null,
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "M. Bindhammer"
-   ],
-   "built_with": [],
-   "likes": 15,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-24",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [
-     "tools-industry"
-    ],
-    "form": [],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 20
-  },
-  {
    "id": "hackaday:203541",
    "title": "Most complex blinking light in the world...",
    "tagline": "A relay based computer is used as a flashlight to participate in the One Hertz Challenge...",
@@ -193296,6 +193043,90 @@
     "interaction": [
      "light-display"
     ],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 20
+  },
+  {
+   "id": "hackaday:206816",
+   "title": "MP3 Player Cassette",
+   "tagline": "A device that plays MP3 files looks like a cassette that fits into a cassette player or your pocket.",
+   "description": "",
+   "url": "https://hackaday.io/project/206816-mp3-player-cassette",
+   "source": "hackaday",
+   "event_id": "hackaday-retro-computing-contest",
+   "series_id": "hackaday-prize",
+   "event_name": "Retrocomputing Contest",
+   "year": 2026,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "uk4dshouse"
+   ],
+   "built_with": [],
+   "likes": 13,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [
+     "games-fun"
+    ],
+    "form": [
+     "gadget"
+    ],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 20
+  },
+  {
+   "id": "hackaday:206697",
+   "title": "Mp3 player that only plays on real tape decks",
+   "tagline": "I made an mp3 player that only plays on real tape decks. It reads the takeup wheel motion to start and stop playing with a small encoder",
+   "description": "",
+   "url": "https://hackaday.io/project/206697-mp3-player-that-only-plays-on-real-tape-decks",
+   "source": "hackaday",
+   "event_id": "hackaday-retro-computing-contest",
+   "series_id": "hackaday-prize",
+   "event_name": "Retrocomputing Contest",
+   "year": 2026,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Jonathan Rowny"
+   ],
+   "built_with": [],
+   "likes": 20,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [
+     "games-fun"
+    ],
+    "form": [],
+    "interaction": [],
     "platform": [],
     "ai": [],
     "fab": []
@@ -193343,16 +193174,16 @@
    "score": 20
   },
   {
-   "id": "hackaday:188259",
-   "title": "Mushroom Growing Control System",
-   "tagline": "Industrial control in a humid environment",
+   "id": "hackaday:166686",
+   "title": "NASA Apollo / Saturn V Clock / Countdown Display",
+   "tagline": "Vintage 7 Segment displays salvaged from Kennedy Space Center control room, dating from the time of the Apollo missions",
    "description": "",
-   "url": "https://hackaday.io/project/188259-mushroom-growing-control-system",
+   "url": "https://hackaday.io/project/166686-nasa-apollo-saturn-v-clock-countdown-display",
    "source": "hackaday",
-   "event_id": "hackaday-prize2023",
+   "event_id": "hackaday-prize2021",
    "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2023",
-   "year": 2023,
+   "event_name": "Hackaday Prize 2021",
+   "year": 2021,
    "awards": [],
    "winner": false,
    "image": null,
@@ -193360,10 +193191,10 @@
    "repo": null,
    "links": [],
    "team": [
-    "GOAT INDUSTRIES"
+    "Patrick Hickey"
    ],
    "built_with": [],
-   "likes": 49,
+   "likes": 44,
    "stars": 0,
    "comments": 0,
    "lang": "en",
@@ -193373,10 +193204,14 @@
    "facets": {
     "domain": [
      "tools-industry",
-     "sustainability"
+     "home"
     ],
-    "form": [],
-    "interaction": [],
+    "form": [
+     "gadget"
+    ],
+    "interaction": [
+     "light-display"
+    ],
     "platform": [],
     "ai": [],
     "fab": []
@@ -193756,6 +193591,50 @@
      "gadget"
     ],
     "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 20
+  },
+  {
+   "id": "hackaday:192032",
+   "title": "Openthing 2 - RepTrap",
+   "tagline": "Openthing 2 RepTrap is a detection device and camera trigger for capturing images of relatively small animals, including lizards, frogs etc.",
+   "description": "",
+   "url": "https://hackaday.io/project/192032-openthing-2-reptrap",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2023",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2023",
+   "year": 2023,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Mirko"
+   ],
+   "built_with": [],
+   "likes": 13,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [],
+    "form": [
+     "gadget"
+    ],
+    "interaction": [
+     "vision-gesture",
+     "ambient"
+    ],
     "platform": [],
     "ai": [],
     "fab": []
@@ -194189,6 +194068,45 @@
    "score": 20
   },
   {
+   "id": "hackaday:177345",
+   "title": "Pocket-Sized Imsai-Style Z80 Board",
+   "tagline": "Similar to the old IMSAI 8080, but small enough to fit in your pocket :)",
+   "description": "",
+   "url": "https://hackaday.io/project/177345-pocket-sized-imsai-style-z80-board",
+   "source": "hackaday",
+   "event_id": "hackaday-retro-computing-contest",
+   "series_id": "hackaday-prize",
+   "event_name": "Retrocomputing Contest",
+   "year": 2026,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Nick"
+   ],
+   "built_with": [],
+   "likes": 28,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [],
+    "form": [],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 20
+  },
+  {
    "id": "hackaday:203600",
    "title": "Pomodoro Flasher",
    "tagline": "Time management gadget based on Pomodoro Technique",
@@ -194503,16 +194421,16 @@
    "score": 20
   },
   {
-   "id": "hackaday:176621",
-   "title": "R2Home",
-   "tagline": "GPS Guided Parachute Recovery System - Making Radiosondes Reusable",
+   "id": "hackaday:188240",
+   "title": "Radiant Dice",
+   "tagline": "Geiger counter based random number generator/dice roller",
    "description": "",
-   "url": "https://hackaday.io/project/176621-r2home",
+   "url": "https://hackaday.io/project/188240-radiant-dice",
    "source": "hackaday",
-   "event_id": "hackaday-prize2021",
+   "event_id": "hackaday-retro-computing-contest",
    "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2021",
-   "year": 2021,
+   "event_name": "Retrocomputing Contest",
+   "year": 2026,
    "awards": [],
    "winner": false,
    "image": null,
@@ -194520,10 +194438,10 @@
    "repo": null,
    "links": [],
    "team": [
-    "Yohan Hadji"
+    "Andrew Woodbridge"
    ],
    "built_with": [],
-   "likes": 98,
+   "likes": 8,
    "stars": 0,
    "comments": 0,
    "lang": "en",
@@ -194619,6 +194537,50 @@
    "facets": {
     "domain": [],
     "form": [],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 20
+  },
+  {
+   "id": "hackaday:205276",
+   "title": "RCKid",
+   "tagline": "The first truly personal device for kids — designed to grow with them from drawing sprites to writing C++",
+   "description": "",
+   "url": "https://hackaday.io/project/205276-rckid",
+   "source": "hackaday",
+   "event_id": "hackaday-retro-computing-contest",
+   "series_id": "hackaday-prize",
+   "event_name": "Retrocomputing Contest",
+   "year": 2026,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Zduka"
+   ],
+   "built_with": [],
+   "likes": 8,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [
+     "education",
+     "art-music"
+    ],
+    "form": [
+     "gadget"
+    ],
     "interaction": [],
     "platform": [],
     "ai": [],
@@ -194730,6 +194692,45 @@
    "score": 20
   },
   {
+   "id": "hackaday:180742",
+   "title": "Relay ALU",
+   "tagline": "My son asked: But how does that power can compute?",
+   "description": "",
+   "url": "https://hackaday.io/project/180742-relay-alu",
+   "source": "hackaday",
+   "event_id": "hackaday-retro-computing-contest",
+   "series_id": "hackaday-prize",
+   "event_name": "Retrocomputing Contest",
+   "year": 2026,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Christian"
+   ],
+   "built_with": [],
+   "likes": 15,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [],
+    "form": [],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 20
+  },
+  {
    "id": "devpost:remote-monitoring-ipcam-while-work-on-pc-loaeic",
    "title": "Remote Monitoring IPcam while work on PC",
    "tagline": "Resizable and Draggable IP-camera viewer for Desktop PC",
@@ -194770,6 +194771,51 @@
      "vision-gesture",
      "ambient"
     ],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 20
+  },
+  {
+   "id": "hackaday:181326",
+   "title": "RepRaTS 3D Printable E-Scooter",
+   "tagline": "An electric scooter that can be made entirely from printed parts and off the shelf components without any power tools!",
+   "description": "",
+   "url": "https://hackaday.io/project/181326-reprats-3d-printable-e-scooter",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2021",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2021",
+   "year": 2021,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "James Dietz"
+   ],
+   "built_with": [],
+   "likes": 29,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [
+     "tools-industry",
+     "mobility"
+    ],
+    "form": [
+     "vehicle",
+     "smart-object"
+    ],
+    "interaction": [],
     "platform": [],
     "ai": [],
     "fab": []
@@ -194926,6 +194972,88 @@
    "score": 20
   },
   {
+   "id": "hackaday:202970",
+   "title": "Retro Terminal Control Panel for Bartop Arcade Cab",
+   "tagline": "A modular, swappable control panel which transforms my bartop arcade cabinet into a retro-styled terminal and computer emulator",
+   "description": "",
+   "url": "https://hackaday.io/project/202970-retro-terminal-control-panel-for-bartop-arcade-cab",
+   "source": "hackaday",
+   "event_id": "hackaday-retro-computing-contest",
+   "series_id": "hackaday-prize",
+   "event_name": "Retrocomputing Contest",
+   "year": 2026,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "valkyrie0528"
+   ],
+   "built_with": [],
+   "likes": 24,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [
+     "games-fun"
+    ],
+    "form": [
+     "smart-object"
+    ],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 20
+  },
+  {
+   "id": "hackaday:206597",
+   "title": "RHYTHM",
+   "tagline": "Open-source Hi-res Digital Audio Player",
+   "description": "",
+   "url": "https://hackaday.io/project/206597-rhythm",
+   "source": "hackaday",
+   "event_id": "hackaday-retro-computing-contest",
+   "series_id": "hackaday-prize",
+   "event_name": "Retrocomputing Contest",
+   "year": 2026,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Mithilesh Gupta Konda"
+   ],
+   "built_with": [],
+   "likes": 54,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [],
+    "form": [],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 20
+  },
+  {
    "id": "devpost:rhythmaster",
    "title": "Rhythmaster",
    "tagline": "Want to learn to play Polyrhythms, and impress your audience with complex combinations of two or more rhythms played simultaneously? Attach Rhythmaster to any drum set, practice and become perfect!",
@@ -194972,6 +195100,49 @@
     "platform": [
      "arduino"
     ],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 20
+  },
+  {
+   "id": "hackaday:202450",
+   "title": "Rimer SBC",
+   "tagline": "A real single-board computer: complete stand-alone Cortex-M4 playground.\r\nBased on ATSAMD51J20A, with 320x240 LCD and 40-key keyboard.",
+   "description": "",
+   "url": "https://hackaday.io/project/202450-rimer-sbc",
+   "source": "hackaday",
+   "event_id": "hackaday-retro-computing-contest",
+   "series_id": "hackaday-prize",
+   "event_name": "Retrocomputing Contest",
+   "year": 2026,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Sergey"
+   ],
+   "built_with": [],
+   "likes": 54,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [],
+    "form": [
+     "gadget"
+    ],
+    "interaction": [
+     "light-display"
+    ],
+    "platform": [],
     "ai": [],
     "fab": []
    },
@@ -195690,6 +195861,47 @@
    "score": 20
   },
   {
+   "id": "hackaday:191412",
+   "title": "Smart Garden",
+   "tagline": "Gardening Made Smarter, Easier, and Greener!",
+   "description": "",
+   "url": "https://hackaday.io/project/191412-smart-garden",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2023",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2023",
+   "year": 2023,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Jon"
+   ],
+   "built_with": [],
+   "likes": 34,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [
+     "food-agri"
+    ],
+    "form": [],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 20
+  },
+  {
    "id": "devpost:smart-piggy-bank",
    "title": "Smart Piggy Bank",
    "tagline": "To answer the theme of renovating the future, we have created the smart piggy bank which preserves the concept of a piggy bank while rewarding the user with their saved up money!",
@@ -195742,45 +195954,6 @@
      "laser",
      "3d-print"
     ]
-   },
-   "award_tier": 0,
-   "score": 20
-  },
-  {
-   "id": "hackaday:180910",
-   "title": "SMART Response XE LINUX",
-   "tagline": "Portable \"fullpower\" LINUX Pocket Computer for on the go programming",
-   "description": "",
-   "url": "https://hackaday.io/project/180910-smart-response-xe-linux",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2021",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2021",
-   "year": 2021,
-   "awards": [],
-   "winner": false,
-   "image": null,
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "chmod775"
-   ],
-   "built_with": [],
-   "likes": 52,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-24",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [],
-    "form": [],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
    },
    "award_tier": 0,
    "score": 20
@@ -196114,16 +196287,16 @@
    "score": 20
   },
   {
-   "id": "hackaday:204019",
-   "title": "SolMate",
-   "tagline": "a sleek, solar-powered charger that keeps your devices energized wherever you roam",
+   "id": "hackaday:185640",
+   "title": "SolarSens - 3D printable solar weatherstation",
+   "tagline": "A 3D printable modular wifi weatherstation.",
    "description": "",
-   "url": "https://hackaday.io/project/204019-solmate",
+   "url": "https://hackaday.io/project/185640-solarsens-3d-printable-solar-weatherstation",
    "source": "hackaday",
-   "event_id": "hackaday-green-powered-challenge",
+   "event_id": "hackaday-prize2022",
    "series_id": "hackaday-prize",
-   "event_name": "Green Powered Challenge",
-   "year": 2026,
+   "event_name": "Hackaday Prize 2022",
+   "year": 2022,
    "awards": [],
    "winner": false,
    "image": null,
@@ -196131,23 +196304,21 @@
    "repo": null,
    "links": [],
    "team": [
-    "Arnov Sharma"
+    "Fabian"
    ],
    "built_with": [],
-   "likes": 15,
+   "likes": 44,
    "stars": 0,
    "comments": 0,
    "lang": "en",
-   "first_seen": "2026-11-22",
+   "first_seen": "2026-11-24",
    "updated": "2026-11-24",
    "hw_score": 0,
    "facets": {
     "domain": [
      "sustainability"
     ],
-    "form": [
-     "gadget"
-    ],
+    "form": [],
     "interaction": [],
     "platform": [],
     "ai": [],
@@ -196787,6 +196958,49 @@
    "score": 20
   },
   {
+   "id": "hackaday:180210",
+   "title": "Tardygrade",
+   "tagline": "3D printed quadruped with a tiny BOM",
+   "description": "",
+   "url": "https://hackaday.io/project/180210-tardygrade",
+   "source": "hackaday",
+   "event_id": "hackaday-prize2021",
+   "series_id": "hackaday-prize",
+   "event_name": "Hackaday Prize 2021",
+   "year": 2021,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Dejan Ristic"
+   ],
+   "built_with": [],
+   "likes": 35,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [],
+    "form": [
+     "mobile-robot"
+    ],
+    "interaction": [],
+    "platform": [],
+    "ai": [],
+    "fab": [
+     "3d-print"
+    ]
+   },
+   "award_tier": 0,
+   "score": 20
+  },
+  {
    "id": "devpost:challenge-one",
    "title": "Team C27",
    "tagline": "Closed Project Submission",
@@ -197299,47 +197513,6 @@
    "score": 20
   },
   {
-   "id": "hackaday:204295",
-   "title": "The Piezo Transmitter",
-   "tagline": "Can you generate enough energy to power a transmitter with a piezo disk?",
-   "description": "",
-   "url": "https://hackaday.io/project/204295-the-piezo-transmitter",
-   "source": "hackaday",
-   "event_id": "hackaday-component-abuse-challenge",
-   "series_id": "hackaday-prize",
-   "event_name": "Component Abuse Challenge",
-   "year": 2025,
-   "awards": [],
-   "winner": false,
-   "image": null,
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "b.kainka"
-   ],
-   "built_with": [],
-   "likes": 15,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-22",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [
-     "sustainability"
-    ],
-    "form": [],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 20
-  },
-  {
    "id": "hackaday:187343",
    "title": "The PsuedoPancakes",
    "tagline": "Because paying $2k for a piece of plastic is BS. IPD system included.",
@@ -197583,48 +197756,6 @@
    "score": 20
   },
   {
-   "id": "hackaday:180418",
-   "title": "Throne of Dev",
-   "tagline": "Ultimate Work-from-home Workstation - optimized for days long sitting and coding / board layout work. Without taking much space",
-   "description": "",
-   "url": "https://hackaday.io/project/180418-throne-of-dev",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2021",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2021",
-   "year": 2021,
-   "awards": [],
-   "winner": false,
-   "image": null,
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "Peter van der Walt"
-   ],
-   "built_with": [],
-   "likes": 40,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-24",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [
-     "tools-industry",
-     "home"
-    ],
-    "form": [],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 20
-  },
-  {
    "id": "hackaday:197267",
    "title": "Tiny Bit Machine",
    "tagline": "An 8-bit solar powered gadget.",
@@ -197750,6 +197881,49 @@
     "fab": [
      "3d-print"
     ]
+   },
+   "award_tier": 0,
+   "score": 20
+  },
+  {
+   "id": "hackaday:206090",
+   "title": "Towers of Hanoi meet the Kosmos CP1 in the Matrix",
+   "tagline": "Let's add a beautiful LED RGB Matrix to my Towers of Hanoi program for the 1983 Kosmos CP1 educational computer!",
+   "description": "",
+   "url": "https://hackaday.io/project/206090-towers-of-hanoi-meet-the-kosmos-cp1-in-the-matrix",
+   "source": "hackaday",
+   "event_id": "hackaday-retro-computing-contest",
+   "series_id": "hackaday-prize",
+   "event_name": "Retrocomputing Contest",
+   "year": 2026,
+   "awards": [],
+   "winner": false,
+   "image": null,
+   "video": null,
+   "repo": null,
+   "links": [],
+   "team": [
+    "Michael Wessel"
+   ],
+   "built_with": [],
+   "likes": 8,
+   "stars": 0,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "hw_score": 0,
+   "facets": {
+    "domain": [
+     "education"
+    ],
+    "form": [],
+    "interaction": [
+     "light-display"
+    ],
+    "platform": [],
+    "ai": [],
+    "fab": []
    },
    "award_tier": 0,
    "score": 20
@@ -198229,48 +198403,6 @@
    "score": 20
   },
   {
-   "id": "hackaday:185300",
-   "title": "VacPen",
-   "tagline": "A DIY Vacuum Tweezer/Pickup Tool to help with manually picking up and placing tiny components",
-   "description": "",
-   "url": "https://hackaday.io/project/185300-vacpen",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2022",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2022",
-   "year": 2022,
-   "awards": [],
-   "winner": false,
-   "image": null,
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "sjm4306"
-   ],
-   "built_with": [],
-   "likes": 60,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-24",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [
-     "tools-industry",
-     "home"
-    ],
-    "form": [],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 20
-  },
-  {
    "id": "hackaday:206568",
    "title": "Vacuum Tube Computer",
    "tagline": "This is an 8 bit vacuum tube computer I built using recycled 1950s Vacuum Tubes I found in Eastern Europe a few years ago.",
@@ -198303,131 +198435,6 @@
      "home"
     ],
     "form": [],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 20
-  },
-  {
-   "id": "hackaday:185208",
-   "title": "Valkyrie High Temp 3d-Printer",
-   "tagline": "A Premium DIY High-Temp 3d Printer",
-   "description": "",
-   "url": "https://hackaday.io/project/185208-valkyrie-high-temp-3d-printer",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2022",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2022",
-   "year": 2022,
-   "awards": [],
-   "winner": false,
-   "image": null,
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "Roy Berntsen"
-   ],
-   "built_with": [],
-   "likes": 18,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-24",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [],
-    "form": [
-     "machine"
-    ],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 20
-  },
-  {
-   "id": "hackaday:203457",
-   "title": "Valvano Clock",
-   "tagline": "There are 86,400 seconds in a day....",
-   "description": "",
-   "url": "https://hackaday.io/project/203457-valvano-clock",
-   "source": "hackaday",
-   "event_id": "hackaday-one-hertz-challenge",
-   "series_id": "hackaday-prize",
-   "event_name": "One Hertz Challenge",
-   "year": 2025,
-   "awards": [],
-   "winner": false,
-   "image": null,
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "danjovic"
-   ],
-   "built_with": [],
-   "likes": 14,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-24",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [],
-    "form": [
-     "gadget"
-    ],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 20
-  },
-  {
-   "id": "hackaday:190462",
-   "title": "VIMANA - STEM for ALL",
-   "tagline": "Low Cost Open source Smartphone controlled Micro RC plane Controller for STEM/STEAM Education",
-   "description": "",
-   "url": "https://hackaday.io/project/190462-vimana-stem-for-all",
-   "source": "hackaday",
-   "event_id": "hackaday-prize2023",
-   "series_id": "hackaday-prize",
-   "event_name": "Hackaday Prize 2023",
-   "year": 2023,
-   "awards": [],
-   "winner": false,
-   "image": null,
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "ravi butani"
-   ],
-   "built_with": [],
-   "likes": 35,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-24",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [
-     "education"
-    ],
-    "form": [
-     "gadget"
-    ],
     "interaction": [],
     "platform": [],
     "ai": [],
@@ -198992,11 +198999,11 @@
    "score": 20
   },
   {
-   "id": "hackaday:184361",
-   "title": "ZX80/81 Homebrew Clone",
-   "tagline": "Recreation of a Sinclair ZX81 (dual rom 80/81) based on Grant Searle's project.",
+   "id": "hackaday:206075",
+   "title": "Z80 + RP2350B ZX-compatible homebrew retrocomputer",
+   "tagline": "ZX Spectrum-compatible homemade retrocomputer based on Z80 CPU + discrete RAM and ROM + Raspberry RP2350B as ULA/chipset",
    "description": "",
-   "url": "https://hackaday.io/project/184361-zx8081-homebrew-clone",
+   "url": "https://hackaday.io/project/206075-z80-rp2350b-zx-compatible-homebrew-retrocomputer",
    "source": "hackaday",
    "event_id": "hackaday-retro-computing-contest",
    "series_id": "hackaday-prize",
@@ -199009,62 +199016,19 @@
    "repo": null,
    "links": [],
    "team": [
-    "Augusto Baffa"
+    "Vlad"
    ],
    "built_with": [],
-   "likes": 38,
+   "likes": 15,
    "stars": 0,
    "comments": 0,
    "lang": "en",
-   "first_seen": "2026-11-22",
+   "first_seen": "2026-11-24",
    "updated": "2026-11-24",
    "hw_score": 0,
    "facets": {
     "domain": [],
     "form": [],
-    "interaction": [],
-    "platform": [],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 20
-  },
-  {
-   "id": "hackaday:203616",
-   "title": "“Atomic” Clock",
-   "tagline": "Experiment in non-oscillatory timekeeping - trying to tell the time with a rock and a Geiger counter.",
-   "description": "",
-   "url": "https://hackaday.io/project/203616-atomic-clock",
-   "source": "hackaday",
-   "event_id": "hackaday-one-hertz-challenge",
-   "series_id": "hackaday-prize",
-   "event_name": "One Hertz Challenge",
-   "year": 2025,
-   "awards": [],
-   "winner": false,
-   "image": null,
-   "video": null,
-   "repo": null,
-   "links": [],
-   "team": [
-    "alnwlsn"
-   ],
-   "built_with": [],
-   "likes": 14,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-22",
-   "updated": "2026-11-24",
-   "hw_score": 0,
-   "facets": {
-    "domain": [
-     "tools-industry"
-    ],
-    "form": [
-     "gadget"
-    ],
     "interaction": [],
     "platform": [],
     "ai": [],
@@ -215061,6 +215025,52 @@
    "score": 16
   },
   {
+   "id": "github:eliasp-mt/sisyphus-",
+   "title": "Sisyphus",
+   "tagline": "",
+   "description": "humanoid hackathon Robot runtime (ROS 2) The robot runs ROS 2 Humble on its RDK X5; the PC hosts the control station (local web UI, RViz, collision checked arm planning). See ros2 robot/README.md and the full migration document. The arm uses IDs 1–8 , the dispenser servo 10 , and wheels 11 left / 12 back / 9 right . See hardware and Ethernet troubleshooting. Arm planning and collision libraries arm control/ holds the planning (IK, Ruckig timing), STEP/surface CAD import and PyBullet/OMPL collision checking reused unchanged by the station planner worker, plus the rover scene tools. The previous Station based tools (Station binaries, arm view, teleop, calibration UI, hand control) were removed after the ROS 2 replacement was validated; they remain in Git history (last commit containing them: 934b2b0).",
+   "url": "https://github.com/EliasP-MT/Sisyphus-",
+   "source": "github",
+   "event_id": null,
+   "series_id": "d-robotics",
+   "event_name": null,
+   "year": 2026,
+   "awards": [],
+   "winner": false,
+   "image": "https://opengraph.githubassets.com/1/EliasP-MT/Sisyphus-",
+   "video": null,
+   "repo": "https://github.com/eliasp-mt/sisyphus-",
+   "links": [],
+   "team": [
+    "EliasP-MT"
+   ],
+   "built_with": [
+    "python"
+   ],
+   "likes": 0,
+   "stars": 1,
+   "comments": 0,
+   "lang": "en",
+   "first_seen": "2026-11-19",
+   "updated": "2026-11-24",
+   "_query": "rdk x5 hackathon in:description,readme",
+   "hw_score": 3,
+   "facets": {
+    "domain": [],
+    "form": [
+     "mobile-robot"
+    ],
+    "interaction": [],
+    "platform": [
+     "ros"
+    ],
+    "ai": [],
+    "fab": []
+   },
+   "award_tier": 0,
+   "score": 16
+  },
+  {
    "id": "devpost:slider-scan",
    "title": "Slider Scan",
    "tagline": "This project can be a great resource for painters making big paintings who can easily slide their paper on the board",
@@ -229546,52 +229556,6 @@
     "platform": [
      "ros",
      "jetson"
-    ],
-    "ai": [],
-    "fab": []
-   },
-   "award_tier": 0,
-   "score": 13
-  },
-  {
-   "id": "github:eliasp-mt/sisyphus-",
-   "title": "Sisyphus",
-   "tagline": "",
-   "description": "humanoid hackathon Robot runtime (ROS 2) The robot runs ROS 2 Humble on its RDK X5; the PC hosts the control station (local web UI, RViz, collision checked arm planning). See ros2 robot/README.md and the full migration document. The arm uses IDs 1–8 , the dispenser servo 10 , and wheels 11 left / 12 back / 9 right . See hardware and Ethernet troubleshooting. Arm planning and collision libraries arm control/ holds the planning (IK, Ruckig timing), STEP/surface CAD import and PyBullet/OMPL collision checking reused unchanged by the station planner worker, plus the rover scene tools. The previous Station based tools (Station binaries, arm view, teleop, calibration UI, hand control) were removed after the ROS 2 replacement was validated; they remain in Git history (last commit containing them: 934b2b0).",
-   "url": "https://github.com/EliasP-MT/Sisyphus-",
-   "source": "github",
-   "event_id": null,
-   "series_id": "d-robotics",
-   "event_name": null,
-   "year": 2026,
-   "awards": [],
-   "winner": false,
-   "image": "https://opengraph.githubassets.com/1/EliasP-MT/Sisyphus-",
-   "video": null,
-   "repo": "https://github.com/eliasp-mt/sisyphus-",
-   "links": [],
-   "team": [
-    "EliasP-MT"
-   ],
-   "built_with": [
-    "python"
-   ],
-   "likes": 0,
-   "stars": 0,
-   "comments": 0,
-   "lang": "en",
-   "first_seen": "2026-11-19",
-   "updated": "2026-11-24",
-   "_query": "rdk x5 hackathon in:description,readme",
-   "hw_score": 3,
-   "facets": {
-    "domain": [],
-    "form": [
-     "mobile-robot"
-    ],
-    "interaction": [],
-    "platform": [
-     "ros"
     ],
     "ai": [],
     "fab": []

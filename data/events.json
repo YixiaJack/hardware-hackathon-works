@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T12:32:24+00:00",
+ "generated": "2026-11-24T18:27:25+00:00",
  "series": [
   {
    "id": "hackaday-prize",
@@ -22,7 +22,7 @@
      "year": 2026,
      "url": "https://hackaday.io/submissions/retro-computing-contest/list",
      "state": "ended",
-     "projects": 47,
+     "projects": 70,
      "winners": 0
     },
     {
@@ -32,7 +32,7 @@
      "year": 2026,
      "url": "https://hackaday.io/submissions/frikkin-lasers-challenge/list",
      "state": "ended",
-     "projects": 10,
+     "projects": 9,
      "winners": 0
     },
     {
@@ -52,7 +52,7 @@
      "year": 2025,
      "url": "https://hackaday.io/submissions/component-abuse-challenge/list",
      "state": "ended",
-     "projects": 31,
+     "projects": 32,
      "winners": 0
     },
     {
@@ -62,7 +62,7 @@
      "year": 2025,
      "url": "https://hackaday.io/submissions/one-hertz-challenge/list",
      "state": "ended",
-     "projects": 35,
+     "projects": 31,
      "winners": 0
     },
     {
@@ -72,7 +72,7 @@
      "year": 2024,
      "url": "https://hackaday.io/submissions/supercon-8-sao-contest/list",
      "state": "ended",
-     "projects": 39,
+     "projects": 35,
      "winners": 0
     },
     {
@@ -82,7 +82,7 @@
      "year": 2024,
      "url": "https://hackaday.io/submissions/2024-sweet-home-automation/list",
      "state": "ended",
-     "projects": 35,
+     "projects": 36,
      "winners": 0
     },
     {
@@ -102,7 +102,7 @@
      "year": 2024,
      "url": "https://hackaday.io/submissions/2024-business-card-contest/list",
      "state": "ended",
-     "projects": 49,
+     "projects": 45,
      "winners": 0
     },
     {
@@ -112,7 +112,7 @@
      "year": 2023,
      "url": "https://hackaday.io/submissions/prize2023/list",
      "state": "ended",
-     "projects": 113,
+     "projects": 112,
      "winners": 0
     },
     {
@@ -132,7 +132,7 @@
      "year": 2022,
      "url": "https://hackaday.io/submissions/prize2022/list",
      "state": "ended",
-     "projects": 101,
+     "projects": 90,
      "winners": 0
     },
     {
