@@ -42,12 +42,12 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 
 | 维度 | 分布 Top |
 | :-- | :-- |
-| **场景** Domain | 🩺健康医疗 571 · 🎮游戏娱乐 530 · 🌱环境可持续 521 · 🏠家居生活 442 · 🎓教育学习 393 · 🚲出行交通 354 |
-| **形态** Form factor | 📟桌面小装置 869 · ⌚可穿戴 414 · 🪑智能物件/家具 285 · ⚙️制造机器/机构 274 · 🥽XR/空间计算 226 · 🤖移动机器人 187 |
-| **交互** Interaction | 📡环境感知/自主 1080 · 👋视觉/手势 798 · 💡光与显示 672 · 🗣️语音对话 419 · 🎛️实体操控 236 · 🧠生理信号 161 |
-| **平台** Platform | ♾️Arduino 1927 · 🍓Raspberry Pi 779 · 📶ESP32/ESP8266 567 · 🔧其他 MCU 112 · 🟩NVIDIA Jetson 68 · 🛰️ROS 65 |
-| **智能** AI capability | 👁️计算机视觉 656 · ✨大模型/生成式 537 · 📈机器学习 429 · 🎙️语音 AI 219 · 🦿机器人学习 53 · 🔋端侧 ML 35 |
-| **工艺** Fabrication | 🧱3D 打印 467 · 📐CAD 建模 397 · 🔦激光切割 234 · 🧵织物/手工 59 · 🟢PCB 设计 36 |
+| **场景** Domain | 🩺健康医疗 573 · 🎮游戏娱乐 531 · 🌱环境可持续 518 · 🏠家居生活 437 · 🎓教育学习 389 · 🚲出行交通 353 |
+| **形态** Form factor | 📟桌面小装置 880 · ⌚可穿戴 416 · 🪑智能物件/家具 283 · ⚙️制造机器/机构 272 · 🥽XR/空间计算 225 · 🤖移动机器人 185 |
+| **交互** Interaction | 📡环境感知/自主 1081 · 👋视觉/手势 797 · 💡光与显示 676 · 🗣️语音对话 419 · 🎛️实体操控 236 · 🧠生理信号 163 |
+| **平台** Platform | ♾️Arduino 1926 · 🍓Raspberry Pi 780 · 📶ESP32/ESP8266 566 · 🔧其他 MCU 110 · 🟩NVIDIA Jetson 68 · 🛰️ROS 65 |
+| **智能** AI capability | 👁️计算机视觉 655 · ✨大模型/生成式 537 · 📈机器学习 430 · 🎙️语音 AI 219 · 🦿机器人学习 53 · 🔋端侧 ML 36 |
+| **工艺** Fabrication | 🧱3D 打印 465 · 📐CAD 建模 397 · 🔦激光切割 234 · 🧵织物/手工 57 · 🟢PCB 设计 36 |
 
 ### 「有意思指数」怎么算？（0–100）
 
@@ -76,7 +76,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 
 ## 🗂️ 按场景浏览（每类 Top 5）
 
-<details><summary><b>🩺 健康医疗 · Health & Medical</b> — 571 件</summary>
+<details><summary><b>🩺 健康医疗 · Health & Medical</b> — 573 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
@@ -100,7 +100,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 
 </details>
 
-<details><summary><b>🌱 环境可持续 · Sustainability</b> — 521 件</summary>
+<details><summary><b>🌱 环境可持续 · Sustainability</b> — 518 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
@@ -112,7 +112,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 
 </details>
 
-<details><summary><b>🌾 农业食物 · Food & Agriculture</b> — 279 件</summary>
+<details><summary><b>🌾 农业食物 · Food & Agriculture</b> — 278 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
@@ -124,7 +124,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 
 </details>
 
-<details><summary><b>🏠 家居生活 · Home & Everyday</b> — 442 件</summary>
+<details><summary><b>🏠 家居生活 · Home & Everyday</b> — 437 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
@@ -136,7 +136,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 
 </details>
 
-<details><summary><b>⏱️ 效率与自律 · Productivity & Habits</b> — 228 件</summary>
+<details><summary><b>⏱️ 效率与自律 · Productivity & Habits</b> — 227 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
@@ -148,7 +148,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 
 </details>
 
-<details><summary><b>🎓 教育学习 · Education</b> — 393 件</summary>
+<details><summary><b>🎓 教育学习 · Education</b> — 389 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
@@ -160,7 +160,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 
 </details>
 
-<details><summary><b>🛡️ 安全应急 · Safety & Security</b> — 282 件</summary>
+<details><summary><b>🛡️ 安全应急 · Safety & Security</b> — 284 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
@@ -172,7 +172,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 
 </details>
 
-<details><summary><b>🚲 出行交通 · Mobility & Transport</b> — 354 件</summary>
+<details><summary><b>🚲 出行交通 · Mobility & Transport</b> — 353 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
@@ -196,7 +196,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 
 </details>
 
-<details><summary><b>🎮 游戏娱乐 · Games & Fun</b> — 530 件</summary>
+<details><summary><b>🎮 游戏娱乐 · Games & Fun</b> — 531 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
@@ -208,7 +208,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 
 </details>
 
-<details><summary><b>💞 社交情感 · Social & Emotional</b> — 313 件</summary>
+<details><summary><b>💞 社交情感 · Social & Emotional</b> — 312 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
@@ -220,7 +220,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 
 </details>
 
-<details><summary><b>🛠️ 工具与制造 · Tools & Industry</b> — 322 件</summary>
+<details><summary><b>🛠️ 工具与制造 · Tools & Industry</b> — 321 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
