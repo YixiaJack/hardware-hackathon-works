@@ -2,184 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>Hardware Hackathon Works · 硬件黑客松作品雷达</title>
 <link href="https://hardware-hackathon-works.vercel.app/"/>
-<updated>2026-11-26T06:35:36+00:00</updated>
+<updated>2026-11-26T12:32:21+00:00</updated>
 <id>https://hardware-hackathon-works.vercel.app/</id>
 <entry>
-<title>[HDP 2022] Put an RPi CM4 into an original iPad · Hackaday Prize 2022</title>
-<link href="https://hackaday.io/project/186431-hdp-2022-put-an-rpi-cm4-into-an-original-ipad"/>
-<id>hackaday:186431</id>
+<title>Ethersweep · Hackaday Prize 2022</title>
+<link href="https://hackaday.io/project/187187-ethersweep"/>
+<id>hackaday:187187</id>
 <updated>2026-11-26T00:00:00Z</updated>
-<summary>Open up a 2010 iPad, remove its logic board, and fabricate a new board based around the Raspberry Pi CM4.</summary>
-</entry>
-<entry>
-<title>Flexible circuit wind generator · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/181882-flexible-circuit-wind-generator"/>
-<id>hackaday:181882</id>
-<updated>2026-11-26T00:00:00Z</updated>
-<summary>A new way to generate wind energy using only polyester film based flexible circuits</summary>
-</entry>
-<entry>
-<title>Low cost Augmented Reality VR for microcontroller · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/179843-low-cost-augmented-reality-vr-for-microcontroller"/>
-<id>hackaday:179843</id>
-<updated>2026-11-26T00:00:00Z</updated>
-<summary>Optimized for use microcontrollers and SPI displays
-popular ST7789 1.3&quot; IPS 240x240
-FEEL LIKE IRON MAN !!!!!</summary>
-</entry>
-<entry>
-<title>Open6X robot arm · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/181875-open6x-robot-arm"/>
-<id>hackaday:181875</id>
-<updated>2026-11-26T00:00:00Z</updated>
-<summary>open source, 3d printed, 6-axis robot arm</summary>
-</entry>
-<entry>
-<title>Pixel Pump Pick &amp; Place · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/181916-pixel-pump-pick-place"/>
-<id>hackaday:181916</id>
-<updated>2026-11-26T00:00:00Z</updated>
-<summary>An open-source manual pick and place machine for PCB artisans</summary>
-</entry>
-<entry>
-<title>Smart Apartement Ventilation · Home Sweet Home Automation 2024</title>
-<link href="https://hackaday.io/project/184366-smart-apartement-ventilation"/>
-<id>hackaday:184366</id>
-<updated>2026-11-26T00:00:00Z</updated>
-<summary>Conversion of the existing apartment ventilation. Implemented with an ESP8266.</summary>
-</entry>
-<entry>
-<title>TEST-O the Test Robot Addon · Supercon 8 Add-On Contest</title>
-<link href="https://hackaday.io/project/198571-test-o-the-test-robot-addon"/>
-<id>hackaday:198571</id>
-<updated>2026-11-26T00:00:00Z</updated>
-<summary>Robot buddy addon that can test diodes and continuity.</summary>
-</entry>
-<entry>
-<title>Universal CNC controller · Business Card Contest 2024</title>
-<link href="https://hackaday.io/project/196507-universal-cnc-controller"/>
-<id>hackaday:196507</id>
-<updated>2026-11-26T00:00:00Z</updated>
-<summary>Neuron-1 is a universal CNC controller with a plug-and-play system that ensures secure and fast connections.</summary>
-</entry>
-<entry>
-<title>10mbps over 1km on a single pair of wires · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/179020-10mbps-over-1km-on-a-single-pair-of-wires"/>
-<id>hackaday:179020</id>
-<updated>2026-11-26T00:00:00Z</updated>
-<summary>A simple 46mmx22.5mm module to route power and differential signals (RS-485) over RJ-45</summary>
-</entry>
-<entry>
-<title>CB2 micro · Retrocomputing Contest</title>
-<link href="https://hackaday.io/project/181629-cb2-micro"/>
-<id>hackaday:181629</id>
-<updated>2026-11-26T00:00:00Z</updated>
-<summary>Perhaps, the cheapest and easiest to build color opensource microcomputer in the world!</summary>
-</entry>
-<entry>
-<title>CRISS CP/M 8-bit Homebrew DIY Computer (AVR based) · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/181038-criss-cpm-8-bit-homebrew-diy-computer-avr-based"/>
-<id>hackaday:181038</id>
-<updated>2026-11-26T00:00:00Z</updated>
-<summary>the FIRST Single-board DIY 8-bit Personal Computer with VGA, Mice, Ethernet and Printer support, GPIO and CP/M powered!</summary>
-</entry>
-<entry>
-<title>Direct Granules Extruder, FDM prints from powder · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/181165-direct-granules-extruder-fdm-prints-from-powder"/>
-<id>hackaday:181165</id>
-<updated>2026-11-26T00:00:00Z</updated>
-<summary>Waste plastic turned into raw material for 3D printing.</summary>
-</entry>
-<entry>
-<title>M4-Breadstick (Retired) → Raspberry Breadstick · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/180819-m4-breadstick-retired-raspberry-breadstick"/>
-<id>hackaday:180819</id>
-<updated>2026-11-26T00:00:00Z</updated>
-<summary>A long and thin development board, with spaced out I/O pins to minimize the length and number of jumper wires required.</summary>
-</entry>
-<entry>
-<title>next.module · Hackaday Prize 2023</title>
-<link href="https://hackaday.io/project/189481-nextmodule"/>
-<id>hackaday:189481</id>
-<updated>2026-11-26T00:00:00Z</updated>
-<summary>Flexible, compact and beautiful prototyping framework</summary>
-</entry>
-<entry>
-<title>Restoring HP’s atomic clock that sync&#x27;ed the world · One Hertz Challenge</title>
-<link href="https://hackaday.io/project/203540-restoring-hps-atomic-clock-that-synced-the-world"/>
-<id>hackaday:203540</id>
-<updated>2026-11-26T00:00:00Z</updated>
-<summary>We restore an HP 115BR divider and clock. Its atomic-driven 1 second tick famously sync&#x27;ed the world&#x27;s second in 1964.</summary>
-</entry>
-<entry>
-<title>Single Chip Computer · Retrocomputing Contest</title>
-<link href="https://hackaday.io/project/194587-single-chip-computer"/>
-<id>hackaday:194587</id>
-<updated>2026-11-26T00:00:00Z</updated>
-<summary>Simple Single Chip Computer running MCS BASIC-52 with wireless connectivity between PC or Phone. No external crystal, latch or RAM required!</summary>
-</entry>
-<entry>
-<title>Sunrise Alarm Clock · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/168165-sunrise-alarm-clock"/>
-<id>hackaday:168165</id>
-<updated>2026-11-26T00:00:00Z</updated>
-<summary>Alarm clock with ramp-up light and music to get you out of bed on cold winter mornings</summary>
-</entry>
-<entry>
-<title>VinyGo, a stereo vinyl recorder · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/181401-vinygo-a-stereo-vinyl-recorder"/>
-<id>hackaday:181401</id>
-<updated>2026-11-26T00:00:00Z</updated>
-<summary>For artists, vinyl stores, recording studios, or music lovers</summary>
-</entry>
-<entry>
-<title>VVD: an open source Real 3D Volumetric Display · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/180304-vvd-an-open-source-real-3d-volumetric-display"/>
-<id>hackaday:180304</id>
-<updated>2026-11-26T00:00:00Z</updated>
-<summary>Your 3D content on a real PoV volumetric display, no glasses needed!</summary>
-</entry>
-<entry>
-<title>3D-printable double helical gear pump *watertight* · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/182068-3d-printable-double-helical-gear-pump-watertight"/>
-<id>hackaday:182068</id>
-<updated>2026-11-26T00:00:00Z</updated>
-<summary>Fully 3D-printable hydraulics for all your robotics projects</summary>
-</entry>
-<entry>
-<title>Delta Robot One · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/169861-delta-robot-one"/>
-<id>hackaday:169861</id>
-<updated>2026-11-26T00:00:00Z</updated>
-<summary>Smart open source robotics project for makers and students. Combines electronics, mechanics and informatics in one system.</summary>
-</entry>
-<entry>
-<title>EtherCAT servodrive · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/181058-ethercat-servodrive"/>
-<id>hackaday:181058</id>
-<updated>2026-11-26T00:00:00Z</updated>
-<summary>Free CoE (CAN over EtherCAT) CiA402 servodrive on STM32. For open motor controllers like ODrive, STMBL, or your next thing.</summary>
-</entry>
-<entry>
-<title>FlowIO Platform · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/179845-flowio-platform"/>
-<id>hackaday:179845</id>
-<updated>2026-11-26T00:00:00Z</updated>
-<summary>Miniature, modular pneumatics toolkit for control &amp; sensing of Soft Robots and Programmable Materials, developed at MIT Media Lab</summary>
-</entry>
-<entry>
-<title>REDACTED - The First Fully Open Bipedal Robot · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/181799-redacted-the-first-fully-open-bipedal-robot"/>
-<id>hackaday:181799</id>
-<updated>2026-11-26T00:00:00Z</updated>
-<summary>TLDR: REDACTED is the first bipedal robot with an actual fully open-source software AND hardware stack.</summary>
-</entry>
-<entry>
-<title>TapV2 · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/180843-tapv2"/>
-<id>hackaday:180843</id>
-<updated>2026-11-26T00:00:00Z</updated>
-<summary>ESP32-Pico based, sensor-packed, kinda-silly wearable for not-every-day use!</summary>
+<summary>An Open Source Ethernet controllable stepper motor. Easy interfacing with JSON and UDP from any device on the network in any language.</summary>
 </entry>
 <entry>
 <title>3D-printable shredder · Hackaday Prize 2021</title>
@@ -190,27 +20,6 @@ FEEL LIKE IRON MAN !!!!!</summary>
 3D-prints ;-)</summary>
 </entry>
 <entry>
-<title>Animabot - Advanced Hexapod Robot · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/168312-animabot-advanced-hexapod-robot"/>
-<id>hackaday:168312</id>
-<updated>2026-11-26T00:00:00Z</updated>
-<summary>Animabot is a 3D printed hexapod robot created to be a daily life companion to interact with people and its environment.</summary>
-</entry>
-<entry>
-<title>Animated Ferrofluid Display Using Electromagnets · One Hertz Challenge</title>
-<link href="https://hackaday.io/project/203707-animated-ferrofluid-display-using-electromagnets"/>
-<id>hackaday:203707</id>
-<updated>2026-11-26T00:00:00Z</updated>
-<summary>Flat Panel Ferrofluid Display updating at 1Hz inspired by Applied Procrastination&#x27;s original ferrofluid display</summary>
-</entry>
-<entry>
-<title>Arduino Space Invaders Game on 8x8 Homemade Matrix · Tiny Games Challenge</title>
-<link href="https://hackaday.io/project/178988-arduino-space-invaders-game-on-8x8-homemade-matrix"/>
-<id>hackaday:178988</id>
-<updated>2026-11-26T00:00:00Z</updated>
-<summary>Space Invaders is a 1978 arcade game created by Tomohiro Nishikado.</summary>
-</entry>
-<entry>
 <title>ARX Hand Project X1M · Hackaday Prize 2021</title>
 <link href="https://hackaday.io/project/169585-arx-hand-project-x1m"/>
 <id>hackaday:169585</id>
@@ -218,11 +27,11 @@ FEEL LIKE IRON MAN !!!!!</summary>
 <summary>An advance modular 3D printed mechanical prosthetic</summary>
 </entry>
 <entry>
-<title>Autonomous tracked robotic platform UGV · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/181500-autonomous-tracked-robotic-platform-ugv"/>
-<id>hackaday:181500</id>
+<title>Basic Farm Robot 2021 · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/181449-basic-farm-robot-2021"/>
+<id>hackaday:181449</id>
 <updated>2026-11-26T00:00:00Z</updated>
-<summary>One of my most advanced projects to date. A tracked robotic development platform that [hopefully] raises the bar for hobby robotics.</summary>
+<summary>Minimal &#x27;no frills&#x27; development platform for farm robots</summary>
 </entry>
 <entry>
 <title>breadWare · Hackaday Prize 2021</title>
@@ -232,13 +41,6 @@ FEEL LIKE IRON MAN !!!!!</summary>
 <summary>A jumperless breadboard</summary>
 </entry>
 <entry>
-<title>ChatGPT Robot Kit: Unlock your AI Dream Job · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/180171-chatgpt-robot-kit-unlock-your-ai-dream-job"/>
-<id>hackaday:180171</id>
-<updated>2026-11-26T00:00:00Z</updated>
-<summary>ChatGPT+Gemini+Claude | Open Source | ROS2 | Assembly within 1 hour | Quickstart</summary>
-</entry>
-<entry>
 <title>DESERT EYE: Military Surveillance Robot · Hackaday Prize 2021</title>
 <link href="https://hackaday.io/project/181648-desert-eye-military-surveillance-robot"/>
 <id>hackaday:181648</id>
@@ -246,32 +48,11 @@ FEEL LIKE IRON MAN !!!!!</summary>
 <summary>A tactical robot that can traverse the desert environment, video enemy locations and stream the feed back to soldiers on the ground in V.R.</summary>
 </entry>
 <entry>
-<title>Eye-to-Speech Module · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/180893-eye-to-speech-module"/>
-<id>hackaday:180893</id>
+<title>Flexible circuit wind generator · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/181882-flexible-circuit-wind-generator"/>
+<id>hackaday:181882</id>
 <updated>2026-11-26T00:00:00Z</updated>
-<summary>We want to help people who are unable to communicate verbally and cannot use sign language by providing a wearable “eye-to-speech&quot; solution.</summary>
-</entry>
-<entry>
-<title>fastLOGIC! open-source (industrial) logic control · Home Sweet Home Automation 2024</title>
-<link href="https://hackaday.io/project/194762-fastlogic-open-source-industrial-logic-control"/>
-<id>hackaday:194762</id>
-<updated>2026-11-26T00:00:00Z</updated>
-<summary>An affordable Arduino-based board designed for fast (industrial) logic control, ideal for building small-scale automation and control</summary>
-</entry>
-<entry>
-<title>Hack-Man SAO · Supercon 8 Add-On Contest</title>
-<link href="https://hackaday.io/project/198301-hack-man-sao"/>
-<id>hackaday:198301</id>
-<updated>2026-11-26T00:00:00Z</updated>
-<summary>A Pac-Man themed SAO using an obscure but cheap microcontroller</summary>
-</entry>
-<entry>
-<title>High Altitude Balloon Tracker WSPR APRS · Hackaday Prize 2023</title>
-<link href="https://hackaday.io/project/190775-high-altitude-balloon-tracker-wspr-aprs"/>
-<id>hackaday:190775</id>
-<updated>2026-11-26T00:00:00Z</updated>
-<summary>Solar powered RP2040 based circuit for transmitting 20 meter and VHF telemetry while circumnavigating the globe at ~50,000&#x27;</summary>
+<summary>A new way to generate wind energy using only polyester film based flexible circuits</summary>
 </entry>
 <entry>
 <title>LightInk · Green Powered Challenge</title>
@@ -281,25 +62,13 @@ FEEL LIKE IRON MAN !!!!!</summary>
 <summary>ESP32 E-Ink watch that can run solely on solar power</summary>
 </entry>
 <entry>
-<title>Lightup breadboard · Hackaday Prize 2023</title>
-<link href="https://hackaday.io/project/190765-lightup-breadboard"/>
-<id>hackaday:190765</id>
+<title>Low cost Augmented Reality VR for microcontroller · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/179843-low-cost-augmented-reality-vr-for-microcontroller"/>
+<id>hackaday:179843</id>
 <updated>2026-11-26T00:00:00Z</updated>
-<summary>Each line of the breadboard has an LED that glows based on the voltage on that line</summary>
-</entry>
-<entry>
-<title>Make It So! The Star Trek TNG Mini Display · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/172400-make-it-so-the-star-trek-tng-mini-display"/>
-<id>hackaday:172400</id>
-<updated>2026-11-26T00:00:00Z</updated>
-<summary>A microcontroller-based Star Trek TNG operational display</summary>
-</entry>
-<entry>
-<title>MetaSense · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/181697-metasense"/>
-<id>hackaday:181697</id>
-<updated>2026-11-26T00:00:00Z</updated>
-<summary>Using conductive and flex filament to 3d print interactive interfaces.</summary>
+<summary>Optimized for use microcontrollers and SPI displays
+popular ST7789 1.3&quot; IPS 240x240
+FEEL LIKE IRON MAN !!!!!</summary>
 </entry>
 <entry>
 <title>Morse Quest: An Arduino Nano-Based Text Adventure · Tiny Games Challenge</title>
@@ -323,11 +92,11 @@ FEEL LIKE IRON MAN !!!!!</summary>
 <summary>Made an XL version of the beloved WS2812B addressable LED that works like its original counterpart!</summary>
 </entry>
 <entry>
-<title>Ozirma - near infrared spectrometer · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/179969-ozirma-near-infrared-spectrometer"/>
-<id>hackaday:179969</id>
+<title>Open6X robot arm · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/181875-open6x-robot-arm"/>
+<id>hackaday:181875</id>
 <updated>2026-11-26T00:00:00Z</updated>
-<summary>A small infrared spectrometer to help plastic recycling. Dedicated to micro-factories around the world.</summary>
+<summary>open source, 3d printed, 6-axis robot arm</summary>
 </entry>
 <entry>
 <title>Persistence of Vision POV Display SAO · Supercon 8 Add-On Contest</title>
@@ -337,46 +106,39 @@ FEEL LIKE IRON MAN !!!!!</summary>
 <summary>Accelerometer-based Hand-waved POV display with front and back LEDs, creating a 5 pixel x 12 char display. Message customizable via I2C.</summary>
 </entry>
 <entry>
-<title>PnPAssist · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/179878-pnpassist"/>
-<id>hackaday:179878</id>
+<title>Pixel Pump Pick &amp; Place · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/181916-pixel-pump-pick-place"/>
+<id>hackaday:181916</id>
 <updated>2026-11-26T00:00:00Z</updated>
-<summary>PnPAssist is a tool that helps you to assemble PCB boards manually.</summary>
+<summary>An open-source manual pick and place machine for PCB artisans</summary>
 </entry>
 <entry>
-<title>Raspberry Pi Spectrometer · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/181144-raspberry-pi-spectrometer"/>
-<id>hackaday:181144</id>
+<title>QingStation, Ultrasonic Anemometer/Weather Station · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/180079-qingstation-ultrasonic-anemometerweather-station"/>
+<id>hackaday:180079</id>
 <updated>2026-11-26T00:00:00Z</updated>
-<summary>The PySpectrometer is a Python (OpenCV and Tkinter) implementation of an optical spectrometer for the Raspberry Pi.</summary>
+<summary>An opensource compact ultrasonic anemometer/weather station</summary>
 </entry>
 <entry>
-<title>Raspberry Pi Zero W Smart Glasses · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/181167-raspberry-pi-zero-w-smart-glasses"/>
-<id>hackaday:181167</id>
+<title>Sensitive Arduino Lightning detector with TA7642 · Hackaday Prize 2022</title>
+<link href="https://hackaday.io/project/181408-sensitive-arduino-lightning-detector-with-ta7642"/>
+<id>hackaday:181408</id>
 <updated>2026-11-26T00:00:00Z</updated>
-<summary>It&#x27;s a display in front of your eyes that runs Linux. You can do pretty much anything with it.</summary>
+<summary>How to make a Sensitive homemade Lightning detector based on cheap AM Receiver IC TA7642 and Arduino Nano</summary>
 </entry>
 <entry>
-<title>SMS controlled heating control · Home Sweet Home Automation 2024</title>
-<link href="https://hackaday.io/project/166317-sms-controlled-heating-control"/>
-<id>hackaday:166317</id>
+<title>Smart Apartement Ventilation · Home Sweet Home Automation 2024</title>
+<link href="https://hackaday.io/project/184366-smart-apartement-ventilation"/>
+<id>hackaday:184366</id>
 <updated>2026-11-26T00:00:00Z</updated>
-<summary>Using a Raspberry Pi and a UMTS stick I control the heating in my part-time flat by text messages.</summary>
+<summary>Conversion of the existing apartment ventilation. Implemented with an ESP8266.</summary>
 </entry>
 <entry>
-<title>Solar Powered WiFi Weather Station V3.0 · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/182052-solar-powered-wifi-weather-station-v30"/>
-<id>hackaday:182052</id>
+<title>TEST-O the Test Robot Addon · Supercon 8 Add-On Contest</title>
+<link href="https://hackaday.io/project/198571-test-o-the-test-robot-addon"/>
+<id>hackaday:198571</id>
 <updated>2026-11-26T00:00:00Z</updated>
-<summary>ESP32 based Open Source Weather Station</summary>
-</entry>
-<entry>
-<title>Stereo Ninja · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/180044-stereo-ninja"/>
-<id>hackaday:180044</id>
-<updated>2026-11-26T00:00:00Z</updated>
-<summary>A DIY digital stereo-microscope. Low cost. Open source software and hardware. For electronics inspection, soldering work and more.</summary>
+<summary>Robot buddy addon that can test diodes and continuity.</summary>
 </entry>
 <entry>
 <title>Toshiba T3200SXC fix/upgrade: new PSU, LCD, WiFi · Hackaday Prize 2022</title>
@@ -393,39 +155,18 @@ FEEL LIKE IRON MAN !!!!!</summary>
 <summary>I turned my 2-ton industrial robot into something it was never meant to be: a 3D-printer.</summary>
 </entry>
 <entry>
-<title>uEMG - small 4-channel EMG wearable device · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/167916-uemg-small-4-channel-emg-wearable-device"/>
-<id>hackaday:167916</id>
+<title>Universal CNC controller · Business Card Contest 2024</title>
+<link href="https://hackaday.io/project/196507-universal-cnc-controller"/>
+<id>hackaday:196507</id>
 <updated>2026-11-26T00:00:00Z</updated>
-<summary>A 4-channel EMG wearable (with a bracelet!) to control stuff with it.</summary>
+<summary>Neuron-1 is a universal CNC controller with a plug-and-play system that ensures secure and fast connections.</summary>
 </entry>
 <entry>
-<title>Ultimate Brick Game: A Childhood Icon Rewired · One Hertz Challenge</title>
-<link href="https://hackaday.io/project/203305-ultimate-brick-game-a-childhood-icon-rewired"/>
-<id>hackaday:203305</id>
+<title>10mbps over 1km on a single pair of wires · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/179020-10mbps-over-1km-on-a-single-pair-of-wires"/>
+<id>hackaday:179020</id>
 <updated>2026-11-26T00:00:00Z</updated>
-<summary>The infamous “9999-in-1” handheld was never real — so I rebuilt it with a Pi Zero, a 2.8 TFT display, and a 4800mAh battery</summary>
-</entry>
-<entry>
-<title>Wall-E · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/165989-wall-e"/>
-<id>hackaday:165989</id>
-<updated>2026-11-26T00:00:00Z</updated>
-<summary>A small-size, low-cost, Wall-E robot. Remote controlled from a HTML5 interface, through WiFi websockets.</summary>
-</entry>
-<entry>
-<title>Zakhar the Robot · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/171888-zakhar-the-robot"/>
-<id>hackaday:171888</id>
-<updated>2026-11-26T00:00:00Z</updated>
-<summary>An interesting robot without a clear purpose</summary>
-</entry>
-<entry>
-<title>&quot;Mercator Origins&quot;: Sat Nav &amp; Telemetry for Divers · Hackaday Prize 2023</title>
-<link href="https://hackaday.io/project/190591-mercator-origins-sat-nav-telemetry-for-divers"/>
-<id>hackaday:190591</id>
-<updated>2026-11-26T00:00:00Z</updated>
-<summary>Want to map your dive? Want to navigate like a pro? Even if you are vision-impaired, this will empower you to navigate our underwater world.</summary>
+<summary>A simple 46mmx22.5mm module to route power and differential signals (RS-485) over RJ-45</summary>
 </entry>
 <entry>
 <title>3D Printable 2-axis MEMS Mirror · Hackaday Prize 2021</title>
@@ -435,11 +176,18 @@ FEEL LIKE IRON MAN !!!!!</summary>
 <summary>A home buildable 2D mirror for controlling light deflection.</summary>
 </entry>
 <entry>
-<title>8Bit Educational computer · Hackaday Prize 2023</title>
-<link href="https://hackaday.io/project/190760-8bit-educational-computer"/>
-<id>hackaday:190760</id>
+<title>3D PRINTED PORTABLE WIND TURBINE · Hackaday Prize 2022</title>
+<link href="https://hackaday.io/project/185070-3d-printed-portable-wind-turbine"/>
+<id>hackaday:185070</id>
 <updated>2026-11-26T00:00:00Z</updated>
-<summary>A remake of ben eater&#x27;s 8 bit architecture with some more added functionalities</summary>
+<summary>A small Portable Wind Turbine, mostly 3D printed!</summary>
+</entry>
+<entry>
+<title>Affordable bionic prosthesis · Hackaday Prize 2023</title>
+<link href="https://hackaday.io/project/184945-affordable-bionic-prosthesis"/>
+<id>hackaday:184945</id>
+<updated>2026-11-26T00:00:00Z</updated>
+<summary>This project aims to create an affordable lower limb prosthesis for above knee amputees using hobby grade components.</summary>
 </entry>
 <entry>
 <title>All About Laptop Display Reuse · Hackaday Prize 2021</title>
@@ -449,122 +197,377 @@ FEEL LIKE IRON MAN !!!!!</summary>
 <summary>LVDS, eDP, connectors and controllers - let&#x27;s learn it all</summary>
 </entry>
 <entry>
-<title>Anteneh’s Jerry Can · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/178283-antenehs-jerry-can"/>
-<id>hackaday:178283</id>
+<title>CB2 micro · Retrocomputing Contest</title>
+<link href="https://hackaday.io/project/181629-cb2-micro"/>
+<id>hackaday:181629</id>
 <updated>2026-11-26T00:00:00Z</updated>
-<summary>A new kind of Jerry can for water transport for rural areas that ease the pain for the person carrying the load with lower cost.</summary>
+<summary>Perhaps, the cheapest and easiest to build color opensource microcomputer in the world!</summary>
 </entry>
 <entry>
-<title>BioAmp EXG Pill v1.0b · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/178997-bioamp-exg-pill-v10b"/>
-<id>hackaday:178997</id>
+<title>CRISS CP/M 8-bit Homebrew DIY Computer (AVR based) · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/181038-criss-cpm-8-bit-homebrew-diy-computer-avr-based"/>
+<id>hackaday:181038</id>
 <updated>2026-11-26T00:00:00Z</updated>
-<summary>BioPotential amplification on your finger tip!</summary>
+<summary>the FIRST Single-board DIY 8-bit Personal Computer with VGA, Mice, Ethernet and Printer support, GPIO and CP/M powered!</summary>
 </entry>
 <entry>
-<title>Braiding Machine - Maypole Braider and bobbins · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/181960-braiding-machine-maypole-braider-and-bobbins"/>
-<id>hackaday:181960</id>
+<title>CRTelecaster · Hackaday Prize 2022</title>
+<link href="https://hackaday.io/project/185353-crtelecaster"/>
+<id>hackaday:185353</id>
 <updated>2026-11-26T00:00:00Z</updated>
-<summary>Basic design concepts for a 3D printable maypole braiding machine with bobbin carriers designed with tension control.</summary>
+<summary>A CRT TV made into a guitar-like instrument
+Inspired by the CRTelecaster made by 
+ELECTRONICS FANTASTICOS</summary>
 </entry>
 <entry>
-<title>Canta-Cart · Business Card Contest 2024</title>
-<link href="https://hackaday.io/project/196643-canta-cart"/>
-<id>hackaday:196643</id>
+<title>Direct Granules Extruder, FDM prints from powder · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/181165-direct-granules-extruder-fdm-prints-from-powder"/>
+<id>hackaday:181165</id>
 <updated>2026-11-26T00:00:00Z</updated>
-<summary>Low-cost card-sized musical instrument with touch keys</summary>
+<summary>Waste plastic turned into raw material for 3D printing.</summary>
 </entry>
 <entry>
-<title>Core16: Interactive Core Memory Made Smaller · Business Card Contest 2024</title>
-<link href="https://hackaday.io/project/191834-core16-interactive-core-memory-made-smaller"/>
-<id>hackaday:191834</id>
+<title>ELLO LC1 · Hackaday Prize 2022</title>
+<link href="https://hackaday.io/project/187468-ello-lc1"/>
+<id>hackaday:187468</id>
 <updated>2026-11-26T00:00:00Z</updated>
-<summary>Core16 makes it easier to get started weaving your own Interactive Core Memory. You can do a lot of fun stuff with it after it is assembled!</summary>
+<summary>World&amp;amp;#x27;s thinnest fully standalone DIY computer - 2mm!!</summary>
 </entry>
 <entry>
-<title>Credit Card-sized Reaction Time game · Tiny Games Challenge</title>
-<link href="https://hackaday.io/project/197030-credit-card-sized-reaction-time-game"/>
-<id>hackaday:197030</id>
+<title>Glass Tube Solar Thermionic Converters · Hackaday Prize 2022</title>
+<link href="https://hackaday.io/project/184951-glass-tube-solar-thermionic-converters"/>
+<id>hackaday:184951</id>
 <updated>2026-11-26T00:00:00Z</updated>
-<summary>To improve response time, eye and hand coordination, I created a small gaming device.</summary>
+<summary>Thermionic energy conversion isn&#x27;t very efficient (it&#x27;s also nothing new) but they *are* photovoltaic devices you can build with a torch</summary>
 </entry>
 <entry>
-<title>DIY Mini UPS for WiFi Router · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/180779-diy-mini-ups-for-wifi-router"/>
-<id>hackaday:180779</id>
+<title>Long Range Weather Station (65€) · Hackaday Prize 2023</title>
+<link href="https://hackaday.io/project/191652-long-range-weather-station-65"/>
+<id>hackaday:191652</id>
 <updated>2026-11-26T00:00:00Z</updated>
-<summary>A DIY uninterrupted power supply that can power up  a WiFi-Router/Modem</summary>
+<summary>A cheap but precise Weather Station (Lora transmission)</summary>
 </entry>
 <entry>
-<title>EPTAORA · One Hertz Challenge</title>
-<link href="https://hackaday.io/project/187684-eptaora"/>
-<id>hackaday:187684</id>
+<title>M4-Breadstick (Retired) → Raspberry Breadstick · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/180819-m4-breadstick-retired-raspberry-breadstick"/>
+<id>hackaday:180819</id>
 <updated>2026-11-26T00:00:00Z</updated>
-<summary>7 segment clock</summary>
+<summary>A long and thin development board, with spaced out I/O pins to minimize the length and number of jumper wires required.</summary>
 </entry>
 <entry>
-<title>Ham Radio foxhunt transmitter · One Hertz Challenge</title>
-<link href="https://hackaday.io/project/203452-ham-radio-foxhunt-transmitter"/>
-<id>hackaday:203452</id>
+<title>MicroPong · Tiny Games Challenge</title>
+<link href="https://hackaday.io/project/197870-micropong"/>
+<id>hackaday:197870</id>
 <updated>2026-11-26T00:00:00Z</updated>
-<summary>Ham Radio foxhunt transmitter</summary>
+<summary>Pong that fits nicely on a penny.</summary>
 </entry>
 <entry>
-<title>HP printer cartridge control module · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/176931-hp-printer-cartridge-control-module"/>
-<id>hackaday:176931</id>
+<title>MicroSynth: Part Biz Card, Part Synth, All Analog · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/181914-microsynth-part-biz-card-part-synth-all-analog"/>
+<id>hackaday:181914</id>
 <updated>2026-11-26T00:00:00Z</updated>
-<summary>HP 63/302/123/803 cartridge control module with 3D printable mount.</summary>
+<summary>A Tiny, Low Cost, Super Simple Synth for Fun and Learning</summary>
 </entry>
 <entry>
-<title>India Navi · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/179890-india-navi"/>
-<id>hackaday:179890</id>
+<title>Mini Electromagnetic &quot;Shake&quot; Lantern · Hackaday Prize 2022</title>
+<link href="https://hackaday.io/project/185103-mini-electromagnetic-shake-lantern"/>
+<id>hackaday:185103</id>
 <updated>2026-11-26T00:00:00Z</updated>
-<summary>old school new tech outdoor navigation system</summary>
+<summary>A mini electromagnetic lantern that can be recharged by shaking</summary>
 </entry>
 <entry>
-<title>LED matrix cylinder gaming display · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/162035-led-matrix-cylinder-gaming-display"/>
-<id>hackaday:162035</id>
+<title>Moss Microbial Fuel Cell · Hackaday Prize 2022</title>
+<link href="https://hackaday.io/project/185108-moss-microbial-fuel-cell"/>
+<id>hackaday:185108</id>
 <updated>2026-11-26T00:00:00Z</updated>
-<summary>Large WS2812 LED cylindric display project (1600 LEDs)</summary>
+<summary>Harvesting electricity with the help of moss dwelling microorganisms!</summary>
 </entry>
 <entry>
-<title>LoRa darkStar · Hackaday Prize 2023</title>
-<link href="https://hackaday.io/project/187574-lora-darkstar"/>
-<id>hackaday:187574</id>
+<title>next.module · Hackaday Prize 2023</title>
+<link href="https://hackaday.io/project/189481-nextmodule"/>
+<id>hackaday:189481</id>
 <updated>2026-11-26T00:00:00Z</updated>
-<summary>Low Quiescent Current, Solar Powered +30dB LoRa</summary>
+<summary>Flexible, compact and beautiful prototyping framework</summary>
 </entry>
 <entry>
-<title>Lord Vetinari’s Clock with Radiation · One Hertz Challenge</title>
-<link href="https://hackaday.io/project/203596-lord-vetinaris-clock-with-radiation"/>
-<id>hackaday:203596</id>
+<title>Nintendo 8-Bit Homebrew Clone Console · Retrocomputing Contest</title>
+<link href="https://hackaday.io/project/190004-nintendo-8-bit-homebrew-clone-console"/>
+<id>hackaday:190004</id>
 <updated>2026-11-26T00:00:00Z</updated>
-<summary>A clock that is run at one becquerel instead of one hertz</summary>
+<summary>Yeah... I built my own Nintendo 8-Bit clone console...</summary>
 </entry>
 <entry>
-<title>macr0 · Hackaday Prize 2021</title>
-<link href="https://hackaday.io/project/175874-macr0"/>
-<id>hackaday:175874</id>
+<title>OpenDendrometer · Hackaday Prize 2022</title>
+<link href="https://hackaday.io/project/185224-opendendrometer"/>
+<id>hackaday:185224</id>
 <updated>2026-11-26T00:00:00Z</updated>
-<summary>4-key macro keypad.</summary>
+<summary>monitor the health of trees and fruit</summary>
 </entry>
 <entry>
-<title>MCU-less teletype terminal using Alphacom printer · Retrocomputing Contest</title>
-<link href="https://hackaday.io/project/206469-mcu-less-teletype-terminal-using-alphacom-printer"/>
-<id>hackaday:206469</id>
+<title>PICOmputer FLIP - pocket ZX Spectrum · Retrocomputing Contest</title>
+<link href="https://hackaday.io/project/206926-picomputer-flip-pocket-zx-spectrum"/>
+<id>hackaday:206926</id>
 <updated>2026-11-26T00:00:00Z</updated>
-<summary>I&#x27;d like to build a teletype-style terminal using an Alphacom thermal printer and a decent keyboard that will work with any RC2014</summary>
+<summary>My computer, my rules. World need V style !</summary>
 </entry>
 <entry>
-<title>MEMOGRAM · Hackaday Prize 2023</title>
-<link href="https://hackaday.io/project/190533-memogram"/>
-<id>hackaday:190533</id>
+<title>Rave in a briefcase · Hackaday Prize 2022</title>
+<link href="https://hackaday.io/project/185133-rave-in-a-briefcase"/>
+<id>hackaday:185133</id>
 <updated>2026-11-26T00:00:00Z</updated>
-<summary>MEMOGRAM prints our images as written descriptions, giving us an appointment months/years later to (re)discover those moments.</summary>
+<summary>Thrifted briefcase, dumpster dived rails, electronics out of an old skiff, panel lasercutted out of a broken frame</summary>
+</entry>
+<entry>
+<title>reDOT_RGB · Supercon 8 Add-On Contest</title>
+<link href="https://hackaday.io/project/197898-redotrgb"/>
+<id>hackaday:197898</id>
+<updated>2026-11-26T00:00:00Z</updated>
+<summary>smart miniature 5x7 LED Matrix with SAO header</summary>
+</entry>
+<entry>
+<title>Restoring HP’s atomic clock that sync&#x27;ed the world · One Hertz Challenge</title>
+<link href="https://hackaday.io/project/203540-restoring-hps-atomic-clock-that-synced-the-world"/>
+<id>hackaday:203540</id>
+<updated>2026-11-26T00:00:00Z</updated>
+<summary>We restore an HP 115BR divider and clock. Its atomic-driven 1 second tick famously sync&#x27;ed the world&#x27;s second in 1964.</summary>
+</entry>
+<entry>
+<title>Rŏ̽ta · Hackaday Prize 2022</title>
+<link href="https://hackaday.io/project/186093-rota"/>
+<id>hackaday:186093</id>
+<updated>2026-11-26T00:00:00Z</updated>
+<summary>Sticking some nixie tubes on a rotary phone dial</summary>
+</entry>
+<entry>
+<title>Single Chip Computer · Retrocomputing Contest</title>
+<link href="https://hackaday.io/project/194587-single-chip-computer"/>
+<id>hackaday:194587</id>
+<updated>2026-11-26T00:00:00Z</updated>
+<summary>Simple Single Chip Computer running MCS BASIC-52 with wireless connectivity between PC or Phone. No external crystal, latch or RAM required!</summary>
+</entry>
+<entry>
+<title>Sunrise Alarm Clock · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/168165-sunrise-alarm-clock"/>
+<id>hackaday:168165</id>
+<updated>2026-11-26T00:00:00Z</updated>
+<summary>Alarm clock with ramp-up light and music to get you out of bed on cold winter mornings</summary>
+</entry>
+<entry>
+<title>Tridora-CPU · Retrocomputing Contest</title>
+<link href="https://hackaday.io/project/198324-tridora-cpu"/>
+<id>hackaday:198324</id>
+<updated>2026-11-26T00:00:00Z</updated>
+<summary>a homebrew FPGA CPU with a native Pascal compiler and a simple development environment</summary>
+</entry>
+<entry>
+<title>UltraTower · Hackaday Prize 2022</title>
+<link href="https://hackaday.io/project/186829-ultratower"/>
+<id>hackaday:186829</id>
+<updated>2026-11-26T00:00:00Z</updated>
+<summary>Grow vegetables with ultraponics tower</summary>
+</entry>
+<entry>
+<title>VVD: an open source Real 3D Volumetric Display · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/180304-vvd-an-open-source-real-3d-volumetric-display"/>
+<id>hackaday:180304</id>
+<updated>2026-11-26T00:00:00Z</updated>
+<summary>Your 3D content on a real PoV volumetric display, no glasses needed!</summary>
+</entry>
+<entry>
+<title>X-MEM/80 for the TRS-80 · Retrocomputing Contest</title>
+<link href="https://hackaday.io/project/204163-x-mem80-for-the-trs-80"/>
+<id>hackaday:204163</id>
+<updated>2026-11-26T00:00:00Z</updated>
+<summary>A minimally invasive 512 KB paged memory expansion for the TRS-80 Model 1 and III</summary>
+</entry>
+<entry>
+<title>YAHRC - Yet Another Ham Radio Cyberdeck · Cyberdeck Contest 2023</title>
+<link href="https://hackaday.io/project/187527-yahrc-yet-another-ham-radio-cyberdeck"/>
+<id>hackaday:187527</id>
+<updated>2026-11-26T00:00:00Z</updated>
+<summary>How about a tiny rpi based cyberdeck, Huh ?</summary>
+</entry>
+<entry>
+<title>3D-printable double helical gear pump *watertight* · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/182068-3d-printable-double-helical-gear-pump-watertight"/>
+<id>hackaday:182068</id>
+<updated>2026-11-26T00:00:00Z</updated>
+<summary>Fully 3D-printable hydraulics for all your robotics projects</summary>
+</entry>
+<entry>
+<title>Delta Robot One · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/169861-delta-robot-one"/>
+<id>hackaday:169861</id>
+<updated>2026-11-26T00:00:00Z</updated>
+<summary>Smart open source robotics project for makers and students. Combines electronics, mechanics and informatics in one system.</summary>
+</entry>
+<entry>
+<title>ESP32 3-Channel Power Logger · Hackaday Prize 2022</title>
+<link href="https://hackaday.io/project/187504-esp32-3-channel-power-logger"/>
+<id>hackaday:187504</id>
+<updated>2026-11-26T00:00:00Z</updated>
+<summary>Power logger based on the INA3221 chip with TFT Display, SD card and battery (charging and monitoring) support</summary>
+</entry>
+<entry>
+<title>FlowIO Platform · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/179845-flowio-platform"/>
+<id>hackaday:179845</id>
+<updated>2026-11-26T00:00:00Z</updated>
+<summary>Miniature, modular pneumatics toolkit for control &amp; sensing of Soft Robots and Programmable Materials, developed at MIT Media Lab</summary>
+</entry>
+<entry>
+<title>Home Assistant Solar Tracker · Hackaday Prize 2022</title>
+<link href="https://hackaday.io/project/184360-home-assistant-solar-tracker"/>
+<id>hackaday:184360</id>
+<updated>2026-11-26T00:00:00Z</updated>
+<summary>Solar Tracker based on ESP32 with low cost actuators integrated on Home Assistant</summary>
+</entry>
+<entry>
+<title>Microtronic Phoenix · Retrocomputing Contest</title>
+<link href="https://hackaday.io/project/202835-microtronic-phoenix"/>
+<id>hackaday:202835</id>
+<updated>2026-11-26T00:00:00Z</updated>
+<summary>After 45 years, the original Microtronic firmware ROM rises from the ashes and flies with new hardware!</summary>
+</entry>
+<entry>
+<title>Project Bird Fish - Free Flight Robotics · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/176736-project-bird-fish-free-flight-robotics"/>
+<id>hackaday:176736</id>
+<updated>2026-11-26T00:00:00Z</updated>
+<summary>Considerate conservation and climate science is on the horizon. These robots are developed to work in multi-species flocks for GOOD!</summary>
+</entry>
+<entry>
+<title>REDACTED - The First Fully Open Bipedal Robot · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/181799-redacted-the-first-fully-open-bipedal-robot"/>
+<id>hackaday:181799</id>
+<updated>2026-11-26T00:00:00Z</updated>
+<summary>TLDR: REDACTED is the first bipedal robot with an actual fully open-source software AND hardware stack.</summary>
+</entry>
+<entry>
+<title>TapV2 · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/180843-tapv2"/>
+<id>hackaday:180843</id>
+<updated>2026-11-26T00:00:00Z</updated>
+<summary>ESP32-Pico based, sensor-packed, kinda-silly wearable for not-every-day use!</summary>
+</entry>
+<entry>
+<title>µ Spec Mk II · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/181376-spec-mk-ii"/>
+<id>hackaday:181376</id>
+<updated>2026-11-26T00:00:00Z</updated>
+<summary>Compact Scientific Multi Sensor Measurement Unit. 
+19Ch Spectrometer - Thermal Imaging - audio &amp; light Spectrum Analyzer - 2D LIDAR Imaging</summary>
+</entry>
+<entry>
+<title>3D printing in wood · Hackaday Prize 2022</title>
+<link href="https://hackaday.io/project/185329-3d-printing-in-wood"/>
+<id>hackaday:185329</id>
+<updated>2026-11-26T00:00:00Z</updated>
+<summary>Using wood waste to create 3D prints</summary>
+</entry>
+<entry>
+<title>Animated Ferrofluid Display Using Electromagnets · One Hertz Challenge</title>
+<link href="https://hackaday.io/project/203707-animated-ferrofluid-display-using-electromagnets"/>
+<id>hackaday:203707</id>
+<updated>2026-11-26T00:00:00Z</updated>
+<summary>Flat Panel Ferrofluid Display updating at 1Hz inspired by Applied Procrastination&#x27;s original ferrofluid display</summary>
+</entry>
+<entry>
+<title>Bed leveling sensor · Hackaday Prize 2022</title>
+<link href="https://hackaday.io/project/185096-bed-leveling-sensor"/>
+<id>hackaday:185096</id>
+<updated>2026-11-26T00:00:00Z</updated>
+<summary>Give you amazing first layers</summary>
+</entry>
+<entry>
+<title>Burning Pictures on a Compact Disc Surface · Hackaday Prize 2022</title>
+<link href="https://hackaday.io/project/186303-burning-pictures-on-a-compact-disc-surface"/>
+<id>hackaday:186303</id>
+<updated>2026-11-26T00:00:00Z</updated>
+<summary>No LightScribe, no LabelTag. No hardware hacks or gimmicks. A regular CD-RW drive and a regular compact disk.</summary>
+</entry>
+<entry>
+<title>Can transformer · Hackaday Prize 2022</title>
+<link href="https://hackaday.io/project/185542-can-transformer"/>
+<id>hackaday:185542</id>
+<updated>2026-11-26T00:00:00Z</updated>
+<summary>Re-use drinks cans as other things using a purpose-built CNC machine to cut them up.</summary>
+</entry>
+<entry>
+<title>CHANGER - a toolchanger new interpreted · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/175489-changer-a-toolchanger-new-interpreted"/>
+<id>hackaday:175489</id>
+<updated>2026-11-26T00:00:00Z</updated>
+<summary>CHANGER -  a motion system which can be used for advanced 3D-Printing with up to four materials, PnP, PCB-Milling, Layer inspection, etc...</summary>
+</entry>
+<entry>
+<title>ChatGPT Robot Kit: Unlock your AI Dream Job · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/180171-chatgpt-robot-kit-unlock-your-ai-dream-job"/>
+<id>hackaday:180171</id>
+<updated>2026-11-26T00:00:00Z</updated>
+<summary>ChatGPT+Gemini+Claude | Open Source | ROS2 | Assembly within 1 hour | Quickstart</summary>
+</entry>
+<entry>
+<title>DIY Soil Moisture Sensor with E-Ink Display · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/180373-diy-soil-moisture-sensor-with-e-ink-display"/>
+<id>hackaday:180373</id>
+<updated>2026-11-26T00:00:00Z</updated>
+<summary>Wireless capacitive soil moisture mini sensor with 1.02 inch e-paper display.</summary>
+</entry>
+<entry>
+<title>Environmental Toolkit for an Ecological Area · Hackaday Prize 2022</title>
+<link href="https://hackaday.io/project/186547-environmental-toolkit-for-an-ecological-area"/>
+<id>hackaday:186547</id>
+<updated>2026-11-26T00:00:00Z</updated>
+<summary>LoRaWAN IoT system with the Arduino MKR WAN 1300, that help my community to monitor the air quality and water of our ecological area</summary>
+</entry>
+<entry>
+<title>Eye-to-Speech Module · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/180893-eye-to-speech-module"/>
+<id>hackaday:180893</id>
+<updated>2026-11-26T00:00:00Z</updated>
+<summary>We want to help people who are unable to communicate verbally and cannot use sign language by providing a wearable “eye-to-speech&quot; solution.</summary>
+</entry>
+<entry>
+<title>fastLOGIC! open-source (industrial) logic control · Home Sweet Home Automation 2024</title>
+<link href="https://hackaday.io/project/194762-fastlogic-open-source-industrial-logic-control"/>
+<id>hackaday:194762</id>
+<updated>2026-11-26T00:00:00Z</updated>
+<summary>An affordable Arduino-based board designed for fast (industrial) logic control, ideal for building small-scale automation and control</summary>
+</entry>
+<entry>
+<title>Felini - Revolutionary Pocket-Sized Electronic Lab · Hackaday Prize 2023</title>
+<link href="https://hackaday.io/project/192130-felini-revolutionary-pocket-sized-electronic-lab"/>
+<id>hackaday:192130</id>
+<updated>2026-11-26T00:00:00Z</updated>
+<summary>Extremely affordable pocket-friendly, designed to provide a wide range of hardware testing and debugging functions in a compact and low-cost</summary>
+</entry>
+<entry>
+<title>FM Receiver/Radio using Arduino and TEA5767 · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/176053-fm-receiverradio-using-arduino-and-tea5767"/>
+<id>hackaday:176053</id>
+<updated>2026-11-26T00:00:00Z</updated>
+<summary>A Digital FM Receiver with Arduino (Including 3W+3W Class-D Stereo Amplifier)</summary>
+</entry>
+<entry>
+<title>Green BMS · Hackaday Prize 2021</title>
+<link href="https://hackaday.io/project/181453-green-bms"/>
+<id>hackaday:181453</id>
+<updated>2026-11-26T00:00:00Z</updated>
+<summary>Open source Bluetooth Smart Battery Management System</summary>
+</entry>
+<entry>
+<title>Green Detect · Hackaday Prize 2022</title>
+<link href="https://hackaday.io/project/186064-green-detect"/>
+<id>hackaday:186064</id>
+<updated>2026-11-26T00:00:00Z</updated>
+<summary>Wireless Sensor Network Platform (WSN) , for enviromental monitoring</summary>
+</entry>
+<entry>
+<title>Hack-Man SAO · Supercon 8 Add-On Contest</title>
+<link href="https://hackaday.io/project/198301-hack-man-sao"/>
+<id>hackaday:198301</id>
+<updated>2026-11-26T00:00:00Z</updated>
+<summary>A Pac-Man themed SAO using an obscure but cheap microcontroller</summary>
 </entry>
 </feed>
