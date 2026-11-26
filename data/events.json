@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T12:32:20+00:00",
+ "generated": "2026-11-26T18:28:30+00:00",
  "series": [
   {
    "id": "hackaday-prize",
@@ -12,7 +12,7 @@
    "url": "https://hackaday.io/prize",
    "blurb_zh": "全球开源硬件『奥斯卡』，校准『解决真实问题 + 可复现』",
    "blurb_en": "The open-hardware 'Oscars' — real problems, reproducible builds.",
-   "projects": 617,
+   "projects": 661,
    "winners": 0,
    "editions": [
     {
@@ -42,7 +42,7 @@
      "year": 2026,
      "url": "https://hackaday.io/submissions/green-powered-challenge/list",
      "state": "ended",
-     "projects": 24,
+     "projects": 22,
      "winners": 0
     },
     {
@@ -52,7 +52,7 @@
      "year": 2025,
      "url": "https://hackaday.io/submissions/component-abuse-challenge/list",
      "state": "ended",
-     "projects": 33,
+     "projects": 34,
      "winners": 0
     },
     {
@@ -62,7 +62,7 @@
      "year": 2025,
      "url": "https://hackaday.io/submissions/one-hertz-challenge/list",
      "state": "ended",
-     "projects": 25,
+     "projects": 35,
      "winners": 0
     },
     {
@@ -92,7 +92,7 @@
      "year": 2024,
      "url": "https://hackaday.io/submissions/tiny-games-challenge/list",
      "state": "ended",
-     "projects": 28,
+     "projects": 27,
      "winners": 0
     },
     {
@@ -102,7 +102,7 @@
      "year": 2024,
      "url": "https://hackaday.io/submissions/2024-business-card-contest/list",
      "state": "ended",
-     "projects": 45,
+     "projects": 47,
      "winners": 0
     },
     {
@@ -112,7 +112,7 @@
      "year": 2023,
      "url": "https://hackaday.io/submissions/prize2023/list",
      "state": "ended",
-     "projects": 91,
+     "projects": 110,
      "winners": 0
     },
     {
@@ -122,7 +122,7 @@
      "year": 2023,
      "url": "https://hackaday.io/submissions/cyberdeck-2023/list",
      "state": "ended",
-     "projects": 34,
+     "projects": 35,
      "winners": 0
     },
     {
@@ -132,7 +132,7 @@
      "year": 2022,
      "url": "https://hackaday.io/submissions/prize2022/list",
      "state": "ended",
-     "projects": 80,
+     "projects": 93,
      "winners": 0
     },
     {
@@ -142,7 +142,7 @@
      "year": 2021,
      "url": "https://hackaday.io/submissions/prize2021/list",
      "state": "ended",
-     "projects": 105,
+     "projects": 106,
      "winners": 0
     }
    ]
@@ -1479,7 +1479,7 @@
      "url": "https://treehacks-2026.devpost.com/",
      "gallery_url": "https://treehacks-2026.devpost.com/project-gallery",
      "dates": "Feb 14 - 15, 2026",
-     "registrations": 1096,
+     "registrations": 1094,
      "state": "ended",
      "winners_announced": true,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/240/803/datas/medium_square.png",
@@ -4439,7 +4439,7 @@
      "url": "https://hack-mit-2023.devpost.com/",
      "gallery_url": "https://hack-mit-2023.devpost.com/project-gallery",
      "dates": "Sep 16 - 17, 2023",
-     "registrations": 1071,
+     "registrations": 1064,
      "state": "ended",
      "winners_announced": true,
      "thumbnail": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/551/116/datas/medium_square.png",
