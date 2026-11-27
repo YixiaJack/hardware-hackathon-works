@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T12:31:46+00:00",
+ "generated": "2026-11-27T18:27:50+00:00",
  "series": [
   {
    "id": "hackaday-prize",
@@ -12,7 +12,7 @@
    "url": "https://hackaday.io/prize",
    "blurb_zh": "全球开源硬件『奥斯卡』，校准『解决真实问题 + 可复现』",
    "blurb_en": "The open-hardware 'Oscars' — real problems, reproducible builds.",
-   "projects": 649,
+   "projects": 668,
    "winners": 0,
    "editions": [
     {
@@ -22,7 +22,7 @@
      "year": 2026,
      "url": "https://hackaday.io/submissions/retro-computing-contest/list",
      "state": "ended",
-     "projects": 69,
+     "projects": 71,
      "winners": 0
     },
     {
@@ -42,7 +42,7 @@
      "year": 2026,
      "url": "https://hackaday.io/submissions/green-powered-challenge/list",
      "state": "ended",
-     "projects": 25,
+     "projects": 23,
      "winners": 0
     },
     {
@@ -72,7 +72,7 @@
      "year": 2024,
      "url": "https://hackaday.io/submissions/supercon-8-sao-contest/list",
      "state": "ended",
-     "projects": 39,
+     "projects": 40,
      "winners": 0
     },
     {
@@ -92,7 +92,7 @@
      "year": 2024,
      "url": "https://hackaday.io/submissions/tiny-games-challenge/list",
      "state": "ended",
-     "projects": 27,
+     "projects": 29,
      "winners": 0
     },
     {
@@ -112,7 +112,7 @@
      "year": 2023,
      "url": "https://hackaday.io/submissions/prize2023/list",
      "state": "ended",
-     "projects": 79,
+     "projects": 108,
      "winners": 0
     },
     {
@@ -122,7 +122,7 @@
      "year": 2023,
      "url": "https://hackaday.io/submissions/cyberdeck-2023/list",
      "state": "ended",
-     "projects": 38,
+     "projects": 34,
      "winners": 0
     },
     {
@@ -132,7 +132,7 @@
      "year": 2022,
      "url": "https://hackaday.io/submissions/prize2022/list",
      "state": "ended",
-     "projects": 99,
+     "projects": 95,
      "winners": 0
     },
     {
@@ -142,7 +142,7 @@
      "year": 2021,
      "url": "https://hackaday.io/submissions/prize2021/list",
      "state": "ended",
-     "projects": 109,
+     "projects": 104,
      "winners": 0
     }
    ]
