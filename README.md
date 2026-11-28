@@ -5,11 +5,11 @@
 **自动收录全球硬件 / 机器人 / 具身交互赛事里最有意思的作品**
 MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hackaday · Hackster · 立创开源 · AdventureX …
 
-[![Works](https://img.shields.io/badge/作品-4495-38BDF8?style=flat-square)](https://hardware-hackathon-works.vercel.app/)
+[![Works](https://img.shields.io/badge/作品-4472-38BDF8?style=flat-square)](https://hardware-hackathon-works.vercel.app/)
 [![Winners](https://img.shields.io/badge/获奖作品-1266-F59E0B?style=flat-square)](https://hardware-hackathon-works.vercel.app/)
 [![Events](https://img.shields.io/badge/赛事系列-37%20·%20277%20届-10B981?style=flat-square)](#-赛事覆盖)
-[![New](https://img.shields.io/badge/本周新增-首轮-EC4899?style=flat-square)](#-本周新增)
-[![Updated](https://img.shields.io/badge/自动更新-2026--11--27-6366F1?style=flat-square)](.github/workflows/update.yml)
+[![New](https://img.shields.io/badge/本周新增-1098-EC4899?style=flat-square)](#-本周新增)
+[![Updated](https://img.shields.io/badge/自动更新-2026--11--28-6366F1?style=flat-square)](.github/workflows/update.yml)
 
 ### 👉 [打开可视化作品库](https://hardware-hackathon-works.vercel.app/) · [RSS 订阅](https://hardware-hackathon-works.vercel.app/feed.xml) · [JSON 数据](data/projects.json)
 
@@ -42,11 +42,11 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 
 | 维度 | 分布 Top |
 | :-- | :-- |
-| **场景** Domain | 🩺健康医疗 572 · 🎮游戏娱乐 531 · 🌱环境可持续 520 · 🏠家居生活 438 · 🎓教育学习 393 · 🚲出行交通 351 |
-| **形态** Form factor | 📟桌面小装置 884 · ⌚可穿戴 414 · 🪑智能物件/家具 283 · ⚙️制造机器/机构 276 · 🥽XR/空间计算 225 · 🤖移动机器人 184 |
-| **交互** Interaction | 📡环境感知/自主 1079 · 👋视觉/手势 797 · 💡光与显示 682 · 🗣️语音对话 418 · 🎛️实体操控 231 · 🧠生理信号 161 |
-| **平台** Platform | ♾️Arduino 1927 · 🍓Raspberry Pi 780 · 📶ESP32/ESP8266 565 · 🔧其他 MCU 111 · 🟩NVIDIA Jetson 68 · 🛰️ROS 64 |
-| **智能** AI capability | 👁️计算机视觉 653 · ✨大模型/生成式 534 · 📈机器学习 428 · 🎙️语音 AI 218 · 🦿机器人学习 53 · 🔋端侧 ML 35 |
+| **场景** Domain | 🩺健康医疗 574 · 🎮游戏娱乐 531 · 🌱环境可持续 521 · 🏠家居生活 438 · 🎓教育学习 390 · 🚲出行交通 352 |
+| **形态** Form factor | 📟桌面小装置 876 · ⌚可穿戴 413 · 🪑智能物件/家具 284 · ⚙️制造机器/机构 272 · 🥽XR/空间计算 223 · 🤖移动机器人 185 |
+| **交互** Interaction | 📡环境感知/自主 1080 · 👋视觉/手势 794 · 💡光与显示 680 · 🗣️语音对话 417 · 🎛️实体操控 228 · 🧠生理信号 163 |
+| **平台** Platform | ♾️Arduino 1928 · 🍓Raspberry Pi 777 · 📶ESP32/ESP8266 566 · 🔧其他 MCU 111 · 🟩NVIDIA Jetson 68 · 🛰️ROS 65 |
+| **智能** AI capability | 👁️计算机视觉 653 · ✨大模型/生成式 533 · 📈机器学习 429 · 🎙️语音 AI 218 · 🦿机器人学习 53 · 🔋端侧 ML 36 |
 | **工艺** Fabrication | 🧱3D 打印 465 · 📐CAD 建模 395 · 🔦激光切割 234 · 🧵织物/手工 58 · 🟢PCB 设计 36 |
 
 ### 「有意思指数」怎么算？（0–100）
@@ -76,7 +76,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 
 ## 🗂️ 按场景浏览（每类 Top 5）
 
-<details><summary><b>🩺 健康医疗 · Health & Medical</b> — 572 件</summary>
+<details><summary><b>🩺 健康医疗 · Health & Medical</b> — 574 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
@@ -100,7 +100,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 
 </details>
 
-<details><summary><b>🌱 环境可持续 · Sustainability</b> — 520 件</summary>
+<details><summary><b>🌱 环境可持续 · Sustainability</b> — 521 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
@@ -112,7 +112,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 
 </details>
 
-<details><summary><b>🌾 农业食物 · Food & Agriculture</b> — 275 件</summary>
+<details><summary><b>🌾 农业食物 · Food & Agriculture</b> — 278 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
@@ -136,7 +136,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 
 </details>
 
-<details><summary><b>⏱️ 效率与自律 · Productivity & Habits</b> — 231 件</summary>
+<details><summary><b>⏱️ 效率与自律 · Productivity & Habits</b> — 230 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
@@ -148,7 +148,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 
 </details>
 
-<details><summary><b>🎓 教育学习 · Education</b> — 393 件</summary>
+<details><summary><b>🎓 教育学习 · Education</b> — 390 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
@@ -160,7 +160,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 
 </details>
 
-<details><summary><b>🛡️ 安全应急 · Safety & Security</b> — 284 件</summary>
+<details><summary><b>🛡️ 安全应急 · Safety & Security</b> — 285 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
@@ -172,7 +172,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 
 </details>
 
-<details><summary><b>🚲 出行交通 · Mobility & Transport</b> — 351 件</summary>
+<details><summary><b>🚲 出行交通 · Mobility & Transport</b> — 352 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
@@ -184,7 +184,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 
 </details>
 
-<details><summary><b>🎨 艺术音乐 · Art & Music</b> — 306 件</summary>
+<details><summary><b>🎨 艺术音乐 · Art & Music</b> — 304 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
@@ -208,7 +208,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 
 </details>
 
-<details><summary><b>💞 社交情感 · Social & Emotional</b> — 310 件</summary>
+<details><summary><b>💞 社交情感 · Social & Emotional</b> — 311 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
@@ -220,7 +220,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 
 </details>
 
-<details><summary><b>🛠️ 工具与制造 · Tools & Industry</b> — 320 件</summary>
+<details><summary><b>🛠️ 工具与制造 · Tools & Industry</b> — 316 件</summary>
 
 | 作品 | 一句话 | 赛事 | 标签 | 指数 |
 | :-- | :-- | :-- | :-- | --: |
@@ -238,7 +238,7 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 
 | 赛事 | 类型 | 地区 | 收录届数 | 作品 | 获奖 |
 | :-- | :-- | :-- | --: | --: | --: |
-| [Hackaday 大奖与主题赛](https://hackaday.io/prize) | 长周期大奖 | Global | 13 | 668 | 0 |
+| [Hackaday 大奖与主题赛](https://hackaday.io/prize) | 长周期大奖 | Global | 13 | 645 | 0 |
 | [MakeUofT](https://makeuoft.ca/) | 造物赛 | North America | 8 | 514 | 81 |
 | [MakeMIT](https://makemit.org/) | 造物赛 | North America | 9 | 285 | 91 |
 | [IDEA Hacks（UCLA）](https://ideahacks.la/) | 造物赛 | North America | 8 | 227 | 49 |
@@ -282,7 +282,21 @@ MakeMIT · Build18 · MakeUofT · Reality Hack · HARD MODE · TreeHacks · Hack
 
 ## 🆕 本周新增
 
-_首轮全量收录完成；之后每次更新会在这里列出最近 7 天新收录的高分作品。_
+- [NeuroPilot: Brainwave Computer Control](https://devpost.com/software/mindcontrolpc-control-computer-with-brainwaves) — Control your computer with just your mind. · TreeHacks 2025
+- [Braille Printer](https://devpost.com/software/braille-printer) — A quick, affordable method to print braille. · Hack Western 3
+- [Peak PerFARMance](https://devpost.com/software/peak-perfarmance) — Data-driven smart agriculture solution to support small-scale farmers. · Hack Western 7
+- [Speakeasy](https://devpost.com/software/speakeasy-5wl7z2) — Practice your speech in front of an audience and receive real time fe… · Reality Virtually Hackathon 2017 
+- [VIGIL: Assistive Eyewear with an Autonomous Aerial Scout](https://devpost.com/software/vigil-assistive-eeywear-with-an-autonomous-aerial-scout) — VIGIL reimagines assistive eyewear via an autonomous aerial scout, ex… · HackGT 13: Seaside Market
+- [SixthSense](https://devpost.com/software/sixthsense-xuw41r) — Transforming Vision into Touch! · HackPrinceton Spring 2025
+- [OpenReality](https://devpost.com/software/real-eyes-mra8n6) — OpenClaw in the real world! Generate and reason in a 3d map with just… · HackIllinois 2026
+- [Portable Braille](https://devpost.com/software/portable-braille-cdq8v5) — Educational device that encourages young visually impaired people to… · TreeHacks 2025
+- [OrchestrAI](https://devpost.com/software/orchestrai) — An improvisational AI that unleashes the creative power of an entire… · MHacks 8
+- [Pill-Drop](https://devpost.com/software/pill-drop-mrvltj) — Do you ever feel immense guilt and wonder why? Easy solution, you for… · DeltaHacks IX
+- [PetAlert](https://devpost.com/software/doggoalert) — Calling all pet owners: never get out of bed early in the morning aga… · Hack Western 9
+- [Smooth.io](https://devpost.com/software/smooth-io) — What's in your smoothie? With this Alexa-enabled smoothie making expe… · HackGT 6 Into the Rabbit Hole
+- [Dose](https://devpost.com/software/dose-ebmo9z) — Modern care in a bottle - IOT medication tracker + web dashboard · HackGT 12: Midnight at the Museum
+- [RIIS](https://devpost.com/software/riis) — Rapid Incident Intelligence System · LA Hacks 2026
+- [SurgeVue](https://devpost.com/software/surgikalai) — A multi-model solution specifically designed for professional surgeon… · PennApps XXV
 
 ---
 
@@ -311,4 +325,4 @@ flowchart LR
 | 改进分类 | 编辑 [`config/taxonomy.toml`](config/taxonomy.toml) 后 `--reclassify` 看效果 |
 | 让 AI Agent 接力维护 | 把 [`AGENTS.md`](AGENTS.md) 发给它 |
 
-<div align="center"><sub>本页面由 <code>pipeline/render.py</code> 自动生成 · 最后更新 2026-11-27 · 作品版权归各自作者所有，本仓库仅做索引</sub></div>
+<div align="center"><sub>本页面由 <code>pipeline/render.py</code> 自动生成 · 最后更新 2026-11-28 · 作品版权归各自作者所有，本仓库仅做索引</sub></div>
